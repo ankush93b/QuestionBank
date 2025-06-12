@@ -239,7 +239,7 @@
     function goToPage() {
       const subject = document.querySelector('#subjectDropdown .dropdown-toggle').textContent.toLowerCase().replace(/\s+/g, '');
       const topic = document.querySelector('#topicDropdown .dropdown-toggle').textContent.toLowerCase().replace(/\s+/g, '');
-      const url = `/${subject}/${topic}.html`;
+      const url = `${subject}/${topic}.html`;
       window.location.href = url;
     }
 
