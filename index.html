@@ -648,7 +648,7 @@
     const file = `${cleanTopic}_inst.html`;
 
     // Pass subject and topic as URL parameters!
-    window.location.href = `${subject}/${file}?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(topic)}`;
+    window.location.href = `${subject.toLowerCase()}/${file.toLowerCase()}?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(topic)}`;
   }
     function closeAllMenus() {
       document.querySelectorAll('.dropdown-menu').forEach(menu => {
