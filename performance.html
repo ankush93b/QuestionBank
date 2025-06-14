@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <title>Performance Overview</title>
+    <link rel="icon" href="../images/favicon_performance.ico" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- Firebase SDKs -->
     <script src="https://www.gstatic.com/firebasejs/10.11.1/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.11.1/firebase-auth-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.11.1/firebase-firestore-compat.js"></script>
-    
     <style>
+        /* ... your existing CSS ... */
         body {
             font-family: "Segoe UI", Arial, sans-serif;
             background: #f3f6fa;
@@ -73,7 +73,7 @@
         }
         .dropdown {
             position: relative;
-            width: 180px;
+            width: 300px;
             margin-top: 10px;
         }
         .dropdown-label {
@@ -268,17 +268,10 @@
     <div id="pastPerformanceSection" style="display:none;"></div>
     <div class="container">
         <!-- Subject Dropdown -->
-        <div class="dropdown" id="subjectDropdown">
+        <div class="dropdown disabled" id="subjectDropdown">
             <label class="dropdown-label">Select Subject</label>
             <div class="dropdown-toggle" onclick="toggleMenu('subject')">Select Subject</div>
-            <div class="dropdown-menu" id="subjectMenu">
-                <div onclick="selectOption('subject', 'Math')">Math</div>
-                <div onclick="selectOption('subject', 'Science')">Science</div>
-                <div onclick="selectOption('subject', 'History')">History</div>
-                <div onclick="selectOption('subject', 'English')">English</div>
-                <div onclick="selectOption('subject', 'Hindi')">Hindi</div>
-                <div onclick="selectOption('subject', 'Punjabi')">Punjabi</div>
-            </div>
+            <div class="dropdown-menu" id="subjectMenu"></div>
         </div>
         <!-- Topic Dropdown -->
         <div class="dropdown disabled" id="topicDropdown">
@@ -293,19 +286,16 @@
     <!-- Reload & Home Buttons -->
     <div class="home-btn-wrapper">
         <button class="reload-btn" onclick="reloadPage()" title="Reload Page">
-            <!-- Simple Reload SVG icon -->
             <svg viewBox="0 0 24 24" fill="none">
                 <path d="M12 4V1L7 6l5 5V7c3.31 0 6 2.69 6 6a6 6 0 1 1-12 0" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
         </button>
         <button class="home-btn" onclick="goHome()" title="Go to Home">
-            <!-- Simple Home SVG icon -->
             <svg viewBox="0 0 24 24" fill="none">
                 <path d="M3 10.8L12 4L21 10.8V19.2C21 19.6418 20.6418 20 20.2 20H16V14.4C16 14.1791 15.8209 14 15.6 14H8.4C8.17909 14 8 14.1791 8 14.4V20H3.8C3.35817 20 3 19.6418 3 19.2V10.8Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
         </button>
     </div>
-
     <script>
         // FIREBASE INIT
         const firebaseConfig = {
@@ -317,16 +307,50 @@
         const auth = firebase.auth();
         const db = firebase.firestore();
 
-        // Topic map (for dropdowns)
-        const topicMap = {
-            Math: ["Squares upto 10", "Algebra", "Geometry", "Trigonometry", "Calculus", "Probability"],
-            Science: ["Physics", "Chemistry", "Biology", "Astronomy", "Geology"],
-            History: ["Ancient", "Medieval", "Modern", "World Wars"],
-            English: ["Grammar", "Literature", "Writing Skills", "Comprehension"],
-            Hindi: ["व्याकरण", "साहित्य", "कविता", "कहानी"],
-            Punjabi: ["ਵਿਆਕਰਨ", "ਸਾਹਿਤ", "ਕਵਿਤਾ", "ਕਹਾਣੀ"]
-        };
+        // --- SUBJECTS & TOPICS FETCH FROM index.html ---
+        let subjectTopics = {};
+        let subjectsList = [];
+        let subjectsLoaded = false;
 
+        async function fetchSubjectsAndTopics() {
+            try {
+                // Disable subject/topic dropdowns and show loader until loaded
+                document.getElementById('subjectDropdown').classList.add('disabled');
+                document.getElementById('topicDropdown').classList.add('disabled');
+                document.getElementById('showButton').disabled = true;
+
+                // cacheBust to avoid old index.html
+                const resp = await fetch('index.html?cacheBust=' + Date.now());
+                const html = await resp.text();
+
+                // Use regex to extract the subjectTopics JS object from index.html
+                const subjectTopicsMatch = html.match(/const\s+subjectTopics\s*=\s*(\{[\s\S]*?\});/);
+                if (subjectTopicsMatch) {
+                    subjectTopics = eval('(' + subjectTopicsMatch[1] + ')');
+                } else {
+                    subjectTopics = {};
+                }
+
+                subjectsList = Object.keys(subjectTopics);
+                const subjectMenu = document.getElementById('subjectMenu');
+                subjectMenu.innerHTML = '';
+                subjectsList.forEach(sub => {
+                    const div = document.createElement('div');
+                    div.textContent = sub;
+                    div.onclick = () => selectOption('subject', sub);
+                    subjectMenu.appendChild(div);
+                });
+
+                // Enable subject dropdown now
+                document.getElementById('subjectDropdown').classList.remove('disabled');
+                subjectsLoaded = true;
+            } catch (e) {
+                alert("Failed to load subjects from index.html");
+                subjectsLoaded = false;
+            }
+        }
+
+        // --- DROPDOWN LOGIC (dynamic) ---
         let selectedSubject = null;
         let selectedTopic = null;
 
@@ -342,6 +366,7 @@
         });
 
         function toggleMenu(type) {
+            if (!subjectsLoaded) return; // <-- prevent opening before loaded
             if (type === 'topic' && document.getElementById('topicDropdown').classList.contains('disabled')) return;
             const menu = document.getElementById(type + 'Menu');
             const isOpen = menu.style.display === 'block';
@@ -355,12 +380,12 @@
                 selectedTopic = null;
                 document.querySelector('#subjectDropdown .dropdown-toggle').textContent = value;
 
-                // Populate topics
+                // Populate topics from subjectTopics
                 const topicDropdown = document.getElementById('topicDropdown');
                 const topicMenu = document.getElementById('topicMenu');
                 topicMenu.innerHTML = '';
-                if (topicMap[value]) {
-                    topicMap[value].forEach(topic => {
+                if (subjectTopics[value] && subjectTopics[value].length) {
+                    subjectTopics[value].forEach(topic => {
                         const div = document.createElement('div');
                         div.textContent = topic;
                         div.onclick = () => selectOption('topic', topic);
@@ -372,7 +397,7 @@
                     topicDropdown.classList.add('disabled');
                     document.querySelector('#topicDropdown .dropdown-toggle').textContent = 'Select Topic';
                 }
-                document.getElementById('showButton').disabled = false; // Enable for subject only
+                document.getElementById('showButton').disabled = false;
                 // Hide past performance section on subject change
                 document.getElementById('pastPerformanceSection').style.display = 'none';
             } else if (type === 'topic') {
@@ -396,13 +421,11 @@
         // Loader while authenticating/fetching
         document.getElementById('performanceCircles').innerHTML = `<div class="loader"></div>`;
 
-        // FIREBASE PERFORMANCE FETCH AND AGGREGATION
+        // --- FIREBASE PERFORMANCE FETCH AND AGGREGATION ---
         async function fetchAndShowPerformance(uid) {
-            // Loader
             document.getElementById('performanceLabel').innerHTML = "Loading your performance...";
             document.getElementById('performanceCircles').innerHTML = `<div class="loader"></div>`;
 
-            // Fetch all results for this user (latest first)
             let resultsSnap;
             try {
                 resultsSnap = await db.collection("users").doc(uid).collection("results").orderBy("timestamp", "desc").get();
@@ -422,7 +445,6 @@
                 totalAvgResponseTime: 0,
                 totalEfficiency: 0
             };
-            // Subject/topic grouping
             const subjectStats = {};
             const topicStats = {};
             const topicHistory = {};
@@ -494,7 +516,6 @@
                     : "--";
             });
 
-            // Now, replace your demo data with these live objects
             window.performanceData = {
                 overall,
                 ...subjectStats,
@@ -502,74 +523,88 @@
             };
             window.pastPerformanceHistory = topicHistory;
 
-            // Initial render
             document.getElementById('performanceLabel').innerHTML = getLabelText();
             updateCircles('overall');
         }
 
-        // UI rendering functions (same as before)
-        function updateCircles(dataKey) {
-            const perfSection = document.getElementById('performanceSection');
-            const labelDiv = document.getElementById('performanceLabel');
-            labelDiv.innerHTML = getLabelText();
-            perfSection.classList.remove('loading');
-            document.getElementById('performanceCircles').innerHTML = `<div class="loader"></div>`;
+        function updateCircles(dataKey, emptyMsg) {
+        const perfSection = document.getElementById('performanceSection');
+        const labelDiv = document.getElementById('performanceLabel');
+        labelDiv.innerHTML = getLabelText();
+        perfSection.classList.remove('loading');
+        document.getElementById('performanceCircles').innerHTML = `<div class="loader"></div>`;
 
-            setTimeout(() => {
-                const data = (window.performanceData && window.performanceData[dataKey]) ? window.performanceData[dataKey] : (window.performanceData ? window.performanceData['overall'] : null);
-                if (!data) {
-                    document.getElementById('performanceCircles').innerHTML = `<div style="padding:20px;text-align:center;color:#888;">No data available.</div>`;
-                    return;
-                }
+        setTimeout(() => {
+            let data = (window.performanceData && window.performanceData[dataKey]) ? window.performanceData[dataKey] : null;
+            if (!data) {
                 document.getElementById('performanceCircles').innerHTML = `
-                    <div class="circle-stat">
-                        <div class="circle-value" id="totalTestAttempts">${data.totalTestAttempts || 0}</div>
-                        <div class="circle-label">Total Test Attempts</div>
+                    <div style="padding:20px;text-align:center;color:#888;">
+                        ${emptyMsg || "No data available."}
                     </div>
-                    <div class="circle-stat">
-                        <div class="circle-value" id="totalQuestionAttempts">${data.totalQuestionAttempts || 0}</div>
-                        <div class="circle-label">Total Question Attempts</div>
-                    </div>
-                    <div class="circle-stat">
-                        <div class="circle-value" id="totalCorrect">${data.totalCorrect || 0}</div>
-                        <div class="circle-label">Total Correct</div>
-                    </div>
-                    <div class="circle-stat">
-                        <div class="circle-value" id="totalWrong">${data.totalWrong || 0}</div>
-                        <div class="circle-label">Total Wrong</div>
-                    </div>
-                    <div class="circle-stat">
-                        <div class="circle-value" id="efficiency">${data.efficiency || "0%"}</div>
-                        <div class="circle-label">Efficiency</div>
-                    </div>
-                    <div class="circle-stat">
-                        <div class="circle-value" id="avgResponseTime">${data.avgResponseTime || "--"}</div>
-                        <div class="circle-label">Avg. Response Time</div>
+                    <div class="performance-container" style="justify-content:center;">
+                        <div class="circle-stat"><div class="circle-value">0</div><div class="circle-label">Total Test Attempts</div></div>
+                        <div class="circle-stat"><div class="circle-value">0</div><div class="circle-label">Total Question Attempts</div></div>
+                        <div class="circle-stat"><div class="circle-value">0</div><div class="circle-label">Total Correct</div></div>
+                        <div class="circle-stat"><div class="circle-value">0</div><div class="circle-label">Total Wrong</div></div>
+                        <div class="circle-stat"><div class="circle-value">0%</div><div class="circle-label">Efficiency</div></div>
+                        <div class="circle-stat"><div class="circle-value">--</div><div class="circle-label">Avg. Response Time</div></div>
                     </div>
                 `;
-            }, 400); // Simulate fetch delay
-        }
+                return;
+            }
+            document.getElementById('performanceCircles').innerHTML = `
+                <div class="circle-stat">
+                    <div class="circle-value" id="totalTestAttempts">${data.totalTestAttempts || 0}</div>
+                    <div class="circle-label">Total Test Attempts</div>
+                </div>
+                <div class="circle-stat">
+                    <div class="circle-value" id="totalQuestionAttempts">${data.totalQuestionAttempts || 0}</div>
+                    <div class="circle-label">Total Question Attempts</div>
+                </div>
+                <div class="circle-stat">
+                    <div class="circle-value" id="totalCorrect">${data.totalCorrect || 0}</div>
+                    <div class="circle-label">Total Correct</div>
+                </div>
+                <div class="circle-stat">
+                    <div class="circle-value" id="totalWrong">${data.totalWrong || 0}</div>
+                    <div class="circle-label">Total Wrong</div>
+                </div>
+                <div class="circle-stat">
+                    <div class="circle-value" id="efficiency">${data.efficiency || "0%"}</div>
+                    <div class="circle-label">Efficiency</div>
+                </div>
+                <div class="circle-stat">
+                    <div class="circle-value" id="avgResponseTime">${data.avgResponseTime || "--"}</div>
+                    <div class="circle-label">Avg. Response Time</div>
+                </div>
+            `;
+        }, 400);
+    }
 
         function showPerformance() {
-            const pastSection = document.getElementById('pastPerformanceSection');
-            if (selectedSubject && selectedTopic) {
-                // Show topic-specific data if exists, else fallback to subject
-                const topicKey = `${selectedSubject}_${selectedTopic}`;
-                updateCircles(window.performanceData && window.performanceData[topicKey] ? topicKey : selectedSubject);
-                // Show past performance for this topic
+        const pastSection = document.getElementById('pastPerformanceSection');
+        if (selectedSubject && selectedTopic) {
+            const topicKey = `${selectedSubject}_${selectedTopic}`;
+            // do NOT fallback to subject if topicKey has no data
+            if (window.performanceData && window.performanceData[topicKey]) {
+                updateCircles(topicKey);
                 setTimeout(() => {
                     renderPastPerformanceSection(topicKey);
                 }, 500);
             } else {
-                // Hide past performance if not topic selected
+                // Show empty stats and message
+                updateCircles(null, `No data available for <b>${selectedSubject} - ${selectedTopic}</b>.`);
                 pastSection.style.display = 'none';
-                if (selectedSubject) {
-                    updateCircles(selectedSubject);
-                } else {
-                    updateCircles('overall');
-                }
+            }
+        } else {
+            pastSection.style.display = 'none';
+            if (selectedSubject) {
+                updateCircles(selectedSubject);
+            } else {
+                updateCircles('overall');
             }
         }
+    }
 
         function renderPastPerformanceSection(topicKey) {
             const pastSection = document.getElementById('pastPerformanceSection');
@@ -622,27 +657,24 @@
             pastSection.style.display = '';
         }
 
-        // Home button logic
-        function goHome() {
-            window.location.href = "index.html";
-        }
+        function goHome() { window.location.href = "index.html"; }
+        function reloadPage() { window.location.reload(); }
 
-        // Reload button logic
-        function reloadPage() {
-            window.location.reload();
-        }
-
-        // Initial loader and Firebase Auth check
         document.getElementById('performanceLabel').innerHTML = "Loading your performance...";
 
-        // Wait for Firebase Auth, then fetch and show stats
+        // On Firebase Auth, fetch stats and subjects/topics
         auth.onAuthStateChanged(user => {
             if (user) {
-                fetchAndShowPerformance(user.uid);
+                fetchSubjectsAndTopics().then(() => {
+                    fetchAndShowPerformance(user.uid);
+                });
             } else {
                 document.body.innerHTML = "<h2 style='margin:40px;text-align:center;'>Please sign in to view your performance.</h2>";
             }
         });
+
+        // On-load: fetch subjects/topics even before auth, so dropdowns are filled
+        fetchSubjectsAndTopics();
     </script>
 </body>
 </html>

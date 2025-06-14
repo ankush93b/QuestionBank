@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Question Bank</title>
-  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="../images/favicon.ico" type="image/x-icon">
   <style>
     body {
       font-family: 'Inter', Arial, sans-serif;
@@ -456,6 +456,7 @@
         font-size: 16px;
       }
     }
+    
   </style>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
   <script src="https://www.gstatic.com/firebasejs/10.11.1/firebase-app-compat.js"></script>
@@ -512,12 +513,12 @@
       <label class="dropdown-label">Select Subject</label>
       <div class="dropdown-toggle" onclick="toggleMenu('subject')">Select Subject</div>
       <div class="dropdown-menu" id="subjectMenu">
-        <div onclick="selectOption('subject', 'Math')">Math</div>
-        <div onclick="selectOption('subject', 'Science')">Science</div>
-        <div onclick="selectOption('subject', 'History')">History</div>
+        <div onclick="selectOption('subject', 'Banking Awareness')">Banking Awareness</div>
+        <div onclick="selectOption('subject', 'Current Affairs')">Current Affairs</div>
         <div onclick="selectOption('subject', 'English')">English</div>
-        <div onclick="selectOption('subject', 'Hindi')">Hindi</div>
-        <div onclick="selectOption('subject', 'Punjabi')">Punjabi</div>
+        <div onclick="selectOption('subject', 'General Awareness')">General Awareness</div>
+        <div onclick="selectOption('subject', 'Quantitative Aptitude')">Quantitative Aptitude</div>
+        <div onclick="selectOption('subject', 'Reasoning Ability')">Reasoning Ability</div>        
       </div>
     </div>
     <!-- Topic Dropdown -->
@@ -583,12 +584,12 @@
 
     // ---- DROPDOWN LOGIC ----
     const subjectTopics = {
-      Math: ['Squares upto 10','Squares upto 20', 'Squares upto 30', 'Squares upto 40','Tables upto 10','Tables upto 20','Tables upto 30','Tables upto 40'],
-      Science: ['Physics', 'Chemistry', 'Biology'],
-      History: ['World War I', 'World War II', 'Renaissance'],
-      English: ['Grammar', 'Literature'],
-      Hindi: ['Grammar', 'Poetry'],
-      Punjabi: ['Grammar', 'Poetry']
+      "Quantitative Aptitude": ['Squares upto 10','Squares upto 10 Mix','Squares upto 20', 'Squares upto 30', 'Squares upto 40','Tables upto 10','Tables upto 20','Tables upto 30','Tables upto 40'],
+      "General Awareness": ['Rivers', 'Books', 'Indian States and Capitals','National Parks in India'],
+      "English": ['One Word Substitution',''],
+      "Banking Awareness": ['Banking Terminology', 'Full Forms'],
+      "Current Affairs": ['May 2025','April 2025'],
+      "Reasoning Ability": ['Alphabet Positions', 'Alphabet Positions Mix']
     };
 
     function toggleMenu(type) {
@@ -630,8 +631,25 @@
       }
     }
     function goToPage() {
-      window.location.href="math/squaresupto10_inst.html";
+    const subject = document.querySelector('#subjectDropdown .dropdown-toggle').textContent;
+    const topic = document.querySelector('#topicDropdown .dropdown-toggle').textContent;
+
+    // Check if both are selected
+    if(subject === "Select Subject" || topic === "Select Topic") {
+      alert("Please select both subject and topic.");
+      return;
     }
+
+    // If your filenames keep spaces and cases, use this:
+    // const file = `${topic}_inst.html`;
+
+    // If your filenames are lowercased, no spaces, use this:
+    const cleanTopic = topic.replace(/\s+/g, '').replace(/[^\w]/g, '');
+    const file = `${cleanTopic}_inst.html`;
+
+    // Pass subject and topic as URL parameters!
+    window.location.href = `${subject}/${file}?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(topic)}`;
+  }
     function closeAllMenus() {
       document.querySelectorAll('.dropdown-menu').forEach(menu => {
         menu.style.display = 'none';
