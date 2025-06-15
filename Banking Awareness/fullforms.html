@@ -434,7 +434,7 @@
             max-width: 85vw;
              
             background: #fff; 
-            margin: 120px auto; 
+            margin: 40px auto; 
             border-radius: 10px; 
             box-shadow: 0 2px 8px rgba(0,0,0,0.1); 
             padding: 32px 24px 24px 24px; 
@@ -851,12 +851,16 @@
             window.location.href = base + '_inst.html';
         };
         document.getElementById('repracticeBtn').onclick = function() {
-            // Get current file name
-            let current = window.location.pathname.split('/').pop();
-            // Remove extension and _inst if exists, then add .html
-            let base = current.replace('.html', '').replace('_inst', '');
-            window.location.href = base + '.html?timed=' + (isTimed ? 'true' : 'false');
-        };
+        let current = window.location.pathname.split('/').pop();
+        let base = current.replace('.html', '').replace('_inst', '');
+        // Get subject and topic from current params
+        const params = new URLSearchParams(window.location.search);
+        const subject = params.get('subject');
+        const topic = params.get('topic');
+        // Build new search params, always include subject and topic
+        let newParams = `?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(topic)}&timed=${isTimed ? 'true' : 'false'}`;
+        window.location.href = base + '.html' + newParams;
+    };
         document.getElementById('homeBtn').onclick = function() {
             window.location.href = '../index.html';
         };

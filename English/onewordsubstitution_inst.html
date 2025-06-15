@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>English - One Word Substitution</title>
     <link rel="icon" href="../images/favicon_english.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -138,24 +139,148 @@
             background: linear-gradient(90deg, #cf142b 40%, #00247d 100%);
             border: 2px solid #cf142b;
         }
-        @media (max-width: 991px) {
-            .container {
-                max-width: 98vw;
-                min-width: 0;
-                padding: 28px 6vw;
-            }
-            .options {
-                flex-direction: column;
-                gap: 18px;
-                align-items: flex-start;
-            }
-            .start-btn {
-                width: 100%;
-            }
-            .home-icon {
-                left: 10px;
-                top: 12px;
-            }
+        @media (max-width: 768px)
+        {
+            html, body {
+            width: 100%;
+            min-height: 100vh;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            background: linear-gradient(135deg, #00247d 0 40%, #ffffff 40% 60%, #cf142b 60% 100%);
+        }
+        .uk-flag-bg {
+            position: fixed;
+            z-index: 0;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            pointer-events: none;
+            overflow: hidden;
+        }
+        .uk-flag-bg svg {
+            width: 100vw;
+            height: 100vh;
+            display: block;
+        }
+        .container {
+            width: 79vw;
+            max-width: 460px;
+            min-width: unset;
+            background: rgba(255,255,255,0.98);
+            margin: 40px auto;
+            border-radius: 12px;
+            box-shadow: 0 4px 24px rgba(0,0,0,0.09);
+            padding: 24px 8vw 24px 8vw;
+            position: relative;
+            z-index: 2;
+            border: 3px solid #00247d;
+        }
+        .home-icon {
+        position: static !important; /* remove absolute positioning */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto 10px auto;    /* center it above the heading with some space */
+        left: unset !important;
+        top: unset !important;
+    }
+        .home-icon:hover {
+            color: #cf142b;
+        }
+        .home-icon svg {
+            width: 28px;
+            height: 28px;
+            vertical-align: middle;
+        }
+        h1 {
+            margin-top: 5px;
+            color: #cf142b;
+            text-align: center;
+            font-size: 2em;
+            letter-spacing: 1px;
+            text-decoration: underline  #00247d 3px;
+            text-underline-offset: 6px;
+        }
+        h2 {
+            color: #00247d;
+            font-size: 1.1em;
+            margin-bottom: 22px;
+            text-align: center;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+        }
+        .instructions {
+            background: linear-gradient(90deg, #e6eaf7 80%, #cf142b18 100%);
+            border-left: 6px solid #00247d;
+            padding: 16px 12px;
+            border-radius: 7px;
+            margin-bottom: 0px;
+            font-size: 0.93em;
+            line-height: 1.5em;
+        }
+        .instructions ul {
+            margin: 0;
+            padding-left: 18px;
+            padding-top: 2px;
+        }
+        .options {
+            margin-top: 10px;
+            margin-bottom: 24px;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 6px;
+            justify-content: left;
+        }
+        .option-line {
+            display: flex;
+            align-items: center;
+            font-size: 0.97em;
+        }
+        .option-line input[type="checkbox"] {
+            margin-right: 10px;
+            accent-color: #cf142b;
+            width: 15px;
+            height: 15px;
+        }
+        .option-line input[type="checkbox"]:disabled + label {
+            color: #b0b0b0;
+            cursor: not-allowed;
+        }
+        .start-btn {
+            display: block;
+            width: 85vw;
+            max-width: 320px;
+            padding: 16px 0;
+            background: linear-gradient(90deg, #00247d 60%, #cf142b 100%);
+            color: #fff;
+            font-size: 1.12em;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+            margin: 0 auto;
+            transition: background 0.2s;
+            box-shadow: 0 2px 8px rgba(70,70,120,0.09);
+            border: 2px solid #00247d;
+        }
+        .start-btn:disabled {
+            background: #b0b0b0;
+            cursor: not-allowed;
+            border: 2px solid #b0b0b0;
+        }
+        .start-btn:hover:not(:disabled) {
+            background: linear-gradient(90deg, #cf142b 40%, #00247d 100%);
+            border: 2px solid #cf142b;
+        }
         }
     </style>
 </head>

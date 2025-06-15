@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Current Affairs - May 2025</title>
     <link rel="icon" href="../images/favicon_current.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
             font-family: 'Roboto', 'Segoe UI', Arial, sans-serif;
@@ -141,24 +142,76 @@
         .start-btn:hover:not(:disabled) {
             background: linear-gradient(90deg, #ffd166 70%, #1d3557 100%);
         }
-        @media (max-width: 650px) {
+        @media (max-width: 700px) {
             .main-card {
-                max-width: 99vw;
-                padding: 17vw 4vw 9vw 4vw;
+                max-width: 98vw;
+                margin: 30px 1vw 0 1vw;
+                padding: 24px 6vw 22px 6vw;
+                border-radius: 12px;
             }
             .top-bar {
-                font-size: 1.16em;
-                padding: 11vw 0 7vw 0;
+                font-size: 2em;
+                padding: 13px 0 13px 0;
             }
-            .home-icon svg {
-                width: 26px;
-                height: 26px;
+            .month-tag {
+                font-size: 0.98em;
+                padding: 3px 12px;
+                border-radius: 11px;
             }
-            .home-icon {
-                margin-right: 7px;
+            .news-highlight {
+                font-size: 0.98em;
+                padding: 10px 12px;
+            }
+            .instructions {
+                font-size: 0.99em;
+                padding: 13px 8vw 9px 8vw;
             }
             .start-btn {
                 width: 100%;
+                min-width: 110px;
+                max-width: 350px;
+                font-size: 1em;
+                padding: 12px 0;
+            }
+            .home-icon svg {
+                width: 25px;
+                height: 25px;
+            }
+        }
+        @media (max-width: 430px) {
+            .main-card {
+                max-width: 99vw;
+                margin: 10px 0 0 0;
+                padding: 12px 2vw 11px 2vw;
+                border-radius: 9px;
+            }
+            .top-bar {
+                font-size: 1em;
+                padding: 8px 0 8px 0;
+            }
+            .month-tag {
+                font-size: 0.9em;
+                padding: 2px 8px;
+                border-radius: 8px;
+            }
+            .news-highlight {
+                font-size: 0.91em;
+                padding: 7px 6px;
+            }
+            .instructions {
+                font-size: 0.97em;
+                padding: 8px 4vw 7px 4vw;
+            }
+            .start-btn {
+                width: 100%;
+                min-width: 80px;
+                max-width: 210px;
+                font-size: 0.98em;
+                padding: 10px 0;
+            }
+            .home-icon svg {
+                width: 19px;
+                height: 19px;
             }
         }
     </style>
@@ -229,7 +282,7 @@
                 // Remove _inst just before .html
                 let newName = current.replace('_inst.html', '.html');
                 // Pass subject and topic from the URL (no hardcode!)
-        window.location.href = `${newName}?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(topic)}&timed=${timed}`;
+                window.location.href = `${newName}?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(topic)}&timed=${timed}`;
             }
         });
     </script>

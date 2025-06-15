@@ -459,82 +459,8 @@
         }
         .modal-ans.right { color: #19b519; }
         .modal-ans.wrong { color: #e63946; }
-        @media (max-width: 900px) {
-            .container {
-                max-width: 99vw;
-                margin: 10px 1vw;
-                padding: 22px 6vw 14px 6vw;
-            }
-            .summary-center-col { width: 100%; }
-            .efficiency-right-box {
-                flex-direction: column;
-                justify-content: center;
-                align-items: center;
-                min-width: 0;
-                margin-left: 0;
-                margin-top: 16px;
-            }
-            .efficiency-label { margin-bottom: 2px; }
-            .efficiency-circle { width: 80px; height: 80px; }
-            .efficiency-text { width: 80px; height: 80px; font-size: 1.1em; }
-            .fastest-response-block { width: 80px; }
-            .fastest-response-label { font-size: 0.7em; }
-            .fastest-response-value { font-size: 0.85em; }
-            .button-row { gap: 10px; }
-            .action-btn { min-width: 70px; font-size: 0.95em; padding: 10px 10px; }
-            .timer-wrapper { right: 10px; top: 10px; }
-            .question { margin-top: 40px; }
-        }
-        @media (max-width: 600px) {
-            .container {
-                padding: 12px 2vw 7vw 2vw;
-                margin: 0;
-                border-radius: 0;
-                box-shadow: none;
-            }
-            .save-msg {
-                font-size: 0.93em;
-                padding: 7px 5vw;
-                max-width: 99vw;
-            }
-            .timer-wrapper {
-                position: static;
-                margin-bottom: 12px;
-                width: 100%;
-                justify-content: flex-end;
-            }
-            .question {
-                font-size: 1em;
-                margin-top: 24px;
-            }
-            .options { gap: 10px; }
-            .option-btn {
-                font-size: 0.98em;
-                padding-left: 12px;
-                padding-top: 10px;
-                padding-bottom: 10px;
-            }
-            .submit-btn {
-                width: 95%;
-                min-width: unset;
-                font-size: 1em;
-                padding: 12px 0;
-            }
-            .summary-main-heading { font-size: 1.15em; }
-            .summary-table td, .label-cell { font-size: 0.96em; min-width: 110px; }
-            .summary-details { min-width: unset; width: 100%; }
-            .efficiency-circle { width: 60px; height: 60px; }
-            .efficiency-text { width: 60px; height: 60px; font-size: 1em; }
-            .fastest-response-block { width: 60px; }
-            .fastest-response-label { font-size: 0.67em; }
-            .fastest-response-value { font-size: 0.72em; }
-            .action-btn { min-width: 55px; font-size: 0.82em; padding: 8px 8px; }
-            .modal-content { min-width: 0; padding: 14px 4vw 12px 4vw; }
-        }
-        @media (max-width: 400px) {
-            .summary-details { min-width: unset; width: 98vw; }
-            .modal-content { min-width: 0; }
-        }
+        
+        
     </style>
 </head>
 <body>
@@ -942,12 +868,16 @@
             window.location.href = base + '_inst.html';
         };
         document.getElementById('repracticeBtn').onclick = function() {
-            // Get current file name
-            let current = window.location.pathname.split('/').pop();
-            // Remove extension and _inst if exists, then add .html
-            let base = current.replace('.html', '').replace('_inst', '');
-            window.location.href = base + '.html?timed=' + (isTimed ? 'true' : 'false');
-        };
+        let current = window.location.pathname.split('/').pop();
+        let base = current.replace('.html', '').replace('_inst', '');
+        // Get subject and topic from current params
+        const params = new URLSearchParams(window.location.search);
+        const subject = params.get('subject');
+        const topic = params.get('topic');
+        // Build new search params, always include subject and topic
+        let newParams = `?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(topic)}&timed=${isTimed ? 'true' : 'false'}`;
+        window.location.href = base + '.html' + newParams;
+    };
         document.getElementById('homeBtn').onclick = function() {
             window.location.href = '../index.html';
         };
