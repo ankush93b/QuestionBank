@@ -1,0 +1,90 @@
+<html>
+    <head></head>
+    <body>
+        <!--FOR ADDING IMAGE AFTER QUESTION-->
+        <!--1.chnage div as-->
+        <div class="question" id="question"></div>
+            <div class="question-image-wrapper" id="questionImageWrapper" style="display:none;">
+                <img id="questionImage" class="question-image" src="" alt="Question image">
+            </div>
+        <!--2.css-->
+        .question-image-wrapper {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 22px;
+        }
+        .question-image {
+            max-width: 50px;
+            display: block;
+            margin: 0 auto;
+            user-drag: none;
+            -webkit-user-drag: none;
+            user-select: none;
+            pointer-events: none;
+            <!--3.script. add in loadQuestion()-->
+            // Handle question image (additions below!)
+            const imageWrapper = document.getElementById('questionImageWrapper');
+            const imageEl = document.getElementById('questionImage');
+            if (q.image) {
+                imageEl.src = q.image;
+                imageEl.style.display = '';
+                imageWrapper.style.display = 'flex';
+            } else {
+                imageEl.src = '';
+                imageWrapper.style.display = 'none';
+            }
+            <!--4.del showModel(), place new showModel() at script starting.-->
+                        function showModal(type) {
+                const backdrop = document.getElementById('modalBackdrop');
+                const titleDiv = document.getElementById('modalTitle');
+                const listOl = document.getElementById('modalList');
+                let filtered = answersLog.filter(a => (type === "right" ? a.isCorrect : !a.isCorrect));
+                titleDiv.textContent = type === "right" ? "Correct Answers" : "Wrong Answers";
+                listOl.innerHTML = "";
+                if (filtered.length === 0) {
+                    listOl.innerHTML = `<li>No ${type} answers.</li>`;
+                } else {
+                    filtered.forEach((item, idx) => {
+                        let optionsHtml = "";
+                        (item.options || []).forEach((opt, i) => {
+                            let mark = "";
+                            if (opt === item.correct && opt === item.chosen) {
+                                mark = `<span class="modal-ans right">(Your Ans, Correct)</span>`;
+                            } else if (opt === item.chosen && opt !== item.correct) {
+                                mark = `<span class="modal-ans wrong">(Your Ans)</span>`;
+                            } else if (opt === item.correct) {
+                                mark = `<span class="modal-ans right">(Correct)</span>`;
+                            }
+                            optionsHtml += `<li>${opt} ${mark}</li>`;
+                        });
+
+                        // Find the question object to get the image
+                        let qObj = questions[item.questionIdx];
+                        let imageHtml = "";
+                        if (qObj && qObj.image) {
+                            imageHtml = `
+                                <div class="question-image-wrapper" style="margin-bottom: 10px; display: flex; justify-content: center;">
+                                    <img class="question-image" src="${qObj.image}" alt="Question image" style="max-width: 50px; display: block;">
+                                </div>
+                            `;
+                        }
+
+                        listOl.innerHTML += `
+                            <li>
+                                ${imageHtml}
+                                <span class="modal-question">Q${idx+1}. ${item.question}</span>
+                                <ul class="modal-options">${optionsHtml}</ul>
+                            </li>
+                        `;
+                    });
+                }
+                backdrop.classList.add("active");
+            }
+            window.showModal = showModal;
+            <!--5.add this as second line in answersLog.push-->
+            questionIdx: qIdx,
+
+    </body>
+</html>
