@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-922KV2R360"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-922KV2R360');
+</script>
+
     <meta charset="UTF-8">
     <title>Reasoning - Number Series</title>
     <link rel="icon" href="../images/favicon_reason.ico" type="image/x-icon">
@@ -780,7 +791,7 @@
                 time
             });
         }
-        // Modal logic
+        // Modal logic - ENHANCED to show desc if present
         function showModal(type) {
             const backdrop = document.getElementById('modalBackdrop');
             const titleDiv = document.getElementById('modalTitle');
@@ -804,10 +815,21 @@
                         }
                         optionsHtml += `<li>${opt} ${mark}</li>`;
                     });
+
+                    // Find the question object to get desc
+                    let questionObj = questions.find(qobj => qobj.q === item.question);
+                    let descHtml = "";
+                    if (questionObj && questionObj.desc) {
+                        descHtml = `<div style="margin-top:7px; color: #444; background: #f8f8f8; border-left: 4px solid #8A2D2D; padding: 5px 10px 5px 14px; border-radius: 0 6px 6px 0;">
+                            <span style="font-size:0.97em;"><b>Explanation:</b> ${questionObj.desc}</span>
+                        </div>`;
+                    }
+
                     listOl.innerHTML += `
                         <li>
                             <span class="modal-question">Q${idx+1}. ${item.question}</span>
                             <ul class="modal-options">${optionsHtml}</ul>
+                            ${descHtml}
                         </li>
                     `;
                 });
