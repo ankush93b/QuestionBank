@@ -1,0 +1,848 @@
+[
+  {
+    "q": "Newspaper : Press :: Cloth : ?",
+    "pool": ["Tailor", "Textile", "Fibre", "Factory", "Mill"],
+    "answer": "Mill",
+    "desc": "A newspaper is prepared in a press, just as cloth is manufactured in a mill."
+  },
+  {
+    "q": "Bombay : Maharashtra :: Trivandrum : ?",
+    "pool": ["Calcutta", "Gujarat", "Rajasthan", "Kerala", "Sikkim"],
+    "answer": "Kerala",
+    "desc": "Bombay is the capital of Maharashtra, similarly, Trivandrum is the capital of Kerala."
+  },
+  {
+    "q": "Vigilant : Alert :: Viable : ?",
+    "pool": ["Active", "Gentle", "Hopeless", "Feasible", "Useful"],
+    "answer": "Feasible",
+    "desc": "The synonym of 'Vigilant' is 'Alert', similarly, the synonym of 'Viable' is 'Feasible'."
+  },
+  {
+    "q": "Doctor : Nurse :: ? : Follower",
+    "pool": ["Employer", "Leader", "Worker", "Manager", "Union"],
+    "answer": "Leader",
+    "desc": "Just as a nurse follows the doctor's instructions, a follower follows the leader."
+  },
+  {
+    "q": "Cattle : Herd :: Sheep : ?",
+    "pool": ["Flock", "Swarm", "Crowd", "Shoal", "Mob"],
+    "answer": "Flock",
+    "desc": "A herd is a group of cattle; a flock is a group of sheep."
+  },
+  {
+    "q": "Moon : Satellite :: Earth : ?",
+    "pool": ["Sun", "Planet", "Solar system", "Asteroid"],
+    "answer": "Planet",
+    "desc": "The moon is a satellite and earth is a planet."
+  },
+  {
+    "q": "Forecast : Future :: Regret : ?",
+    "pool": ["Present", "Atone", "Past", "Sins"],
+    "answer": "Past",
+    "desc": "Forecast is about the future, regret is about the past."
+  },
+  {
+    "q": "Influenza : Virus :: Typhoid : ?",
+    "pool": ["Bacillus", "Parasite", "Protozoa", "Bacteria"],
+    "answer": "Bacteria",
+    "desc": "Influenza is caused by a virus; typhoid is caused by bacteria."
+  },
+  {
+    "q": "Fear : Threat :: Anger : ?",
+    "pool": ["Compulsion", "Panic", "Provocation", "Force"],
+    "answer": "Provocation",
+    "desc": "A threat causes fear, a provocation causes anger."
+  },
+  {
+    "q": "Melt : Liquid :: Freeze : ?",
+    "pool": ["Ice", "Condense", "Solid", "Crystal"],
+    "answer": "Ice",
+    "desc": "Melting results in liquid, freezing results in ice."
+  },
+  {
+    "q": "Clock : Time :: Thermometer : ?",
+    "pool": ["Heat", "Radiation", "Energy", "Temperature"],
+    "answer": "Temperature",
+    "desc": "A clock measures time, a thermometer measures temperature."
+  },
+  {
+    "q": "Muslims : Mosque :: Sikhs : ?",
+    "pool": ["Golden Temple", "Medina", "Fire Temple", "Gurudwara"],
+    "answer": "Gurudwara",
+    "desc": "A mosque is a place of worship for Muslims, a Gurudwara is for Sikhs."
+  },
+  {
+    "q": "Paw : Cat :: Hoof : ?",
+    "pool": ["Horse", "Lion", "Lamb", "Elephant"],
+    "answer": "Horse",
+    "desc": "A cat has a paw, a horse has a hoof."
+  },
+  {
+    "q": "Eye : Myopia :: Teeth : ?",
+    "pool": ["Pyorrhoea", "Cataract", "Trachoma", "Eczema"],
+    "answer": "Pyorrhoea",
+    "desc": "Myopia is a disease of the eye, pyorrhoea is a disease of the teeth."
+  },
+  {
+    "q": "Tractor : Trailer :: Horse : ?",
+    "pool": ["Stable", "Cart", "Saddle", "Engine"],
+    "answer": "Cart",
+    "desc": "A trailer is pulled by a tractor; a cart is pulled by a horse."
+  },
+  {
+    "q": "Scribble : Write :: Stammer : ?",
+    "pool": ["Walk", "Play", "Speak", "Dance"],
+    "answer": "Speak",
+    "desc": "Scribbling is an improper way of writing, stammering is an improper way of speaking."
+  },
+  {
+    "q": "Flower : Bud :: Plant : ?",
+    "pool": ["Seed", "Taste", "Flower", "Twig"],
+    "answer": "Seed",
+    "desc": "A bud develops into a flower, a seed develops into a plant."
+  },
+  {
+    "q": "Errata : Books :: Flaws : ?",
+    "pool": ["Manuscripts", "Metals", "Speech", "Charter"],
+    "answer": "Metals",
+    "desc": "Errata are errors in books, flaws are defects in metals."
+  },
+  {
+    "q": "Gun : Bullet :: Chimney : ?",
+    "pool": ["Ground", "House", "Roof", "Smoke"],
+    "answer": "Smoke",
+    "desc": "A bullet comes out of a gun, smoke comes out of a chimney."
+  },
+  {
+    "q": "Breeze : Cyclone :: Drizzle : ?",
+    "pool": ["Earthquake", "Storm", "Flood", "Downpour"],
+    "answer": "Downpour",
+    "desc": "Drizzle is a lighter form of rain, downpour is a heavier form."
+  },
+  {
+    "q": "Car : Garage :: Aeroplane : ?",
+    "pool": ["Port", "Depot", "Hangar", "Harbour"],
+    "answer": "Hangar",
+    "desc": "A car is kept in a garage, an aeroplane is kept in a hangar."
+  },
+  {
+    "q": "Race : Fatigue :: Fast : ?",
+    "pool": ["Food", "Appetite", "Hunger", "Weakness"],
+    "answer": "Hunger",
+    "desc": "Fatigue is caused by a race, hunger is caused by a fast."
+  },
+  {
+    "q": "Candle : Wax :: Paper : ?",
+    "pool": ["Wood", "Tree", "Bamboo", "Pulp"],
+    "answer": "Pulp",
+    "desc": "A candle is made from wax, paper is made from pulp."
+  },
+  {
+    "q": "Acting : Theatre :: Gambling : ?",
+    "pool": ["Casino", "Club", "Bar", "Gymn"],
+    "answer": "Casino",
+    "desc": "Acting takes place in a theatre, gambling takes place in a casino."
+  },
+  {
+    "q": "Venerate : Worship :: Extol : ?",
+    "pool": ["Glorify", "Homage", "Compliment", "Recommend"],
+    "answer": "Glorify",
+    "desc": "'Venerate' and 'Worship' are synonyms, 'Extol' and 'Glorify' are synonyms."
+  },
+  {
+    "q": "Water : Convection :: Space : ?",
+    "pool": ["Conduction", "Transference", "Vacuum", "Radiation"],
+    "answer": "Radiation",
+    "desc": "Heat is transferred in water by convection, in space by radiation."
+  },
+  {
+    "q": "Growth : Death :: Increase : ?",
+    "pool": ["Ease", "Decrease", "Tease", "Cease"],
+    "answer": "Decrease",
+    "desc": "'Death' is the opposite of 'Growth', and 'Decrease' is the opposite of 'Increase'."
+  },
+  {
+    "q": "Oxygen : Burn :: Carbon dioxide : ?",
+    "pool": ["Isolate", "Foam", "Extinguish", "Explode"],
+    "answer": "Extinguish",
+    "desc": "Oxygen helps burning; carbon dioxide helps extinguish fire."
+  },
+  {
+    "q": "Dog : Bark :: Goat : ?",
+    "pool": ["Bleat", "Howl", "Grunt", "Bray"],
+    "answer": "Bleat",
+    "desc": "A dog makes a bark sound, a goat makes a bleat sound."
+  },
+  {
+    "q": "Grain : Stock :: Stick : ?",
+    "pool": ["Heap", "Bundle", "Collection", "String"],
+    "answer": "Bundle",
+    "desc": "A stock is a collection of grains; a bundle is a collection of sticks."
+  },
+  {
+    "q": "Nurture : Neglect :: Denigrate : ?",
+    "pool": ["Reveal", "Extol", "Recognise", "Calumniate"],
+    "answer": "Extol",
+    "desc": "'Nurture' and 'Neglect' are antonyms, 'Denigrate' and 'Extol' are antonyms."
+  },
+  {
+    "q": "Planet : Orbit :: Projectile : ?",
+    "pool": ["Trajectory", "Track", "Milky Way", "Path"],
+    "answer": "Trajectory",
+    "desc": "A planet moves in an orbit, a projectile moves in a Trajectory."
+  },
+  {
+    "q": "Genuine : Authentic :: Mirage : ?",
+    "pool": ["Image", "Transpiration", "Reflection", "Illusion"],
+    "answer": "Illusion",
+    "desc": "'Genuine' and 'Authentic' are synonyms; 'Mirage' and 'Illusion' are synonyms."
+  },
+  {
+    "q": "Cobbler : Leather :: Carpenter : ?",
+    "pool": ["Furniture", "Wood", "Hammer", "Chair"],
+    "answer": "Wood",
+    "desc": "A cobbler works with leather, a carpenter works with wood."
+  },
+  {
+    "q": "Rupee : India :: Yen : ?",
+    "pool": ["Turkey", "Bangladesh", "Pakistan", "Japan"],
+    "answer": "Japan",
+    "desc": "Rupee is the currency of India, Yen is the currency of Japan."
+  },
+  {
+    "q": "Oceans : Deserts :: Waves : ?",
+    "pool": ["Sea", "Dust", "Sand dunes", "Ripples"],
+    "answer": "Sand dunes",
+    "desc": "Waves are found in oceans, sand dunes are found in deserts."
+  },
+  {
+    "q": "Pork : Pig :: Beef : ?",
+    "pool": ["Farmer", "Herd", "Cow", "Lamb"],
+    "answer": "Cow",
+    "desc": "Pork is the meat of pig, beef is the meat of cow."
+  },
+  {
+    "q": "Illiteracy : Education :: Flood : ?",
+    "pool": ["Rain", "Bridge", "Dam", "River"],
+    "answer": "Dam",
+    "desc": "Education removes illiteracy, a dam controls a flood."
+  },
+  {
+    "q": "Dungeon : Confinement :: Asylum : ?",
+    "pool": ["Refuge", "Mercy", "Truancy", "Remorse"],
+    "answer": "Refuge",
+    "desc": "A dungeon is for confinement, an asylum is for refuge."
+  },
+  {
+    "q": "Appraiser : Building :: Critic : ?",
+    "pool": ["Book", "Masterpiece", "Judge", "Gold"],
+    "answer": "Book",
+    "desc": "An appraiser evaluates buildings, a critic evaluates books."
+  },
+  {
+    "q": "Cub : Lion :: Colt : ?",
+    "pool": ["Doe", "Stag", "Leopard", "Stallion"],
+    "answer": "Stallion",
+    "desc": "A cub is a young lion, a colt is a young stallion."
+  },
+  {
+    "q": "Drill : Bore :: Sieve : ?",
+    "pool": ["Thresh", "Sift", "Pry", "Rinse"],
+    "answer": "Sift",
+    "desc": "A drill is used to bore, a sieve is used to sift."
+  },
+  {
+    "q": "Fruit : Banana :: Mammal : ?",
+    "pool": ["Cow", "Snake", "Fish", "Sparrow"],
+    "answer": "Cow",
+    "desc": "A banana is a type of fruit, a cow is a type of mammal."
+  },
+  {
+    "q": "Tile : Mosaic :: Knot : ?",
+    "pool": ["Embroidery", "Abacus", "Macrame", "Easle"],
+    "answer": "Macrame",
+    "desc": "Tiles make a mosaic, knots make macrame."
+  },
+  {
+    "q": "Import : Export :: Expenditure : ?",
+    "pool": ["Deficit", "Revenue", "Debt", "Tax"],
+    "answer": "Revenue",
+    "desc": "Import is the opposite of export, expenditure is the opposite of revenue."
+  },
+  {
+    "q": "Hill : Mountain :: Stream : ?",
+    "pool": ["River", "Canal", "Glacier", "Avalanche"],
+    "answer": "River",
+    "desc": "A mountain is a larger form of a hill, a river is a larger form of a stream."
+  },
+  {
+    "q": "Country : President :: State : ?",
+    "pool": ["Governor", "Minister", "Chief Minister", "Citizen"],
+    "answer": "Governor",
+    "desc": "A president is the head of a country, a governor is the head of a state."
+  },
+  {
+    "q": "Bread : Yeast :: Curd : ?",
+    "pool": ["Fungi", "Bacteria", "Germs", "Virus"],
+    "answer": "Bacteria",
+    "desc": "Yeast is used to make bread, bacteria is used to make curd."
+  },
+  {
+    "q": "Court : Justice :: School : ?",
+    "pool": ["Teacher", "Student", "Ignorance", "Education"],
+    "answer": "Student",
+    "desc": "A court is for justice, a school is for students."
+  },
+  {
+    "q": "Quartz : Radio :: Gypsum : ?",
+    "pool": ["Glass", "Porcelain", "Cement", "Powder"],
+    "answer": "Cement",
+    "desc": "Quartz is used in radios, gypsum is used in cement."
+  },
+  {
+    "q": "Chromite : Chromium :: Ilmenite : ?",
+    "pool": ["Limestone", "Cobalt", "Manganese", "Titanium"],
+    "answer": "Titanium",
+    "desc": "Chromite is a source of chromium, ilmenite is a source of titanium."
+  },
+  {
+    "q": "Command : Order :: Confusion : ?",
+    "pool": ["Discipline", "Clarity", "Chaos", "Problem"],
+    "answer": "Chaos",
+    "desc": "Order is the opposite of confusion, chaos is the opposite."
+  },
+  {
+    "q": "Ruby : Red :: Sapphire : ?",
+    "pool": ["Blue", "White", "Green", "Silver"],
+    "answer": "Blue",
+    "desc": "Ruby is a red gemstone, sapphire is a blue gemstone."
+  },
+  {
+    "q": "House : Garbage :: Ore : ?",
+    "pool": ["Rubbish", "Gangue", "Sand", "Dregs"],
+    "answer": "Gangue",
+    "desc": "Garbage is the waste from a house, gangue is the waste from ore."
+  },
+  {
+    "q": "Hong Kong : China :: Vatican : ?",
+    "pool": ["Rome", "Mexico", "Canada", "Christianity"],
+    "answer": "Christianity",
+    "desc": "Hong Kong is a part of China, Vatican is the center of Christianity."
+  },
+  {
+    "q": "Steel : Rails :: Alnico : ?",
+    "pool": ["Aircraft", "Machinery", "Silver ware", "Magnets"],
+    "answer": "Magnets",
+    "desc": "Steel is used to make rails, Alnico is used to make magnets."
+  },
+  {
+    "q": "Poodle : Dog :: Moose : ?",
+    "pool": ["Duck", "Donkey", "Fowl", "Deer"],
+    "answer": "Deer",
+    "desc": "A poodle is a breed of dog, a moose is a kind of deer."
+  },
+  {
+    "q": "Push : Pull :: Throw : ?",
+    "pool": ["Jump", "Collect", "Pick", "Game"],
+    "answer": "Collect",
+    "desc": "Push is the opposite of pull, throw is the opposite of collect."
+  },
+  {
+    "q": "Naphthalene : Coal tar :: Dyes : ?",
+    "pool": ["Petroleum", "Oils", "Chemicals", "Carbon"],
+    "answer": "Chemicals",
+    "desc": "Naphthalene is obtained from coal tar, dyes are obtained from chemicals."
+  },
+  {
+    "q": "Darwin : Evolution :: Archimedes : ?",
+    "pool": ["Friction", "Lubrication", "Buoyancy", "Liquids"],
+    "answer": "Buoyancy",
+    "desc": "Darwin gave the theory of evolution, Archimedes gave the principle of buoyancy."
+  },
+  {
+    "q": "Hot : Oven :: Cold : ?",
+    "pool": ["Ice cream", "Air conditioner", "Snow", "Refrigerator"],
+    "answer": "Refrigerator",
+    "desc": "An oven keeps things hot, a refrigerator keeps things cold."
+  },
+  {
+    "q": "Conference : Chairman :: Newspaper : ?",
+    "pool": ["Reporter", "Distributor", "Printer", "Editor"],
+    "answer": "Editor",
+    "desc": "A chairman leads a conference, an editor leads a newspaper."
+  },
+  {
+    "q": "Drama : Stage :: Tennis : ?",
+    "pool": ["Tournament", "Net", "Court", "Racket"],
+    "answer": "Court",
+    "desc": "Drama is performed on a stage, tennis is played on a court."
+  },
+  {
+    "q": "Tree : Forest :: Grass : ?",
+    "pool": ["Lawn", "Field", "Garden", "Farm"],
+    "answer": "Lawn",
+    "desc": "A forest is made of trees, a lawn is made of grass."
+  },
+  {
+    "q": "Giant : Dwarf :: Genius : ?",
+    "pool": ["Wicked", "Gentle", "Idiot", "Tiny"],
+    "answer": "Idiot",
+    "desc": "Giant is the opposite of dwarf, genius is the opposite of idiot."
+  },
+  {
+    "q": "Bank : River :: Coast : ?",
+    "pool": ["Flood", "Waves", "Sea", "Beach"],
+    "answer": "Sea",
+    "desc": "A bank is beside a river, a coast is beside a sea."
+  },
+  {
+    "q": "Flower : Butterfly :: Dirt : ?",
+    "pool": ["Rats", "Fly", "Bugs", "Sweeper"],
+    "answer": "Bugs",
+    "desc": "Butterflies are attracted to flowers, bugs are attracted to dirt."
+  },
+  {
+    "q": "Malaria : Disease :: Spear : ?",
+    "pool": ["Wound", "Sword", "Weapon", "Death"],
+    "answer": "Weapon",
+    "desc": "Malaria is a type of disease, a spear is a type of weapon."
+  },
+  {
+    "q": "Matricide : Mother :: Homicide : ?",
+    "pool": ["Human", "Children", "Father", "Apes"],
+    "answer": "Human",
+    "desc": "Matricide is killing one's mother, homicide is killing a human."
+  },
+  {
+    "q": "Food : Stomach :: Fuel : ?",
+    "pool": ["Plane", "Truck", "Engine", "Automobile"],
+    "answer": "Engine",
+    "desc": "Food is processed by the stomach, fuel is processed by the engine."
+  },
+  {
+    "q": "Quail : Partridges :: Yak : ?",
+    "pool": ["Cows", "Deer", "Oxen", "Antelopes"],
+    "answer": "Oxen",
+    "desc": "Quails and partridges are similar birds, yaks and oxen are similar animals."
+  },
+  {
+    "q": "Engineer : Map :: Bricklayer : ?",
+    "pool": ["Design", "Templet", "Mould", "Cement"],
+    "answer": "Mould",
+    "desc": "An engineer uses a map, a bricklayer uses a mould."
+  },
+  {
+    "q": "Fire : Ashes :: Explosion : ?",
+    "pool": ["Flame", "Death", "Sound", "Debris"],
+    "answer": "Debris",
+    "desc": "Ashes remain after fire, debris remains after explosion."
+  },
+  {
+    "q": "Pesticide : Crop :: Antiseptic : ?",
+    "pool": ["Wound", "Clotting", "Bandage", "Bleeding"],
+    "answer": "Wound",
+    "desc": "Pesticide protects crops, antiseptic protects wounds."
+  },
+  {
+    "q": "King : Throne :: Rider : ?",
+    "pool": ["Seat", "Horse", "Saddle", "Chair"],
+    "answer": "Saddle",
+    "desc": "A king sits on a throne, a rider sits on a saddle."
+  },
+  {
+    "q": "Ocean : Water :: Glacier : ?",
+    "pool": ["Refrigerator", "Ice", "Mountain", "Cave"],
+    "answer": "Ice",
+    "desc": "An ocean is made of water, a glacier is made of ice."
+  },
+  {
+    "q": "Reluctant : Keen :: Remarkable : ?",
+    "pool": ["Usual", "Restrained", "Striking", "Evocative"],
+    "answer": "Usual",
+    "desc": "'Reluctant' is the opposite of 'Keen,' 'Usual' is the opposite of 'Remarkable.'"
+  },
+  {
+    "q": "Sculptor : Statue :: Poet : ?",
+    "pool": ["Canvas", "Pen", "Verse", "Chisel"],
+    "answer": "Verse",
+    "desc": "A sculptor creates statues, a poet creates verses."
+  },
+  {
+    "q": "Fossils : Creatures :: Mummies : ?",
+    "pool": ["Egypt", "Human beings", "Animals", "Martyrs"],
+    "answer": "Human beings",
+    "desc": "Fossils are remains of creatures, mummies are remains of human beings."
+  },
+  {
+    "q": "Snake : Fang :: Bee : ?",
+    "pool": ["Honey", "Humming", "Wax", "Sting"],
+    "answer": "Sting",
+    "desc": "A snake uses its fang to bite, a bee uses its sting."
+  },
+  {
+    "q": "Dog : Rabies :: Mosquito : ?",
+    "pool": ["Plague", "Death", "Malaria", "Sting"],
+    "answer": "Malaria",
+    "desc": "A dog transmits rabies, a mosquito transmits malaria."
+  },
+  {
+    "q": "Man : Biography :: Nation : ?",
+    "pool": ["Leader", "People", "Geography", "History"],
+    "answer": "History",
+    "desc": "A biography is a record of a man's life, history is a record of a nation."
+  },
+  {
+    "q": "Doctor : Diagnosis :: Judge : ?",
+    "pool": ["Court", "Punishment", "Lawyer", "Judgement"],
+    "answer": "Judgement",
+    "desc": "A doctor makes a diagnosis, a judge makes a judgement."
+  },
+  {
+    "q": "Horse : Jockey :: Car : ?",
+    "pool": ["Mechanic", "Chauffeur", "Steering", "Brake"],
+    "answer": "Chauffeur",
+    "desc": "A jockey drives a horse, a chauffeur drives a car."
+  },
+  {
+    "q": "Fog : Visibility :: AIDS : ?",
+    "pool": ["Health", "Resistance", "Virus", "Death"],
+    "answer": "Resistance",
+    "desc": "Fog reduces visibility, AIDS reduces resistance."
+  },
+  {
+    "q": "Porcupine : Rodent :: Mildew : ?",
+    "pool": ["Fungus", "Germ", "Insect", "Pathogen"],
+    "answer": "Fungus",
+    "desc": "A porcupine is a type of rodent, mildew is a type of fungus."
+  },
+  {
+    "q": "Reading : Knowledge :: Work : ?",
+    "pool": ["Experience", "Engagement", "Employment", "Experiment"],
+    "answer": "Experience",
+    "desc": "Reading gives knowledge, work gives experience."
+  },
+  {
+    "q": "Scrap : Food :: Lees : ?",
+    "pool": ["Bread", "Tea", "Wine", "Rice"],
+    "answer": "Wine",
+    "desc": "Scrap is waste from food, lees is waste from wine."
+  },
+  {
+    "q": "Conscience : Wrong :: Police : ?",
+    "pool": ["Thief", "Law", "Discipline", "Crime"],
+    "answer": "Crime",
+    "desc": "Conscience prevents wrong, police prevent crime."
+  },
+  {
+    "q": "Cricket : Bat :: Hockey : ?",
+    "pool": ["Field", "Stick", "Player", "Ball"],
+    "answer": "Stick",
+    "desc": "A bat is used in cricket, a stick is used in hockey."
+  },
+  {
+    "q": "Glucose : Carbohydrate :: Soyabean : ?",
+    "pool": ["Proteins", "Vitamins", "Minerals", "Legumes"],
+    "answer": "Proteins",
+    "desc": "Glucose is a carbohydrate, soyabean is a protein."
+  },
+  {
+    "q": "Jeopardy : Peril :: Jealousy : ?",
+    "pool": ["Envy", "Insecurity", "Lust", "Sin"],
+    "answer": "Envy",
+    "desc": "'Jeopardy' and 'Peril' are synonyms, 'Jealousy' and 'Envy' are synonyms."
+  },
+  {
+    "q": "Pigeon : Peace :: White flag : ?",
+    "pool": ["Friendship", "Victory", "Surrender", "War"],
+    "answer": "Surrender",
+    "desc": "A pigeon symbolizes peace, a white flag symbolizes surrender."
+  },
+  {
+    "q": "Teheran : Iran :: Beijing : ?",
+    "pool": ["China", "Japan", "Turkey", "Malaysia"],
+    "answer": "China",
+    "desc": "Teheran is the capital of Iran, Beijing is the capital of China."
+  },
+  {
+    "q": "Enough : Excess :: Sufficiency : ?",
+    "pool": ["Adequacy", "Surplus", "Competency", "Import"],
+    "answer": "Adequacy",
+    "desc": "'Enough' leads to 'Excess', 'Sufficiency' leads to 'Adequacy.'"
+  },
+  {
+    "q": "Squint : Eye :: Squeeze : ?",
+    "pool": ["Tongue", "Cloth", "Throat", "Hand"],
+    "answer": "Throat",
+    "desc": "You squint your eye, you squeeze your throat."
+  },
+  {
+    "q": "Hermit : Solitude :: Intruder : ?",
+    "pool": ["Thief", "Privacy", "Burglar", "Alm"],
+    "answer": "Privacy",
+    "desc": "A hermit seeks solitude, an intruder invades privacy."
+  },
+  {
+    "q": "Tea : Cup :: Tobacco : ?",
+    "pool": ["Leaves", "Hookah", "Toxin", "Cheroot"],
+    "answer": "Hookah",
+    "desc": "Tea is drunk from a cup, tobacco is smoked from a hookah."
+  },
+  {
+    "q": "Market : Demand :: Farming : ?",
+    "pool": ["Farmer", "Monsoons", "Foodgrain", "Supply"],
+    "answer": "Supply",
+    "desc": "Market is associated with demand, farming is associated with supply."
+  },
+  {
+    "q": "Skirmish : War :: Disease : ?",
+    "pool": ["Medicine", "Patient", "Epidemic", "Infection"],
+    "answer": "Epidemic",
+    "desc": "Skirmish is a small war, epidemic is a widespread disease."
+  },
+  {
+    "q": "Wimbledon Trophy : Tennis :: Walker's Cup : ?",
+    "pool": ["Hockey", "Polo", "Golf", "Wrestling"],
+    "answer": "Golf",
+    "desc": "Wimbledon Trophy is for tennis, Walker's Cup is for golf."
+  },
+  {
+    "q": "Skeleton : Body :: Grammar : ?",
+    "pool": ["Language", "Sentence", "Meaning", "Education"],
+    "answer": "Language",
+    "desc": "Skeleton forms the structure of the body, grammar forms the structure of language."
+  },
+  {
+    "q": "Atom : Matter :: Particle : ?",
+    "pool": ["Proton", "Electron", "Molecule", "Dust"],
+    "answer": "Molecule",
+    "desc": "Atoms make up matter, particles make up molecules."
+  },
+  {
+    "q": "Disease : Pathology :: Planet : ?",
+    "pool": ["Astrology", "Geology", "Astronomy", "Palaeontology"],
+    "answer": "Astronomy",
+    "desc": "Pathology is the study of diseases, astronomy is the study of planets."
+  },
+  {
+    "q": "Mature : Regressed :: Varied : ?",
+    "pool": ["Rhythmic", "Monotonous", "Decorous", "Obsolete"],
+    "answer": "Monotonous",
+    "desc": "Mature is the opposite of regressed, varied is the opposite of monotonous."
+  },
+  {
+    "q": "Wool : Sheep :: Mohair : ?",
+    "pool": ["Cat", "Goat", "Cow", "Camel"],
+    "answer": "Goat",
+    "desc": "Wool comes from sheep, mohair comes from goat."
+  },
+  {
+    "q": "Man : Machine :: Master : ?",
+    "pool": ["Worker", "Manager", "House", "Slave"],
+    "answer": "Slave",
+    "desc": "A man controls a machine, a master controls a slave."
+  },
+  {
+    "q": "Sedative : Pain :: Solace : ?",
+    "pool": ["Irritation", "Kill", "Grief", "Hurt"],
+    "answer": "Grief",
+    "desc": "A sedative relieves pain, solace relieves grief."
+  },
+  {
+    "q": "Tuberculosis : Lungs :: Cataract : ?",
+    "pool": ["Ear", "Throat", "Skin", "Eye"],
+    "answer": "Eye",
+    "desc": "Tuberculosis affects the lungs, cataract affects the eye."
+  },
+  {
+    "q": "Sorrow : Death :: Happiness : ?",
+    "pool": ["Love", "Dance", "Cry", "Birth"],
+    "answer": "Birth",
+    "desc": "Death brings sorrow, birth brings happiness."
+  },
+  {
+    "q": "Elegance : Vulgarity :: Graceful : ?",
+    "pool": ["Awkward", "Comely", "Asperity", "Dirty"],
+    "answer": "Awkward",
+    "desc": "Vulgarity is the opposite of elegance, awkward is the opposite of graceful."
+  },
+  {
+    "q": "Professor : Lecture :: Doctor : ?",
+    "pool": ["Hospital", "Disease", "Medicine", "Patient"],
+    "answer": "Medicine",
+    "desc": "A professor gives a lecture, a doctor gives medicine."
+  },
+  {
+    "q": "Horse : Neigh :: Jackal : ?",
+    "pool": ["Squeak", "Chatter", "Howl", "Bray"],
+    "answer": "Howl",
+    "desc": "A horse's sound is neigh, a jackal's sound is howl."
+  },
+  {
+    "q": "Harp : Drum :: Flute : ?",
+    "pool": ["Violin", "Bugle", "Harmonium", "Piano"],
+    "answer": "Bugle",
+    "desc": "A harp is similar to a violin, a flute is similar to a bugle."
+  },
+  {
+    "q": "Imprison : Jail :: Exile : ?",
+    "pool": ["Country", "Depart", "Banish", "Punishment"],
+    "answer": "Banish",
+    "desc": "Imprison means to send to jail, exile means to banish."
+  },
+  {
+    "q": "Ship : Sea :: Camel : ?",
+    "pool": ["Forest", "Land", "Mountain", "Desert"],
+    "answer": "Desert",
+    "desc": "A ship is found in the sea, a camel in the desert."
+  },
+  {
+    "q": "Victory : Encouragement :: Failure : ?",
+    "pool": ["Sadness", "Defeat", "Anger", "Frustration"],
+    "answer": "Defeat",
+    "desc": "Encouragement leads to victory, defeat leads to failure."
+  },
+  {
+    "q": "Igloo : Ice :: Marquee : ?",
+    "pool": ["Canvas", "Silk", "Buckram", "Sateen"],
+    "answer": "Canvas",
+    "desc": "An igloo is made of ice, a marquee is made of canvas."
+  },
+  {
+    "q": "Dilatory : Expeditious :: Direct : ?",
+    "pool": ["Tortuous", "Circumlocutory", "Straight", "Curved"],
+    "answer": "Circumlocutory",
+    "desc": "'Dilatory' is the opposite of 'Expeditious', 'Direct' is the opposite of 'Circumlocutory.'"
+  },
+  {
+    "q": "Cunning : Fox :: Timid : ?",
+    "pool": ["Horse", "Ant", "Ass", "Rabbit"],
+    "answer": "Rabbit",
+    "desc": "A fox is known for being cunning, a rabbit is known for being timid."
+  },
+  {
+    "q": "Aeroplane : Cockpit :: Train : ?",
+    "pool": ["Wagon", "Coach", "Compartment", "Engine"],
+    "answer": "Engine",
+    "desc": "An aeroplane is operated from a cockpit, a train is operated from an engine."
+  },
+  {
+    "q": "Major : Battalion :: Colonel : ?",
+    "pool": ["Company", "Regiment", "Army", "Soldiers"],
+    "answer": "Regiment",
+    "desc": "A major commands a battalion, a colonel commands a regiment."
+  },
+  {
+    "q": "Wrist : Elbow :: Ankle : ?",
+    "pool": ["Heel", "Fingers", "Foot", "Knee"],
+    "answer": "Heel",
+    "desc": "The wrist is next to the elbow, the heel is next to the ankle."
+  },
+  {
+    "q": "Heart : Pericardium :: Brain : ?",
+    "pool": ["Bones", "Head", "Skull", "Cranium"],
+    "answer": "Skull",
+    "desc": "The heart is protected by the pericardium, the brain is protected by the skull."
+  },
+  {
+    "q": "Crow : Carrion :: Leech : ?",
+    "pool": ["Bugs", "Blood", "Meat", "Bones"],
+    "answer": "Blood",
+    "desc": "A crow feeds on carrion, a leech feeds on blood."
+  },
+  {
+    "q": "Insert : Extract :: Mighty : ?",
+    "pool": ["Thin", "Strong", "Frail", "Feeble"],
+    "answer": "Frail",
+    "desc": "'Insert' is the opposite of 'Extract', 'Mighty' is the opposite of 'Frail.'"
+  },
+  {
+    "q": "Perch : Fresh water :: Cod : Salt water",
+    "pool": ["Crocodile", "Frog", "Cod", "Snake"],
+    "answer": "Cod",
+    "desc": "Perch is a fresh water fish, cod is a salt water fish."
+  },
+  {
+    "q": "Ornithologist : Birds :: Anthropologist : ?",
+    "pool": ["Plants", "Animals", "Mankind", "Environment"],
+    "answer": "Mankind",
+    "desc": "An ornithologist studies birds, an anthropologist studies mankind."
+  },
+  {
+    "q": "Ice : Coolness :: Earth : ?",
+    "pool": ["Ocean", "Forest", "Weight", "Gravitation"],
+    "answer": "Gravitation",
+    "desc": "Ice has coolness, earth has gravitation."
+  },
+  {
+    "q": "Ocean : Pacific :: Island : ?",
+    "pool": ["Greenland", "Ireland", "Netherlands", "Borneo"],
+    "answer": "Greenland",
+    "desc": "Pacific is an ocean, Greenland is an island."
+  },
+  {
+    "q": "Meat : Vegetarian :: Liquor : ?",
+    "pool": ["Insane", "Introvert", "Teetotaller", "Foolish"],
+    "answer": "Teetotaller",
+    "desc": "A vegetarian does not eat meat, a teetotaller does not drink liquor."
+  },
+  {
+    "q": "Amber : Yellow :: Caramine : ?",
+    "pool": ["Red", "Green", "Blue", "Orange"],
+    "answer": "Red",
+    "desc": "Amber is yellow in color, caramine is red in color."
+  },
+  {
+    "q": "Accommodation : Rent :: Journey : ?",
+    "pool": ["Expense", "Octroi", "Freight", "Fare"],
+    "answer": "Fare",
+    "desc": "Accommodation costs rent, a journey costs fare."
+  },
+  {
+    "q": "Deep : Shallow :: Freedom : ?",
+    "pool": ["Prison", "Discipline", "Convict", "Democracy"],
+    "answer": "Prison",
+    "desc": "Deep is the opposite of shallow, prison is the opposite of freedom."
+  },
+  {
+    "q": "Head : Cap :: Finger : ?",
+    "pool": ["Glove", "Thimble", "Nail", "Thumb"],
+    "answer": "Thimble",
+    "desc": "A cap is worn on the head, a thimble is worn on the finger."
+  },
+  {
+    "q": "Proteins : Growth :: Carbohydrates : ?",
+    "pool": ["Energy", "Strength", "Resistance", "Diseases"],
+    "answer": "Energy",
+    "desc": "Proteins help in growth, carbohydrates provide energy."
+  },
+  {
+    "q": "Wax : Wane :: Zenith : ?",
+    "pool": ["Nadir", "Bottom", "Fall", "Depth"],
+    "answer": "Nadir",
+    "desc": "'Wax' is the opposite of 'Wane', 'Zenith' is the opposite of 'Nadir.'"
+  },
+  {
+    "q": "Cells : Tissues :: Atoms : ?",
+    "pool": ["Elements", "Molecules", "Electrons", "Organs"],
+    "answer": "Molecules",
+    "desc": "Cells make up tissues, atoms make up molecules."
+  },
+  {
+    "q": "Girl : Beautiful :: Boy : ?",
+    "pool": ["Smart", "Heroic", "Courageous", "Handsome"],
+    "answer": "Handsome",
+    "desc": "A beautiful girl, a handsome boy."
+  },
+  {
+    "q": "Foundation : Edifice :: Constitution : ?",
+    "pool": ["Government", "State", "Nation", "Cabinet"],
+    "answer": "State",
+    "desc": "A foundation leads to an edifice, a constitution leads to a state."
+  },
+  {
+    "q": "Taxonomy : Classification :: Pedology : ?",
+    "pool": ["Nature", "Farming", "Soil", "Mountain"],
+    "answer": "Soil",
+    "desc": "Taxonomy is the classification of living things, pedology is the study of soil."
+  }
+]

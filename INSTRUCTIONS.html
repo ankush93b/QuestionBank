@@ -86,5 +86,54 @@
             <!--5.add this as second line in answersLog.push-->
             questionIdx: qIdx,
 
+
+            <!--FOR ADDING DESCRIPTION IN QUESTIONS - JUST REPLACE SHOWMODEL FUNCTION-->
+            // Modal logic - ENHANCED to show desc if present
+        function showModal(type) {
+            const backdrop = document.getElementById('modalBackdrop');
+            const titleDiv = document.getElementById('modalTitle');
+            const listOl = document.getElementById('modalList');
+            let filtered = answersLog.filter(a => (type === "right" ? a.isCorrect : !a.isCorrect));
+            titleDiv.textContent = type === "right" ? "Correct Answers" : "Wrong Answers";
+            listOl.innerHTML = "";
+            if (filtered.length === 0) {
+                listOl.innerHTML = `<li>No ${type} answers.</li>`;
+            } else {
+                filtered.forEach((item, idx) => {
+                    let optionsHtml = "";
+                    (item.options || []).forEach((opt, i) => {
+                        let mark = "";
+                        if (opt === item.correct && opt === item.chosen) {
+                            mark = `<span class="modal-ans right">(Your Ans, Correct)</span>`;
+                        } else if (opt === item.chosen && opt !== item.correct) {
+                            mark = `<span class="modal-ans wrong">(Your Ans)</span>`;
+                        } else if (opt === item.correct) {
+                            mark = `<span class="modal-ans right">(Correct)</span>`;
+                        }
+                        optionsHtml += `<li>${opt} ${mark}</li>`;
+                    });
+
+                    // Find the question object to get desc
+                    let questionObj = questions.find(qobj => qobj.q === item.question);
+                    let descHtml = "";
+                    if (questionObj && questionObj.desc) {
+                        descHtml = `<div style="margin-top:7px; color: #444; background: #f8f8f8; border-left: 4px solid #8A2D2D; padding: 5px 10px 5px 14px; border-radius: 0 6px 6px 0;">
+                            <span style="font-size:0.97em;"><b>Explanation:</b> ${questionObj.desc}</span>
+                        </div>`;
+                    }
+
+                    listOl.innerHTML += `
+                        <li>
+                            <span class="modal-question">Q${idx+1}. ${item.question}</span>
+                            <ul class="modal-options">${optionsHtml}</ul>
+                            ${descHtml}
+                        </li>
+                    `;
+                });
+            }
+            backdrop.classList.add("active");
+        }
+        window.showModal = showModal;
+
     </body>
 </html>

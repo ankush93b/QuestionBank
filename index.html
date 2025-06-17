@@ -1013,11 +1013,23 @@
         <div class="dropdown-toggle" onclick="toggleMenu('subject')">Select Subject</div>
         <div class="dropdown-menu" id="subjectMenu">
           <div onclick="selectOption('subject', 'Banking Awareness')">Banking Awareness</div>
+          <div onclick="selectOption('subject', 'Child Development & Pedagogy')">Child Development & Pedagogy</div>
+          <div onclick="selectOption('subject', 'Computer')">Computer</div>
           <div onclick="selectOption('subject', 'Current Affairs')">Current Affairs</div>
+          <div onclick="selectOption('subject', 'Economy')">Economy</div>
+          <div onclick="selectOption('subject', 'Educational Psychology')">Educational Psychology</div>
           <div onclick="selectOption('subject', 'English')">English</div>
+          <div onclick="selectOption('subject', 'Environment & Ecology')">Environment & Ecology</div>
           <div onclick="selectOption('subject', 'General Awareness')">General Awareness</div>
+          <div onclick="selectOption('subject', 'Geography')">Geography</div>
+          <div onclick="selectOption('subject', 'Hindi')">Hindi</div>
+          <div onclick="selectOption('subject', 'History')">History</div>
+          <div onclick="selectOption('subject', 'Mathematics')">Mathematics</div>
+          <div onclick="selectOption('subject', 'Polity')">Polity</div>
+          <div onclick="selectOption('subject', 'Punjabi')">Punjabi</div>
           <div onclick="selectOption('subject', 'Quantitative Aptitude')">Quantitative Aptitude</div>
-          <div onclick="selectOption('subject', 'Reasoning Ability')">Reasoning Ability</div>        
+          <div onclick="selectOption('subject', 'Reasoning Ability')">Reasoning Ability</div> 
+          <div onclick="selectOption('subject', 'Science')">Science</div>        
         </div>
       </div>
       <!-- Topic Dropdown -->
@@ -1150,12 +1162,12 @@
 
     // ---- DROPDOWN LOGIC ----
     const subjectTopics = {
-      "Quantitative Aptitude": ['Squares upto 10','Squares upto 10 Mix','Squares upto 20', 'Squares upto 30', 'Squares upto 40','Squares upto 50','Tables upto 10','Tables upto 20','Tables upto 30','Tables upto 40'],
+      "Quantitative Aptitude": ['Squares upto 10','Squares upto 10 Mix','Squares upto 20', 'Squares upto 30', 'Squares upto 40','Squares upto 50','Tables upto 10','Tables upto 20','Tables upto 30','Tables upto 40','Tables upto 50'],
       "General Awareness": ['Currency Symbols'],
       "English": ['One Word Substitution',''],
       "Banking Awareness": ['Banking Terminology', 'Full Forms'],
       "Current Affairs": ['May 2025','April 2025'],
-      "Reasoning Ability": ['Alphabet Positions', 'Alphabet Positions Mix']
+      "Reasoning Ability": ['Alphabet Positions', 'Alphabet Positions Mix','Alphabet Series','Analogy','Classification I','Classification II','Letter Series','Number Series']
     };
 
     function toggleMenu(type) {

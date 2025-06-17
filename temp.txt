@@ -1,0 +1,6 @@
+convert image into this form:{
+    "q": "Which is the odd one out: Cap, Turban, Helmet, Veil, Hat?",
+    "pool": ["Cap", "Turban", "Helmet", "Veil", "Hat"],
+    "answer": "Helmet",
+    "desc": "All except helmet are types of headwear for protection from weather; helmet is for safety."
+  },

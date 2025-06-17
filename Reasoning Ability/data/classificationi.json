@@ -1,0 +1,122 @@
+[
+  {
+    "q": "Which is the odd one out: Curd, Butter, Oil, Cheese, Cream?",
+    "pool": ["Curd", "Butter", "Oil", "Cheese", "Cream"],
+    "answer": "Oil",
+    "desc": "All except oil are milk products; oil is not derived from milk."
+  },
+  {
+    "q": "Which is the odd one out: Rose, Lotus, Marigold, Lily, Tulip?",
+    "pool": ["Rose", "Lotus", "Marigold", "Lily", "Tulip"],
+    "answer": "Lotus",
+    "desc": "All are land flowers except lotus, which is an aquatic flower."
+  },
+  {
+    "q": "Which is the odd one out: Pistol, Sword, Gun, Rifle, Cannon?",
+    "pool": ["Pistol", "Sword", "Gun", "Rifle", "Cannon"],
+    "answer": "Sword",
+    "desc": "All except sword are firearms; sword is a bladed weapon."
+  },
+  {
+    "q": "Which is the odd one out: Cathedral, Mosque, Church, Monastery, Temple?",
+    "pool": ["Cathedral", "Mosque", "Church", "Monastery", "Temple"],
+    "answer": "Monastery",
+    "desc": "All except monastery are places of worship; monastery is a place where monks live."
+  },
+  {
+    "q": "Which is the odd one out: Book, Paper, Pencil, Pen, Sharpener?",
+    "pool": ["Book", "Paper", "Pencil", "Pen", "Sharpener"],
+    "answer": "Book",
+    "desc": "All except book are stationery items used for writing; book is for reading."
+  },
+  {
+    "q": "Which is the odd one out: Geometry, Algebra, Trigonometry, Mathematics, Arithmetic?",
+    "pool": ["Geometry", "Algebra", "Trigonometry", "Mathematics", "Arithmetic"],
+    "answer": "Mathematics",
+    "desc": "All except mathematics are branches of mathematics."
+  },
+  {
+    "q": "Which is the odd one out: Poland, Greece, Spain, Italy, Korea?",
+    "pool": ["Poland", "Greece", "Spain", "Italy", "Korea"],
+    "answer": "Korea",
+    "desc": "All except Korea are European countries; Korea is in Asia."
+  },
+  {
+    "q": "Which is the odd one out: Copper, Tin, Brass, Platinum, Zinc?",
+    "pool": ["Copper", "Tin", "Brass", "Platinum", "Zinc"],
+    "answer": "Brass",
+    "desc": "All except brass are metals; brass is an alloy."
+  },
+  {
+    "q": "Which is the odd one out: Carrot, Potato, Tomato, Ginger, Beetroot?",
+    "pool": ["Carrot", "Potato", "Tomato", "Ginger", "Beetroot"],
+    "answer": "Tomato",
+    "desc": "All except tomato grow underground; tomato grows above ground."
+  },
+  {
+    "q": "Which is the odd one out: Calf, Cub, Piglet, Duckling, Hireling?",
+    "pool": ["Calf", "Cub", "Piglet", "Duckling", "Hireling"],
+    "answer": "Hireling",
+    "desc": "All except hireling are young ones of animals; hireling is a person employed for wages."
+  },
+  {
+    "q": "Which is the odd one out: Gangtok, Singhbhum, Hyderabad, Chennai, Bhubaneshwar?",
+    "pool": ["Gangtok", "Singhbhum", "Hyderabad", "Chennai", "Bhubaneshwar"],
+    "answer": "Singhbhum",
+    "desc": "All except Singhbhum are capitals of states in India; Singhbhum is a district."
+  },
+  {
+    "q": "Which is the odd one out: Chameleon, Crocodile, Alligator, Locust, Salamandar?",
+    "pool": ["Chameleon", "Crocodile", "Alligator", "Locust", "Salamandar"],
+    "answer": "Locust",
+    "desc": "All except locust are reptiles; locust is an insect."
+  },
+  {
+    "q": "Which is the odd one out: Kiwi, Eagle, Emu, Penguin, Ostrich?",
+    "pool": ["Kiwi", "Eagle", "Emu", "Penguin", "Ostrich"],
+    "answer": "Eagle",
+    "desc": "All except eagle are flightless birds; eagle can fly."
+  },
+  {
+    "q": "Which is the odd one out: Lake, Sea, River, Pool, Pond?",
+    "pool": ["Lake", "Sea", "River", "Pool", "Pond"],
+    "answer": "River",
+    "desc": "All except river have still water; river has flowing water."
+  },
+  {
+    "q": "Which is the odd one out: Arrow, Axe, Knife, Dagger, Sword?",
+    "pool": ["Arrow", "Axe", "Knife", "Dagger", "Sword"],
+    "answer": "Arrow",
+    "desc": "All except arrow are bladed weapons; arrow is a projectile."
+  },
+  {
+    "q": "Which is the odd one out: Sun, Moon, Star, Mars, Universe?",
+    "pool": ["Sun", "Moon", "Star", "Mars", "Universe"],
+    "answer": "Universe",
+    "desc": "All except universe are celestial bodies; universe is the whole cosmos."
+  },
+  {
+    "q": "Which is the odd one out: House, Cottage, School, Palace, Hut?",
+    "pool": ["House", "Cottage", "School", "Palace", "Hut"],
+    "answer": "School",
+    "desc": "All except school are types of dwellings; school is an institution."
+  },
+  {
+    "q": "Which is the odd one out: Turtle, Lamb, Bitch, Farrow, Colt?",
+    "pool": ["Turtle", "Lamb", "Bitch", "Farrow", "Colt"],
+    "answer": "Turtle",
+    "desc": "All except turtle are young ones of animals; turtle is an adult animal."
+  },
+  {
+    "q": "Which is the odd one out: Fox, Wolf, Jackal, Deer, Panther?",
+    "pool": ["Fox", "Wolf", "Jackal", "Deer", "Panther"],
+    "answer": "Deer",
+    "desc": "All except deer are carnivorous animals; deer is herbivorous."
+  },
+  {
+    "q": "Which is the odd one out: Cap, Turban, Helmet, Veil, Hat?",
+    "pool": ["Cap", "Turban", "Helmet", "Veil", "Hat"],
+    "answer": "Helmet",
+    "desc": "All except helmet are types of headwear for protection from weather; helmet is for safety."
+  }
+]

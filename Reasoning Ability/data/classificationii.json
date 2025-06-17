@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which number is different from the others? 43, 53, 63, 73, 83",
+    "pool": ["43", "53", "63", "73", "83"],
+    "answer": "63",
+    "desc": "All except 63 are prime numbers; 63 is not a prime number."
+  },
+  {
+    "q": "Which number is different from the others? 10, 26, 24, 21, 18",
+    "pool": ["10", "26", "24", "21", "18"],
+    "answer": "21",
+    "desc": "All except 21 are even numbers; 21 is odd."
+  },
+  {
+    "q": "Which number is different from the others? 51, 144, 64, 121, 256",
+    "pool": ["51", "144", "64", "121", "256"],
+    "answer": "51",
+    "desc": "All except 51 are perfect squares; 51 is not a perfect square."
+  },
+  {
+    "q": "Which number is different from the others? 15, 21, 24, 28, 30",
+    "pool": ["15", "21", "24", "28", "30"],
+    "answer": "28",
+    "desc": "All except 28 are divisible by 3; 28 is not divisible by 3."
+  },
+  {
+    "q": "Which number is different from the others? 324, 244, 136, 352, 514",
+    "pool": ["324", "244", "136", "352", "514"],
+    "answer": "324",
+    "desc": "The sum of the digits of 324 is different (9) while for the others it is 10."
+  },
+  {
+    "q": "Which number is different from the others? 6, 12, 18, 9, 7",
+    "pool": ["6", "12", "18", "9", "7"],
+    "answer": "7",
+    "desc": "7 is the only prime number; the others are composite."
+  },
+  {
+    "q": "Which number is different from the others? 45, 99, 109, 126, 207",
+    "pool": ["45", "99", "109", "126", "207"],
+    "answer": "109",
+    "desc": "All except 109 are divisible by 9; 109 is not."
+  },
+  {
+    "q": "Which number is different from the others? 27, 125, 343, 729, 1321",
+    "pool": ["27", "125", "343", "729", "1321"],
+    "answer": "1321",
+    "desc": "All except 1321 are perfect cubes; 1321 is not a cube."
+  },
+  {
+    "q": "Which number is different from the others? 21, 39, 51, 63, 83",
+    "pool": ["21", "39", "51", "63", "83"],
+    "answer": "83",
+    "desc": "All except 83 are multiples of 3; 83 is not."
+  },
+  {
+    "q": "Which number is different from the others? 35, 49, 50, 63, 140",
+    "pool": ["35", "49", "50", "63", "140"],
+    "answer": "50",
+    "desc": "All except 50 are divisible by 7; 50 is not."
+  },
+  {
+    "q": "Which number is different from the others? 385, 572, 671, 264, 427",
+    "pool": ["385", "572", "671", "264", "427"],
+    "answer": "264",
+    "desc": "In all except 264, the middle digit is the sum of the other two digits."
+  },
+  {
+    "q": "Which number is different from the others? 2384, 1592, 3756, 4298, 3629",
+    "pool": ["2384", "1592", "3756", "4298", "3629"],
+    "answer": "4298",
+    "desc": "In all except 4298, the last digit is two times the first digit."
+  },
+  {
+    "q": "Which number is different from the others? 3759, 2936, 6927, 4836, 5814",
+    "pool": ["3759", "2936", "6927", "4836", "5814"],
+    "answer": "4836",
+    "desc": "In all except 4836, the sum of the second and last digits is twice the sum of the first and third digits."
+  },
+  {
+    "q": "Which number is different from the others? 5698, 7894, 8793, 6958, 9378",
+    "pool": ["5698", "7894", "8793", "6958", "9378"],
+    "answer": "8793",
+    "desc": "The sum of the digits of 8793 is different from the others."
+  },
+  {
+    "q": "Which number is different from the others? 7359, 1593, 9175, 3781, 9317",
+    "pool": ["7359", "1593", "9175", "3781", "9317"],
+    "answer": "3781",
+    "desc": "All except 3781 consist of odd digits only."
+  },
+  {
+    "q": "Which number is different from the others? 325, 236, 178, 639, 538",
+    "pool": ["325", "236", "178", "639", "538"],
+    "answer": "639",
+    "desc": "In all except 639, the last digit is the sum of the first two."
+  },
+  {
+    "q": "Which number is different from the others? 3740, 4635, 5869, 7946, 2378",
+    "pool": ["3740", "4635", "5869", "7946", "2378"],
+    "answer": "2378",
+    "desc": "In all except 2378, the sum of the first and last digits equals the product of the other two digits."
+  },
+  {
+    "q": "Which number is different from the others? 263, 111, 242, 551, 383",
+    "pool": ["263", "111", "242", "551", "383"],
+    "answer": "242",
+    "desc": "In all except 242, no digit is repeated."
+  },
+  {
+    "q": "Which number is different from the others? 9688, 4321, 7963, 4236, 8597",
+    "pool": ["9688", "4321", "7963", "4236", "8597"],
+    "answer": "7963",
+    "desc": "In all except 7963, the first and last digits are the same."
+  },
+  {
+    "q": "Which number is different from the others? 7487, 5963, 8218, 6596, 9259",
+    "pool": ["7487", "5963", "8218", "6596", "9259"],
+    "answer": "8218",
+    "desc": "In all except 8218, the last digit is one more than the first digit."
+  },
+  {
+    "q": "Which number is different from the others? 1532, 8749, 4268, 5846, 6137",
+    "pool": ["1532", "8749", "4268", "5846", "6137"],
+    "answer": "5846",
+    "desc": "Each of the numbers except 5846 is an odd number."
+  },
+  {
+    "q": "Which number is different from the others? 7851, 6432, 5789, 1325, 8167",
+    "pool": ["7851", "6432", "5789", "1325", "8167"],
+    "answer": "6432",
+    "desc": "Sum of digits in all except 6432 is 27."
+  },
+  {
+    "q": "Which number is different from the others? 372164, 376821, 318951, 319446, 387315",
+    "pool": ["372164", "376821", "318951", "319446", "387315"],
+    "answer": "372164",
+    "desc": "All except 372164 contain only odd digits."
+  },
+  {
+    "q": "Which number is different from the others? 11, 13, 15, 17",
+    "pool": ["11", "13", "15", "17"],
+    "answer": "15",
+    "desc": "15 is the only composite number; others are primes."
+  },
+  {
+    "q": "Which number is different from the others? 10, 11, 15, 16",
+    "pool": ["10", "11", "15", "16"],
+    "answer": "11",
+    "desc": "11 is the only prime number; others are composite."
+  },
+  {
+    "q": "Which number is different from the others? 37, 49, 132, 154",
+    "pool": ["37", "49", "132", "154"],
+    "answer": "37",
+    "desc": "37 is the only number that is a prime; others are composite."
+  },
+  {
+    "q": "Which number is different from the others? 21, 69, 81, 83",
+    "pool": ["21", "69", "81", "83"],
+    "answer": "81",
+    "desc": "81 is the only perfect square; others are not."
+  },
+  {
+    "q": "Which number is different from the others? 144, 168, 196, 256",
+    "pool": ["144", "168", "196", "256"],
+    "answer": "168",
+    "desc": "All except 168 are perfect squares."
+  },
+  {
+    "q": "Which number is different from the others? 49, 77, 196, 256",
+    "pool": ["49", "77", "196", "256"],
+    "answer": "77",
+    "desc": "All except 77 are perfect squares."
+  },
+  {
+    "q": "Which number is different from the others? 140, 240, 360, 480",
+    "pool": ["140", "240", "360", "480"],
+    "answer": "140",
+    "desc": "All except 140 are multiples of 120."
+  },
+  {
+    "q": "Which number is different from the others? 12, 24, 36, 48",
+    "pool": ["12", "24", "36", "48"],
+    "answer": "24",
+    "desc": "In all except 24, the product of the digits is 12."
+  },
+  {
+    "q": "Which number is different from the others? 150, 175, 200, 250",
+    "pool": ["150", "175", "200", "250"],
+    "answer": "175",
+    "desc": "All except 175 are even and multiples of 25."
+  },
+  {
+    "q": "Which number is different from the others? 21, 65, 126, 215",
+    "pool": ["21", "65", "126", "215"],
+    "answer": "28",
+    "desc": "28 is the only number with all digits even."
+  },
+  {
+    "q": "Which number is different from the others? 18, 3456, 5467, 5678, 248",
+    "pool": ["18", "3456", "5467", "5678", "248"],
+    "answer": "18",
+    "desc": "In all except 18, the digits form consecutive numbers."
+  },
+  {
+    "q": "Which number is different from the others? 2, 326, 414, 248",
+    "pool": ["2", "326", "414", "248"],
+    "answer": "2",
+    "desc": "In all except 2, the product of the digits is a perfect square."
+  },
+  {
+    "q": "Which number is different from the others? 2468, 2648, 4826, 6482",
+    "pool": ["2468", "2648", "4826", "6482"],
+    "answer": "2468",
+    "desc": "All except 2468 contain the digits 4, 6, 8, and 2 in different order."
+  },
+  {
+    "q": "Which number is different from the others? 8, 16, 56, 128",
+    "pool": ["8", "16", "56", "128"],
+    "answer": "56",
+    "desc": "Each of the numbers except 56 can be expressed as a power of 2."
+  },
+  {
+    "q": "Which number is different from the others? 9611, 7324, 2690, 1754",
+    "pool": ["9611", "7324", "2690", "1754"],
+    "answer": "7324",
+    "desc": "In all except 7324, the sum of the digits is 17."
+  },
+  {
+    "q": "Which number is different from the others? 119, 136, 147, 153",
+    "pool": ["119", "136", "147", "153"],
+    "answer": "119",
+    "desc": "119 is the only number with two unique prime factors (7 and 17), others repeat a factor."
+  },
+  {
+    "q": "Which number is different from the others? 7, 15, 31, 57",
+    "pool": ["7", "15", "31", "57"],
+    "answer": "57",
+    "desc": "All except 57 can be written as 2^n-1 for some n."
+  }
+]
