@@ -1,0 +1,249 @@
+[
+  {
+    "q": "During which period did Homo sapiens first appear?",
+    "pool": ["Lower Palaeolithic", "Middle Palaeolithic", "Upper Palaeolithic", "Neolithic", "Mesolithic", "Bronze Age", "Iron Age"],
+    "answer": "Upper Palaeolithic",
+    "desc": "Homo sapiens first appeared towards the end of the Palaeolithic period, specifically during the Upper Palaeolithic phase."
+  },
+  {
+    "q": "What was the main source of subsistence for humans during the Palaeolithic period?",
+    "pool": ["Agriculture", "Fishing", "Trading", "Pastoralism", "Hunting", "Mining", "Gathering"],
+    "answer": "Hunting",
+    "desc": "Humans during the Palaeolithic period mainly survived by hunting for their food."
+  },
+  {
+    "q": "What kind of tools were developed during the Palaeolithic period?",
+    "pool": ["Iron tools", "Bronze tools", "Quartzite tools", "Wooden tools", "Copper tools", "Bone tools", "Steel tools"],
+    "answer": "Quartzite tools",
+    "desc": "The Palaeolithic period is marked by the development of stone tools made from Quartzite."
+  },
+  {
+    "q": "Which of the following is NOT a phase of the Palaeolithic period?",
+    "pool": ["Lower Palaeolithic", "Middle Palaeolithic", "Upper Palaeolithic", "Mesolithic", "None of the above", "All are phases", "Bronze Age"],
+    "answer": "Mesolithic",
+    "desc": "The Palaeolithic period is divided into Lower, Middle, and Upper phases. The Mesolithic is a separate period that followed the Palaeolithic."
+  },
+  {
+    "q": "Which phase of the Palaeolithic period is the earliest?",
+    "pool": ["Upper Palaeolithic", "Middle Palaeolithic", "Lower Palaeolithic", "Neolithic", "Mesolithic", "Iron Age", "Copper Age"],
+    "answer": "Lower Palaeolithic",
+    "desc": "The Lower Palaeolithic is the earliest phase of the Palaeolithic period."
+  },
+  {
+    "q": "Which material was primarily used to make tools in the Palaeolithic period?",
+    "pool": ["Quartzite", "Bronze", "Iron", "Copper", "Clay", "Wood", "Marble"],
+    "answer": "Quartzite",
+    "desc": "Stone tools made from Quartzite were common in the Palaeolithic period."
+  },
+  {
+    "q": "The Palaeolithic period is part of which larger age classification?",
+    "pool": ["Stone Age", "Bronze Age", "Iron Age", "Medieval Age", "Modern Age", "Industrial Age", "Chalcolithic Age"],
+    "answer": "Stone Age",
+    "desc": "The Palaeolithic period is the earliest part of the Stone Age."
+  },
+  {
+    "q": "Which of these best describes the lifestyle of Palaeolithic humans?",
+    "pool": ["Settled agriculture", "Hunting and gathering", "Nomadic trading", "Metalworking", "Urban settlement", "Craftsmanship", "Tool manufacturing"],
+    "answer": "Hunting and gathering",
+    "desc": "Palaeolithic humans led a nomadic lifestyle focused on hunting and gathering for food."
+  },
+  {
+    "q": "Which of these is considered the final phase of the Palaeolithic period?",
+    "pool": ["Lower Palaeolithic", "Middle Palaeolithic", "Upper Palaeolithic", "Neolithic", "Mesolithic", "Chalcolithic", "Bronze Age"],
+    "answer": "Upper Palaeolithic",
+    "desc": "The Upper Palaeolithic marks the final phase of the Palaeolithic period."
+  },
+  {
+    "q": "Which phase of the Palaeolithic period witnessed the emergence of Homo sapiens?",
+    "pool": ["Lower", "Middle", "Upper", "Neolithic", "Mesolithic", "Chalcolithic", "Iron Age"],
+    "answer": "Upper",
+    "desc": "Homo sapiens emerged in the Upper Palaeolithic phase."
+  },
+  {
+    "q": "Which activity was least associated with Palaeolithic humans?",
+    "pool": ["Hunting", "Gathering", "Stone tool making", "Agriculture", "Fishing", "Cave dwelling", "Fire use"],
+    "answer": "Agriculture",
+    "desc": "Agriculture developed much later, during the Neolithic period."
+  },
+  {
+    "q": "What does 'Palaeolithic' literally mean?",
+    "pool": ["New Stone", "Old Stone", "Middle Stone", "Bronze Tools", "Iron Tools", "Cave Life", "Nomadic Life"],
+    "answer": "Old Stone",
+    "desc": "'Palaeolithic' is derived from Greek and means 'Old Stone'."
+  },
+  {
+    "q": "Which of the following came *after* the Palaeolithic period?",
+    "pool": ["Neolithic", "Iron Age", "Bronze Age", "Mesolithic", "All of these", "None of these", "Palaeolithic itself"],
+    "answer": "Mesolithic",
+    "desc": "The Mesolithic period followed the Palaeolithic and preceded the Neolithic."
+  },
+  {
+    "q": "What is a key characteristic of the Palaeolithic period?",
+    "pool": ["Metal use", "Quartzite tools", "Domestication", "Irrigation", "Writing", "Pottery", "Farming"],
+    "answer": "Quartzite tools",
+    "desc": "The use of Quartzite stone tools is a hallmark of the Palaeolithic period."
+  },
+  {
+    "q": "Which phase came immediately before the Upper Palaeolithic?",
+    "pool": ["Lower Palaeolithic", "Middle Palaeolithic", "Mesolithic", "Neolithic", "Iron Age", "Bronze Age", "Early Historic"],
+    "answer": "Middle Palaeolithic",
+    "desc": "The Middle Palaeolithic precedes the Upper Palaeolithic phase."
+  },
+  {
+    "q": "Which of the following was NOT practiced during the Palaeolithic period?",
+    "pool": ["Tool making", "Hunting", "Stone carving", "Farming", "Gathering", "Fire use", "Cave painting"],
+    "answer": "Farming",
+    "desc": "Farming practices began in the Neolithic period, not during the Palaeolithic."
+  },
+  {
+    "q": "Which of the following phases is the middle stage of the Palaeolithic era?",
+    "pool": ["Lower", "Middle", "Upper", "Neolithic", "Mesolithic", "Chalcolithic", "Modern"],
+    "answer": "Middle",
+    "desc": "The Middle Palaeolithic is the second phase in the Palaeolithic era."
+  },
+  {
+    "q": "What best describes the tools used during the Palaeolithic period?",
+    "pool": ["Polished stone", "Metal tools", "Crude stone", "Clay tools", "Iron tools", "Gold tools", "Glass tools"],
+    "answer": "Crude stone",
+    "desc": "The tools of the Palaeolithic period were mostly crude and made from stone like Quartzite."
+  },
+  {
+    "q": "What was the level of food production during the Palaeolithic era?",
+    "pool": ["None", "Self-sustained farming", "Large-scale farming", "Barely managed food", "Food surplus", "Advanced agriculture", "Trade-based"],
+    "answer": "Barely managed food",
+    "desc": "Humans in the Palaeolithic period barely managed food through hunting and gathering."
+  },
+  {
+    "q": "Which species is associated with the end of the Palaeolithic period?",
+    "pool": ["Homo habilis", "Homo erectus", "Homo sapiens", "Australopithecus", "Neanderthals", "Denisovans", "Cro-Magnon"],
+    "answer": "Homo sapiens",
+    "desc": "Homo sapiens appeared towards the end of the Palaeolithic period, particularly in the Upper Palaeolithic."
+  },
+  
+  {
+    "q": "Which period marks the beginning of animal domestication, particularly dogs?",
+    "pool": ["Paleolithic Period", "Mesolithic Period", "Neolithic Period", "Bronze Age", "Iron Age"],
+    "answer": "Mesolithic Period",
+    "desc": "The Mesolithic Period is known for the beginning of animal domestication, especially dogs."
+  },
+  {
+    "q": "What are the characteristic tools of the Mesolithic Period called?",
+    "pool": ["Macroliths", "Hand axes", "Microliths", "Cleavers", "Blades"],
+    "answer": "Microliths",
+    "desc": "Microliths are small, sharp tools typical of the Mesolithic Period."
+  },
+  {
+    "q": "Which of the following animals was first domesticated during the Mesolithic Period?",
+    "pool": ["Goat", "Sheep", "Horse", "Dog", "Cow"],
+    "answer": "Dog",
+    "desc": "Dogs were among the first animals to be domesticated during the Mesolithic Period."
+  },
+  {
+    "q": "Where is Bhimbetka, known for ancient cave paintings, located?",
+    "pool": ["Uttar Pradesh", "Maharashtra", "Karnataka", "Madhya Pradesh", "Rajasthan"],
+    "answer": "Madhya Pradesh",
+    "desc": "Bhimbetka is located in Madhya Pradesh and is famous for its prehistoric cave art."
+  },
+  {
+    "q": "What is Bhimbetka primarily famous for?",
+    "pool": ["Fortresses", "Temples", "Sculptures", "Cave paintings", "Inscriptions"],
+    "answer": "Cave paintings",
+    "desc": "Bhimbetka is renowned for its cave paintings depicting birds, animals, and humans."
+  },
+  {
+    "q": "Which of the following best describes microliths?",
+    "pool": ["Large stones used for building", "Tools made of metal", "Small stone tools used for hunting and cutting", "Clay utensils", "Wooden spears"],
+    "answer": "Small stone tools used for hunting and cutting",
+    "desc": "Microliths are small stone tools typical of the Mesolithic period, used for various purposes."
+  },
+  {
+    "q": "What do the paintings in Bhimbetka caves primarily depict?",
+    "pool": ["Abstract designs", "Religious rituals", "Geometric shapes", "Birds, animals and humans", "Tools and weapons"],
+    "answer": "Birds, animals and humans",
+    "desc": "The Bhimbetka cave paintings show scenes involving birds, animals, and human activities."
+  },
+  {
+    "q": "Which period comes immediately after the Paleolithic Period?",
+    "pool": ["Iron Age", "Bronze Age", "Mesolithic Period", "Neolithic Period", "Chalcolithic Period"],
+    "answer": "Mesolithic Period",
+    "desc": "The Mesolithic Period follows the Paleolithic and precedes the Neolithic Period."
+  },
+  {
+    "q": "The Mesolithic Period saw the beginning of which major human activity?",
+    "pool": ["Writing", "Metalworking", "Animal domestication", "Urbanization", "Pottery making"],
+    "answer": "Animal domestication",
+    "desc": "Animal domestication, especially of dogs, began during the Mesolithic Period."
+  },
+  {
+    "q": "Which of the following statements is true about Bhimbetka?",
+    "pool": ["It is a site of early metal tools", "It contains fossil remains of dinosaurs", "It is known for prehistoric cave paintings", "It is a Harappan city", "It is a medieval fort"],
+    "answer": "It is known for prehistoric cave paintings",
+    "desc": "Bhimbetka is a famous archaeological site known for its prehistoric cave paintings from the Mesolithic era."
+  },
+
+
+  {
+    "q": "Which period is associated with the knowledge of fire and the wheel?",
+    "pool": ["Paleolithic Period", "Mesolithic Period", "Neolithic Period", "Chalcolithic Period", "Iron Age"],
+    "answer": "Neolithic Period",
+    "desc": "The Neolithic Period is known for advancements such as the use of fire and the invention of the wheel."
+  },
+  {
+    "q": "What major technological invention did Neolithic people use along with fire?",
+    "pool": ["Plough", "Bow and arrow", "Wheel", "Pottery wheel", "Sickle"],
+    "answer": "Wheel",
+    "desc": "The wheel was a significant technological advancement during the Neolithic Period."
+  },
+  {
+    "q": "Which Neolithic site is known as ‘the place of birch’?",
+    "pool": ["Bhimbetka", "Burzahom", "Mehrgarh", "Chirand", "Hallur"],
+    "answer": "Burzahom",
+    "desc": "Burzahom, a Neolithic site, means 'the place of birch' and is located in present-day Kashmir."
+  },
+  {
+    "q": "Burzahom, a Neolithic site, is located in which present-day region?",
+    "pool": ["Uttar Pradesh", "Maharashtra", "Kerala", "Jammu and Kashmir", "Gujarat"],
+    "answer": "Jammu and Kashmir",
+    "desc": "Burzahom is a Neolithic archaeological site in present-day Jammu and Kashmir, India."
+  },
+  {
+    "q": "What is the literal meaning of the Neolithic site 'Burzahom'?",
+    "pool": ["Place of stones", "Land of fire", "Home of wheels", "The place of birch", "The valley of tools"],
+    "answer": "The place of birch",
+    "desc": "The word 'Burzahom' literally translates to 'the place of birch', reflecting the natural surroundings of the site."
+  },
+
+
+  {
+    "q": "What materials were primarily used for making tools during the Chalcolithic Period?",
+    "pool": ["Iron and Bronze", "Stone and Iron", "Copper and Stone", "Bronze and Stone", "Gold and Copper"],
+    "answer": "Copper and Stone",
+    "desc": "The Chalcolithic Period is known for the use of both copper and stone tools."
+  },
+  {
+    "q": "Which deity was venerated during the Chalcolithic Period?",
+    "pool": ["Sun God", "Rain God", "Mother Goddess", "Fire God", "Moon Goddess"],
+    "answer": "Mother Goddess",
+    "desc": "People in the Chalcolithic Period worshipped the Mother Goddess, symbolizing fertility."
+  },
+  {
+    "q": "Which animal was worshipped during the Chalcolithic Period?",
+    "pool": ["Horse", "Elephant", "Bull", "Lion", "Tiger"],
+    "answer": "Bull",
+    "desc": "The bull was considered sacred and worshipped during the Chalcolithic Period."
+  },
+  {
+    "q": "Which of the following was a key economic activity during the Chalcolithic Period?",
+    "pool": ["Industrial production", "Fishing", "Agriculture", "Mining", "Trade"],
+    "answer": "Agriculture",
+    "desc": "People of the Chalcolithic Period practiced agriculture as their main livelihood."
+  },
+  {
+    "q": "The term 'Chalcolithic' refers to the use of which materials?",
+    "pool": ["Chalk and Stone", "Coal and Bronze", "Iron and Stone", "Copper and Stone", "Bronze and Iron"],
+    "answer": "Copper and Stone",
+    "desc": "The word 'Chalcolithic' comes from Greek roots meaning copper (chalcos) and stone (lithos)."
+  }
+]
+
+

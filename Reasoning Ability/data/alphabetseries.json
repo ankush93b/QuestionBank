@@ -1,0 +1,176 @@
+[
+  {
+    "q": "A, C, E, G, ?, K, M",
+    "pool": ["H", "I", "J", "L", "N", "O", "Q"],
+    "answer": "I",
+    "desc": "The series follows alternate letters: +2 each time (A→C→E→G→I)."
+  },
+  {
+    "q": "Z, X, V, T, ?, P, N",
+    "pool": ["S", "R", "Q", "O", "M", "L", "K"],
+    "answer": "R",
+    "desc": "The series moves -2: Z→X→V→T→R."
+  },
+  {
+    "q": "B, D, G, K, ?, T",
+    "pool": ["N", "M", "O", "P", "Q", "R", "S"],
+    "answer": "P",
+    "desc": "Differences: +2, +3, +4, +5 → next is +6 (K→P)."
+  },
+  {
+    "q": "A, E, I, M, ?, U",
+    "pool": ["O", "P", "Q", "R", "S", "T", "V"],
+    "answer": "Q",
+    "desc": "Each letter is +4 from previous (A→E→I→M→Q)."
+  },
+  {
+    "q": "C, F, J, O, ?, Z",
+    "pool": ["R", "S", "T", "U", "V", "W", "X"],
+    "answer": "U",
+    "desc": "Gap increases: +3, +4, +5, +6 → O→U."
+  },
+  {
+    "q": "Z, Y, W, T, ?, M",
+    "pool": ["Q", "R", "S", "N", "P", "O", "L"],
+    "answer": "P",
+    "desc": "Reverse pattern: -1, -2, -3, -4 → T→P."
+  },
+  {
+    "q": "M, N, P, S, ?, Z",
+    "pool": ["U", "V", "W", "X", "Y", "Q", "T"],
+    "answer": "W",
+    "desc": "Increments: +1, +2, +3, +4 → S→W."
+  },
+  {
+    "q": "B, D, F, H, ?, L",
+    "pool": ["I", "J", "K", "M", "N", "O", "P"],
+    "answer": "J",
+    "desc": "Even position alphabets starting from B (B→D→F→H→J→L)."
+  },
+  {
+    "q": "A, D, I, P, ?, AH",
+    "pool": ["W", "X", "Y", "Z", "AA", "AB", "AC"],
+    "answer": "Y",
+    "desc": "Positions: 1,4,9,16,25→Y (square numbers)."
+  },
+  {
+    "q": "A, Z, B, Y, C, ?, ?",
+    "pool": ["W, D", "D, X", "X, D", "W, C", "E, V", "D, E", "X, E"],
+    "answer": "X, D",
+    "desc": "Forward and backward alternation: A→B→C→D, Z→Y→X."
+  },
+  {
+    "q": "K, I, F, B, ?, ?",
+    "pool": ["Z, W", "Y, V", "X, T", "W, Q", "V, M", "U, J", "T, G"],
+    "answer": "W, Q",
+    "desc": "Differences: -2, -3, -4, -5 → B→W, then -6 → Q."
+  },
+  {
+    "q": "D, F, H, J, ?, ?",
+    "pool": ["L, N", "K, M", "M, O", "L, P", "N, Q", "K, O", "J, M"],
+    "answer": "L, N",
+    "desc": "Skipping 1 letter forward each step (D→F→H→J→L→N)."
+  },
+  {
+    "q": "C, E, H, L, ?, ?",
+    "pool": ["P, U", "P, Q", "M, P", "Q, R", "O, S", "N, R", "S, T"],
+    "answer": "Q, W",
+    "desc": "Gaps increase: +2, +3, +4, +5 → L+5=Q, +6=W."
+  },
+  {
+    "q": "Z, W, S, N, ?, ?",
+    "pool": ["H, A", "J, E", "I, C", "K, B", "G, D", "F, E", "H, F"],
+    "answer": "H, A",
+    "desc": "Gaps: -3, -4, -5, -6 → N-6=H, then -7=A."
+  },
+  {
+    "q": "A, C, F, J, ?, ?",
+    "pool": ["O, U", "N, U", "K, Q", "O, S", "M, R", "P, T", "L, V"],
+    "answer": "O, U",
+    "desc": "Gaps: +2, +3, +4, +5 → J+5=O, +6=U."
+  },
+  {
+    "q": "M, K, H, D, ?, ?",
+    "pool": ["A, Y", "B, Z", "C, W", "E, B", "F, A", "G, C", "H, D"],
+    "answer": "A, Y",
+    "desc": "Gaps: -2, -3, -4, -5 → D-5=A; continue with -6 = Y."
+  },
+  {
+    "q": "Z, X, U, Q, ?, ?",
+    "pool": ["L, H", "M, I", "N, J", "O, K", "P, L", "Q, M", "R, N"],
+    "answer": "L, H",
+    "desc": "Gaps: -2, -3, -4, -5 → Q-5=L, -6=H."
+  },
+  {
+    "q": "C, F, J, O, ?, ?",
+    "pool": ["U, B", "U, A", "U, C", "T, D", "S, E", "V, F", "W, G"],
+    "answer": "U, B",
+    "desc": "Gaps: +3, +4, +5, +6 → O+6=U, +7=B (wrap around)."
+  },
+  {
+    "q": "B, E, H, K, ?, ?",
+    "pool": ["M, N", "N, Q", "P, R", "O, S", "Q, T", "R, U", "S, V"],
+    "answer": "N, Q",
+    "desc": "Gaps of +3 repeatedly (B+3=E, E+3=H, etc.)."
+  },
+  {
+    "q": "Z, V, Q, ?, ?",
+    "pool": ["K, F", "L, G", "M, H", "N, I", "O, J", "P, K", "Q, L"],
+    "answer": "K, F",
+    "desc": "Decrement pattern: -4, -5, -6 → Q-6=K, -7=F."
+  },
+  {
+    "q": "F, I, M, R, ?, ?",
+    "pool": ["X, E", "Y, F", "Z, G", "W, D", "V, B", "U, A", "T, Z"],
+    "answer": "X, E",
+    "desc": "Increments: +3, +4, +5, +6 → R+6=X, +7=E."
+  },
+  {
+    "q": "A, B, D, G, ?, ?",
+    "pool": ["K, P", "K, O", "I, L", "J, M", "H, K", "I, N", "L, Q"],
+    "answer": "K, P",
+    "desc": "Gaps: +1, +2, +3, +4, +5 → G+4=K, +5=P."
+  },
+  {
+    "q": "C, H, N, ?, ?",
+    "pool": ["E, I", "U, B", "U, A", "V, B", "W, C", "T, D", "S, E"],
+    "answer": "U, B",
+    "desc": "+5, +6, +7 → N+7=U, +8=B."
+  },
+  {
+    "q": "M, J, F, ?, ?",
+    "pool": ["B, Y", "C, X", "D, W", "E, V", "F, U", "G, T", "H, S"],
+    "answer": "A, W",
+    "desc": "Gaps: -3, -4, -5 → F-5=A, -6=W."
+  },
+  {
+    "q": "E, J, O, T, ?, ?",
+    "pool": ["Y, D", "Z, E", "A, F", "B, G", "C, H", "D, I", "E, J"],
+    "answer": "Y, D",
+    "desc": "Gap +5 each time: E+5=J, +5=O, etc."
+  },
+  {
+    "q": "B, D, G, K, ?, ?",
+    "pool": ["P, V", "P, U", "O, T", "Q, W", "R, X", "S, Y", "T, Z"],
+    "answer": "P, V",
+    "desc": "Increasing gaps: +2, +3, +4, +5 → K+5=P, +6=V."
+  },
+  {
+    "q": "Z, V, Q, K, ?, ?",
+    "pool": ["E, X", "F, Y", "D, Z", "G, W", "H, V", "I, U", "J, T"],
+    "answer": "D, X",
+    "desc": "Decreasing: -4, -5, -6, -7 → K-7=D, -8=X."
+  },
+  {
+    "q": "C, E, H, L, ?, ?",
+    "pool": ["Q, X", "P, Y", "R, Z", "S, A", "T, B", "U, C", "V, D"],
+    "answer": "Q, X",
+    "desc": "Increasing gaps: +2, +3, +4, +5, +6 → L+5=Q, +6=X."
+  },
+  {
+    "q": "A, D, I, P, ?, ?",
+    "pool": ["Y, J", "Z, K", "AA, L", "AB, M", "AC, N", "AD, O", "AE, P"],
+    "answer": "Y, J",
+    "desc": "Alphabet positions: 1,4,9,16,25 → square series."
+  }
+]

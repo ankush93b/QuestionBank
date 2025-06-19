@@ -13,7 +13,7 @@
 </script>
 
     <meta charset="UTF-8">
-    <title>Currency Symbols</title>
+    <title>Countries Flags</title>
     <link rel="icon" href="../images/favicon_aware.ico" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://www.gstatic.com/firebasejs/10.11.1/firebase-app-compat.js"></script>
@@ -111,8 +111,8 @@
             text-align: left;
         }
         .question-image-wrapper {
-            width: 70px;
-            height: 70px;
+            width: 100px;
+            height: 100px;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -121,8 +121,8 @@
             padding-bottom: 15px;
         }
         .question-image {
-            max-width: 60px;
-            height: auto;           
+            height: 100px;
+            width: auto;           
             
             user-drag: none;
             -webkit-user-drag: none;
@@ -610,32 +610,18 @@ window.showModal = showModal;
         // Pool of questions, each with 7 options and 1 correct answer (by value)
         // Now, each question can optionally have an "image" property (relative or absolute path)
         const questions = [
-            { q: "This is the symbol of which currency?", pool: ["Dinar", "Ruble", "Peso", "Taka", "Baht", "Dollar", "Euro"], answer: "Ruble", image: "../images/currency/ruble.png" },
-            { q: "This is the symbol of which currency?", pool: ["Euro", "Baht", "Pound", "Dollar", "Peso", "Dinar"], answer: "Pound", image: "../images/currency/Pound.png"},
-            { q: "This is the symbol of which currency?", pool: ["Rupee", "Franc", "Rial", "Dollar", "Peso", "Dinar"], answer: "Dollar", image: "../images/currency/Dollar.png"},
-            { q: "This is the symbol of which currency?", pool: ["Won", "Lira", "Pound", "Dollar", "Euro", "Dinar"], answer: "Euro", image: "../images/currency/Euro.png"},
-            { q: "This is the symbol of which currency?", pool: ["Yuan", "Yen", "Won", "Dollar", "Euro", "Rupee"], answer: "Yuan", image: "../images/currency/Yuan.png"},
-            { q: "This is the symbol of which currency?", pool: ["Peso", "Taka", "Krona", "Lira", "Euro", "Rupee"], answer: "Lira", image: "../images/currency/Lira.png"},
-            { q: "This is the symbol of which currency?", pool: ["Manat", "Dirham", "Krona", "Lira", "Euro", "Rupee"], answer: "Rupee", image: "../images/currency/Rupee.png"},
-            { q: "This is the symbol of which currency?", pool: ["Dong", "Dirham", "Sterling", "Lira", "Euro", "Franc"], answer: "Franc", image: "../images/currency/Franc.png"},
-            { q: "This is the symbol of which currency?", pool: ["Leu", "Yuan", "Yen", "Sol", "Euro"], answer: "Yen", image: "../images/currency/Yen.png"},
-            { q: "This is the symbol of which currency?", pool: ["Lira", "Peso", "Euro", "Taka", "Riyal"], answer: "Taka", image: "../images/currency/Taka.png"},
-            { q: "This is the symbol of which currency?", pool: ["Euro", "Dollar", "Pound", "Won", "Yen"], answer: "Won", image: "../images/currency/Won.png"},
-            { q: "This is the symbol of which currency?", pool: ["Shilling", "Shekel", "Guilder", "Won", "Yen"], answer: "Shekel", image: "../images/currency/Shekel.png"},
-            { q: "This is the symbol of which currency?", pool: ["Peso", "Rial", "Lira", "Baht", "Guilder"], answer: "Peso", image: "../images/currency/Peso.png"},
-            { q: "This is the symbol of which currency?", pool: ["Manat", "Taka", "Dollar", "Rupee", "Shekel"], answer: "Manat", image: "../images/currency/Manat.png"},
-            { q: "This is the symbol of which currency?", pool: ["Dram", "Colon", "Lev", "Yuan", "Shekel"], answer: "Colon", image: "../images/currency/Colon.png"},
-            { q: "This is the symbol of which currency?", pool: ["Shilling", "Riyal", "Franc", "Guilder", "Peso"], answer: "Guilder", image: "../images/currency/Guilder.png"},
-            { q: "This is the symbol of which currency?", pool: ["Franc", "Krona", "Kip", "Colon", "Yuan"], answer: "Kip", image: "../images/currency/Kip.png"},
-            { q: "This is the symbol of which currency?", pool: ["Dollar", "Hryvnia", "Shilling", "Shekel", "Euro"], answer: "Hryvnia", image: "../images/currency/Hryvnia.png"},
-            { q: "This is the symbol of which currency?", pool: ["Cedi", "Dong", "Renminbi", "Shekel", "Euro"], answer: "Renminbi", image: "../images/currency/Renminbi.png"},
-            { q: "This is the symbol of which currency?", pool: ["Tugrik", "Taka", "Tenge", "Dollar", "Yuan"], answer: "Tugrik", image: "../images/currency/Tugrik.png"},
-            { q: "This is the symbol of which currency?", pool: ["Lari", "Lira", "Tugrik", "Hryvnia", "Dong"], answer: "Lari", image: "../images/currency/Lari.png"},
-            { q: "This is the symbol of which currency?", pool: ["Shekel", "Shilling", "Sum", "Dollar", "Euro"], answer: "Sum", image: "../images/currency/Sum.png"},
-            { q: "This is the symbol of which currency?", pool: ["Tugrik", "Tenge", "Lira", "Dinar", "Taka"], answer: "Tenge", image: "../images/currency/Tenge.png"},
-            { q: "This is the symbol of which currency?", pool: ["Franc", "Lev", "Peso", "Leu", "Lira"], answer: "Lev", image: "../images/currency/Lev.png"},
-            { q: "This is the symbol of which currency?", pool: ["Baht", "Bitcoin", "Balboa", "Som", "Zloty"], answer: "Balboa", image: "../images/currency/Balboa.png"},
-            { q: "This is the symbol of which currency?", pool: ["Shilling", "Guilder", "Guarani", "Som", "Zloty"], answer: "Zloty", image: "../images/currency/Zloty.png"},           
+            { q: "This is the flag of which Country?", pool: ["India", "Burma", "Sri Lanka", "Thailand"], answer: "Sri Lanka", image: "../images/flags/Sri Lanka.png" },
+            { q: "This is the flag of which Country?", pool: ["China", "Nepal", "Japan", "Myanmar"], answer: "Nepal", image: "../images/flags/Nepal.png" },
+            { q: "This is the flag of which Country?", pool: ["Pakistan", "Burma", "Bhutan", "Japan"], answer: "Pakistan", image: "../images/flags/Pakistan.png" },
+            { q: "This is the flag of which Country?", pool: ["Afghanistan", "Bangladesh", "Myanmar", "Laos"], answer: "Bangladesh", image: "../images/flags/Bangladesh.png" },
+            { q: "This is the flag of which Country?", pool: ["India", "Sri Lanka ", "Nepal", "Bhutan"], answer: "India", image: "../images/flags/India.png" },
+            { q: "This is the flag of which Country?", pool: ["China", "Mongolia", "Bhutan", "South Korea"], answer: "Bhutan", image: "../images/flags/Bhutan.png" },
+            { q: "This is the flag of which Country?", pool: ["Thailand", "Laos", "Vietnam", "Myanmar"], answer: "Myanmar", image: "../images/flags/Myanmar.png" },
+            { q: "This is the flag of which Country?", pool: ["Turkey", "Poland", "Russia", "Italy"], answer: "Russia", image: "../images/flags/Russia.png" },
+            { q: "This is the flag of which Country?", pool: ["Pakistan", "Japan", "South Korea", "China"], answer: "China", image: "../images/flags/China.png" },
+            { q: "This is the flag of which Country?", pool: ["UK", "USA", "Germany", "Spain"], answer: "USA", image: "../images/flags/USA.png" },
+            { q: "This is the flag of which Country?", pool: ["United Kingdom", "USA", "Portugal", "Nigeria"], answer: "United Kingdom", image: "../images/flags/United Kingdom.png" },
+            { q: "This is the flag of which Country?", pool: ["France", "Ireland", "Germany", "Finland"], answer: "Germany", image: "../images/flags/Germany.png" },
             
         ];
 

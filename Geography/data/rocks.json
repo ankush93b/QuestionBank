@@ -1,0 +1,184 @@
+[
+  {
+    "q": "What are rocks made up of?",
+    "pool": ["Water", "Air", "Minerals", "Gases", "Metals", "Plants"],
+    "answer": "Minerals",
+    "desc": "Rocks are made up of individual substances called minerals."
+  },
+  {
+    "q": "In what state are minerals found in rocks?",
+    "pool": ["Liquid", "Gas", "Solid", "Plasma", "Semi-liquid", "Colloidal"],
+    "answer": "Solid",
+    "desc": "Minerals in rocks are mostly found in solid state."
+  },
+  {
+    "q": "Which of these is not a type of rock?",
+    "pool": ["Igneous", "Sedimentary", "Metamorphic", "Crystalline", "None of these", "All of these"],
+    "answer": "Crystalline",
+    "desc": "The three main types of rocks are Igneous, Sedimentary, and Metamorphic."
+  },
+  {
+    "q": "How are igneous rocks formed?",
+    "pool": [
+      "Through weathering",
+      "By sedimentation",
+      "By cooling of molten magma",
+      "By water erosion",
+      "By compression of fossils",
+      "By wind action"
+    ],
+    "answer": "By cooling of molten magma",
+    "desc": "Igneous rocks form when molten magma cools and solidifies."
+  },
+  {
+    "q": "Which of the following is an igneous rock?",
+    "pool": ["Gypsum", "Granite", "Peat", "Slate", "Limestone", "Schist"],
+    "answer": "Granite",
+    "desc": "Granite is an igneous rock formed from cooled magma."
+  },
+  {
+    "q": "Which of these rocks is formed by accumulation of particles?",
+    "pool": ["Granite", "Mica", "Gneiss", "Gypsum", "Marble", "Quartzite"],
+    "answer": "Gypsum",
+    "desc": "Gypsum is a sedimentary rock formed by the accumulation of particles and organic matter."
+  },
+  {
+    "q": "What causes sedimentary rocks to form layers?",
+    "pool": ["Volcanic eruption", "High temperature", "Wind erosion", "Tremendous pressure", "Chemical bonding", "Melting of ice"],
+    "answer": "Tremendous pressure",
+    "desc": "Sedimentary rocks form layers due to the accumulation of materials under high pressure."
+  },
+  {
+    "q": "Which of the following is a metamorphic rock?",
+    "pool": ["Peat", "Gravel", "Quartzite", "Basalt", "Limestone", "Clay"],
+    "answer": "Quartzite",
+    "desc": "Quartzite is a metamorphic rock formed from sandstone."
+  },
+  {
+    "q": "What is the original rock of Gneiss?",
+    "pool": ["Basalt", "Granite", "Limestone", "Sandstone", "Clay", "Shale"],
+    "answer": "Granite",
+    "desc": "Gneiss is a metamorphic rock that originates from granite."
+  },
+  {
+    "q": "Which metamorphic rock is formed from Basalt?",
+    "pool": ["Gneiss", "Green-stone", "Marble", "Slate", "Mica", "Graphite"],
+    "answer": "Green-stone",
+    "desc": "Basalt transforms into Green-stone under heat and pressure."
+  },
+  {
+    "q": "Marble is formed from which sedimentary rock?",
+    "pool": ["Coal", "Shale", "Limestone", "Clay", "Peat", "Sandstone"],
+    "answer": "Limestone",
+    "desc": "Marble is the metamorphic form of limestone."
+  },
+  {
+    "q": "Which of the following metamorphic rocks is formed from sandstone?",
+    "pool": ["Marble", "Quartzite", "Gneiss", "Slate", "Schist", "Peat"],
+    "answer": "Quartzite",
+    "desc": "Quartzite is formed when sandstone undergoes metamorphism."
+  },
+  {
+    "q": "Which of these rocks is used for writing due to its smooth surface?",
+    "pool": ["Marble", "Slate", "Mica", "Schist", "Granite", "Gneiss"],
+    "answer": "Slate",
+    "desc": "Slate, a metamorphic rock, is often used for writing surfaces like blackboards."
+  },
+  {
+    "q": "Coal can transform into which metamorphic form?",
+    "pool": ["Schist", "Graphite", "Gneiss", "Slate", "Mica", "Green-stone"],
+    "answer": "Graphite",
+    "desc": "Coal can transform into graphite under intense heat and pressure."
+  },
+  {
+    "q": "What is the process of breaking down rocks into smaller fragments called?",
+    "pool": ["Erosion", "Sedimentation", "Weathering", "Crystallization", "Solidification", "Compression"],
+    "answer": "Weathering",
+    "desc": "Weathering is the chemical or physical breakdown of rocks into fragments."
+  },
+  {
+    "q": "Which process directly leads to the formation of sedimentary rocks?",
+    "pool": [
+      "Cooling of magma",
+      "Heat and pressure",
+      "Accumulation and compression of particles",
+      "Melting of snow",
+      "Crystallization of salt",
+      "Lava solidification"
+    ],
+    "answer": "Accumulation and compression of particles",
+    "desc": "Sedimentary rocks are formed through accumulation and compression of sediments."
+  },
+  {
+    "q": "Which rock transforms into Schist through metamorphism?",
+    "pool": ["Coal", "Shale", "Limestone", "Granite", "Basalt", "Sandstone"],
+    "answer": "Shale",
+    "desc": "Shale transforms into Schist under pressure and heat."
+  },
+  {
+    "q": "Which is a common feature of sedimentary rocks?",
+    "pool": ["Crystals", "Layering", "Glassy texture", "Vesicles", "Banding", "Foliation"],
+    "answer": "Layering",
+    "desc": "Sedimentary rocks often display layering due to deposition in strata."
+  },
+  {
+    "q": "Which rock type forms the Earth's crust predominantly?",
+    "pool": ["Igneous", "Sedimentary", "Metamorphic", "Fossil", "Organic", "Crystalline"],
+    "answer": "Igneous",
+    "desc": "Igneous rocks form the bulk of the Earth's crust."
+  },
+  {
+    "q": "Which of these rocks is NOT formed from sedimentary origin?",
+    "pool": ["Marble", "Slate", "Quartzite", "Green-stone", "Gneiss", "Peat"],
+    "answer": "Green-stone",
+    "desc": "Green-stone is formed from the igneous rock Basalt, not from sedimentary origin."
+  },
+
+  
+
+  {
+    "q": "Which metamorphic rock can originate from clay?",
+    "pool": ["Schist", "Slate", "Mica", "Gneiss", "Graphite", "Quartzite"],
+    "answer": "Slate",
+    "desc": "Clay can undergo metamorphism to become slate."
+  },
+  {
+    "q": "What changes sedimentary or igneous rocks into metamorphic rocks?",
+    "pool": [
+      "Sunlight and air",
+      "Water and ice",
+      "Pressure and heat",
+      "Oxidation",
+      "Freezing",
+      "Radioactivity"
+    ],
+    "answer": "Pressure and heat",
+    "desc": "Metamorphic rocks are formed when existing rocks are altered by pressure and heat."
+  },
+  {
+    "q": "What is the original rock for mica?",
+    "pool": ["Clay", "Sandstone", "Limestone", "Basalt", "Shale", "Coal"],
+    "answer": "Shale",
+    "desc": "Mica can be formed as a result of metamorphism from shale."
+  },
+
+ 
+  {
+    "q": "What type of rock is Peat?",
+    "pool": ["Igneous", "Metamorphic", "Sedimentary", "Volcanic", "Organic", "None"],
+    "answer": "Sedimentary",
+    "desc": "Peat is a sedimentary rock formed from organic material."
+  },
+  {
+    "q": "Which of these is the metamorphic form of shale?",
+    "pool": ["Slate", "Marble", "Granite", "Green-stone", "Coal", "Gypsum"],
+    "answer": "Slate",
+    "desc": "Slate is formed by metamorphism of shale."
+  },
+  {
+    "q": "How many major types of rocks exist?",
+    "pool": ["2", "3", "4", "5", "6", "7"],
+    "answer": "3",
+    "desc": "Rocks are classified into three main types: Igneous, Sedimentary, and Metamorphic."
+  }
+]

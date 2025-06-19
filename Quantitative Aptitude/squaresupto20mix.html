@@ -13,8 +13,8 @@
 </script>
 
     <meta charset="UTF-8">
-    <title>Currency Symbols</title>
-    <link rel="icon" href="../images/favicon_aware.ico" type="image/x-icon">
+    <title>Tables Practice</title>
+    <link rel="icon" href="../images/favicon_math.ico" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://www.gstatic.com/firebasejs/10.11.1/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.11.1/firebase-auth-compat.js"></script>
@@ -108,27 +108,7 @@
             margin-bottom: 18px; 
             display: block; 
             word-break: break-word; 
-            text-align: left;
         }
-        .question-image-wrapper {
-            width: 70px;
-            height: 70px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin: 0 auto 22px auto;
-            padding-top: 15px;
-            padding-bottom: 15px;
-        }
-        .question-image {
-            max-width: 60px;
-            height: auto;           
-            
-            user-drag: none;
-            -webkit-user-drag: none;
-            user-select: none;
-            pointer-events: none;
-}
         .options { 
             display: flex; 
             flex-direction: column; 
@@ -464,9 +444,6 @@
         </span>
         <div id="quizArea">
             <div class="question" id="question"></div>
-            <div class="question-image-wrapper" id="questionImageWrapper" style="display:none;">
-                <img id="questionImage" class="question-image" src="" alt="Question image">
-            </div>
             <div class="options" id="options"></div>
             <button class="submit-btn" id="submitBtn">Submit</button>
         </div>
@@ -485,55 +462,6 @@
         </div>
     </div>
     <script>
-        // Place this OUTSIDE any function, near the top of your script
-
-function showModal(type) {
-    const backdrop = document.getElementById('modalBackdrop');
-    const titleDiv = document.getElementById('modalTitle');
-    const listOl = document.getElementById('modalList');
-    let filtered = answersLog.filter(a => (type === "right" ? a.isCorrect : !a.isCorrect));
-    titleDiv.textContent = type === "right" ? "Correct Answers" : "Wrong Answers";
-    listOl.innerHTML = "";
-    if (filtered.length === 0) {
-        listOl.innerHTML = `<li>No ${type} answers.</li>`;
-    } else {
-        filtered.forEach((item, idx) => {
-            let optionsHtml = "";
-            (item.options || []).forEach((opt, i) => {
-                let mark = "";
-                if (opt === item.correct && opt === item.chosen) {
-                    mark = `<span class="modal-ans right">(Your Ans, Correct)</span>`;
-                } else if (opt === item.chosen && opt !== item.correct) {
-                    mark = `<span class="modal-ans wrong">(Your Ans)</span>`;
-                } else if (opt === item.correct) {
-                    mark = `<span class="modal-ans right">(Correct)</span>`;
-                }
-                optionsHtml += `<li>${opt} ${mark}</li>`;
-            });
-
-            // Find the question object to get the image
-            let qObj = questions[item.questionIdx];
-            let imageHtml = "";
-            if (qObj && qObj.image) {
-                imageHtml = `
-                    <div class="question-image-wrapper" style="margin-bottom: 10px; display: flex; justify-content: center;">
-                        <img class="question-image" src="${qObj.image}" alt="Question image" style="max-width: 50px; display: block;">
-                    </div>
-                `;
-            }
-
-            listOl.innerHTML += `
-                <li>
-                    ${imageHtml}
-                    <span class="modal-question">Q${idx+1}. ${item.question}</span>
-                    <ul class="modal-options">${optionsHtml}</ul>
-                </li>
-            `;
-        });
-    }
-    backdrop.classList.add("active");
-}
-window.showModal = showModal;
         // Define these globally!
         const subject = getQueryParam('subject');
         const topic = getQueryParam('topic');
@@ -608,37 +536,22 @@ window.showModal = showModal;
         }
 
         // Pool of questions, each with 7 options and 1 correct answer (by value)
-        // Now, each question can optionally have an "image" property (relative or absolute path)
-        const questions = [
-            { q: "This is the symbol of which currency?", pool: ["Dinar", "Ruble", "Peso", "Taka", "Baht", "Dollar", "Euro"], answer: "Ruble", image: "../images/currency/ruble.png" },
-            { q: "This is the symbol of which currency?", pool: ["Euro", "Baht", "Pound", "Dollar", "Peso", "Dinar"], answer: "Pound", image: "../images/currency/Pound.png"},
-            { q: "This is the symbol of which currency?", pool: ["Rupee", "Franc", "Rial", "Dollar", "Peso", "Dinar"], answer: "Dollar", image: "../images/currency/Dollar.png"},
-            { q: "This is the symbol of which currency?", pool: ["Won", "Lira", "Pound", "Dollar", "Euro", "Dinar"], answer: "Euro", image: "../images/currency/Euro.png"},
-            { q: "This is the symbol of which currency?", pool: ["Yuan", "Yen", "Won", "Dollar", "Euro", "Rupee"], answer: "Yuan", image: "../images/currency/Yuan.png"},
-            { q: "This is the symbol of which currency?", pool: ["Peso", "Taka", "Krona", "Lira", "Euro", "Rupee"], answer: "Lira", image: "../images/currency/Lira.png"},
-            { q: "This is the symbol of which currency?", pool: ["Manat", "Dirham", "Krona", "Lira", "Euro", "Rupee"], answer: "Rupee", image: "../images/currency/Rupee.png"},
-            { q: "This is the symbol of which currency?", pool: ["Dong", "Dirham", "Sterling", "Lira", "Euro", "Franc"], answer: "Franc", image: "../images/currency/Franc.png"},
-            { q: "This is the symbol of which currency?", pool: ["Leu", "Yuan", "Yen", "Sol", "Euro"], answer: "Yen", image: "../images/currency/Yen.png"},
-            { q: "This is the symbol of which currency?", pool: ["Lira", "Peso", "Euro", "Taka", "Riyal"], answer: "Taka", image: "../images/currency/Taka.png"},
-            { q: "This is the symbol of which currency?", pool: ["Euro", "Dollar", "Pound", "Won", "Yen"], answer: "Won", image: "../images/currency/Won.png"},
-            { q: "This is the symbol of which currency?", pool: ["Shilling", "Shekel", "Guilder", "Won", "Yen"], answer: "Shekel", image: "../images/currency/Shekel.png"},
-            { q: "This is the symbol of which currency?", pool: ["Peso", "Rial", "Lira", "Baht", "Guilder"], answer: "Peso", image: "../images/currency/Peso.png"},
-            { q: "This is the symbol of which currency?", pool: ["Manat", "Taka", "Dollar", "Rupee", "Shekel"], answer: "Manat", image: "../images/currency/Manat.png"},
-            { q: "This is the symbol of which currency?", pool: ["Dram", "Colon", "Lev", "Yuan", "Shekel"], answer: "Colon", image: "../images/currency/Colon.png"},
-            { q: "This is the symbol of which currency?", pool: ["Shilling", "Riyal", "Franc", "Guilder", "Peso"], answer: "Guilder", image: "../images/currency/Guilder.png"},
-            { q: "This is the symbol of which currency?", pool: ["Franc", "Krona", "Kip", "Colon", "Yuan"], answer: "Kip", image: "../images/currency/Kip.png"},
-            { q: "This is the symbol of which currency?", pool: ["Dollar", "Hryvnia", "Shilling", "Shekel", "Euro"], answer: "Hryvnia", image: "../images/currency/Hryvnia.png"},
-            { q: "This is the symbol of which currency?", pool: ["Cedi", "Dong", "Renminbi", "Shekel", "Euro"], answer: "Renminbi", image: "../images/currency/Renminbi.png"},
-            { q: "This is the symbol of which currency?", pool: ["Tugrik", "Taka", "Tenge", "Dollar", "Yuan"], answer: "Tugrik", image: "../images/currency/Tugrik.png"},
-            { q: "This is the symbol of which currency?", pool: ["Lari", "Lira", "Tugrik", "Hryvnia", "Dong"], answer: "Lari", image: "../images/currency/Lari.png"},
-            { q: "This is the symbol of which currency?", pool: ["Shekel", "Shilling", "Sum", "Dollar", "Euro"], answer: "Sum", image: "../images/currency/Sum.png"},
-            { q: "This is the symbol of which currency?", pool: ["Tugrik", "Tenge", "Lira", "Dinar", "Taka"], answer: "Tenge", image: "../images/currency/Tenge.png"},
-            { q: "This is the symbol of which currency?", pool: ["Franc", "Lev", "Peso", "Leu", "Lira"], answer: "Lev", image: "../images/currency/Lev.png"},
-            { q: "This is the symbol of which currency?", pool: ["Baht", "Bitcoin", "Balboa", "Som", "Zloty"], answer: "Balboa", image: "../images/currency/Balboa.png"},
-            { q: "This is the symbol of which currency?", pool: ["Shilling", "Guilder", "Guarani", "Som", "Zloty"], answer: "Zloty", image: "../images/currency/Zloty.png"},           
-            
-        ];
+        
+        let questions = [];
 
+        fetch('data/squaresupto20mix.json')
+        .then(response => response.json())
+        .then(data => {
+            questions = data;
+            startNewCycle();
+            loadQuestion();
+            updateTimerDisplay();
+            timerInterval = setInterval(tick, 1000);
+        })
+        .catch(err => {
+            document.getElementById('question').textContent = 'Failed to load questions.';
+        });
+        
         // TIMER LOGIC
         let timer = 300; // 5 mins in seconds
         let elapsed = 0; // elapsed time in seconds if untimed
@@ -710,7 +623,6 @@ window.showModal = showModal;
             }
             return options;
         }
-
         function loadQuestion() {
             if (testEnded) return;
             if (questionOrder.length === 0 || questionPointer >= questionOrder.length) {
@@ -719,19 +631,6 @@ window.showModal = showModal;
             let idx = questionOrder[questionPointer];
             const q = questions[idx];
             document.getElementById('question').textContent = `Q${totalAnswered+1}. ${q.q}`;
-
-            // Handle question image (additions below!)
-            const imageWrapper = document.getElementById('questionImageWrapper');
-            const imageEl = document.getElementById('questionImage');
-            if (q.image) {
-                imageEl.src = q.image;
-                imageEl.style.display = '';
-                imageWrapper.style.display = 'flex';
-            } else {
-                imageEl.src = '';
-                imageWrapper.style.display = 'none';
-            }
-
             const optionsDiv = document.getElementById('options');
             optionsDiv.innerHTML = "";
             const randomOptions = getRandomOptions(q.pool, q.answer);
@@ -756,7 +655,6 @@ window.showModal = showModal;
             if (correct) correctCount++;
             answersLog.push({
                 question: q.q,
-                questionIdx: qIdx,
                 chosen: optValue,
                 correct: q.answer,
                 options: usedOptions.slice(),
@@ -893,7 +791,42 @@ window.showModal = showModal;
                 time
             });
         }
-        
+        // Modal logic
+        function showModal(type) {
+            const backdrop = document.getElementById('modalBackdrop');
+            const titleDiv = document.getElementById('modalTitle');
+            const listOl = document.getElementById('modalList');
+            let filtered = answersLog.filter(a => (type === "right" ? a.isCorrect : !a.isCorrect));
+            titleDiv.textContent = type === "right" ? "Correct Answers" : "Wrong Answers";
+            listOl.innerHTML = "";
+            if (filtered.length === 0) {
+                listOl.innerHTML = `<li>No ${type} answers.</li>`;
+            } else {
+                filtered.forEach((item, idx) => {
+                    let optionsHtml = "";
+                    (item.options || []).forEach((opt, i) => {
+                        let mark = "";
+                        if (opt === item.correct && opt === item.chosen) {
+                            mark = `<span class="modal-ans right">(Your Ans, Correct)</span>`;
+                        } else if (opt === item.chosen && opt !== item.correct) {
+                            mark = `<span class="modal-ans wrong">(Your Ans)</span>`;
+                        } else if (opt === item.correct) {
+                            mark = `<span class="modal-ans right">(Correct)</span>`;
+                        }
+                        optionsHtml += `<li>${opt} ${mark}</li>`;
+                    });
+                    listOl.innerHTML += `
+                        <li>
+                            <span class="modal-question">Q${idx+1}. ${item.question}</span>
+                            <ul class="modal-options">${optionsHtml}</ul>
+                        </li>
+                    `;
+                });
+            }
+            backdrop.classList.add("active");
+        }
+        window.showModal = showModal;
+
         document.getElementById('modalCloseBtn').onclick = function() {
             document.getElementById('modalBackdrop').classList.remove("active");
         };
@@ -929,11 +862,7 @@ window.showModal = showModal;
             document.getElementById('timerLabel').textContent = "Elapsed:";
         }
 
-        // INITIALIZE
-        startNewCycle();
-        loadQuestion();
-        updateTimerDisplay();
-        timerInterval = setInterval(tick, 1000);
+        
     </script>
 </body>
 </html>

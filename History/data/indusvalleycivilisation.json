@@ -1,0 +1,328 @@
+[
+  {
+    "q": "Which of the following is one of the four earliest civilisations in the world?",
+    "pool": ["Mesopotamian", "Indus Valley", "Chinese", "Egyptian", "All of the above"],
+    "answer": "All of the above",
+    "desc": "The Indus Valley Civilisation is one of the four earliest civilisations, along with Mesopotamian, Egyptian, and Chinese civilisations."
+  },
+  {
+    "q": "What is the estimated period of the Indus Valley Civilisation based on radiocarbon dating?",
+    "pool": ["3000–2000 BC", "2500–1750 BC", "1500–1000 BC", "3500–2500 BC", "2800–1800 BC"],
+    "answer": "2500–1750 BC",
+    "desc": "Radiocarbon dating places the Indus Valley Civilisation between 2500 BC and 1750 BC."
+  },
+  {
+    "q": "Which system was used for Indus Valley town planning?",
+    "pool": ["Radial system", "Circular system", "Grid system", "Linear system", "Organic growth"],
+    "answer": "Grid system",
+    "desc": "The Indus cities were laid out in a grid pattern, indicating advanced town planning."
+  },
+  {
+    "q": "What material was commonly used in building Indus Valley houses?",
+    "pool": ["Wood", "Stone", "Sun-dried bricks", "Burnt bricks", "Clay"],
+    "answer": "Burnt bricks",
+    "desc": "Burnt bricks were used in constructing houses in the Indus Valley Civilisation."
+  },
+  {
+    "q": "What was a major feature of Indus Valley urban infrastructure?",
+    "pool": ["Electric poles", "Water fountains", "Well-managed drainage system", "Concrete roads", "Glass buildings"],
+    "answer": "Well-managed drainage system",
+    "desc": "The Indus Valley had an advanced drainage system connected to every house."
+  },
+  {
+    "q": "What is the Citadel in Indus Valley towns?",
+    "pool": ["A palace", "A temple", "A fortified upper part of town", "A grain store", "A garden"],
+    "answer": "A fortified upper part of town",
+    "desc": "The Citadel was the elevated and fortified area of Indus cities, likely for administrative or ritual use."
+  },
+  {
+    "q": "Which feature is NOT associated with the Indus Valley Civilisation?",
+    "pool": ["Iron tools", "Urban planning", "Citadels", "Drainage systems", "Burnt bricks"],
+    "answer": "Iron tools",
+    "desc": "There is no evidence of iron usage in the Indus Valley Civilisation."
+  },
+  {
+    "q": "What was the Great Bath at Mohenjodaro used for?",
+    "pool": ["Public swimming", "Religious bathing", "Fishing", "Laundry", "Agriculture"],
+    "answer": "Religious bathing",
+    "desc": "The Great Bath was likely used for ritual purification or religious bathing."
+  },
+  {
+    "q": "Where were six granaries found in a row in the Indus Valley?",
+    "pool": ["Mohenjodaro", "Lothal", "Kalibangan", "Rakhigarhi", "Harappa"],
+    "answer": "Harappa",
+    "desc": "Six granaries in a row were discovered at Harappa's Citadel."
+  },
+  {
+    "q": "How were Indus Valley towns typically divided?",
+    "pool": ["By caste", "By occupation", "By wealth", "Into upper and lower parts", "Into public and private zones"],
+    "answer": "Into upper and lower parts",
+    "desc": "Towns were divided into an upper Citadel and a lower residential/commercial area."
+  },
+  {
+    "q": "Who ruled the Harappan people according to archaeological findings?",
+    "pool": ["Kings", "Priests", "Warriors", "Merchants", "Democratic leaders"],
+    "answer": "Merchants",
+    "desc": "No weapons have been found, suggesting a peaceful society possibly led by merchants."
+  },
+  {
+    "q": "Why did Indus people sow seeds in November?",
+    "pool": ["Better weather", "Religious reasons", "Avoid flood risk", "Soil fertility", "Government order"],
+    "answer": "Avoid flood risk",
+    "desc": "They sowed in November to avoid monsoon floods and harvested by April."
+  },
+  {
+    "q": "Which of the following crops was NOT produced by Indus Valley people?",
+    "pool": ["Wheat", "Barley", "Maize", "Mustard", "Rai"],
+    "answer": "Maize",
+    "desc": "There is no evidence of maize cultivation in the Indus Valley Civilisation."
+  },
+  {
+    "q": "What name did Greeks use for cotton from the Indus region?",
+    "pool": ["Kalico", "Sindon", "Linen", "Silken", "Cotonia"],
+    "answer": "Sindon",
+    "desc": "The Greeks called Indian cotton 'Sindon', derived from the region of Sindh."
+  },
+  {
+    "q": "Which animal was known to the Indus Valley people?",
+    "pool": ["Horse", "Zebra", "Oxen", "Penguin", "Giraffe"],
+    "answer": "Oxen",
+    "desc": "Oxen were among the many animals domesticated by Indus Valley people."
+  },
+  {
+    "q": "Which of the following animals was NOT known to the Indus Valley people?",
+    "pool": ["Elephant", "Dog", "Camel", "Lion", "Cat"],
+    "answer": "Lion",
+    "desc": "There is no evidence suggesting that lions were known to or domesticated by Indus Valley people."
+  },
+  {
+    "q": "Which of these is a feature of Indus Valley drainage system?",
+    "pool": ["Open sewage", "No drainage", "Covered drains linked to houses", "Only wells", "Rainwater storage tanks"],
+    "answer": "Covered drains linked to houses",
+    "desc": "Indus drains were covered and systematically connected to every house."
+  },
+  {
+    "q": "What type of economy is indicated by absence of weapons in Indus Valley?",
+    "pool": ["Agricultural", "Warlike", "Peaceful", "Industrial", "Hunter-gatherer"],
+    "answer": "Peaceful",
+    "desc": "Lack of weapons suggests a peaceful, non-militaristic society."
+  },
+  {
+    "q": "Which crop made the Indus Valley famous internationally?",
+    "pool": ["Cotton", "Wheat", "Barley", "Mustard", "Peas"],
+    "answer": "Cotton",
+    "desc": "Indus Valley people were the first to produce cotton, gaining international recognition."
+  },
+  {
+    "q": "Which of the following was NOT a characteristic of Indus cities?",
+    "pool": ["Urbanisation", "Citadels", "Grid planning", "Iron tools", "Drainage systems"],
+    "answer": "Iron tools",
+    "desc": "No iron tools have been found from Indus Valley sites."
+  },
+  {
+    "q": "What evidence supports the claim that Harappans were not ruled by kings?",
+    "pool": ["Sacred texts", "Lack of palaces", "No weapons found", "Large temples missing", "All of the above"],
+    "answer": "No weapons found",
+    "desc": "The absence of weapons suggests a society not ruled by military power or kings."
+  },
+  {
+    "q": "Which crop was NOT mentioned as cultivated by Indus people?",
+    "pool": ["Rai", "Rice", "Seasum", "Soybean", "Wheat"],
+    "answer": "Soybean",
+    "desc": "Soybean is not listed among the crops produced by Indus Valley farmers."
+  },
+  {
+    "q": "Which site features the famous Great Bath?",
+    "pool": ["Kalibangan", "Lothal", "Mohenjodaro", "Harappa", "Dholavira"],
+    "answer": "Mohenjodaro",
+    "desc": "The Great Bath, a unique water tank with ritual importance, was found in Mohenjodaro."
+  },
+  {
+    "q": "What evidence shows cotton was produced in the Indus Valley?",
+    "pool": ["Cloth samples", "Spindle whorls", "Greek term 'Sindon'", "All of the above", "None of the above"],
+    "answer": "All of the above",
+    "desc": "Cotton evidence comes from tools, textile remnants, and Greek references to 'Sindon'."
+  },
+  {
+    "q": "Why did Indus people harvest their crops by April?",
+    "pool": ["To avoid monsoon floods", "Festivals", "Trade deadlines", "Summer heat", "None of these"],
+    "answer": "To avoid monsoon floods",
+    "desc": "Harvesting by April helped them avoid seasonal floods in the river valley."
+  },
+
+
+  {
+    "q": "Which system of trade was prevalent in the Indus Valley Civilisation?",
+    "pool": ["Currency-based", "Online trade", "Barter system", "Credit system", "Banking system"],
+    "answer": "Barter system",
+    "desc": "The Indus people practiced a barter system for trade, exchanging goods directly without using money."
+  },
+  {
+    "q": "Which metal was unknown to the people of the Indus Valley Civilisation?",
+    "pool": ["Copper", "Bronze", "Gold", "Iron", "Silver"],
+    "answer": "Iron",
+    "desc": "Iron was not known to the people of the Indus Valley Civilisation."
+  },
+  {
+    "q": "The Indus Valley people used weights and measures based on multiples of which number?",
+    "pool": ["10", "5", "12", "16", "20"],
+    "answer": "16",
+    "desc": "Weights and measures in the Indus Valley were typically based on multiples of 16."
+  },
+  {
+    "q": "What did Harappans associate the Earth with?",
+    "pool": ["Sky God", "Sun God", "Fertility Goddess", "Fire God", "Water Spirit"],
+    "answer": "Fertility Goddess",
+    "desc": "The Harappans considered Earth a fertility goddess and practiced related worship."
+  },
+  {
+    "q": "Which form of worship was prevalent in the Indus Valley?",
+    "pool": ["Phallic (lingam) and yoni worship", "Fire rituals only", "Sun worship", "Ancestor worship", "None"],
+    "answer": "Phallic (lingam) and yoni worship",
+    "desc": "Lingam and yoni worship were part of the fertility cult in Indus Valley religion."
+  },
+  {
+    "q": "Which animal was most worshipped in the Indus Valley?",
+    "pool": ["Bull", "Elephant", "Unicorn", "Tiger", "Peacock"],
+    "answer": "Unicorn",
+    "desc": "The unicorn appears frequently on seals and is believed to be the most worshipped animal."
+  },
+  {
+    "q": "Which tree was considered sacred in the Indus Valley Civilisation?",
+    "pool": ["Neem", "Banyan", "Pipal", "Palm", "Teak"],
+    "answer": "Pipal",
+    "desc": "The pipal tree was venerated by the Indus people as sacred."
+  },
+  {
+    "q": "Which bird was worshipped in the Indus Valley?",
+    "pool": ["Swan", "Crow", "Dove", "Vulture", "Eagle"],
+    "answer": "Dove",
+    "desc": "Birds like the dove and pigeon were also objects of worship in the Indus Valley."
+  },
+  {
+    "q": "What is notable about Indus Valley burial practices?",
+    "pool": ["East-West orientation", "Vertical burial", "North-South orientation", "Open cremation", "Floating cremation"],
+    "answer": "North-South orientation",
+    "desc": "Dead bodies in the Indus Valley were buried in a North-South orientation."
+  },
+  {
+    "q": "Which animals are depicted on the Seal of Pashupati?",
+    "pool": ["Cow, lion, bear, deer", "Elephant, tiger, rhinoceros, buffalo", "Wolf, camel, deer, tiger", "Horse, peacock, elephant, fox", "Ox, tiger, lion, cow"],
+    "answer": "Elephant, tiger, rhinoceros, buffalo",
+    "desc": "The Seal of Pashupati shows various animals including elephant, tiger, rhinoceros, and buffalo."
+  },
+  {
+    "q": "What animals appear at the feet of Pashupati in the famous seal?",
+    "pool": ["Tigers", "Cows", "Deers", "Lions", "Sheep"],
+    "answer": "Deers",
+    "desc": "Two deers are shown at the feet of Pashupati in the seal."
+  },
+  {
+    "q": "What did Indus people use to protect against evil forces?",
+    "pool": ["Weapons", "Charms", "Amulets", "Prayers", "Fire rituals"],
+    "answer": "Amulets",
+    "desc": "Amulets were used to ward off evil spirits and ghosts."
+  },
+  {
+    "q": "What archaeological sites show the presence of fire altars?",
+    "pool": ["Harappa and Mohenjodaro", "Dholavira and Rakhigarhi", "Lothal and Kalibangan", "Surkotada and Chanhudaro", "Banawali and Alamgirpur"],
+    "answer": "Lothal and Kalibangan",
+    "desc": "Fire altars were found at Lothal and Kalibangan, indicating ritualistic practices."
+  },
+  {
+    "q": "What is considered the greatest artistic creation of the Harappan culture?",
+    "pool": ["Pottery", "Sculptures", "Jewellery", "Seals", "Textiles"],
+    "answer": "Seals",
+    "desc": "The seals made of steatite are the most remarkable artistic creations of Harappan culture."
+  },
+  {
+    "q": "What material were Harappan seals primarily made of?",
+    "pool": ["Marble", "Clay", "Steatite", "Ivory", "Sandstone"],
+    "answer": "Steatite",
+    "desc": "Seals were mostly carved from soft steatite stone and then fired."
+  },
+  {
+    "q": "What kind of script did the Harappans use?",
+    "pool": ["Alphabetic", "Hieroglyphic", "Pictographic", "Sanskritic", "Cuneiform"],
+    "answer": "Pictographic",
+    "desc": "The Harappan script was pictographic and remains undeciphered."
+  },
+  {
+    "q": "What is the name of the writing style where lines alternate direction?",
+    "pool": ["Retrograde", "Monolinear", "Alternating script", "Boustrophedon", "Bidirectional"],
+    "answer": "Boustrophedon",
+    "desc": "Boustrophedon is the writing style where one line is written right-to-left, the next left-to-right."
+  },
+  {
+    "q": "Which direction was the first line written in Boustrophedon style?",
+    "pool": ["Top to bottom", "Left to right", "Right to left", "Diagonal", "Bottom to top"],
+    "answer": "Right to left",
+    "desc": "The first line of Harappan script in Boustrophedon style was written from right to left."
+  },
+  {
+    "q": "Which of these was NOT an occupation in the Indus Valley?",
+    "pool": ["Spinning", "Weaving", "Boat-making", "Seal-making", "Software development"],
+    "answer": "Software development",
+    "desc": "Spinning, weaving, boat-making, and seal-making were known occupations; software development was not."
+  },
+  {
+    "q": "Which activity was a known profession in the Harappan economy?",
+    "pool": ["Goldsmithing", "Blacksmithing", "Mining iron", "Software testing", "Glassmaking"],
+    "answer": "Goldsmithing",
+    "desc": "Goldsmiths were among the skilled artisans in Harappan society."
+  },
+  {
+    "q": "Which of the following is NOT a suggested reason for the decline of the Indus Civilisation?",
+    "pool": ["Aryan invasion", "Floods", "Earthquakes", "Alien attack", "Social breakdown"],
+    "answer": "Alien attack",
+    "desc": "No historical evidence supports alien attack as a cause of decline."
+  },
+  {
+    "q": "Which of the following is a suggested cause for the decline of Indus Valley Civilisation?",
+    "pool": ["Drought", "Alien intervention", "Aryan invasion", "Volcanic eruption", "Sea level rise"],
+    "answer": "Aryan invasion",
+    "desc": "One theory suggests Aryan invasions led to the decline of the civilisation."
+  },
+  {
+    "q": "Which is the northern boundary site of the Indus Civilisation?",
+    "pool": ["Harappa", "Daimabad", "Mandu", "Alamgirpur", "Ropar"],
+    "answer": "Mandu",
+    "desc": "Mandu (in Jammu & Kashmir) marks the northern extent of the civilisation."
+  },
+  {
+    "q": "Which site represents the southern boundary of the Indus Valley Civilisation?",
+    "pool": ["Dholavira", "Lothal", "Daimabad", "Kalibangan", "Mohenjodaro"],
+    "answer": "Daimabad",
+    "desc": "Daimabad in Maharashtra is considered the southern boundary of the civilisation."
+  },
+  {
+    "q": "What is the easternmost site of the Indus Valley Civilisation?",
+    "pool": ["Kalibangan", "Banawali", "Alamgirpur", "Rakhigarhi", "Sutkagendor"],
+    "answer": "Alamgirpur",
+    "desc": "Alamgirpur, located in Uttar Pradesh, is the easternmost site of the Indus Valley Civilisation."
+  },
+  {
+    "q": "Which site marks the western boundary of the Indus Civilisation?",
+    "pool": ["Sutkagendor", "Harappa", "Dholavira", "Lothal", "Rangpur"],
+    "answer": "Sutkagendor",
+    "desc": "Sutkagendor, located in Baluchistan (Pakistan), is the westernmost site of the Indus region."
+  },
+  {
+    "q": "Which of the following professions was practiced in the Indus Valley?",
+    "pool": ["Sculpture carving", "Software development", "Medical surgery", "Boat-making", "Blacksmithing"],
+    "answer": "Boat-making",
+    "desc": "Boat-making was a vital occupation for trade and transport in the Indus Valley."
+  },
+  {
+    "q": "What kind of trade system did the Indus Valley people have?",
+    "pool": ["Only internal", "Only external", "Well-knit internal and external", "Only maritime", "Barter with animals"],
+    "answer": "Well-knit internal and external",
+    "desc": "The Harappans maintained strong internal and external trade networks."
+  },
+  {
+    "q": "Which of the following statements about Harappan script is true?",
+    "pool": ["It was alphabetic", "It was based on Greek", "It has been deciphered", "It is pictographic", "It was written in Latin"],
+    "answer": "It is pictographic",
+    "desc": "The Harappan script is pictographic and still undeciphered."
+  }
+]

@@ -1,0 +1,485 @@
+[
+    {
+        "q": "What is the full-form of NEFT?",
+        "pool": [
+            "National Economic Fund Transfer",
+            "National Electronic Funds Transfer",
+            "New Electronic Funds Transfer",
+            "National Encrypted Fund Transfer"
+        ],
+        "answer": "National Electronic Funds Transfer"
+    },
+    {
+        "q": "What is the full-form of RTGS?",
+        "pool": [
+            "Real Time Gross Settlement",
+            "Rapid Transfer Gross Scheme",
+            "Real Transfer General Settlement",
+            "Regular Transaction Gross Settlement"
+        ],
+        "answer": "Real Time Gross Settlement"
+    },
+    {
+        "q": "What is the full-form of IFSC?",
+        "pool": [
+            "Indian Financial System Code",
+            "Internal Finance Service Code",
+            "Integrated Financial Sector Code",
+            "Indian Fund Service Code"
+        ],
+        "answer": "Indian Financial System Code"
+    },
+    {
+        "q": "What is the full-form of UPI?",
+        "pool": [
+            "Unified Payment Interface",
+            "Universal Payment Integration",
+            "Unified Public Interface",
+            "Unique Payment Identifier"
+        ],
+        "answer": "Unified Payment Interface"
+    },
+    {
+        "q": "What is the full-form of IMPS?",
+        "pool": [
+            "Immediate Payment Service",
+            "Indian Money Payment System",
+            "Instant Mobile Payment System",
+            "Inter-bank Money Payment Scheme"
+        ],
+        "answer": "Immediate Payment Service"
+    },
+    {
+        "q": "What is the full-form of ATM?",
+        "pool": [
+            "Automated Teller Machine",
+            "Auto Transaction Machine",
+            "Automatic Transfer Mechanism",
+            "Advanced Teller Mode"
+        ],
+        "answer": "Automated Teller Machine"
+    },
+    {
+        "q": "What is the full-form of NPA?",
+        "pool": [
+            "Non-Performing Asset",
+            "Non-Paid Account",
+            "Net Profit Analysis",
+            "New Payment Agreement"
+        ],
+        "answer": "Non-Performing Asset"
+    },
+    {
+        "q": "What is the full-form of KYC?",
+        "pool": [
+            "Know Your Customer",
+            "Know Your Credit",
+            "Keep Your Card",
+            "Know Your Currency"
+        ],
+        "answer": "Know Your Customer"
+    },
+    {
+        "q": "What is the full-form of EMI?",
+        "pool": [
+            "Equated Monthly Installment",
+            "Easy Monthly Income",
+            "Equal Money Investment",
+            "Estimated Monthly Income"
+        ],
+        "answer": "Equated Monthly Installment"
+    },
+    {
+        "q": "What is the full-form of CRR?",
+        "pool": [
+            "Cash Reserve Ratio",
+            "Credit Risk Rate",
+            "Customer Reserve Ratio",
+            "Cash Repayment Ratio"
+        ],
+        "answer": "Cash Reserve Ratio"
+    },
+    {
+        "q": "What is the full-form of SLR?",
+        "pool": [
+            "Statutory Liquidity Ratio",
+            "Secured Loan Reserve",
+            "State Level Reserve",
+            "Short Loan Ratio"
+        ],
+        "answer": "Statutory Liquidity Ratio"
+    },
+    {
+        "q": "What is the full-form of FD?",
+        "pool": [
+            "Fixed Deposit",
+            "Funded Deposit",
+            "Final Demand",
+            "Fiscal Debit"
+        ],
+        "answer": "Fixed Deposit"
+    },
+    {
+        "q": "What is the full-form of RD?",
+        "pool": [
+            "Recurring Deposit",
+            "Return Deposit",
+            "Ready Deposit",
+            "Risk Deposit"
+        ],
+        "answer": "Recurring Deposit"
+    },
+    {
+        "q": "What is the full-form of MICR?",
+        "pool": [
+            "Magnetic Ink Character Recognition",
+            "Micro Inking Code Recognition",
+            "Magnetic Ink Code Report",
+            "Multiple Ink Character Record"
+        ],
+        "answer": "Magnetic Ink Character Recognition"
+    },
+    {
+        "q": "What is the full-form of PIN?",
+        "pool": [
+            "Personal Identification Number",
+            "Public Identity Number",
+            "Private Internal Number",
+            "Password Identification Number"
+        ],
+        "answer": "Personal Identification Number"
+    },
+    {
+        "q": "What is the full-form of OTP?",
+        "pool": [
+            "One Time Password",
+            "Online Transaction Password",
+            "Online Time Protection",
+            "Official Transfer Password"
+        ],
+        "answer": "One Time Password"
+    },
+    {
+        "q": "What is the full-form of ECS?",
+        "pool": [
+            "Electronic Clearing Service",
+            "Electronic Credit Scheme",
+            "Easy Credit Service",
+            "Encrypted Clearing Service"
+        ],
+        "answer": "Electronic Clearing Service"
+    },
+    {
+        "q": "What is the full-form of IPO?",
+        "pool": [
+            "Initial Public Offering",
+            "Institutional Purchase Option",
+            "Internal Policy Order",
+            "Indexed Purchase Offer"
+        ],
+        "answer": "Initial Public Offering"
+    },
+    {
+        "q": "What is the full-form of DEMAT?",
+        "pool": [
+            "Dematerialised Account",
+            "Depository Market Transaction",
+            "Digital Market Account Transaction",
+            "Demographic Account Transfer"
+        ],
+        "answer": "Dematerialised Account"
+    },
+    {
+        "q": "What is the full-form of PAN?",
+        "pool": [
+            "Permanent Account Number",
+            "Personal Account Number",
+            "Public Access Number",
+            "Private Authentication Number"
+        ],
+        "answer": "Permanent Account Number"
+    },
+    {
+        "q": "What is the full-form of GST?",
+        "pool": [
+            "Goods and Services Tax",
+            "General Service Tax",
+            "Goods Standard Tax",
+            "Gross Sales Tax"
+        ],
+        "answer": "Goods and Services Tax"
+    },
+    {
+        "q": "What is the full-form of TDS?",
+        "pool": [
+            "Tax Deducted at Source",
+            "Total Deduction Statement",
+            "Tax Distribution Service",
+            "Transferable Deduction Scheme"
+        ],
+        "answer": "Tax Deducted at Source"
+    },
+    {
+        "q": "What is the full-form of CBDC?",
+        "pool": [
+            "Central Bank Digital Currency",
+            "Core Banking Digital Code",
+            "Centralised Bank Data Centre",
+            "Centralized Bond and Debt Currency"
+        ],
+        "answer": "Central Bank Digital Currency"
+    },
+    {
+        "q": "What is the full-form of NBFC?",
+        "pool": [
+            "Non-Banking Financial Company",
+            "National Bank for Credit",
+            "Net Banking Finance Corporation",
+            "New Banking Funded Corporation"
+        ],
+        "answer": "Non-Banking Financial Company"
+    },
+    {
+        "q": "What is the full-form of RBI?",
+        "pool": [
+            "Reserve Bank of India",
+            "Registered Bank of India",
+            "Regulated Bank of India",
+            "Royal Bank of India"
+        ],
+        "answer": "Reserve Bank of India"
+    },
+    {
+        "q": "What is the full-form of NABARD?",
+        "pool": [
+            "National Bank for Agriculture and Rural Development",
+            "National Agriculture Bank and Rural Department",
+            "National Bank of Agriculture and Resource Development",
+            "National Authority for Banks and Rural Development"
+        ],
+        "answer": "National Bank for Agriculture and Rural Development"
+    },
+    {
+        "q": "What is the full-form of SIDBI?",
+        "pool": [
+            "Small Industries Development Bank of India",
+            "State Infrastructure Development Bank of India",
+            "Standard Investment Development Bank of India",
+            "Secondary Industrial Development Board of India"
+        ],
+        "answer": "Small Industries Development Bank of India"
+    },
+    {
+        "q": "What is the full-form of NPCI?",
+        "pool": [
+            "National Payments Corporation of India",
+            "National Public Credit Institution",
+            "New Payments & Clearing Institution",
+            "National Private Cash Initiative"
+        ],
+        "answer": "National Payments Corporation of India"
+    },
+    {
+        "q": "What is the full-form of BHIM?",
+        "pool": [
+            "Bharat Interface for Money",
+            "Banking Hub for Indian Money",
+            "Bharat Hybrid Instant Money",
+            "Bank Help in Mobile"
+        ],
+        "answer": "Bharat Interface for Money"
+    },
+    {
+        "q": "What is the full-form of NACH?",
+        "pool": [
+            "National Automated Clearing House",
+            "National Account Credit Hub",
+            "Networked Automated Credit Handling",
+            "New Account Clearing House"
+        ],
+        "answer": "National Automated Clearing House"
+    }
+
+    {
+        "q": "What is the full-form of CASA?",
+        "pool": [
+            "Current Account Savings Account",
+            "Centralized Account Settlement Agreement",
+            "Credit Automated Savings Application",
+            "Cash and Savings Agreement"
+        ],
+        "answer": "Current Account Savings Account"
+    },
+    {
+        "q": "What is the full-form of IFMS?",
+        "pool": [
+            "Integrated Financial Management System",
+            "Internal Fund Management System",
+            "Indian Financial Market System",
+            "Institutional Fund Mapping Service"
+        ],
+        "answer": "Integrated Financial Management System"
+    },
+    
+    {
+        "q": "What is the full-form of PMJDY?",
+        "pool": [
+            "Pradhan Mantri Jan Dhan Yojana",
+            "Prime Minister Jan Dhan Yatra",
+            "Public Money Joint Development Yojana",
+            "Program for Money and Job Development Yojana"
+        ],
+        "answer": "Pradhan Mantri Jan Dhan Yojana"
+    },
+    {
+        "q": "What is the full-form of AEPS?",
+        "pool": [
+            "Aadhaar Enabled Payment System",
+            "Automated Electronic Payment Solution",
+            "Account Enabled Payment Server",
+            "Aadhaar Enhanced Processing System"
+        ],
+        "answer": "Aadhaar Enabled Payment System"
+    },
+    {
+        "q": "What is the full-form of SWIFT?",
+        "pool": [
+            "Society for Worldwide Interbank Financial Telecommunication",
+            "Standard Worldwide International Fund Transfer",
+            "Secure Wireless International Finance Transfer",
+            "Systematic Worldwide Integrated Fund Transmission"
+        ],
+        "answer": "Society for Worldwide Interbank Financial Telecommunication"
+    },
+    {
+        "q": "What is the full-form of POS?",
+        "pool": [
+            "Point of Sale",
+            "Proof of Settlement",
+            "Position of Savings",
+            "Payment Order System"
+        ],
+        "answer": "Point of Sale"
+    },
+    {
+        "q": "What is the full-form of ECS-NACH?",
+        "pool": [
+            "Electronic Clearing System - National Automated Clearing House",
+            "E-commerce System - National Account Clearing Hub",
+            "Electronic Cash System - National Account Credit Handling",
+            "E-transaction Clearing Service - National Accounting Clearing Hub"
+        ],
+        "answer": "Electronic Clearing System - National Automated Clearing House"
+    },
+    {
+        "q": "What is the full-form of SWP?",
+        "pool": [
+            "Systematic Withdrawal Plan",
+            "Secure Wallet Plan",
+            "Standard Wealth Protocol",
+            "Smart Withdrawal Process"
+        ],
+        "answer": "Systematic Withdrawal Plan"
+    },
+    {
+        "q": "What is the full-form of SIP?",
+        "pool": [
+            "Systematic Investment Plan",
+            "Secure Investment Portfolio",
+            "Standard Income Plan",
+            "Savings Insurance Policy"
+        ],
+        "answer": "Systematic Investment Plan"
+    },
+    {
+        "q": "What is the full-form of UTR?",
+        "pool": [
+            "Unique Transaction Reference",
+            "Unified Transfer Record",
+            "Universal Transaction Receipt",
+            "User Transfer Request"
+        ],
+        "answer": "Unique Transaction Reference"
+    },
+    
+    {
+        "q": "What is the full-form of CIBIL?",
+        "pool": [
+            "Credit Information Bureau (India) Limited",
+            "Centralized Indian Banking & Investment Ledger",
+            "Consumer Investment Board of Indian Lending",
+            "Certified Indian Bank Interest List"
+        ],
+        "answer": "Credit Information Bureau (India) Limited"
+    },
+    {
+        "q": "What is the full-form of CRIF?",
+        "pool": [
+            "Credit Rating Information Framework",
+            "Central Reserve Interest Fund",
+            "Consumer Risk Information File",
+            "Credit Risk Information Firm"
+        ],
+        "answer": "Credit Rating Information Framework"
+    },
+    {
+        "q": "What is the full-form of AML?",
+        "pool": [
+            "Anti Money Laundering",
+            "Account Monitoring Ledger",
+            "Automatic Money Line",
+            "Asset Management Loan"
+        ],
+        "answer": "Anti Money Laundering"
+    },
+    {
+        "q": "What is the full-form of FATCA?",
+        "pool": [
+            "Foreign Account Tax Compliance Act",
+            "Financial Account Tax Control Agreement",
+            "Federal Asset Tracking Compliance Act",
+            "Foreign Asset Transfer Compliance Arrangement"
+        ],
+        "answer": "Foreign Account Tax Compliance Act"
+    },
+    {
+        "q": "What is the full-form of FEMA?",
+        "pool": [
+            "Foreign Exchange Management Act",
+            "Federal Economic Monitoring Authority",
+            "Financial Exchange Management Association",
+            "Foreign Entity Market Act"
+        ],
+        "answer": "Foreign Exchange Management Act"
+    },
+    {
+        "q": "What is the full-form of FPI?",
+        "pool": [
+            "Foreign Portfolio Investment",
+            "Financial Public Interest",
+            "Federal Payment Infrastructure",
+            "Future Payment Interface"
+        ],
+        "answer": "Foreign Portfolio Investment"
+    },
+    {
+        "q": "What is the full-form of REPO?",
+        "pool": [
+            "Repurchase Option",
+            "Reserve Exchange Policy Order",
+            "Retail Exchange Purchase Option",
+            "Refundable Equity Portfolio Option"
+        ],
+        "answer": "Repurchase Option"
+    },
+    {
+        "q": "What is the full-form of DCCB?",
+        "pool": [
+            "District Central Co-operative Bank",
+            "Digital Cooperative Credit Bureau",
+            "Direct Centralized Credit Bank",
+            "Depository Clearing Cooperative Bank"
+        ],
+        "answer": "District Central Co-operative Bank"
+    }
+]
