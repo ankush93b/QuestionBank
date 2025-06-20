@@ -5,7 +5,9 @@
   {"name": "History - Pre-Historic Period", "url": "History/prehistoricperiod_inst.html?subject=History&topic=Pre-Historic Period","alias":["Palaeolithic Period","Mesolithic Period","Neolithic Period","Chalcolithic Period"]},
   {"name": "History - Indus Valley Civilisation", "url": "History/indusvalleycivilisation_inst.html?subject=History&topic=Indus Valley Civilisation","alias":["Great Bath","Citadel","Sindon","Barter system","Pashupati","Fire altars","Harappa","Boustrophedon","Mohenjodaro","Chanhudaro","Lothal","Kalibangan","Dholavira","Surkotada","Banawali","Rakhigarhi","Daya Ram Sahni","RD Bannerji","NG Majumdar","SR Rao","BB Lal","JP Joshi","RS Bisht"]},
   {"name": "History - Vedic Period", "url": "History/vedicperiod_inst.html?subject=History&topic=Vedic Period","alias":["Rig Vedic Period","Aryan","Dasrajan War","Samitis","Ashwamedha","Brahmana, Kshatriya, Vaishya and Shudra","Prajapati"]},
-  {"name": "History - Vedic Literature", "url": "HHistory/vedicliterature_inst.html?subject=History&topic=Vedic Literature","alias":["Rigveda","Samaveda","Yajurveda","Atharvaveda"]},
+  {"name": "History - Vedic Literature", "url": "History/vedicliterature_inst.html?subject=History&topic=Vedic Literature","alias":["Rigveda","Samaveda","Yajurveda","Atharvaveda","Aranyakas","Upanishadas","Smritis","Vedangas","Puranas","Darshana","Upavedas","Mahabharata","Ramayana","Mahajanapadas"]},
+  {"name": "History - Jainism", "url": "History/jainism_inst.html?subject=History&topic=Jainism","alias":["Rishabhadeva","Siddhartha","Pavapuri","Five Doctrines of Jainism","Triratnas of Jainism","Prakrit language"]},
+
   {"name": "Picture-Based Learning - Countries Flags", "url": "Picture-Based Learning/countriesflags_inst.html?subject=Picture-Based Learning&topic=Countries Flags","alias":[""]},
   {"name": "Picture-Based Learning - Currency Symbols", "url": "Picture-Based Learning/currencysymbols_inst.html?subject=Picture-Based Learning&topic=Currency Symbols","alias":[""]},
   {"name": "Picture-Based Learning - Indian States", "url": "Picture-Based Learning/states_inst.html?subject=Picture-Based Learning&topic=States","alias":[""]},

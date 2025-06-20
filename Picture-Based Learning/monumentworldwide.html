@@ -11,7 +11,7 @@
     </script>
 
     <meta charset="UTF-8">
-    <title>Countries Flags</title>
+    <title>Monuments - Worldwide</title>
     <link rel="icon" href="../images/favicon_pic.ico" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://www.gstatic.com/firebasejs/10.11.1/firebase-app-compat.js"></script>
@@ -122,8 +122,8 @@
             text-align: left;
         }
         .question-image-wrapper {
-            width: 100px;
-            height: 100px;
+            width: 250px;
+            height: 250px;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -132,7 +132,7 @@
             padding-bottom: 15px;
         }
         .question-image {
-            height: 100px;
+            height: 250px;
             width: auto;           
             user-drag: none;
             -webkit-user-drag: none;
@@ -625,36 +625,8 @@ window.showModal = showModal;
         // Now, each question can optionally have an "image" property (relative or absolute path)
         const questions = [
             { q: "This is the flag of which Country?", pool: ["India", "Burma", "Sri Lanka", "Thailand"], answer: "Sri Lanka", image: "../images/flags/Sri Lanka.png" },
-            { q: "This is the flag of which Country?", pool: ["China", "Nepal", "Japan", "Myanmar"], answer: "Nepal", image: "../images/flags/Nepal.png" },
-            { q: "This is the flag of which Country?", pool: ["Pakistan", "Burma", "Bhutan", "Japan"], answer: "Pakistan", image: "../images/flags/Pakistan.png" },
-            { q: "This is the flag of which Country?", pool: ["Afghanistan", "Bangladesh", "Myanmar", "Laos"], answer: "Bangladesh", image: "../images/flags/Bangladesh.png" },
-            { q: "This is the flag of which Country?", pool: ["India", "Sri Lanka ", "Nepal", "Bhutan"], answer: "India", image: "../images/flags/India.png" },
-            { q: "This is the flag of which Country?", pool: ["China", "Mongolia", "Bhutan", "South Korea"], answer: "Bhutan", image: "../images/flags/Bhutan.png" },
-            { q: "This is the flag of which Country?", pool: ["Thailand", "Laos", "Vietnam", "Myanmar"], answer: "Myanmar", image: "../images/flags/Myanmar.png" },
-            { q: "This is the flag of which Country?", pool: ["Turkey", "Poland", "Russia", "Italy"], answer: "Russia", image: "../images/flags/Russia.png" },
-            { q: "This is the flag of which Country?", pool: ["Pakistan", "Japan", "South Korea", "China"], answer: "China", image: "../images/flags/China.png" },
-            { q: "This is the flag of which Country?", pool: ["UK", "USA", "Germany", "Spain"], answer: "USA", image: "../images/flags/USA.png" },
-            { q: "This is the flag of which Country?", pool: ["United Kingdom", "USA", "Portugal", "Nigeria"], answer: "United Kingdom", image: "../images/flags/United Kingdom.png" },
-            { q: "This is the flag of which Country?", pool: ["France", "Ireland", "Germany", "Finland"], answer: "Germany", image: "../images/flags/Germany.png" },
-             { q: "This is the flag of which Country?", pool: ["Syria", "China", "Iran", "Turkey"], answer: "Turkey", image: "../images/flags/Turkey.png" },
-             { q: "This is the flag of which Country?", pool: ["Ukraine", "Denmark", "Switzerland", "Georgia"], answer: "Switzerland", image: "../images/flags/Switzerland.png" },
-             { q: "This is the flag of which Country?", pool: ["Japan", "South Africa", "Vietnam", "Malaysia"], answer: "Japan", image: "../images/flags/Japan.png" },
-             { q: "This is the flag of which Country?", pool: ["Indonesia", "South Korea", "Thailand", "Philippines"], answer: "Thailand", image: "../images/flags/Thailand.png" },
-             { q: "This is the flag of which Country?", pool: ["Indonesia", "South Korea", "Vietnam", "Philippines"], answer: "South Korea", image: "../images/flags/South Korea.png" },
-             { q: "This is the flag of which Country?", pool: ["Israel", "Azerbaijan", "Syria", "Oman"], answer: "Israel", image: "../images/flags/Israel.png" },
-             { q: "This is the flag of which Country?", pool: ["Brazil", "Mexico", "Egypt", "Paraguay"], answer: "Mexico", image: "../images/flags/Mexico.png" },
-             { q: "This is the flag of which Country?", pool: ["Kazakhstan", "Turkmenistan", "Azerbaijan", "Afghanistan"], answer: "Azerbaijan", image: "../images/flags/Azerbaijan.png" },
-             { q: "This is the flag of which Country?", pool: ["Panama", "Costa Rica", "Venezuela", "Argentina"], answer: "Costa Rica", image: "../images/flags/Costa Rica.png" },
-             { q: "This is the flag of which Country?", pool: ["Netherlands", "Denmark", "Poland", "France"], answer: "Netherlands", image: "../images/flags/Netherlands.png" },
-             { q: "This is the flag of which Country?", pool: ["Cambodia", "Singapore", "Indonesia", "Laos"], answer: "Netherlands", image: "../images/flags/Netherlands.png" },
-             { q: "This is the flag of which Country?", pool: ["Turkey", "Jordan", "Armenia", "Uzbekistan"], answer: "Armenia", image: "../images/flags/Armenia.png" },
-             { q: "This is the flag of which Country?", pool: ["Ukraine", "Greece", "Austria", "Romania"], answer: "Ukraine", image: "../images/flags/Ukraine.png" },
-             { q: "This is the flag of which Country?", pool: ["Russia", "Finland", "Norway", "Mongolia"], answer: "Mongolia", image: "../images/flags/Mongolia.png" },
-             { q: "This is the flag of which Country?", pool: ["Australia", "New Zealand", "Vietnam", "Thailand"], answer: "Vietnam", image: "../images/flags/Vietnam.png" },
-             { q: "This is the flag of which Country?", pool: ["Ghana", "Nigeria", "Egypt", "Libya"], answer: "Ghana", image: "../images/flags/Ghana.png" },
-             { q: "This is the flag of which Country?", pool: ["Azerbaijan", "Georgia", "Iraq", "Turkey"], answer: "Georgia", image: "../images/flags/Georgia.png" },
-             { q: "This is the flag of which Country?", pool: ["Uzbekistan", "Kazakhstan", "Turkmenistan", "Tajikistan"], answer: "Uzbekistan", image: "../images/flags/Uzbekistan.png" },
-             { q: "This is the flag of which Country?", pool: ["Chile", "Argentina", "Paraguay", "Brazil"], answer: "Paraguay", image: "../images/flags/Paraguay.png" },
+            
+            
              
         ];
 

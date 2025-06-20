@@ -301,5 +301,547 @@
     "pool": ["Rules", "Verses", "Hymn collections", "Commentaries", "Ritual acts"],
     "answer": "Hymn collections",
     "desc": "Samhita refers to the collection of mantras or hymns in each Veda."
+  },
+
+
+  {
+    "q": "What are the Upanishads primarily focused on?",
+    "pool": ["Rituals and sacrifices", "Right belief and knowledge", "Warfare techniques", "Law and order", "Poetry and literature"],
+    "answer": "Right belief and knowledge",
+    "desc": "The Upanishads emphasize philosophical concepts like right belief and knowledge, and they criticize rituals and sacrifices."
+  },
+  {
+    "q": "How many Upanishads are there in total?",
+    "pool": ["108", "18", "6", "4", "27"],
+    "answer": "108",
+    "desc": "There are 108 Upanishads, which are considered philosophical texts in Indian tradition."
+  },
+  {
+    "q": "Which is the oldest Upanishad?",
+    "pool": ["Chandogya", "Brihadaranyaka", "Kena", "Isha", "Taittiriya"],
+    "answer": "Brihadaranyaka",
+    "desc": "The Brihadaranyaka is considered the oldest of all the Upanishads."
+  },
+  {
+    "q": "What is another name for the Upanishads?",
+    "pool": ["Samhita", "Brahmana", "Vedanta", "Smriti", "Shruti"],
+    "answer": "Vedanta",
+    "desc": "The Upanishads are also known as Vedanta, meaning 'end of the Vedas'."
+  },
+  {
+    "q": "What do the Smritis explain?",
+    "pool": ["Grammar rules", "Philosophical beliefs", "Rules of Vedic life", "Astrology", "Creation of the world"],
+    "answer": "Rules of Vedic life",
+    "desc": "Smritis explain the rules and regulations in Vedic life."
+  },
+  {
+    "q": "Which is the first law book among the Smritis?",
+    "pool": ["Naradasmriti", "Parasharasmriti", "Yajnavalkya-smriti", "Manusmriti", "Bodhayana-smriti"],
+    "answer": "Manusmriti",
+    "desc": "Manusmriti is regarded as the first law book among the Smritis."
+  },
+  {
+    "q": "Which of the following is NOT a part of the Smritis?",
+    "pool": ["Naradasmriti", "Parasharasmriti", "Yajnavalkya-smriti", "Matsya Purana", "Manusmriti"],
+    "answer": "Matsya Purana",
+    "desc": "Matsya Purana is a Purana, not a Smriti text."
+  },
+  {
+    "q": "How many Vedangas are there?",
+    "pool": ["4", "5", "6", "7", "8"],
+    "answer": "6",
+    "desc": "There are six Vedangas, which are considered limbs of the Vedas."
+  },
+  {
+    "q": "Which Vedanga deals with pronunciation?",
+    "pool": ["Shiksha", "Kalpa", "Vyakaran", "Chhanda", "Nikrukta"],
+    "answer": "Shiksha",
+    "desc": "Shiksha is the Vedanga concerned with pronunciation."
+  },
+  {
+    "q": "Which Vedanga is related to rituals?",
+    "pool": ["Shiksha", "Kalpa", "Vyakaran", "Jyotish", "Chhanda"],
+    "answer": "Kalpa",
+    "desc": "Kalpa deals with rituals and ceremonial procedures in Vedic tradition."
+  },
+  {
+    "q": "Which Vedanga covers grammar?",
+    "pool": ["Nikrukta", "Shiksha", "Chhanda", "Vyakaran", "Jyotish"],
+    "answer": "Vyakaran",
+    "desc": "Vyakaran is the Vedanga that covers grammar rules."
+  },
+  {
+    "q": "Which Vedanga deals with etymology?",
+    "pool": ["Chhanda", "Nikrukta", "Shiksha", "Jyotish", "Vyakaran"],
+    "answer": "Nikrukta",
+    "desc": "Nikrukta is the Vedanga focused on etymology."
+  },
+  {
+    "q": "Which Vedanga is concerned with metrics?",
+    "pool": ["Jyotish", "Chhanda", "Kalpa", "Vyakaran", "Nikrukta"],
+    "answer": "Chhanda",
+    "desc": "Chhanda deals with the meter or rhythm of Vedic hymns."
+  },
+  {
+    "q": "What does the Vedanga Jyotish focus on?",
+    "pool": ["Grammar", "Metrics", "Astrology", "Rituals", "Etymology"],
+    "answer": "Astrology",
+    "desc": "Jyotish is the Vedanga that deals with astronomy and astrology."
+  },
+  {
+    "q": "What are the Vedangas collectively referred to as?",
+    "pool": ["Branches of Puranas", "Smriti texts", "Limbs of Vedas", "Vedic Laws", "Philosophical Texts"],
+    "answer": "Limbs of Vedas",
+    "desc": "Vedangas are considered the six auxiliary disciplines or 'limbs' of the Vedas."
+  },
+  {
+    "q": "Which text type deals with world creation and genealogies?",
+    "pool": ["Upanishads", "Smritis", "Puranas", "Vedangas", "Sutras"],
+    "answer": "Puranas",
+    "desc": "Puranas deal with the creation of the world, genealogies of gods and sages, and royal dynasties."
+  },
+  {
+    "q": "How many famous Puranas are there?",
+    "pool": ["18", "108", "6", "4", "12"],
+    "answer": "18",
+    "desc": "There are 18 major or famous Puranas in Hindu literature."
+  },
+  {
+    "q": "Which is the oldest Puranic text?",
+    "pool": ["Vishnu Purana", "Bhagavata Purana", "Matsya Purana", "Shiva Purana", "Agni Purana"],
+    "answer": "Matsya Purana",
+    "desc": "The Matsya Purana is considered the oldest among the Puranic texts."
+  },
+  {
+    "q": "Which category of text criticizes rituals and sacrifices?",
+    "pool": ["Puranas", "Smritis", "Vedangas", "Upanishads", "Samhitas"],
+    "answer": "Upanishads",
+    "desc": "The Upanishads criticize excessive rituals and sacrifices, focusing instead on spiritual knowledge."
+  },
+  {
+    "q": "Which Smriti is attributed to sage Yajnavalkya?",
+    "pool": ["Yajnavalkya-smriti", "Naradasmriti", "Parasharasmriti", "Manusmriti", "Katyayana-smriti"],
+    "answer": "Yajnavalkya-smriti",
+    "desc": "Yajnavalkya-smriti is a legal and dharma text attributed to the sage Yajnavalkya."
+  },
+  {
+    "q": "Which category of texts is also known as 'Vedanta'?",
+    "pool": ["Smritis", "Vedangas", "Puranas", "Upanishads", "Sutras"],
+    "answer": "Upanishads",
+    "desc": "The Upanishads are also called Vedanta, meaning they form the concluding part of the Vedic literature."
+  },
+  {
+    "q": "Which text is not part of the Vedangas?",
+    "pool": ["Shiksha", "Kalpa", "Jyotish", "Manusmriti", "Vyakaran"],
+    "answer": "Manusmriti",
+    "desc": "Manusmriti is a Smriti, not a Vedanga."
+  },
+  {
+    "q": "What is the focus of Parasharasmriti?",
+    "pool": ["Philosophy", "Astronomy", "Law and ethics", "Poetry", "Genealogy"],
+    "answer": "Law and ethics",
+    "desc": "Parasharasmriti is a Smriti that deals with laws and ethical conduct."
+  },
+  {
+    "q": "Which of these texts forms part of the Puranas?",
+    "pool": ["Chandogya", "Brihadaranyaka", "Yajnavalkya-smriti", "Matsya Purana", "Nikrukta"],
+    "answer": "Matsya Purana",
+    "desc": "Matsya Purana is one of the 18 major Puranas."
+  },
+  {
+    "q": "Which category of texts deals with royal dynasties and rishis?",
+    "pool": ["Upanishads", "Vedangas", "Smritis", "Puranas", "Brahmanas"],
+    "answer": "Puranas",
+    "desc": "Puranas describe the genealogies of gods, sages, and kings."
+  },
+  {
+    "q": "Which Vedanga would help a priest learn proper chanting?",
+    "pool": ["Jyotish", "Shiksha", "Vyakaran", "Nikrukta", "Chhanda"],
+    "answer": "Shiksha",
+    "desc": "Shiksha teaches the correct pronunciation and intonation for Vedic chants."
+  },
+  {
+    "q": "Who is the author of Naradasmriti?",
+    "pool": ["Narada", "Yajnavalkya", "Manu", "Vyasa", "Valmiki"],
+    "answer": "Narada",
+    "desc": "Naradasmriti is attributed to the sage Narada."
+  },
+  {
+    "q": "What does the term 'Smriti' literally mean?",
+    "pool": ["Knowledge", "Memory", "Law", "Speech", "Tradition"],
+    "answer": "Memory",
+    "desc": "Smriti means 'that which is remembered', as opposed to Shruti (heard)."
+  },
+  {
+    "q": "Which Smriti is associated with legal matters and court procedures?",
+    "pool": ["Naradasmriti", "Shiksha", "Chhanda", "Matsya Purana", "Brihadaranyaka"],
+    "answer": "Naradasmriti",
+    "desc": "Naradasmriti is known for its emphasis on legal codes and court procedures."
+  },
+  {
+    "q": "What does the Purana literature focus on besides creation?",
+    "pool": ["Pronunciation rules", "Genealogies and dynasties", "Grammar structure", "Law enforcement", "Philosophical debate"],
+    "answer": "Genealogies and dynasties",
+    "desc": "Besides creation, Puranas detail the genealogies of gods, sages, and kings."
+  },
+
+
+  {
+    "q": "What do the Puranas primarily deal with?",
+    "pool": [
+      "Mathematics and astronomy",
+      "Medicine and surgery",
+      "World creation and genealogies",
+      "Laws and ethics",
+      "Grammar and linguistics"
+    ],
+    "answer": "World creation and genealogies",
+    "desc": "The Puranas focus on world creation, genealogies of gods and sages, and royal dynasties."
+  },
+  {
+    "q": "How many famous Puranas are there?",
+    "pool": ["16", "17", "18", "19", "20"],
+    "answer": "18",
+    "desc": "There are 18 well-known Puranas in Hindu literature."
+  },
+  {
+    "q": "Which is considered the oldest Puranic text?",
+    "pool": [
+      "Vishnu Purana",
+      "Bhagavata Purana",
+      "Matsya Purana",
+      "Shiva Purana",
+      "Agni Purana"
+    ],
+    "answer": "Matsya Purana",
+    "desc": "Matsya Purana is regarded as the oldest among the Puranas."
+  },
+  {
+    "q": "What does the term 'Darshana' refer to in Indian philosophy?",
+    "pool": [
+      "Holy scriptures",
+      "Sacrificial rituals",
+      "Schools of philosophy",
+      "Divine visions",
+      "Religious festivals"
+    ],
+    "answer": "Schools of philosophy",
+    "desc": "'Darshana' refers to the six classical schools of Indian philosophy."
+  },
+  {
+    "q": "Who is associated with Nyaya Darshana?",
+    "pool": ["Patanjali", "Gautam", "Jaimini", "Kapila", "Kanada"],
+    "answer": "Gautam",
+    "desc": "Gautam is credited with founding the Nyaya school of philosophy."
+  },
+  {
+    "q": "Which sage is linked to the Vaishesika school of philosophy?",
+    "pool": ["Vyasa", "Kapila", "Jaimini", "Kanada", "Patanjali"],
+    "answer": "Kanada",
+    "desc": "Kanada is known for establishing the Vaishesika Darshana."
+  },
+  {
+    "q": "Kapila is the founder of which philosophical school?",
+    "pool": [
+      "Yoga Darshana",
+      "Sankhya Darshana",
+      "Nyaya Darshana",
+      "Purva Mimansa",
+      "Vaishesika Darshana"
+    ],
+    "answer": "Sankhya Darshana",
+    "desc": "Kapila founded the Sankhya Darshana, a dualistic philosophical system."
+  },
+  {
+    "q": "Patanjali is best known for which Darshana?",
+    "pool": [
+      "Nyaya",
+      "Vaishesika",
+      "Yoga",
+      "Purva Mimansa",
+      "Sankhya"
+    ],
+    "answer": "Yoga",
+    "desc": "Patanjali is famous for his work on the Yoga Darshana."
+  },
+  {
+    "q": "Jaimini is credited with founding which Darshana?",
+    "pool": [
+      "Uttara Mimansa",
+      "Sankhya",
+      "Purva Mimansa",
+      "Vaishesika",
+      "Nyaya"
+    ],
+    "answer": "Purva Mimansa",
+    "desc": "Jaimini authored the Purva Mimansa philosophy focusing on rituals."
+  },
+  {
+    "q": "Who is the founder of Uttara Mimansa (Vedanta)?",
+    "pool": ["Vyasa", "Patanjali", "Gautam", "Kanada", "Kapila"],
+    "answer": "Vyasa",
+    "desc": "Vyasa, also known as Badrayana, is credited with the Uttara Mimansa or Vedanta."
+  },
+  {
+    "q": "How many Upavedas are there?",
+    "pool": ["2", "3", "4", "5", "6"],
+    "answer": "4",
+    "desc": "There are four Upavedas associated with the four Vedas."
+  },
+  {
+    "q": "Which Upaveda deals with the art of warfare?",
+    "pool": ["Ayurveda", "Gandharvaveda", "Shilpaveda", "Dhanurveda", "Yogaveda"],
+    "answer": "Dhanurveda",
+    "desc": "Dhanurveda is the Upaveda related to the art of warfare."
+  },
+  {
+    "q": "Dhanurveda is the Upaveda of which Veda?",
+    "pool": ["Rigveda", "Yajurveda", "Samaveda", "Atharvaveda", "None"],
+    "answer": "Yajurveda",
+    "desc": "Dhanurveda is associated with the Yajurveda."
+  },
+  {
+    "q": "Which Upaveda is related to art and music?",
+    "pool": [
+      "Ayurveda",
+      "Shilpaveda",
+      "Dhanurveda",
+      "Gandharvaveda",
+      "Yogaveda"
+    ],
+    "answer": "Gandharvaveda",
+    "desc": "Gandharvaveda deals with performing arts like music and dance."
+  },
+  {
+    "q": "Gandharvaveda is an Upaveda of which Veda?",
+    "pool": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda", "None"],
+    "answer": "Samaveda",
+    "desc": "Samaveda is associated with Gandharvaveda."
+  },
+  {
+    "q": "Which Upaveda focuses on architecture?",
+    "pool": ["Ayurveda", "Gandharvaveda", "Shilpaveda", "Dhanurveda", "Sthapatyaveda"],
+    "answer": "Shilpaveda",
+    "desc": "Shilpaveda is concerned with architecture and craftsmanship."
+  },
+  {
+    "q": "Which Veda is associated with Shilpaveda?",
+    "pool": ["Atharvaveda", "Rigveda", "Yajurveda", "Samaveda", "None"],
+    "answer": "Atharvaveda",
+    "desc": "Atharvaveda is the Veda linked with Shilpaveda."
+  },
+  {
+    "q": "Which Upaveda deals with medicine?",
+    "pool": ["Ayurveda", "Dhanurveda", "Shilpaveda", "Gandharvaveda", "Rasayana"],
+    "answer": "Ayurveda",
+    "desc": "Ayurveda is the ancient Indian system of medicine."
+  },
+  {
+    "q": "Ayurveda is the Upaveda of which Veda?",
+    "pool": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda", "None"],
+    "answer": "Rigveda",
+    "desc": "Rigveda is associated with the Upaveda Ayurveda."
+  },
+  {
+    "q": "Who is the author of Mahabharata?",
+    "pool": ["Valmiki", "Vyasa", "Kalidasa", "Bharata", "Patanjali"],
+    "answer": "Vyasa",
+    "desc": "Vyasa composed the epic Mahabharata."
+  },
+  {
+    "q": "What is another name for the Mahabharata?",
+    "pool": [
+      "Ramayana",
+      "Jaya Samhita",
+      "Bhagavata",
+      "Vishnu Purana",
+      "Satasahasrika"
+    ],
+    "answer": "Jaya Samhita",
+    "desc": "Mahabharata is also called Jaya Samhita and Satasahasri Samhita."
+  },
+  {
+    "q": "Approximately how many verses are in the Mahabharata?",
+    "pool": ["25,000", "50,000", "75,000", "100,000", "125,000"],
+    "answer": "100,000",
+    "desc": "The Mahabharata contains around 100,000 verses."
+  },
+  {
+    "q": "Who authored the Ramayana?",
+    "pool": ["Vyasa", "Valmiki", "Kalidasa", "Bharavi", "Jaimini"],
+    "answer": "Valmiki",
+    "desc": "The sage Valmiki wrote the Ramayana."
+  },
+  {
+    "q": "How many verses are there in the Ramayana approximately?",
+    "pool": ["18,000", "24,000", "29,000", "33,000", "40,000"],
+    "answer": "29,000",
+    "desc": "The Ramayana has about 29,000 verses."
+  },
+  {
+    "q": "Which epic is older than the Ramayana?",
+    "pool": ["Ramayana", "Bhagavad Gita", "Vedas", "Mahabharata", "Smritis"],
+    "answer": "Mahabharata",
+    "desc": "The Mahabharata predates the Ramayana."
+  },
+  {
+    "q": "Which Darshana is also called Vedanta?",
+    "pool": [
+      "Nyaya",
+      "Uttara Mimansa",
+      "Purva Mimansa",
+      "Sankhya",
+      "Vaishesika"
+    ],
+    "answer": "Uttara Mimansa",
+    "desc": "Uttara Mimansa is also known as Vedanta."
+  },
+  {
+    "q": "Which Darshana emphasizes ritual action and dharma?",
+    "pool": [
+      "Uttara Mimansa",
+      "Purva Mimansa",
+      "Nyaya",
+      "Yoga",
+      "Sankhya"
+    ],
+    "answer": "Purva Mimansa",
+    "desc": "Purva Mimansa focuses on rituals and dharma."
+  },
+  {
+    "q": "What is the main subject of Ayurveda?",
+    "pool": ["Yoga", "Music", "Architecture", "Medicine", "Philosophy"],
+    "answer": "Medicine",
+    "desc": "Ayurveda deals with the science of health and healing."
+  },
+  {
+    "q": "Which text is known as Satasahasri Samhita?",
+    "pool": ["Ramayana", "Bhagavata Purana", "Mahabharata", "Yajurveda", "Arthashastra"],
+    "answer": "Mahabharata",
+    "desc": "Mahabharata is also called Satasahasri Samhita due to its 100,000 verses."
+  },
+
+
+  {
+    "q": "What was the capital of Gandhara Mahajanapada?",
+    "pool": ["Taxila", "Champa", "Rajagriha", "Ujjain", "Vaishali"],
+    "answer": "Taxila",
+    "desc": "Gandhara was located between Kabul and Rawalpindi and had Taxila as its capital."
+  },
+  {
+    "q": "Which Mahajanapada had Champa as its capital?",
+    "pool": ["Anga", "Vatsa", "Chedi", "Kuru", "Kosala"],
+    "answer": "Anga",
+    "desc": "Anga, located in Bhagalpur and Munger in Bihar, had Champa as its capital."
+  },
+  {
+    "q": "Magadha under Ashoka had which capital?",
+    "pool": ["Vaishali", "Rajagriha", "Patliputra", "Girivraj", "Ujjain"],
+    "answer": "Patliputra",
+    "desc": "During Ashoka's reign, Magadha's capital was Patliputra."
+  },
+  {
+    "q": "Which city was the capital of Kashi?",
+    "pool": ["Mathura", "Ayodhya", "Varanasi", "Rajagriha", "Hastinapur"],
+    "answer": "Varanasi",
+    "desc": "Kashi, located in present-day Varanasi district, had Varanasi as its capital."
+  },
+  {
+    "q": "Where was the capital of Vajji Mahajanapada?",
+    "pool": ["Vaishali", "Patna", "Rajapur", "Indraprastha", "Kaushambi"],
+    "answer": "Vaishali",
+    "desc": "Vajji was located in the Vaishali district of UP and had Vaishali as its capital."
+  },
+  {
+    "q": "Which Mahajanapada had Kusinagara and Pava as capitals?",
+    "pool": ["Malla", "Magadha", "Chedi", "Surasenas", "Anga"],
+    "answer": "Malla",
+    "desc": "Malla, located south of Vaishali, had Kusinagara and Pava as its capitals."
+  },
+  {
+    "q": "Sothivati-nagar or Shuktimati was the capital of which Mahajanapada?",
+    "pool": ["Chedi", "Vatsa", "Kuru", "Panchala", "Matsya"],
+    "answer": "Chedi",
+    "desc": "Chedi was situated near the River Ken in the Bundelkhand area and had Sothivati-nagar or Shuktimati as its capital."
+  },
+  {
+    "q": "Which Mahajanapada had Kaushambi as its capital?",
+    "pool": ["Vatsa", "Anga", "Kashi", "Kuru", "Avanti"],
+    "answer": "Vatsa",
+    "desc": "Vatsa, located along the River Yamuna and present-day Allahabad and Mirzapur, had Kaushambi as its capital."
+  },
+  {
+    "q": "Kosala's capital was?",
+    "pool": ["Ayodhya", "Sravasti", "Both A and B", "Ujjain", "Rajagriha"],
+    "answer": "Both A and B",
+    "desc": "Kosala, located in Eastern UP, had Sravasti and Ayodhya (Saket) as its capitals."
+  },
+  {
+    "q": "Which Mahajanapada had Hastinapur and Indraprastha as its capitals?",
+    "pool": ["Kuru", "Panchala", "Surasenas", "Kosala", "Avanti"],
+    "answer": "Kuru",
+    "desc": "Kuru was based in the Ganga-Yamuna doab (Delhi-Meerut region) and had Hastinapur and Indraprastha as capitals."
+  },
+  {
+    "q": "Which Mahajanapada had Achichhatra and Kampilya as capitals?",
+    "pool": ["Panchala", "Matsya", "Kashi", "Chedi", "Kamboja"],
+    "answer": "Panchala",
+    "desc": "Panchala, located in the Ganga-Yamuna doab (Rohilkhand), had Achichhatra and Kampilya as its capitals."
+  },
+  {
+    "q": "Viratnagar was the capital of which Mahajanapada?",
+    "pool": ["Matsya", "Vatsa", "Kuru", "Anga", "Chedi"],
+    "answer": "Matsya",
+    "desc": "Matsya, situated in the Jaipur-Bharatpur-Alwar district, had Viratnagar/Bairath as its capital."
+  },
+  {
+    "q": "Mathura was the capital of which Mahajanapada?",
+    "pool": ["Surasenas", "Kamboja", "Kosala", "Avanti", "Vajji"],
+    "answer": "Surasenas",
+    "desc": "Surasenas, located in the Mathura region, had Mathura as its capital."
+  },
+  {
+    "q": "Asmaka was located near which river?",
+    "pool": ["Godavari", "Ganga", "Yamuna", "Sarasvati", "Narmada"],
+    "answer": "Godavari",
+    "desc": "Asmaka was located near the River Godavari in present-day Maharashtra."
+  },
+  {
+    "q": "Which Mahajanapada had Patna or Patali as its capital?",
+    "pool": ["Asmaka", "Kuru", "Kosala", "Malla", "Chedi"],
+    "answer": "Asmaka",
+    "desc": "Asmaka, located near Paithan in Maharashtra, had Patna or Patali as its capital."
+  },
+  {
+    "q": "Which Mahajanapada had Ujjain and Mahismati as capitals?",
+    "pool": ["Avanti", "Vatsa", "Matsya", "Kamboja", "Anga"],
+    "answer": "Avanti",
+    "desc": "Avanti (in Malwa region) had Ujjain (northern capital) and Mahismati (southern capital)."
+  },
+  {
+    "q": "Kamboja was located in which present-day area?",
+    "pool": ["Hazara district of Pakistan", "Bihar", "UP", "Maharashtra", "Rajasthan"],
+    "answer": "Hazara district of Pakistan",
+    "desc": "Kamboja was located in the Hazara district of present-day Pakistan."
+  },
+  {
+    "q": "Rajapur or Hataka was the capital of which Mahajanapada?",
+    "pool": ["Kamboja", "Vatsa", "Kuru", "Panchala", "Kosala"],
+    "answer": "Kamboja",
+    "desc": "Kamboja had Rajapur or Hataka as its capital."
+  },
+  {
+    "q": "Which of the following had Vaishali as a capital?",
+    "pool": ["Vajji", "Magadha", "Both A and B", "Kosala", "Malla"],
+    "answer": "Both A and B",
+    "desc": "Vaishali was a capital of both Vajji and Magadha (during Shishunaga’s time)."
+  },
+  {
+    "q": "Which Mahajanapada had multiple capitals over time like Girivraj, Rajagriha, and Patliputra?",
+    "pool": ["Magadha", "Anga", "Kosala", "Chedi", "Kuru"],
+    "answer": "Magadha",
+    "desc": "Magadha evolved through multiple capitals including Girivraj, Rajagriha, Vaishali, and Patliputra."
   }
 ]
+
+

@@ -1,0 +1,445 @@
+[
+  {
+    "q": "When did Jainism come into existence?",
+    "pool": ["Around 800 BC", "Around 700 BC", "Around 600 BC", "Around 500 BC", "Around 400 BC"],
+    "answer": "Around 600 BC",
+    "desc": "Jainism is believed to have originated around 600 BC."
+  },
+  {
+    "q": "Which of the following was a cause for the rise of Jainism?",
+    "pool": [
+      "Support of kings",
+      "Domination of Kshatriyas",
+      "Reaction against Brahmanical domination",
+      "Invasion by Persians",
+      "Spread of Vedic rituals"
+    ],
+    "answer": "Reaction against Brahmanical domination",
+    "desc": "Jainism rose partly due to resistance against the dominance of Brahmanas."
+  },
+  {
+    "q": "What other factor contributed to the rise of Jainism in the North-East?",
+    "pool": [
+      "Decline of Buddhism",
+      "Spread of Vedic literature",
+      "Growth of trade",
+      "Spread of agricultural economy",
+      "Rise of cities"
+    ],
+    "answer": "Spread of agricultural economy",
+    "desc": "Agricultural expansion in the North-East supported the growth of Jainism."
+  },
+  {
+    "q": "Who is considered the founder of Jainism?",
+    "pool": ["Parshvanatha", "Mahavira", "Rishabhadeva", "Buddha", "Gautama"],
+    "answer": "Rishabhadeva",
+    "desc": "Rishabhadeva is regarded as the first tirthankara and founder of Jainism."
+  },
+  {
+    "q": "What is the emblem associated with Rishabhadeva?",
+    "pool": ["Elephant", "Bull", "Lion", "Peacock", "Snake"],
+    "answer": "Bull",
+    "desc": "Rishabhadeva’s emblem is the bull."
+  },
+  {
+    "q": "How many tirthankaras are there in Jainism?",
+    "pool": ["10", "18", "20", "24", "30"],
+    "answer": "24",
+    "desc": "Jainism recognizes 24 tirthankaras or spiritual teachers."
+  },
+  {
+    "q": "Who was the 23rd tirthankara of Jainism?",
+    "pool": ["Rishabhadeva", "Mahavira", "Parshvanatha", "Neminatha", "Sambhavanatha"],
+    "answer": "Parshvanatha",
+    "desc": "Parshvanatha was the 23rd tirthankara in Jainism."
+  },
+  {
+    "q": "Who was the 24th and last tirthankara of Jainism?",
+    "pool": ["Parshvanatha", "Rishabhadeva", "Mahavira", "Ajitanatha", "Shantinatha"],
+    "answer": "Mahavira",
+    "desc": "Vardhamana Mahavira is the 24th and final tirthankara of Jainism."
+  },
+  {
+    "q": "Where was Mahavira born?",
+    "pool": ["Ayodhya", "Vaishali", "Kundagram", "Rajagriha", "Pataliputra"],
+    "answer": "Kundagram",
+    "desc": "Mahavira was born in Kundagram, near Vaishali."
+  },
+  {
+    "q": "In which year was Mahavira born?",
+    "pool": ["550 BC", "540 BC", "530 BC", "520 BC", "510 BC"],
+    "answer": "540 BC",
+    "desc": "Mahavira was born in 540 BC."
+  },
+  {
+    "q": "What was the name of Mahavira’s father?",
+    "pool": ["Siddhartha", "Suddhodana", "Chetaka", "Bindusara", "Bimbisara"],
+    "answer": "Siddhartha",
+    "desc": "Mahavira’s father was Siddhartha of the Jnatrik Kshatriya clan."
+  },
+  {
+    "q": "Which clan did Mahavira belong to?",
+    "pool": ["Lichchhavi", "Maurya", "Sunga", "Jnatrik Kshatriya", "Shakya"],
+    "answer": "Jnatrik Kshatriya",
+    "desc": "Mahavira belonged to the Jnatrik Kshatriya clan."
+  },
+  {
+    "q": "Who was Mahavira’s mother?",
+    "pool": ["Maya", "Trishala", "Yashoda", "Kosaladevi", "Khema"],
+    "answer": "Trishala",
+    "desc": "Trishala, sister of Lichchhavi chief Chetaka, was Mahavira’s mother."
+  },
+  {
+    "q": "Who was Trishala’s brother?",
+    "pool": ["Siddhartha", "Ajatashatru", "Chetaka", "Chandragupta", "Vajra"],
+    "answer": "Chetaka",
+    "desc": "Trishala was the sister of Lichchhavi chief Chetaka."
+  },
+  {
+    "q": "Who was Mahavira married to?",
+    "pool": ["Trishala", "Yashoda", "Maya", "Devaki", "Subhadra"],
+    "answer": "Yashoda",
+    "desc": "Mahavira’s wife was Yashoda."
+  },
+  {
+    "q": "What was the name of Mahavira’s daughter?",
+    "pool": ["Priyadarshini", "Amrapali", "Yashomati", "Suhashini", "Vaidehi"],
+    "answer": "Priyadarshini",
+    "desc": "Mahavira had a daughter named Priyadarshini."
+  },
+  {
+    "q": "Who was the first disciple of Mahavira?",
+    "pool": ["Parshva", "Gosala", "Sudharma", "Jamali", "Chandana"],
+    "answer": "Jamali",
+    "desc": "Jamali, Mahavira’s son-in-law, became his first disciple."
+  },
+  {
+    "q": "At what age did Mahavira become an ascetic?",
+    "pool": ["25", "28", "30", "35", "40"],
+    "answer": "30",
+    "desc": "Mahavira renounced worldly life and became an ascetic at 30."
+  },
+  {
+    "q": "What is the term for the enlightenment Mahavira attained?",
+    "pool": ["Moksha", "Nirvana", "Kaivalya", "Samadhi", "Jnana"],
+    "answer": "Kaivalya",
+    "desc": "Mahavira attained ‘Kaivalya’ or absolute knowledge, becoming a Jina."
+  },
+  {
+    "q": "Where did Mahavira attain Kaivalya?",
+    "pool": ["Rajgir", "Pavapuri", "Vaishali", "Jimbhikgrama", "Nalanda"],
+    "answer": "Jimbhikgrama",
+    "desc": "He attained Kaivalya near the town of Jimbhikgrama."
+  },
+  {
+    "q": "At what age did Mahavira attain Kaivalya?",
+    "pool": ["30", "35", "40", "42", "45"],
+    "answer": "42",
+    "desc": "Mahavira attained enlightenment at the age of 42."
+  },
+  {
+    "q": "How old was Mahavira when he died?",
+    "pool": ["70", "71", "72", "73", "74"],
+    "answer": "72",
+    "desc": "Mahavira passed away at the age of 72."
+  },
+  {
+    "q": "When did Mahavira die?",
+    "pool": ["480 BC", "475 BC", "468 BC", "460 BC", "450 BC"],
+    "answer": "468 BC",
+    "desc": "Mahavira died in 468 BC."
+  },
+  {
+    "q": "Where did Mahavira die?",
+    "pool": ["Rajgir", "Pataliputra", "Pavapuri", "Vaishali", "Ujjain"],
+    "answer": "Pavapuri",
+    "desc": "Mahavira attained nirvana in Pavapuri."
+  },
+  {
+    "q": "Which tirthankara is represented with the bull symbol?",
+    "pool": ["Mahavira", "Parshvanatha", "Rishabhadeva", "Ajitanatha", "Sambhavanatha"],
+    "answer": "Rishabhadeva",
+    "desc": "Rishabhadeva, the first tirthankara, is symbolized by a bull."
+  },
+  {
+    "q": "Who was Chetaka in relation to Mahavira?",
+    "pool": ["Father-in-law", "Brother", "Uncle", "Maternal uncle", "Mother’s brother"],
+    "answer": "Mother’s brother",
+    "desc": "Chetaka was Mahavira’s maternal uncle—his mother Trishala’s brother."
+  },
+  {
+    "q": "Which city is close to Kundagram, Mahavira’s birthplace?",
+    "pool": ["Rajgir", "Ayodhya", "Vaishali", "Pataliputra", "Champa"],
+    "answer": "Vaishali",
+    "desc": "Kundagram, where Mahavira was born, is near Vaishali."
+  },
+  {
+    "q": "What does 'Jina' mean in Jainism?",
+    "pool": ["God", "Teacher", "Conqueror", "Devotee", "Saint"],
+    "answer": "Conqueror",
+    "desc": "‘Jina’ means conqueror—one who has conquered desire and attained enlightenment."
+  },
+  {
+    "q": "Which of these was not a cause of Jainism's emergence?",
+    "pool": [
+      "Domination of Brahmanas",
+      "Spread of agriculture",
+      "Growth of Vedic rituals",
+      "Peaceful society",
+      "Desire for social reform"
+    ],
+    "answer": "Peaceful society",
+    "desc": "A peaceful society wasn't a direct cause for Jainism's rise; it was more about reform."
+  },
+  {
+    "q": "What relation did Jamali have with Mahavira?",
+    "pool": ["Brother", "Son", "Disciple", "Son-in-law", "Cousin"],
+    "answer": "Son-in-law",
+    "desc": "Jamali was Mahavira’s son-in-law and first disciple."
+  },
+
+
+  {
+    "q": "Which is one of the Five Doctrines of Jainism?",
+    "pool": ["Asteya", "Karma", "Bhakti", "Dharma", "Moksha"],
+    "answer": "Asteya",
+    "desc": "Asteya means not to steal and is one of the core doctrines of Jainism."
+  },
+  {
+    "q": "What does 'Ahimsa' in Jainism mean?",
+    "pool": ["Truthfulness", "Celibacy", "Non-violence", "Non-stealing", "Possessionlessness"],
+    "answer": "Non-violence",
+    "desc": "Ahimsa, or non-violence, is a foundational principle in Jain philosophy."
+  },
+  {
+    "q": "Which of the following is not part of the Five Doctrines of Jainism?",
+    "pool": ["Satya", "Ahimsa", "Asteya", "Bhakti", "Aparigraha"],
+    "answer": "Bhakti",
+    "desc": "Bhakti (devotion) is not part of Jainism's Five Doctrines."
+  },
+  {
+    "q": "The doctrine 'Brahmacharya' in Jainism promotes:",
+    "pool": ["Violence", "Celibacy", "Wealth accumulation", "Lying", "Eating meat"],
+    "answer": "Celibacy",
+    "desc": "Brahmacharya emphasizes self-restraint and celibacy."
+  },
+  {
+    "q": "What are the Triratnas of Jainism?",
+    "pool": ["Karma, Bhakti, Moksha", "Ahimsa, Satya, Brahmacharya", "Right Knowledge, Right Faith, Right Conduct", "Truth, Non-violence, Peace", "Yog, Tapas, Samadhi"],
+    "answer": "Right Knowledge, Right Faith, Right Conduct",
+    "desc": "The Triratnas are the three guiding principles of Jainism."
+  },
+  {
+    "q": "Which path leads to salvation in Jainism?",
+    "pool": ["Devotion to God", "Karma Yoga", "Ritual Worship", "Renunciation and Meditation", "Charity"],
+    "answer": "Renunciation and Meditation",
+    "desc": "Jainism believes in salvation through renunciation, self-discipline, and meditation."
+  },
+  {
+    "q": "Jainism recognizes the existence of God as:",
+    "pool": ["Supreme Being", "Higher than Jina", "Equal to Jina", "Lower than Jina", "Does not recognize God"],
+    "answer": "Lower than Jina",
+    "desc": "Jainism accepts God’s existence but considers Him lower than Jina."
+  },
+  {
+    "q": "Jainism's stance on the varna system was:",
+    "pool": ["Condemned it", "Accepted it fully", "Neutral", "Worse than Buddhism", "Did not condemn it like Buddhism"],
+    "answer": "Did not condemn it like Buddhism",
+    "desc": "Unlike Buddhism, Jainism did not strongly oppose the varna system."
+  },
+  {
+    "q": "Which ruler was a major patron of Jainism?",
+    "pool": ["Ashoka", "Harshavardhana", "Kharavela", "Samudragupta", "Pulakeshin II"],
+    "answer": "Kharavela",
+    "desc": "Kharavela, the king of Kalinga, was a significant patron of Jainism."
+  },
+  {
+    "q": "Who among the following Mauryan rulers became a Jain?",
+    "pool": ["Bindusara", "Ashoka", "Chandragupta Maurya", "Samprati", "Dasaratha"],
+    "answer": "Chandragupta Maurya",
+    "desc": "Chandragupta Maurya adopted Jainism under Bhadrabahu's guidance."
+  },
+  {
+    "q": "Who guided Chandragupta Maurya into Jainism?",
+    "pool": ["Mahavira", "Sthulbhadra", "Bhadrabahu", "Parshvanatha", "Haribhadra"],
+    "answer": "Bhadrabahu",
+    "desc": "Bhadrabahu was Chandragupta Maurya’s Jain teacher."
+  },
+  {
+    "q": "Jainism split into two sects during the reign of:",
+    "pool": ["Ashoka", "Harshavardhana", "Chandragupta Maurya", "Bindusara", "Kanishka"],
+    "answer": "Chandragupta Maurya",
+    "desc": "Jainism was divided into Svetambaras and Digambaras during his time."
+  },
+  {
+    "q": "The famine in which region led to the split in Jainism?",
+    "pool": ["Kalinga", "Ujjain", "Magadha", "Avanti", "Saurashtra"],
+    "answer": "Magadha",
+    "desc": "A famine in Magadha caused Jain monks to migrate and led to a schism."
+  },
+  {
+    "q": "Svetambaras are known for wearing:",
+    "pool": ["Black robes", "No clothes", "Red clothes", "White clothes", "Yellow robes"],
+    "answer": "White clothes",
+    "desc": "Svetambaras literally means 'white-clad'."
+  },
+  {
+    "q": "Who led the Digambara sect?",
+    "pool": ["Mahavira", "Bhadrabahu", "Sthulbhadra", "Haribhadra", "Hemachandra"],
+    "answer": "Bhadrabahu",
+    "desc": "Bhadrabahu led the Digambaras, who renounced clothing."
+  },
+  {
+    "q": "Jaina texts were written in which language?",
+    "pool": ["Sanskrit", "Tamil", "Pali", "Prakrit", "Hindi"],
+    "answer": "Prakrit",
+    "desc": "Prakrit was the primary language of early Jain literature."
+  },
+  {
+    "q": "Jain monastic establishments are called:",
+    "pool": ["Viharas", "Mathas", "Ashrams", "Basadis", "Mandapas"],
+    "answer": "Basadis",
+    "desc": "Basadis are temples or monasteries of Jain monks."
+  },
+  {
+    "q": "What does 'Aparigraha' advocate in Jainism?",
+    "pool": ["Truthfulness", "Celibacy", "Possessionlessness", "Non-violence", "Devotion"],
+    "answer": "Possessionlessness",
+    "desc": "Aparigraha teaches detachment from material possessions."
+  },
+  {
+    "q": "Which doctrine promotes truthfulness in Jainism?",
+    "pool": ["Ahimsa", "Satya", "Asteya", "Brahmacharya", "Aparigraha"],
+    "answer": "Satya",
+    "desc": "Satya is the commitment to truth in thought, speech, and action."
+  },
+  {
+    "q": "Which Jain sect believes in complete nudity?",
+    "pool": ["Svetambara", "Digambara", "Theravada", "Mahayana", "Vaishnava"],
+    "answer": "Digambara",
+    "desc": "Digambaras practice nudity to signify renunciation."
+  },
+  {
+    "q": "Jainism admits:",
+    "pool": ["Only men", "Only women", "Neither", "Both men and women", "Only Brahmins"],
+    "answer": "Both men and women",
+    "desc": "Jainism was inclusive and allowed both genders into monastic life."
+  },
+  {
+    "q": "One reason Jainism failed to attract the masses was:",
+    "pool": ["Too liberal", "Opposed caste", "Linked to Brahmanism", "Denied God", "Too easy"],
+    "answer": "Linked to Brahmanism",
+    "desc": "Jainism retained some Brahmanical elements, which limited mass appeal."
+  },
+  {
+    "q": "What caused the division between Digambaras and Svetambaras?",
+    "pool": ["Doctrinal differences", "Royal intervention", "Famine", "Language barriers", "Philosophical dispute"],
+    "answer": "Famine",
+    "desc": "A famine in Magadha forced migration, causing the Jain sects to divide."
+  },
+  {
+    "q": "Who led the Svetambara sect?",
+    "pool": ["Bhadrabahu", "Parshvanatha", "Sthulbhadra", "Chandragupta", "Rishabha"],
+    "answer": "Sthulbhadra",
+    "desc": "Sthulbhadra led the white-clad Svetambaras."
+  },
+  {
+    "q": "What does 'Asteya' mean?",
+    "pool": ["Truth", "Celibacy", "Non-stealing", "Faith", "Renunciation"],
+    "answer": "Non-stealing",
+    "desc": "Asteya is the Jain vow not to steal or take anything not freely given."
+  },
+  {
+    "q": "Which doctrine of Jainism promotes truthfulness?",
+    "pool": ["Ahimsa", "Asteya", "Aparigraha", "Satya", "Brahmacharya"],
+    "answer": "Satya",
+    "desc": "Satya teaches honesty in all forms of communication."
+  },
+  {
+    "q": "Jain salvation is attained through:",
+    "pool": ["God’s grace", "Rebirth", "Penance and meditation", "Charity", "Pilgrimage"],
+    "answer": "Penance and meditation",
+    "desc": "Salvation in Jainism is achieved through spiritual discipline and detachment."
+  },
+  {
+    "q": "Which among these is not a Triratna?",
+    "pool": ["Right Faith", "Right Action", "Right Knowledge", "Right Conduct", "Right Speech"],
+    "answer": "Right Speech",
+    "desc": "Right Speech is not one of the Triratnas of Jainism."
+  },
+  {
+    "q": "What was a key feature of Digambara monks?",
+    "pool": ["Used Prakrit", "Wore white", "Practiced nudity", "Lived in caves", "Followed vegetarianism"],
+    "answer": "Practiced nudity",
+    "desc": "Digambara monks practiced complete nudity to renounce possessions."
+  },
+  {
+    "q": "Language of early Jain texts?",
+    "pool": ["Sanskrit", "Pali", "Prakrit", "Hindi", "Telugu"],
+    "answer": "Prakrit",
+    "desc": "Early Jain texts were written in Prakrit, a common language of the time."
+  },
+
+
+  {
+    "q": "Where was the first Jain council held?",
+    "pool": ["Vallabhi", "Rajagriha", "Pataliputra", "Ujjain", "Kalinga"],
+    "answer": "Pataliputra",
+    "desc": "The first Jain council was held at Pataliputra around 300 BC."
+  },
+  {
+    "q": "Who presided over the first Jain council?",
+    "pool": ["Kshamasramana", "Bhadrabahu", "Sthulbhadra", "Mahavira", "Haribhadra"],
+    "answer": "Sthulbhadra",
+    "desc": "Sthulbhadra led the first Jain council at Pataliputra."
+  },
+  {
+    "q": "In which year was the first Jain council conducted?",
+    "pool": ["300 AD", "500 BC", "100 BC", "300 BC", "5th century AD"],
+    "answer": "300 BC",
+    "desc": "The first council was held around 300 BC to compile Jaina canons."
+  },
+  {
+    "q": "What was the major achievement of the first Jain council?",
+    "pool": ["Division into sects", "Worship rituals framed", "Jaina canons compiled", "Prakrit grammar written", "Spread of Jainism to south"],
+    "answer": "Jaina canons compiled",
+    "desc": "The main purpose of the first council was compiling the Jain scriptures."
+  },
+  {
+    "q": "Where was the second Jain council held?",
+    "pool": ["Pataliputra", "Rajagriha", "Ujjain", "Vallabhi", "Sanchi"],
+    "answer": "Vallabhi",
+    "desc": "The second Jain council was held at Vallabhi in the 5th century AD."
+  },
+  {
+    "q": "Who presided over the second Jain council?",
+    "pool": ["Sthulbhadra", "Kshamasramana", "Bhadrabahu", "Haribhadra", "Mahavira"],
+    "answer": "Kshamasramana",
+    "desc": "Kshamasramana headed the second Jain council at Vallabhi."
+  },
+  {
+    "q": "In which century was the second Jain council held?",
+    "pool": ["3rd century BC", "1st century AD", "4th century AD", "5th century AD", "2nd century BC"],
+    "answer": "5th century AD",
+    "desc": "The second council took place in the 5th century AD."
+  },
+  {
+    "q": "Which Jain texts were compiled during the second council?",
+    "pool": ["10 Angas", "14 Purvas", "12 Angas and 12 Upangas", "Tripitaka", "Jatakas"],
+    "answer": "12 Angas and 12 Upangas",
+    "desc": "The second Jain council compiled 12 Angas and 12 Upangas."
+  },
+  {
+    "q": "In what language were the Jain texts compiled during the second council?",
+    "pool": ["Sanskrit", "Pali", "Prakrit", "ArdhMagadhi", "Tamil"],
+    "answer": "ArdhMagadhi",
+    "desc": "The texts were compiled in ArdhMagadhi during the second council."
+  },
+  {
+    "q": "Which of the following councils resulted in the compilation of 12 Angas and 12 Upangas?",
+    "pool": ["First council", "Second council", "Third council", "Vaishali council", "Rajagriha council"],
+    "answer": "Second council",
+    "desc": "The second Jain council at Vallabhi compiled 12 Angas and 12 Upangas."
+  }
+]
+
