@@ -491,7 +491,7 @@
       max-width: 450px;
       margin-left: auto;
       margin-right: auto;
-      margin-top: 70px;
+      margin-top: 40px;
       display: flex;
       align-items: center;
       gap: 10px;
@@ -992,6 +992,159 @@
       flex-shrink: 0;
     }
 }
+/* SERCH ICON*/
+.search-expand-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        margin-top: 24px;
+      }
+      .expand-search-wrapper {
+      position: relative;
+      width: 40px;
+      height: 40px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: width 0.32s cubic-bezier(.5,1.6,.6,1);
+      
+      
+    }
+      .expand-search-bar {
+        width: 100%;
+        height: 40px;
+        border: 2px solid #4caf50;
+        border-radius: 23px;
+        background: transparent;
+        font-size: 17px;
+        outline: none;
+        box-sizing: border-box;
+        padding-left: 20px;
+        padding-right: 20px;
+        transition: background 0.18s;
+        color: #222;
+        caret-color: auto;
+        cursor: pointer;
+        position: relative;
+
+      }
+      .expand-search-bar::placeholder {
+  color: #aaa;
+  opacity: 1;
+  transition: opacity 0.18s;
+}
+      .expand-search-wrapper.expanded {
+        width: 400px;
+        caret-color: auto;
+        cursor: text;
+        background: transparent;
+        
+      }
+      .expand-search-bar.expanded::placeholder {
+        opacity: 1;
+      }
+      .search-btn-icon-inline {
+        position: absolute;
+        top: -3px;
+        
+        transform: translateY(-50%);
+        width: 32px;
+        height: 32px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: none;
+        background: none;
+        padding: 0;
+        cursor: pointer;
+        z-index: 0;
+        transition: opacity 0.2s;
+      }
+      .expand-search-bar.expanded + .search-btn-icon-inline {
+        opacity: 0;
+        pointer-events: none;
+      }
+      /* Autocomplete dropdown */
+      .autocomplete-list {
+        position: absolute;
+        left: 0;
+        top: 100%;
+        width: 100%;
+        background: transparent;
+        border: 1.5px solid #4caf50;
+        margin-top: 3px;
+        border-radius: 25px;
+        max-height: 210px;
+        overflow-y: auto;
+        z-index: 10;
+        box-shadow: 0 6px 24px rgba(46,125,80,0.11);
+        font-size: 16px;
+        padding: 0;
+        list-style: none;
+        display: none;
+      }
+      .autocomplete-list.visible {
+        display: block;
+      }
+      .autocomplete-item {
+        padding: 10px 16px;
+        cursor: pointer;
+        border-bottom: 1px solid #eee;
+        background: transparent;
+        transition: background 0.16s;
+        font-size: 16px;
+      }
+      .autocomplete-item:last-child {
+        border-bottom: none;
+      }
+      .autocomplete-item.active,
+      .autocomplete-item:hover {
+        background: #e8f5e9;
+        font-weight: bold;
+      }
+      @media (max-width: 600px) {
+        .expand-search-wrapper,
+        .expand-search-bar {
+          height: 40px;
+        }
+        
+        .expand-search-bar.expanded {
+          width: 85vw;
+          
+          max-width: 75vw;
+          margin-left: calc(-42.5vw + 45px);
+          margin-right: calc(-42.5vw + 45px);
+          padding-right: 20px;
+        }
+        .autocomplete-list {
+        width: 85vw;
+        max-width: 75vw;
+        margin-left: 39px;
+        
+          
+      }
+        .search-btn-icon-inline {
+          width: 22px;
+          height: 22px;
+          top:10px;
+          left: 10px;       
+          
+        }
+        .autocomplete-list {
+          font-size: 15px;
+        }
+        .search-btn-icon-inline {
+          width: 22px;
+          height: 22px;
+          right: 4px;
+        }
+        .search-btn-icon-inline svg {
+          width: 18px;
+          height: 18px;
+        }
+        
+      }
     
   </style>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
@@ -1036,6 +1189,7 @@
           <div onclick="selectOption('subject', 'Hindi')">Hindi</div>
           <div onclick="selectOption('subject', 'History')">History</div>
           <div onclick="selectOption('subject', 'Mathematics')">Mathematics</div>
+          <div onclick="selectOption('subject', 'Picture-Based Learning')">Picture-Based Learning</div>
           <div onclick="selectOption('subject', 'Polity')">Polity</div>
           <div onclick="selectOption('subject', 'Punjabi')">Punjabi</div>
           <div onclick="selectOption('subject', 'Quantitative Aptitude')">Quantitative Aptitude</div>
@@ -1053,6 +1207,27 @@
       <button id="goButton" onclick="goToPage()" disabled>Go</button>
     </div>
   </div>
+  <!-- SEARCH BAR-->
+  <div class="search-expand-container">
+      <div class="expand-search-wrapper" id="expandSearchWrapper">
+        <input
+          type="text"
+          id="expandSearchBar"
+          class="expand-search-bar"
+          placeholder=""
+          aria-label="Search"
+          autocomplete="off"
+          
+        
+          
+        />
+        <button type="button" class="search-btn-icon-inline" id="expandSearchBtn" aria-label="Expand search" tabindex="-1">
+          <img src="images/search.png" width="19px" style="z-index: 0;" alt="Search Icon">
+        </button>
+        <ul id="autocompleteList" class="autocomplete-list"></ul>
+      </div>
+    </div>
+
   <!-- Info Message below banner and above dropdowns -->
   <div class="info-message" id="info-message">
     <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="#2e7d32" viewBox="0 0 24 24">
@@ -1174,13 +1349,14 @@
     // ---- DROPDOWN LOGIC ----
     const subjectTopics = {
       "Quantitative Aptitude": ['Squares upto 10','Squares upto 10 Mix','Squares upto 20','Squares upto 20 Mix', 'Squares upto 30', 'Squares upto 40','Squares upto 50','Tables upto 10','Tables upto 20','Tables upto 30','Tables upto 40','Tables upto 50'],
-      "General Awareness": ['Countries Flags','Currency Symbols','States'],
+      "General Awareness": [],
       "English": ['One Word Substitution',''],
       "Banking Awareness": ['Full Forms'],
       "Current Affairs": ['May 2025','April 2025'],
       "Reasoning Ability": ['Alphabet Positions', 'Alphabet Positions Mix','Alphabet Series','Analogy','Classification I','Classification II','Letter Series','Number Series'],
       "Geography":['Rocks'],
-      "History":['Pre-Historic Period','Indus Valley Civilisation']
+      "History":['Pre-Historic Period','Indus Valley Civilisation','Vedic Period','Vedic Literature'],
+      "Picture-Based Learning":['Countries Flags','Currency Symbols','States']
     };
 
     function toggleMenu(type) {
@@ -1481,6 +1657,128 @@
         if (modal && event.target == modal) modal.style.display = "none";
       });
     }
+
+  //Search Icon script  
+   // --- Expandable Search Bar, no icon when expanded ---
+      // Load topics JSON
+      let topics = [];
+      fetch('topics.json')
+        .then(r => r.json())
+        .then(json => topics = json);
+
+      const expandBtn = document.getElementById('expandSearchBtn');
+      const expandBar = document.getElementById('expandSearchBar');
+      const autocompleteList = document.getElementById('autocompleteList');
+      const searchWrapper = document.getElementById('expandSearchWrapper');
+      let expanded = false;
+      let filtered = [];
+      let activeIndex = -1;
+
+  function expandSearch() {
+  searchWrapper.classList.add('expanded');
+  expandBar.classList.add('expanded');
+  expandBar.readOnly = false;
+  expandBar.placeholder = "Type to search topics...";
+  expandBar.focus();
+  expanded = true;
+  document.getElementById('info-message').style.display = "none"
+}
+function collapseSearch() {
+  searchWrapper.classList.remove('expanded');
+  expandBar.classList.remove('expanded');
+  expandBar.value = '';
+  expandBar.placeholder = "";
+  expandBar.readOnly = true;
+  expanded = false;
+  autocompleteList.classList.remove('visible');
+  autocompleteList.innerHTML = "";
+  activeIndex = -1;
+  document.getElementById('info-message').style.display = "flex"
+}
+
+    expandBtn.addEventListener('click', function(e) {
+        if (!expanded) 
+    expandSearch();    
+      });
+      expandBar.addEventListener('focus', function() {
+        if (!expanded) expandSearch();
+      });
+      expandBar.addEventListener('blur', function() {
+        setTimeout(() => {
+          collapseSearch();
+        }, 160);
+      });
+
+      // Fuzzy match: all words in any order
+      function matchTopics(query) {
+      if (!query.trim()) return [];
+      const words = query.trim().toLowerCase().split(/\s+/);
+
+      return topics.filter(item => {
+        const hayList = [item.name, ...(item.alias || [])]; // combine name and alias list
+        return hayList.some(hayItem => {
+          const hay = hayItem.toLowerCase();
+          return words.every(word => hay.includes(word));
+        });
+      });
+    }
+
+
+      expandBar.addEventListener('input', function(e) {
+        const val = expandBar.value;
+        filtered = matchTopics(val);
+        autocompleteList.innerHTML = "";
+        activeIndex = -1;
+        if (filtered.length > 0 && val.trim()) {
+          filtered.forEach((item, idx) => {
+            const li = document.createElement('li');
+            li.className = "autocomplete-item";
+            li.textContent = item.name;
+            li.onclick = () => {
+              window.location.href = item.url;
+            };
+            autocompleteList.appendChild(li);
+          });
+          autocompleteList.classList.add('visible');
+        } else {
+          autocompleteList.classList.remove('visible');
+        }
+      });
+
+      // Keyboard navigation
+      expandBar.addEventListener('keydown', function(e) {
+        const items = autocompleteList.querySelectorAll('.autocomplete-item');
+        if (!autocompleteList.classList.contains('visible')) return;
+        if (e.key === "ArrowDown") {
+          activeIndex = (activeIndex + 1) % items.length;
+          updateActive();
+          e.preventDefault();
+        } else if (e.key === "ArrowUp") {
+          activeIndex = (activeIndex - 1 + items.length) % items.length;
+          updateActive();
+          e.preventDefault();
+        } else if (e.key === "Enter") {
+          if (activeIndex >= 0 && filtered[activeIndex]) {
+            window.location.href = filtered[activeIndex].url;
+          }
+        }
+      });
+
+      function updateActive() {
+        const items = autocompleteList.querySelectorAll('.autocomplete-item');
+        items.forEach((el, idx) => {
+          if (idx === activeIndex) el.classList.add('active');
+          else el.classList.remove('active');
+        });
+      }
+
+      // Optional shortcut: expand search with "/" key
+      document.addEventListener('keydown', function(e) {
+        if ((e.key === "/" || e.key === "s") && !expanded && document.activeElement.tagName !== "INPUT" && document.activeElement.tagName !== "TEXTAREA") {
+          expandSearch();
+          e.preventDefault();
+        }
+      });
   </script>
 </body>
 </html>

@@ -1,0 +1,705 @@
+[
+  {
+    "q": "Where did the Aryans originally come from?",
+    "pool": ["Africa", "Arabia", "Southern Russia", "China", "Persia"],
+    "answer": "Southern Russia",
+    "desc": "Aryans are believed to have originated from the Steppes region stretching from Southern Russia to Central Asia."
+  },
+  {
+    "q": "When did the Rig Vedic period begin?",
+    "pool": ["2000 BC", "1500 BC", "1200 BC", "1000 BC", "800 BC"],
+    "answer": "1500 BC",
+    "desc": "The Rig Vedic period began around 1500 BC and lasted till 1000 BC."
+  },
+  {
+    "q": "What was the main occupation of the Rig Vedic Aryans?",
+    "pool": ["Farming", "Pastoralism", "Hunting", "Fishing", "Mining"],
+    "answer": "Pastoralism",
+    "desc": "The Aryans were primarily semi-nomadic pastoralists during the Rig Vedic period."
+  },
+  {
+    "q": "What was the Aryan name for the region they settled in India?",
+    "pool": ["Aryavarta", "Hindustan", "Sapta Sindhawa", "Madhyadesha", "Brahmavarta"],
+    "answer": "Sapta Sindhawa",
+    "desc": "The Aryans referred to their Indian settlement region as Sapta Sindhawa or the Land of Seven Rivers."
+  },
+  {
+    "q": "Which river is associated with the Dasrajan war?",
+    "pool": ["Indus", "Saraswati", "Parushni", "Yamuna", "Ganga"],
+    "answer": "Parushni",
+    "desc": "The Battle of Ten Kings was fought on the banks of the Parushni river."
+  },
+  {
+    "q": "Who emerged victorious in the Battle of Ten Kings?",
+    "pool": ["Dasas", "Dasyus", "Sudas", "Bhrigus", "Purus"],
+    "answer": "Sudas",
+    "desc": "Sudas, the Bharata king of Tritsus, defeated the coalition of ten kings in the Dasrajan war."
+  },
+  {
+    "q": "What was the term used for a tribe in the Rig Vedic period?",
+    "pool": ["Rashtra", "Grama", "Jana", "Sangha", "Mandal"],
+    "answer": "Jana",
+    "desc": "The Rig Vedic society was organized into tribes called Jana."
+  },
+  {
+    "q": "What was the title of the tribal king?",
+    "pool": ["Raja", "Chakravarti", "Gramani", "Rajan", "Samrat"],
+    "answer": "Rajan",
+    "desc": "The tribal chief or king in Rig Vedic times was known as Rajan."
+  },
+  {
+    "q": "Which assembly possibly elected the Rajan?",
+    "pool": ["Sabha", "Gana", "Vidatha", "Samiti", "Mahasabha"],
+    "answer": "Samiti",
+    "desc": "The Samiti was the tribal assembly that possibly elected the Rajan."
+  },
+  {
+    "q": "Who was the most important official assisting the king?",
+    "pool": ["Gramani", "Senani", "Purohita", "Vaishya", "Mahamatya"],
+    "answer": "Purohita",
+    "desc": "The Purohita or priest was the most important advisor to the king."
+  },
+  {
+    "q": "Which official was in charge of the village?",
+    "pool": ["Samiti", "Sabha", "Gramani", "Rajan", "Purohita"],
+    "answer": "Gramani",
+    "desc": "The village head during the Rig Vedic period was called the Gramani."
+  },
+  {
+    "q": "Which tribal assembly dealt with administrative matters?",
+    "pool": ["Vidatha", "Gana", "Sabha", "Parishad", "Rajya Sabha"],
+    "answer": "Sabha",
+    "desc": "Sabha was an important tribal assembly dealing with administration and governance."
+  },
+  {
+    "q": "What was the society primarily loyal to?",
+    "pool": ["State", "Territory", "Jana", "Rashtra", "Family"],
+    "answer": "Jana",
+    "desc": "People in Rig Vedic society were loyal to the tribe, known as Jana."
+  },
+  {
+    "q": "How often is the term 'Jana' mentioned in the Rigveda?",
+    "pool": ["100", "150", "275", "300", "50"],
+    "answer": "275",
+    "desc": "The term 'Jana' appears 275 times in the Rigveda."
+  },
+  {
+    "q": "Which deity was known as 'Purandara'?",
+    "pool": ["Agni", "Soma", "Varuna", "Indra", "Mitra"],
+    "answer": "Indra",
+    "desc": "Indra, the most important deity of the Rig Vedic period, was also called Purandara."
+  },
+  {
+    "q": "Which god was associated with plants?",
+    "pool": ["Agni", "Soma", "Vayu", "Varuna", "Rudra"],
+    "answer": "Soma",
+    "desc": "Soma was considered the god of plants and was also associated with a sacred drink."
+  },
+  {
+    "q": "What was not present in Vedic religion?",
+    "pool": ["Temple worship", "Fire rituals", "Nature worship", "Hymns", "Sacrifices"],
+    "answer": "Temple worship",
+    "desc": "The Rig Vedic people did not practice temple or idol worship."
+  },
+  {
+    "q": "What were common reasons for praying to gods?",
+    "pool": ["Territory", "Conquest", "Children and Cattle", "Fame", "Justice"],
+    "answer": "Children and Cattle",
+    "desc": "Prayers were mainly for praja (children), pashu (cattle), food, health, and wealth."
+  },
+  {
+    "q": "What was the main source of state income?",
+    "pool": ["Taxes", "Trade", "Agriculture", "Bali and Booty", "Donations"],
+    "answer": "Bali and Booty",
+    "desc": "The kingdom was maintained through voluntary tributes (bali) and war booty."
+  },
+  {
+    "q": "Which crop was the staple during Rig Vedic times?",
+    "pool": ["Wheat", "Barley", "Rice", "Millet", "Maize"],
+    "answer": "Barley",
+    "desc": "Yava, or barley, was the staple crop in the Rig Vedic period."
+  },
+  {
+    "q": "What was used as a unit of exchange?",
+    "pool": ["Wheat", "Gold coins", "Silver coins", "Cattle", "Beads"],
+    "answer": "Cattle",
+    "desc": "Cows served as the main unit of exchange in Rig Vedic economy."
+  },
+  {
+    "q": "Which gold coin was NOT used in Rig Vedic times?",
+    "pool": ["Nishka", "Krishnal", "Satmana", "Dinar", "All were used"],
+    "answer": "Dinar",
+    "desc": "Dinar was not a Rig Vedic coin; Nishka, Krishnal, and Satmana were used."
+  },
+  {
+    "q": "Which occupation was secondary to pastoralism?",
+    "pool": ["Hunting", "Fishing", "Agriculture", "Carpentry", "Weaving"],
+    "answer": "Agriculture",
+    "desc": "Agriculture was a secondary occupation to pastoralism in Rig Vedic society."
+  },
+  {
+    "q": "Which river was NOT part of Sapta Sindhawa?",
+    "pool": ["Jhelum", "Ravi", "Sutlej", "Ganga", "Saraswati"],
+    "answer": "Ganga",
+    "desc": "Ganga was not included in the Sapta Sindhawa, which comprised the Indus, its tributaries, and Saraswati."
+  },
+  {
+    "q": "Which term referred to the priestly advisor?",
+    "pool": ["Gramani", "Senani", "Purohita", "Sabha", "Rajan"],
+    "answer": "Purohita",
+    "desc": "Purohita was the priest who advised and assisted the king."
+  },
+  {
+    "q": "Which title referred to the army chief?",
+    "pool": ["Rajan", "Senapati", "Purohita", "Senani", "Mahabali"],
+    "answer": "Senani",
+    "desc": "Senani was the title given to the military commander under the king."
+  },
+  {
+    "q": "Which tribal assembly was the most inclusive and general?",
+    "pool": ["Vidatha", "Samiti", "Sabha", "Gana", "Rajya Sabha"],
+    "answer": "Samiti",
+    "desc": "Samiti was the general tribal assembly possibly involved in electing kings."
+  },
+  {
+    "q": "Which was NOT a tribal assembly in Rig Vedic times?",
+    "pool": ["Sabha", "Vidatha", "Samiti", "Gana", "Panchayat"],
+    "answer": "Panchayat",
+    "desc": "Panchayat is not mentioned in Rig Veda; it evolved later in Indian history."
+  },
+  {
+    "q": "Which term means 'breaker of forts'?",
+    "pool": ["Agni", "Soma", "Varuna", "Indra", "Rudra"],
+    "answer": "Indra",
+    "desc": "Indra was called 'Purandara', meaning breaker of forts."
+  },
+  {
+    "q": "Which type of society was Rig Vedic society?",
+    "pool": ["Urban", "Feudal", "Nomadic", "Pastoral-tribal", "Agricultural"],
+    "answer": "Pastoral-tribal",
+    "desc": "Rig Vedic society was pastoral-tribal with no defined kingdoms."
+  },
+  {
+    "q": "Which god was associated with fire?",
+    "pool": ["Soma", "Indra", "Agni", "Varuna", "Vayu"],
+    "answer": "Agni",
+    "desc": "Agni, the fire god, played a central role in Rig Vedic rituals."
+  },
+  {
+    "q": "What is NOT true about women in Rig Vedic period?",
+    "pool": ["They enjoyed respect", "They were allowed education", "They could become warriors", "They had freedom", "They were respected"],
+    "answer": "They could become warriors",
+    "desc": "While women enjoyed respect and freedom, there’s no evidence of them becoming warriors."
+  },
+  {
+    "q": "Which was a voluntary offering to the king?",
+    "pool": ["Bhaga", "Bali", "Tax", "Dhan", "Dakshina"],
+    "answer": "Bali",
+    "desc": "Bali was a voluntary tribute given to the king by the people."
+  },
+  {
+    "q": "Which type of settlement was absent in Rig Vedic times?",
+    "pool": ["Fortified towns", "Villages", "Nomadic camps", "Tribal settlements", "Pastures"],
+    "answer": "Fortified towns",
+    "desc": "Fortified towns were not part of Rig Vedic society, which was primarily rural and tribal."
+  },
+  {
+    "q": "Which god was associated with cosmic order?",
+    "pool": ["Varuna", "Indra", "Soma", "Agni", "Vayu"],
+    "answer": "Varuna",
+    "desc": "Varuna was the god of cosmic order and moral law."
+  },
+  {
+    "q": "Which was considered a sacred drink?",
+    "pool": ["Madhu", "Sura", "Soma", "Ghee", "Milk"],
+    "answer": "Soma",
+    "desc": "Soma was both a sacred drink and a deity in Rig Vedic rituals."
+  },
+  {
+    "q": "Which god was the controller of rains and storms?",
+    "pool": ["Agni", "Vayu", "Indra", "Rudra", "Varuna"],
+    "answer": "Indra",
+    "desc": "Indra was considered the god of rain and thunderstorms."
+  },
+
+
+  {
+    "q": "What does the Rigvedic term 'Dasyus' refer to?",
+    "pool": ["Warriors", "Original inhabitants of India", "Priests", "Cattle herders", "Traders"],
+    "answer": "Original inhabitants of India",
+    "desc": "In Rigvedic texts, 'Dasyus' were considered the original non-Aryan inhabitants of India."
+  },
+  {
+    "q": "What metal is referred to by the term 'Ayas' in the Rigveda?",
+    "pool": ["Iron", "Silver", "Gold", "Copper/Bronze", "Lead"],
+    "answer": "Copper/Bronze",
+    "desc": "'Ayas' in the Rigveda generally refers to copper or bronze, as iron was not yet common."
+  },
+  {
+    "q": "Who was known as 'Gramini' during the Rigvedic period?",
+    "pool": ["War leader", "Priest", "Head of the village", "Cattle protector", "Landowner"],
+    "answer": "Head of the village",
+    "desc": "The 'Gramini' was the leader or head of a village community in the Rigvedic period."
+  },
+  {
+    "q": "What was the meaning of 'Gavisthi' in Rigvedic times?",
+    "pool": ["Search for knowledge", "Holy offering", "Battle for cows", "War cry", "Temple ritual"],
+    "answer": "Battle for cows",
+    "desc": "‘Gavisthi’ referred to fights or wars often undertaken to capture cows, a symbol of wealth."
+  },
+  {
+    "q": "Which Rigvedic term refers to an officer with authority over a large tract of land?",
+    "pool": ["Gramini", "Ayas", "Vajrapati", "Dasyus", "Suta"],
+    "answer": "Vajrapati",
+    "desc": "‘Vajrapati’ or sometimes 'Kalapas' referred to a powerful officer ruling over large lands."
+  },
+  {
+    "q": "What is the Rigvedic name for the river Indus?",
+    "pool": ["Sutudri", "Sindhu", "Vitasta", "Krumu", "Parushini"],
+    "answer": "Sindhu",
+    "desc": "The Indus River was referred to as 'Sindhu' in the Rigveda."
+  },
+  {
+    "q": "Which river is referred to as 'Krumu' in the Rigveda?",
+    "pool": ["Gomati", "Kurram", "Asikni", "Sarasvati", "Drishadvati"],
+    "answer": "Kurram",
+    "desc": "'Krumu' is the Rigvedic name for the Kurram River."
+  },
+  {
+    "q": "What is the Rigvedic name for Jhelum river?",
+    "pool": ["Vitasta", "Vipas", "Parushini", "Asikni", "Gomal"],
+    "answer": "Vitasta",
+    "desc": "In the Rigveda, the Jhelum River was known as 'Vitasta'."
+  },
+  {
+    "q": "Which modern river was called 'Asikni' in Rigvedic texts?",
+    "pool": ["Beas", "Chenab", "Ravi", "Kurram", "Ghaggar"],
+    "answer": "Chenab",
+    "desc": "'Asikni' was the ancient Rigvedic name for the Chenab River."
+  },
+  {
+    "q": "What is the Rigvedic name for the Ravi River?",
+    "pool": ["Sindhu", "Parushini", "Vitasta", "Drishadvati", "Sutudri"],
+    "answer": "Parushini",
+    "desc": "The Ravi River was referred to as 'Parushini' in the Rigveda."
+  },
+  {
+    "q": "Which river was known as 'Vipas' in the Rigveda?",
+    "pool": ["Sutlej", "Beas", "Ravi", "Chenab", "Gomal"],
+    "answer": "Beas",
+    "desc": "The Beas River was called 'Vipas' in Rigvedic literature."
+  },
+  {
+    "q": "What was the Rigvedic name for the Sutlej River?",
+    "pool": ["Parushini", "Sutudri", "Asikni", "Krumu", "Gomati"],
+    "answer": "Sutudri",
+    "desc": "The Sutlej River was known as 'Sutudri' in the Rigveda."
+  },
+  {
+    "q": "Which river does 'Gomati' in the Rigveda correspond to?",
+    "pool": ["Gomal", "Ghaggar", "Saraswati", "Vitasta", "Krumu"],
+    "answer": "Gomal",
+    "desc": "'Gomati' refers to the Gomal River in Rigvedic references."
+  },
+  {
+    "q": "What is the Rigvedic name for the Saraswati River?",
+    "pool": ["Drishadvati", "Sarasvati", "Sutudri", "Asikni", "Parushini"],
+    "answer": "Sarasvati",
+    "desc": "The Saraswati River retains its ancient name in Rigvedic hymns as 'Sarasvati'."
+  },
+  {
+    "q": "Which river was known as 'Drishadvati' in the Rigveda?",
+    "pool": ["Gomal", "Ghaggar", "Vitasta", "Krumu", "Beas"],
+    "answer": "Ghaggar",
+    "desc": "The modern-day Ghaggar River was called 'Drishadvati' in the Rigveda."
+  },
+  {
+    "q": "Which Rigvedic term signifies warfare over cattle?",
+    "pool": ["Ayas", "Gavisthi", "Gramini", "Vajrapati", "Soma"],
+    "answer": "Gavisthi",
+    "desc": "'Gavisthi' translates to a battle or search for cows, a prized possession in Vedic culture."
+  },
+  {
+    "q": "Which of these rivers is referred to as 'Vitasta' in the Rigveda?",
+    "pool": ["Ravi", "Jhelum", "Beas", "Sutlej", "Kurram"],
+    "answer": "Jhelum",
+    "desc": "'Vitasta' is the Rigvedic name for the Jhelum River."
+  },
+  {
+    "q": "‘Parushini’ in Rigveda is the old name for which river?",
+    "pool": ["Chenab", "Ravi", "Sutlej", "Beas", "Indus"],
+    "answer": "Ravi",
+    "desc": "The Ravi River was called 'Parushini' in Vedic texts."
+  },
+  {
+    "q": "‘Sutudri’ in Rigveda stands for which river today?",
+    "pool": ["Beas", "Sutlej", "Ravi", "Chenab", "Vitasta"],
+    "answer": "Sutlej",
+    "desc": "'Sutudri' is the ancient name of the Sutlej River in Rigvedic literature."
+  },
+  {
+    "q": "‘Asikni’ refers to which of the following modern rivers?",
+    "pool": ["Kurram", "Chenab", "Beas", "Gomal", "Ghaggar"],
+    "answer": "Chenab",
+    "desc": "‘Asikni’ is the Rigvedic term for the Chenab River."
+  },
+  {
+    "q": "The term 'Ayas' in Rigvedic society primarily meant what?",
+    "pool": ["Gold", "Iron", "Bronze/Copper", "Silver", "Tin"],
+    "answer": "Bronze/Copper",
+    "desc": "'Ayas' referred to metals like copper or bronze used during the early Vedic period."
+  },
+  {
+    "q": "Which term in Rigveda is linked to land administration?",
+    "pool": ["Dasyus", "Gavisthi", "Gramini", "Vajrapati", "Yajamana"],
+    "answer": "Vajrapati",
+    "desc": "'Vajrapati' indicated an officer controlling large areas of land in Rigvedic society."
+  },
+  {
+    "q": "Who managed village affairs during the Rigvedic period?",
+    "pool": ["Purohita", "Vajrapati", "Gramini", "Rajanya", "Suta"],
+    "answer": "Gramini",
+    "desc": "The village chief or leader was known as 'Gramini' in Rigvedic culture."
+  },
+  {
+    "q": "Which of the following Rigvedic rivers was also worshipped as a goddess?",
+    "pool": ["Sarasvati", "Asikni", "Krumu", "Sutudri", "Vipas"],
+    "answer": "Sarasvati",
+    "desc": "'Sarasvati' was revered not only as a river but also as a goddess of knowledge and purity."
+  },
+  {
+    "q": "What is the Rigvedic term for the Beas river?",
+    "pool": ["Parushini", "Sutudri", "Vipas", "Vitasta", "Drishadvati"],
+    "answer": "Vipas",
+    "desc": "'Vipas' is the name for the Beas River in Rigvedic texts."
+  },
+  {
+    "q": "What is the ancient Rigvedic name for Ghaggar river?",
+    "pool": ["Sarasvati", "Gomati", "Drishadvati", "Parushini", "Vipas"],
+    "answer": "Drishadvati",
+    "desc": "The Ghaggar River was called 'Drishadvati' in Rigvedic hymns."
+  },
+  {
+    "q": "The Kurram river was known by what name in Rigveda?",
+    "pool": ["Krumu", "Sarasvati", "Asikni", "Parushini", "Sutudri"],
+    "answer": "Krumu",
+    "desc": "'Krumu' is the ancient Vedic name for the modern Kurram River."
+  },
+  {
+    "q": "The modern Gomal river was called what in Rigvedic times?",
+    "pool": ["Gomati", "Krumu", "Vitasta", "Asikni", "Sarasvati"],
+    "answer": "Gomati",
+    "desc": "'Gomati' is the Rigvedic reference for the modern Gomal River."
+  },
+  {
+    "q": "Which Rigvedic term also symbolized a spiritual and material pursuit?",
+    "pool": ["Gavisthi", "Gramini", "Ayas", "Dasyus", "Yajna"],
+    "answer": "Gavisthi",
+    "desc": "'Gavisthi', beyond war, also signified a quest for wealth and survival, especially cattle."
+  },
+
+
+  {
+    "q": "Which region did the Aryans expand into during the Later Vedic Period?",
+    "pool": ["Punjab", "Ganga-Yamuna Doab", "Eastern India", "Sindh", "Rajasthan"],
+    "answer": "Ganga-Yamuna Doab",
+    "desc": "During the Later Vedic Period, Aryans expanded from Punjab into the Ganga-Yamuna Doab region in Western Uttar Pradesh."
+  },
+  {
+    "q": "What was the time span of the Later Vedic Period?",
+    "pool": ["1500-1000 BC", "2000-1500 BC", "1000-500 BC", "800-300 BC", "500-200 BC"],
+    "answer": "1000-500 BC",
+    "desc": "The Later Vedic Period lasted from 1000 to 500 BC."
+  },
+  {
+    "q": "What title was given to the king during the Later Vedic Period?",
+    "pool": ["Maharaja", "Chakravarti", "Samrat", "Rajadhiraj", "Senapati"],
+    "answer": "Samrat",
+    "desc": "In this period, the king was often referred to as 'Samrat', indicating his increased power and authority."
+  },
+  {
+    "q": "Which Yajnas helped strengthen the king’s authority?",
+    "pool": ["Rajasuya and Agnihotra", "Ashwamedha and Vajapeya", "Purushamedha and Soma", "Darshapurnamasa and Shrauta", "Vratya-stoma and Aindra"],
+    "answer": "Ashwamedha and Vajapeya",
+    "desc": "Ashwamedha and Vajapeya Yajnas were performed to reinforce the king’s dominance and divine right to rule."
+  },
+  {
+    "q": "How was the society structured in terms of varnas?",
+    "pool": ["Two varnas", "Three varnas", "Four varnas", "Five varnas", "No division"],
+    "answer": "Four varnas",
+    "desc": "Society was divided into four varnas: Brahmana, Kshatriya, Vaishya, and Shudra."
+  },
+  {
+    "q": "What was the social position of women during the Later Vedic Period?",
+    "pool": ["It improved", "It remained the same", "It deteriorated", "They became rulers", "They gained property rights"],
+    "answer": "It deteriorated",
+    "desc": "The status of women declined during this period; their social and religious roles became restricted."
+  },
+  {
+    "q": "Which institution related to lineage emerged in this period?",
+    "pool": ["Gotra", "Samsara", "Varna", "Ashrama", "Jati"],
+    "answer": "Gotra",
+    "desc": "The concept of Gotra, denoting descent from a common ancestor, first appeared during the Later Vedic Period."
+  },
+  {
+    "q": "What was the primary occupation during the Later Vedic Period?",
+    "pool": ["Hunting", "Agriculture", "Trade", "Mining", "Fishing"],
+    "answer": "Agriculture",
+    "desc": "Agriculture became the main livelihood, supporting settled life and growing communities."
+  },
+  {
+    "q": "What crops became staple food during the Later Vedic Period?",
+    "pool": ["Barley and millet", "Wheat and rice", "Maize and sorghum", "Barley and rice", "Rice and maize"],
+    "answer": "Wheat and rice",
+    "desc": "Wheat and rice, referred to as 'vrihi' in Vedic texts, became staple crops in this period."
+  },
+  {
+    "q": "Which occupations emerged during the Later Vedic Period?",
+    "pool": ["Scribes and potters", "Ironsmiths and coppersmiths", "Architects and priests", "Carpenters and shepherds", "Fishermen and sailors"],
+    "answer": "Ironsmiths and coppersmiths",
+    "desc": "New occupations such as ironsmiths, coppersmiths, and jewelers emerged with technological advancements."
+  },
+  {
+    "q": "Who primarily engaged in weaving during the Later Vedic Period?",
+    "pool": ["Men", "Slaves", "Priests", "Women", "Shudras"],
+    "answer": "Women",
+    "desc": "Weaving was mainly a responsibility assigned to women during this period."
+  },
+  {
+    "q": "Which deity became the supreme god during the Later Vedic Period?",
+    "pool": ["Indra", "Agni", "Prajapati", "Vayu", "Pushana"],
+    "answer": "Prajapati",
+    "desc": "Prajapati rose to prominence as the supreme god, symbolizing creation."
+  },
+  {
+    "q": "Who was considered the 'God of Shudras'?",
+    "pool": ["Agni", "Pushana", "Varuna", "Rudra", "Brahma"],
+    "answer": "Pushana",
+    "desc": "Pushana, a deity who protected cattle, was associated with the Shudras."
+  },
+  {
+    "q": "Which of the following became more significant in religious practice?",
+    "pool": ["Prayers", "Meditation", "Sacrifices", "Fasting", "Charity"],
+    "answer": "Sacrifices",
+    "desc": "Sacrifices gained importance over prayers in religious rituals of the Later Vedic Period."
+  },
+  {
+    "q": "What practice in worship started during the Later Vedic Period?",
+    "pool": ["Chanting", "Idolatry", "Pilgrimage", "Temple construction", "Animal worship"],
+    "answer": "Idolatry",
+    "desc": "The practice of idolatry began in this period, marking a shift in religious expression."
+  },
+  {
+    "q": "Who was Rudra in the Later Vedic Pantheon?",
+    "pool": ["God of wealth", "God of wisdom", "Animal god", "Rain god", "Fire god"],
+    "answer": "Animal god",
+    "desc": "Rudra was considered an animal god, associated with storm and hunt."
+  },
+  {
+    "q": "What was the role of Lord Vishnu during this period?",
+    "pool": ["Destroyer", "Creator", "Protector", "God of war", "God of wealth"],
+    "answer": "Protector",
+    "desc": "Lord Vishnu was revered as the preserver and protector of the people."
+  },
+  {
+    "q": "Which economic activity marks the transition to settled life?",
+    "pool": ["Hunting", "Nomadism", "Agriculture", "Fishing", "Trading"],
+    "answer": "Agriculture",
+    "desc": "The growth of agriculture enabled people to settle and form towns."
+  },
+  {
+    "q": "The Later Vedic economy led to the beginning of which life style?",
+    "pool": ["Nomadic life", "Trade-based life", "Town and settled life", "Itinerant lifestyle", "Pastoral life"],
+    "answer": "Town and settled life",
+    "desc": "This period saw the beginning of town-based and settled living patterns."
+  },
+  {
+    "q": "What does 'vrihi' refer to in Later Vedic texts?",
+    "pool": ["Barley", "Wheat", "Rice", "Millet", "Sugarcane"],
+    "answer": "Rice",
+    "desc": "‘Vrihi’ is the term used in Vedic texts to refer to rice."
+  },
+  {
+    "q": "What was the nature of political authority during the Later Vedic Period?",
+    "pool": ["Tribal", "Territorial", "Democratic", "Republican", "Feudal"],
+    "answer": "Territorial",
+    "desc": "Tribal authority gave way to territorial kingship during this time."
+  },
+  {
+    "q": "Which ceremony was used to establish territorial control?",
+    "pool": ["Upanayana", "Ashwamedha", "Namakarana", "Rajasuya", "Chudakarana"],
+    "answer": "Ashwamedha",
+    "desc": "The Ashwamedha Yajna was performed by kings to assert territorial supremacy."
+  },
+  {
+    "q": "Which of the following best describes the structure of Later Vedic society?",
+    "pool": ["Egalitarian", "Matriarchal", "Hierarchical", "Classless", "Democratic"],
+    "answer": "Hierarchical",
+    "desc": "Society was highly hierarchical, divided strictly into four varnas."
+  },
+  {
+    "q": "What kind of deities were prominent in the Later Vedic religion?",
+    "pool": ["Nature gods", "Territorial gods", "Animal and supreme gods", "Human gods", "River gods"],
+    "answer": "Animal and supreme gods",
+    "desc": "Deities like Rudra (animal god) and Prajapati (supreme god) were central."
+  },
+  {
+    "q": "What does the emergence of ironsmiths and coppersmiths signify?",
+    "pool": ["Decline of agriculture", "Rise of industrialization", "Specialization of labor", "Decline of trade", "Military focus"],
+    "answer": "Specialization of labor",
+    "desc": "The emergence of new crafts shows increased specialization and division of labor."
+  },
+  
+
+
+  {
+    "q": "Which varna was responsible for performing rituals and teaching Vedas?",
+    "pool": ["Kshatriya", "Vaishya", "Brahmana", "Shudra", "Nishada"],
+    "answer": "Brahmana",
+    "desc": "The Brahmanas were responsible for religious rituals and were custodians of Vedic knowledge."
+  },
+  {
+    "q": "Which varna was associated with warfare and ruling duties?",
+    "pool": ["Brahmana", "Vaishya", "Shudra", "Kshatriya", "Vratya"],
+    "answer": "Kshatriya",
+    "desc": "The Kshatriyas were the warrior class responsible for protection and governance."
+  },
+  {
+    "q": "What was the main role of Vaishyas in society?",
+    "pool": ["Teaching", "Warfare", "Agriculture and trade", "Priesthood", "Hunting"],
+    "answer": "Agriculture and trade",
+    "desc": "Vaishyas were mainly engaged in agriculture, trade, and cattle rearing."
+  },
+  {
+    "q": "Which group was at the bottom of the varna system?",
+    "pool": ["Vaishyas", "Brahmanas", "Shudras", "Kshatriyas", "Rajanyas"],
+    "answer": "Shudras",
+    "desc": "Shudras were placed at the bottom and performed menial and service-related tasks."
+  },
+  {
+    "q": "Which period saw the introduction of Gotra?",
+    "pool": ["Early Vedic", "Later Vedic", "Mauryan", "Gupta", "Post-Vedic"],
+    "answer": "Later Vedic",
+    "desc": "The concept of Gotra, indicating a common lineage, originated in the Later Vedic Period."
+  },
+  {
+    "q": "Which deity was responsible for cattle according to Later Vedic beliefs?",
+    "pool": ["Vishnu", "Rudra", "Pushana", "Agni", "Indra"],
+    "answer": "Pushana",
+    "desc": "Pushana was regarded as the god who looked after cattle and was associated with the Shudras."
+  },
+  {
+    "q": "Which metals were used in occupations during the Later Vedic Period?",
+    "pool": ["Iron and copper", "Gold and silver", "Bronze and lead", "Zinc and tin", "Platinum and mercury"],
+    "answer": "Iron and copper",
+    "desc": "Occupations involving iron and copper tools and artifacts became common in this period."
+  },
+  {
+    "q": "What did the performance of Vajapeya Yajna signify?",
+    "pool": ["Initiation into education", "End of life", "Victory in battle", "Assertion of kingship", "Marriage ceremony"],
+    "answer": "Assertion of kingship",
+    "desc": "The Vajapeya Yajna was a royal ritual performed to assert kingly authority."
+  },
+  {
+    "q": "What type of economy prevailed during the Later Vedic Period?",
+    "pool": ["Barter economy", "Hunting-gathering", "Pastoral economy", "Agrarian economy", "Monetary economy"],
+    "answer": "Agrarian economy",
+    "desc": "An agrarian economy centered around farming and settled living prevailed in this period."
+  },
+  {
+    "q": "Which of the following is a correct statement about religion in Later Vedic Period?",
+    "pool": ["Gods of nature were supreme", "No deity worship existed", "Prajapati was supreme", "Only female gods were worshipped", "Monotheism was fully developed"],
+    "answer": "Prajapati was supreme",
+    "desc": "Prajapati emerged as the supreme deity in the Later Vedic religion."
+  },
+  {
+    "q": "Which deity was known for destruction and storms?",
+    "pool": ["Rudra", "Vishnu", "Prajapati", "Agni", "Pushana"],
+    "answer": "Rudra",
+    "desc": "Rudra, a fierce deity, was associated with destruction and stormy aspects of nature."
+  },
+  {
+    "q": "Which process in religion became more dominant than prayers?",
+    "pool": ["Fasting", "Sacrifices", "Chanting", "Meditation", "Penance"],
+    "answer": "Sacrifices",
+    "desc": "Sacrifices became central in religious ceremonies, replacing prayers in importance."
+  },
+  {
+    "q": "What does the term 'Samrat' indicate about the king?",
+    "pool": ["Spiritual leader", "Servant of God", "Universal ruler", "Village chief", "Educator"],
+    "answer": "Universal ruler",
+    "desc": "'Samrat' means a universal ruler, reflecting the enhanced authority of kings in this era."
+  },
+  {
+    "q": "What new societal role did women play during this period?",
+    "pool": ["Priesthood", "Weaving", "Landownership", "Kingship", "Military service"],
+    "answer": "Weaving",
+    "desc": "Weaving became a specialized task primarily performed by women in this period."
+  },
+  {
+    "q": "Which practice began showing decline in women’s rights?",
+    "pool": ["Participation in rituals", "Property inheritance", "Freedom of speech", "Religious leadership", "All of the above"],
+    "answer": "All of the above",
+    "desc": "Women lost various rights, including participation in religious and public life."
+  },
+  {
+    "q": "Which God is described as the 'preserver'?",
+    "pool": ["Agni", "Prajapati", "Rudra", "Indra", "Vishnu"],
+    "answer": "Vishnu",
+    "desc": "Vishnu was seen as the protector and preserver of life and cosmic order."
+  },
+  {
+    "q": "Which Vedic deity protected cattle and travelers?",
+    "pool": ["Agni", "Varuna", "Pushana", "Indra", "Vayu"],
+    "answer": "Pushana",
+    "desc": "Pushana was known as the protector of cattle and safe travel."
+  },
+  {
+    "q": "What does the evolution from tribal to territorial kingship signify?",
+    "pool": ["Rise of democracy", "Decline of monarchy", "Formation of centralized power", "End of religion", "Increase in slavery"],
+    "answer": "Formation of centralized power",
+    "desc": "The shift signified the emergence of more centralized and organized political authority."
+  },
+  {
+    "q": "What became the symbol of royal authority?",
+    "pool": ["Yajnas", "Crown", "Sword", "Elephants", "Palaces"],
+    "answer": "Yajnas",
+    "desc": "Yajnas like Ashwamedha became rituals symbolizing and legitimizing royal authority."
+  },
+  {
+    "q": "What significant cultural development began in this era?",
+    "pool": ["Metal currency", "Temple building", "Idolatry", "Buddhism", "Islamic influence"],
+    "answer": "Idolatry",
+    "desc": "The Later Vedic Period witnessed the beginning of idolatry in religious practice."
+  },
+  {
+    "q": "What is a Gotra in Vedic context?",
+    "pool": ["A clan name", "A region", "A title", "A temple", "A profession"],
+    "answer": "A clan name",
+    "desc": "Gotra represents a clan or lineage, tracing descent from a common ancestor."
+  },
+  {
+    "q": "What does increased urbanization in this period indicate?",
+    "pool": ["Decline in agriculture", "End of rituals", "Rise of towns", "Nomadic expansion", "Foreign invasions"],
+    "answer": "Rise of towns",
+    "desc": "The transition to settled life led to the development of early towns and urban centers."
+  },
+  {
+    "q": "Which class began losing importance religiously during this period?",
+    "pool": ["Brahmanas", "Kshatriyas", "Vaishyas", "Women", "Shudras"],
+    "answer": "Women",
+    "desc": "Women's religious significance declined during the Later Vedic Period."
+  },
+  {
+    "q": "Why did tribal identity reduce during this era?",
+    "pool": ["Invasions", "Religious reforms", "Territorial kingdoms", "Technological advances", "New languages"],
+    "answer": "Territorial kingdoms",
+    "desc": "The rise of territorial kingdoms led to a decline in tribal affiliations."
+  },
+  {
+    "q": "What aspect of religion increased complexity during this period?",
+    "pool": ["Simple prayers", "Individual worship", "Large public sacrifices", "Temple donations", "Monotheism"],
+    "answer": "Large public sacrifices",
+    "desc": "Religious practice became complex with the emphasis on large-scale sacrifices."
+  }
+]

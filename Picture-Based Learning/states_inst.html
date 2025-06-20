@@ -13,79 +13,93 @@
 </script>
 
     <meta charset="UTF-8">
-    <title>Quantitative Aptitude - Squares up to 10 Mix</title>
-    <link rel="icon" href="../images/favicon_math.ico" type="image/x-icon">
+    <title>Indian States</title>
+    <link rel="icon" href="../images/favicon_pic.ico" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <style>
+        :root {
+            --dark-red: #8B0000;
+            --deep-red: #a51818;
+            --mid-red: #c43c2d;
+            --light-red-bg: #f9eaea;
+            --darker-red-bg: #4a0a0a;
+            --soft-red: #df6a6a;
+            --text-dark: #350000;
+            --text-light: #fff3f3;
+            --grey: #b0b0b0;
+            --container-shadow: 0 4px 32px rgba(139,0,0,0.12);
+            --button-shadow: 0 2px 9px rgba(196,60,45,0.12);
+        }
         body {
             font-family: Arial, sans-serif;
-            background: #f5f5f5;
+            background: var(--light-red-bg);
             margin: 0;
             padding: 0;
+            color: var(--text-dark);
         }
         .container {
             max-width: 900px;
             min-width: 700px;
-            background: #fff;
+            background: var(--text-light);
             margin: 60px auto;
-            border-radius: 12px;
-            box-shadow: 0 4px 24px rgba(0,0,0,0.09);
-            padding: 48px 56px 40px 56px;
+            border-radius: 14px;
+            box-shadow: var(--container-shadow);
+            padding: 50px 60px 42px 60px;
             position: relative;
+            border: 2px solid var(--dark-red);
         }
-        /* Hide mobile wrapper on desktop, show desktop icon */
         .home-icon-wrapper {
             display: none;
         }
         .home-icon-desktop {
             position: absolute;
-            left: 60px;
-            top: 55px;
+            left: 65px;
+            top: 58px;
             z-index: 10;
             text-decoration: none;
-            color: #2a345b;
+            color: var(--deep-red);
             transition: color 0.18s;
             display: inline-block;
         }
         .home-icon-desktop:hover {
-            color: #1e2542;
+            color: var(--dark-red);
         }
         .home-icon-desktop svg {
             width: 34px;
             height: 34px;
             vertical-align: middle;
         }
-        /* Hide desktop icon, show mobile wrapper on mobile */
         @media (max-width: 768px){
             .container {
-                width: 82vw;
-                max-width: 440px;
+                width: 88vw;
+                max-width: 470px;
                 min-width: unset;
-                background: #fff;
-                margin: 24px auto;
-                border-radius: 12px;
-                box-shadow: 0 4px 24px rgba(0,0,0,0.09);
-                padding: 26px 6vw 24px 6vw;
+                background: var(--text-light);
+                margin: 22px auto;
+                border-radius: 14px;
+                box-shadow: 0 4px 28px rgba(139,0,0,0.11);
+                padding: 28px 5vw 26px 5vw;
                 position: relative;
-                margin-top: 50px;   
+                margin-top: 50px;
+                border: 2px solid var(--dark-red);
             }
             .home-icon-wrapper {
                 width: 100%;
                 display: flex;
                 justify-content: center;
                 align-items: center;
-                margin-bottom: 8px;
+                margin-bottom: 10px;
             }
             .home-icon-mobile {
                 position: static;
                 margin: 0 auto;
                 text-decoration: none;
-                color: #2a345b;
+                color: var(--deep-red);
                 transition: color 0.18s;
                 display: inline-block;
             }
             .home-icon-mobile:hover {
-                color: #1e2542;
+                color: var(--dark-red);
             }
             .home-icon-mobile svg {
                 width: 34px;
@@ -97,79 +111,85 @@
             }
         }
         h1 {
-            margin-top: 5px;
-            color: #2a345b;
+            margin-top: 10px;
+            color: var(--dark-red);
             text-align: center;
-            font-size: 1.9em;
-            letter-spacing: 1px;
+            font-size: 2.1em;
+            letter-spacing: 1.2px;
             text-decoration: underline;
         }
         h2 {
-            color: #4b5b82;
-            font-size: 1.5em;
+            color: var(--mid-red);
+            font-size: 1.45em;
             margin-bottom: 36px;
             text-align: center;
             font-weight: 500;
         }
         .instructions {
-            background: #e6eaf7;
-            border-left: 8px solid #4b5b82;
-            padding: 28px 32px;
+            background: #f9e0e0;
+            border-left: 8px solid var(--mid-red);
+            padding: 30px 34px;
             border-radius: 8px;
             margin-bottom: 0px;
-            font-size: 0.9em;
-            line-height: 1.5em;
+            font-size: 1em;
+            line-height: 1.6em;
+            color: var(--text-dark);
         }
         .instructions ul {
             margin: 0;
-            padding-left: 22px;
+            padding-left: 25px;
             padding-top: 5px;
         }
         .options {
-            margin-top: 10px;
-            margin-bottom: 36px;
+            margin-top: 14px;
+            margin-bottom: 32px;
             display: flex;
             flex-direction: column;
             align-items: flex-start;
-            gap: 5px;
+            gap: 7px;
             justify-content: left;
         }
         .option-line {
             display: flex;
             align-items: center;
-            font-size: 0.85em;
+            font-size: 1em;
         }
         .option-line input[type="checkbox"] {
             margin-right: 12px;
-            accent-color: #2a345b;
-            width: 13px;
-            height: 13px;
+            accent-color: var(--mid-red);
+            width: 15px;
+            height: 15px;
         }
         .option-line input[type="checkbox"]:disabled + label {
-            color: #b0b0b0;
+            color: var(--grey);
             cursor: not-allowed;
         }
         .start-btn {
             display: block;
             width: 260px;
             padding: 18px 0;
-            background: #2a345b;
+            background: var(--mid-red);
             color: #fff;
             font-size: 1.25em;
             border: none;
-            border-radius: 6px;
+            border-radius: 7px;
             cursor: pointer;
             font-weight: bold;
             margin: 0 auto;
             transition: background 0.2s;
-            box-shadow: 0 2px 8px rgba(70,70,120,0.09);
+            box-shadow: var(--button-shadow);
         }
         .start-btn:disabled {
-            background: #b0b0b0;
+            background: var(--grey);
             cursor: not-allowed;
         }
         .start-btn:hover:not(:disabled) {
-            background: #1e2542;
+            background: var(--dark-red);
+        }
+        /* Remove blue or green selection color */
+        ::selection {
+            background: var(--soft-red);
+            color: #fff;
         }
     </style>
 </head>
@@ -191,18 +211,18 @@
                 <rect x="9" y="14" width="6" height="6" rx="1.2" stroke="currentColor" stroke-width="2"/>
             </svg>
         </a>
-        <h1>Quantitative Aptitude</h1>
-        <h2>Squares up to 20 Mix</h2>
+        <h1>Picture-Based Learning</h1>
+        <h2>Indian States</h2>
         <div class="instructions">
            <b>About this practice:</b>
             <ul>
-                <li>Practice is of 5 mins.</li>
-                <li>This practice contains Squares, Square Numbers and Perfect Squares upto 20.</li>
+                <li>The practice session is 5 minutes long.</li>
+                <li>This practice contains pictures of Indian States.</li>
                 <li>Try to answer as many questions as possible before the time runs out.</li>
-                <li>You cannot skip any question or change the response once clicked.</li>
-                <li>At any time if you want to end practice, click Submit.</li>
-                <li>See summary at the end of practice.</li>
-                <li>This practice will help you memorize Squares for faster calculations.</li>
+                <li>You cannot skip any question or change your answer once selected.</li>
+                <li>To end the session at any time, click Submit.</li>
+                <li>See summary at the end of the practice.</li>
+                <li>This practice will help improve your overall visual general awareness.</li>
             </ul>
         </div>
         <div class="options">

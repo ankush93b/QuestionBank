@@ -1,0 +1,305 @@
+[
+  {
+    "q": "Which is the oldest Indo-European language text?",
+    "pool": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda", "Upanishads"],
+    "answer": "Rigveda",
+    "desc": "Rigveda is considered the oldest Indo-European language text containing hymns."
+  },
+  {
+    "q": "How many hymns are there in the Rigveda?",
+    "pool": ["1000", "1028", "1100", "980", "1050"],
+    "answer": "1028",
+    "desc": "The Rigveda contains 1028 hymns divided into 10 mandalas."
+  },
+  {
+    "q": "Which Mandala of the Rigveda contains the Purushasukta hymn?",
+    "pool": ["3rd", "5th", "8th", "10th", "9th"],
+    "answer": "10th",
+    "desc": "The 10th Mandala of Rigveda contains the Purushasukta hymn that explains the four varnas."
+  },
+  {
+    "q": "The Gayatri Mantra is found in which Mandala of the Rigveda?",
+    "pool": ["1st", "3rd", "5th", "7th", "9th"],
+    "answer": "3rd",
+    "desc": "The 3rd Mandala of the Rigveda contains the Gayatri Mantra, composed in praise of the Sun God."
+  },
+  {
+    "q": "Which Veda is a collection of melodies and chants?",
+    "pool": ["Rigveda", "Yajurveda", "Atharvaveda", "Samaveda", "Aranyakas"],
+    "answer": "Samaveda",
+    "desc": "Samaveda is a collection of melodies and chants, and includes Dhrupad raga."
+  },
+  {
+    "q": "Which raga is mentioned in the Samaveda?",
+    "pool": ["Bhairavi", "Dhrupad", "Malkauns", "Todi", "Desh"],
+    "answer": "Dhrupad",
+    "desc": "Dhrupad is the raga associated with the Samaveda."
+  },
+  {
+    "q": "Which Veda contains hymns related to rituals and sacrifices?",
+    "pool": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda", "Aranyakas"],
+    "answer": "Yajurveda",
+    "desc": "Yajurveda is mainly concerned with hymns and rituals/sacrifices."
+  },
+  {
+    "q": "Which Veda includes charms and spells for warding off evils?",
+    "pool": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda", "Upanishads"],
+    "answer": "Atharvaveda",
+    "desc": "Atharvaveda includes spells and charms to ward off evils and diseases."
+  },
+  {
+    "q": "Which texts explain the hymns of the Vedas and contain ritualistic formulae?",
+    "pool": ["Upanishads", "Aranyakas", "Brahmanas", "Puranas", "Sutras"],
+    "answer": "Brahmanas",
+    "desc": "Brahmanas explain the hymns and the ritualistic meaning in the Vedas."
+  },
+  {
+    "q": "Which Brahmana is associated with the Rigveda?",
+    "pool": ["Satapatha", "Kaushitaki", "Jemineya", "Taittiriya", "Gopatha"],
+    "answer": "Kaushitaki",
+    "desc": "Kaushitaki is one of the Brahmanas associated with the Rigveda."
+  },
+  {
+    "q": "Aitareya Brahmana is linked to which Veda?",
+    "pool": ["Yajurveda", "Atharvaveda", "Samaveda", "Rigveda", "Aranyakas"],
+    "answer": "Rigveda",
+    "desc": "Aitareya is one of the Brahmanas of the Rigveda."
+  },
+  {
+    "q": "Which Brahmana is associated with Yajurveda?",
+    "pool": ["Taittiriya", "Aitareya", "Kaushitaki", "Panchvish", "Jemineya"],
+    "answer": "Taittiriya",
+    "desc": "Taittiriya Brahmana is linked with the Yajurveda."
+  },
+  {
+    "q": "Satapatha Brahmana is connected with which Veda?",
+    "pool": ["Rigveda", "Samaveda", "Atharvaveda", "Yajurveda", "Upanishads"],
+    "answer": "Yajurveda",
+    "desc": "Satapatha Brahmana is another important text associated with the Yajurveda."
+  },
+  {
+    "q": "Which Brahmana belongs to the Samaveda?",
+    "pool": ["Taittiriya", "Satapatha", "Jemineya", "Gopatha", "Aitareya"],
+    "answer": "Jemineya",
+    "desc": "Jemineya is one of the Brahmanas of the Samaveda."
+  },
+  {
+    "q": "Panchvish Brahmana is related to which Veda?",
+    "pool": ["Rigveda", "Yajurveda", "Samaveda", "Atharvaveda", "Aranyakas"],
+    "answer": "Samaveda",
+    "desc": "Panchvish Brahmana is a text connected with the Samaveda."
+  },
+  {
+    "q": "Which Brahmana is linked with Atharvaveda?",
+    "pool": ["Kaushitaki", "Satapatha", "Gopatha", "Taittiriya", "Jemineya"],
+    "answer": "Gopatha",
+    "desc": "Gopatha Brahmana is associated with the Atharvaveda."
+  },
+  {
+    "q": "What does the word Aranya mean?",
+    "pool": ["Sky", "Water", "Fire", "Forest", "Mountain"],
+    "answer": "Forest",
+    "desc": "Aranya means forest, and Aranyakas are related to forest teachings."
+  },
+  {
+    "q": "Aranyakas were mainly intended for whom?",
+    "pool": ["Kings", "Merchants", "Hermits and students", "Householders", "Warriors"],
+    "answer": "Hermits and students",
+    "desc": "Aranyakas were written for hermits and students living in the forest."
+  },
+  {
+    "q": "Which part of the Vedic literature deals with philosophical aspects of rituals?",
+    "pool": ["Vedas", "Brahmanas", "Aranyakas", "Puranas", "Smritis"],
+    "answer": "Aranyakas",
+    "desc": "Aranyakas explore the philosophical meanings behind Vedic rituals."
+  },
+  {
+    "q": "Which Vedic text is considered a book of chants?",
+    "pool": ["Yajurveda", "Samaveda", "Rigveda", "Atharvaveda", "Puranas"],
+    "answer": "Samaveda",
+    "desc": "Samaveda is often referred to as a book of chants."
+  },
+
+  {
+    "q": "Which Veda includes knowledge of magical spells?",
+    "pool": ["Rigveda", "Samaveda", "Atharvaveda", "Yajurveda", "Smritis"],
+    "answer": "Atharvaveda",
+    "desc": "Atharvaveda contains spells and incantations to overcome evils."
+  },
+  {
+    "q": "Who are the four varnas mentioned in the Purushasukta?",
+    "pool": ["Brahmin, Kshatriya, Vaishya, Shudra", "Guru, Warrior, Farmer, Worker", "Priest, King, Merchant, Slave", "Sage, King, Merchant, Farmer", "None of the above"],
+    "answer": "Brahmin, Kshatriya, Vaishya, Shudra",
+    "desc": "Purushasukta mentions the origin of four varnas from the cosmic being."
+  },
+  {
+    "q": "Which part of the Vedas is mainly practical in nature?",
+    "pool": ["Rigveda", "Yajurveda", "Samaveda", "Atharvaveda", "Upanishads"],
+    "answer": "Yajurveda",
+    "desc": "Yajurveda contains practical instructions for rituals and sacrifices."
+  },
+  {
+    "q": "Which text among the following is purely musical in form?",
+    "pool": ["Rigveda", "Yajurveda", "Samaveda", "Atharvaveda", "Aranyakas"],
+    "answer": "Samaveda",
+    "desc": "Samaveda consists of musical chants and is considered the root of Indian classical music."
+  },
+  {
+    "q": "What is the main focus of Brahmana texts?",
+    "pool": ["Poetry", "Mantras", "Philosophy", "Rituals", "Law"],
+    "answer": "Rituals",
+    "desc": "Brahmanas focus on the ritualistic aspect of Vedic hymns."
+  },
+  {
+    "q": "Who were the primary audience of Aranyakas?",
+    "pool": ["Householders", "Students", "Priests", "Hermits", "Hermits and students"],
+    "answer": "Hermits and students",
+    "desc": "Aranyakas were designed for hermits and students practicing ascetic life."
+  },
+  {
+    "q": "Which Veda is associated with the Sun God through the Gayatri Mantra?",
+    "pool": ["Samaveda", "Yajurveda", "Rigveda", "Atharvaveda", "Upanishads"],
+    "answer": "Rigveda",
+    "desc": "The Gayatri Mantra found in the Rigveda is composed in praise of the Sun God."
+  },
+  {
+    "q": "Which Veda contains the Purushasukta?",
+    "pool": ["Yajurveda", "Rigveda", "Atharvaveda", "Samaveda", "Aranyakas"],
+    "answer": "Rigveda",
+    "desc": "Purushasukta, explaining the creation of varnas, is in the 10th Mandala of Rigveda."
+  },
+  {
+    "q": "Which of these is not a Veda?",
+    "pool": ["Samaveda", "Atharvaveda", "Rigveda", "Yajurveda", "Vedanta"],
+    "answer": "Vedanta",
+    "desc": "Vedanta is a philosophical system, not one of the four Vedas."
+  },
+  {
+    "q": "Which Vedic text is known for its magical content?",
+    "pool": ["Samaveda", "Atharvaveda", "Yajurveda", "Rigveda", "Aranyakas"],
+    "answer": "Atharvaveda",
+    "desc": "Atharvaveda contains magic, charms, and incantations for practical life."
+  },
+
+
+  {
+    "q": "Which Vedic text discusses social and religious meanings of rituals?",
+    "pool": ["Aranyakas", "Brahmanas", "Samaveda", "Atharvaveda", "Smritis"],
+    "answer": "Brahmanas",
+    "desc": "The Brahmanas explain the social and religious significance of Vedic rituals."
+  },
+  {
+    "q": "What is the literal meaning of 'Aranyakas'?",
+    "pool": ["Forest texts", "Divine songs", "Spiritual hymns", "Chants", "Mantras"],
+    "answer": "Forest texts",
+    "desc": "Aranyakas means 'forest texts', meant for forest-dwelling hermits and students."
+  },
+  {
+    "q": "The Gopatha Brahmana is associated with which Veda?",
+    "pool": ["Rigveda", "Atharvaveda", "Samaveda", "Yajurveda", "Upanishads"],
+    "answer": "Atharvaveda",
+    "desc": "Gopatha is the only Brahmana text related to the Atharvaveda."
+  },
+  {
+    "q": "Which part of the Vedic literature is closest to Indian classical music?",
+    "pool": ["Rigveda", "Atharvaveda", "Samaveda", "Yajurveda", "Aranyakas"],
+    "answer": "Samaveda",
+    "desc": "Samaveda forms the foundation of Indian classical music with its melodic chants."
+  },
+  {
+    "q": "How many Mandalas are there in the Rigveda?",
+    "pool": ["8", "9", "10", "11", "12"],
+    "answer": "10",
+    "desc": "The Rigveda is divided into 10 Mandalas (books)."
+  },
+  {
+    "q": "Which Mandala contains hymns praising the Sun God?",
+    "pool": ["2nd", "3rd", "5th", "7th", "9th"],
+    "answer": "3rd",
+    "desc": "The 3rd Mandala includes the Gayatri Mantra, dedicated to the Sun God."
+  },
+  {
+    "q": "Which part of Vedic literature transitions into philosophical discussion?",
+    "pool": ["Brahmanas", "Aranyakas", "Rigveda", "Yajurveda", "Samaveda"],
+    "answer": "Aranyakas",
+    "desc": "Aranyakas mark the transition from ritualistic to philosophical aspects."
+  },
+  {
+    "q": "Which text explains the concept of creation through the cosmic being?",
+    "pool": ["Gayatri Mantra", "Purushasukta", "Satapatha", "Upanishad", "Aranyaka"],
+    "answer": "Purushasukta",
+    "desc": "Purushasukta describes the creation of the universe and the varna system."
+  },
+  {
+    "q": "Which part of the Vedas focuses on practical application in rituals?",
+    "pool": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda", "Aranyakas"],
+    "answer": "Yajurveda",
+    "desc": "Yajurveda serves as a practical guide for conducting Vedic rituals."
+  },
+  {
+    "q": "Which Brahmana is considered the most voluminous?",
+    "pool": ["Kaushitaki", "Aitareya", "Satapatha", "Jemineya", "Gopatha"],
+    "answer": "Satapatha",
+    "desc": "Satapatha Brahmana is the most detailed and voluminous of the Brahmana texts."
+  },
+  {
+    "q": "Which Veda was primarily recited during Soma sacrifices?",
+    "pool": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda", "Puranas"],
+    "answer": "Samaveda",
+    "desc": "Samaveda was sung by priests during Soma sacrifices in rituals."
+  },
+  {
+    "q": "Which is the most recent among the four Vedas?",
+    "pool": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda", "None"],
+    "answer": "Atharvaveda",
+    "desc": "Atharvaveda is considered the last of the four Vedas to be composed."
+  },
+  {
+    "q": "Which Vedic text includes spells for healing diseases?",
+    "pool": ["Rigveda", "Samaveda", "Atharvaveda", "Yajurveda", "Smritis"],
+    "answer": "Atharvaveda",
+    "desc": "Atharvaveda contains spells and charms, including those for healing diseases."
+  },
+  {
+    "q": "What is the primary purpose of the Brahmanas?",
+    "pool": ["Philosophy", "Ritual explanation", "Poetry", "Music", "Law"],
+    "answer": "Ritual explanation",
+    "desc": "Brahmanas provide explanations and procedures for rituals mentioned in the Vedas."
+  },
+  {
+    "q": "Which Brahmana is common to both white and black Yajurveda branches?",
+    "pool": ["Satapatha", "Taittiriya", "Kaushitaki", "Gopatha", "Aitareya"],
+    "answer": "Satapatha",
+    "desc": "Satapatha is associated with the Shukla (white) Yajurveda but also studied in Krishna (black) traditions."
+  },
+  {
+    "q": "Which Veda is most commonly associated with mantras used in yajnas?",
+    "pool": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda", "Vedanta"],
+    "answer": "Yajurveda",
+    "desc": "Yajurveda is a compilation of ritual formulas recited during yajnas (sacrifices)."
+  },
+  {
+    "q": "Which Vedic division includes explanations rather than original hymns?",
+    "pool": ["Brahmanas", "Samhitas", "Aranyakas", "Vedangas", "Upanishads"],
+    "answer": "Brahmanas",
+    "desc": "Brahmanas are prose texts that explain Vedic hymns and rituals."
+  },
+  {
+    "q": "Which Aranyaka text is associated with the Rigveda?",
+    "pool": ["Taittiriya Aranyaka", "Aitareya Aranyaka", "Brihad Aranyaka", "Kaushitaki Aranyaka", "Gopatha Aranyaka"],
+    "answer": "Aitareya Aranyaka",
+    "desc": "Aitareya Aranyaka is associated with the Rigveda and includes philosophical interpretations."
+  },
+  {
+    "q": "Which part of Vedic literature serves as a link between rituals and philosophy?",
+    "pool": ["Samhitas", "Aranyakas", "Brahmanas", "Puranas", "Manusmriti"],
+    "answer": "Aranyakas",
+    "desc": "Aranyakas bridge the gap between the ritualistic Brahmanas and the philosophical Upanishads."
+  },
+  {
+    "q": "The term 'Samhita' in Vedic literature refers to?",
+    "pool": ["Rules", "Verses", "Hymn collections", "Commentaries", "Ritual acts"],
+    "answer": "Hymn collections",
+    "desc": "Samhita refers to the collection of mantras or hymns in each Veda."
+  }
+]

@@ -324,5 +324,186 @@
     "pool": ["It was alphabetic", "It was based on Greek", "It has been deciphered", "It is pictographic", "It was written in Latin"],
     "answer": "It is pictographic",
     "desc": "The Harappan script is pictographic and still undeciphered."
+  },
+  {
+    "q": "Which river is Harappa located on?",
+    "pool": ["Indus", "Bhogava", "Ravi", "Ghaggar", "Luni"],
+    "answer": "Ravi",
+    "desc": "Harappa is located on the Ravi river in Montgomery district of Punjab, Pakistan."
+  },
+  {
+    "q": "Who excavated Harappa?",
+    "pool": ["RD Banerji", "Daya Ram Sahni", "SR Rao", "BB Lal", "JP Joshi"],
+    "answer": "Daya Ram Sahni",
+    "desc": "Daya Ram Sahni excavated Harappa in 1921–23."
+  },
+  {
+    "q": "Which site gave the Indus Valley Civilization its alternative name?",
+    "pool": ["Harappa", "Mohenjodaro", "Lothal", "Kalibangan", "Rakhigarhi"],
+    "answer": "Harappa",
+    "desc": "The Indus Civilization is also called the Harappan Civilization after Harappa."
+  },
+  {
+    "q": "Which iconic bronze statue was found in Mohenjodaro?",
+    "pool": ["Dancing girl", "Stone Natraja", "Bullock cart", "Seated Shiva", "Elephant figurine"],
+    "answer": "Dancing girl",
+    "desc": "The famous bronze 'Dancing Girl' figurine was found in Mohenjodaro."
+  },
+  {
+    "q": "Who excavated Mohenjodaro?",
+    "pool": ["NG Majumdar", "Daya Ram Sahni", "JP Joshi", "RD Banerji", "RS Bisht"],
+    "answer": "RD Banerji",
+    "desc": "Mohenjodaro was excavated by RD Banerji in 1922."
+  },
+  {
+    "q": "Which site has the Great Bath and the Great Granary?",
+    "pool": ["Harappa", "Mohenjodaro", "Lothal", "Dholavira", "Kalibangan"],
+    "answer": "Mohenjodaro",
+    "desc": "Mohenjodaro houses major buildings like the Great Bath and the Great Granary."
+  },
+  {
+    "q": "What was a significant religious seal found at Mohenjodaro?",
+    "pool": ["Natraja", "Pashupati Mahadeva", "Sun God", "Bull Seal", "Lion Man"],
+    "answer": "Pashupati Mahadeva",
+    "desc": "A seal depicting Pashupati Mahadeva or proto-Shiva was found in Mohenjodaro."
+  },
+  {
+    "q": "Which Indus site does NOT have a citadel?",
+    "pool": ["Harappa", "Chanhudaro", "Kalibangan", "Lothal", "Surkotada"],
+    "answer": "Chanhudaro",
+    "desc": "Chanhudaro is the only excavated Indus site without a citadel."
+  },
+  {
+    "q": "Which site is known for bronze figurines of bullock cart and ekkas?",
+    "pool": ["Banawali", "Kalibangan", "Chanhudaro", "Dholavira", "Rakhigarhi"],
+    "answer": "Chanhudaro",
+    "desc": "Chanhudaro yielded bronze figurines of bullock carts and ekkas."
+  },
+  {
+    "q": "Lothal is situated on which river?",
+    "pool": ["Indus", "Ravi", "Bhogava", "Luni", "Ghaggar"],
+    "answer": "Bhogava",
+    "desc": "Lothal is situated on the Bhogava river in Gujarat."
+  },
+  {
+    "q": "Who discovered Lothal?",
+    "pool": ["SR Rao", "BB Lal", "RS Bisht", "Daya Ram Sahni", "NG Majumdar"],
+    "answer": "SR Rao",
+    "desc": "SR Rao discovered Lothal in 1954."
+  },
+  {
+    "q": "Which site has evidence of a dockyard?",
+    "pool": ["Surkotada", "Mohenjodaro", "Kalibangan", "Lothal", "Dholavira"],
+    "answer": "Lothal",
+    "desc": "Lothal had a dockyard, indicating maritime trade connections."
+  },
+  {
+    "q": "Which crop’s evidence has been found in Lothal?",
+    "pool": ["Barley", "Wheat", "Millet", "Rice", "Lentils"],
+    "answer": "Rice",
+    "desc": "Evidence of rice has been found at Lothal, which is rare in the Indus context."
+  },
+  {
+    "q": "Kalibangan is located on which river?",
+    "pool": ["Ravi", "Bhogava", "Saraswati", "Ghaggar", "Luni"],
+    "answer": "Ghaggar",
+    "desc": "Kalibangan is situated on the banks of the Ghaggar river."
+  },
+  {
+    "q": "What agricultural evidence was found in Kalibangan?",
+    "pool": ["Stone plough", "Irrigation channels", "Wooden furrow", "Tractor wheel", "Copper plough"],
+    "answer": "Wooden furrow",
+    "desc": "A wooden furrow and ploughed field were found in Kalibangan."
+  },
+  {
+    "q": "Which animals’ bones were found in Kalibangan?",
+    "pool": ["Horse", "Cow", "Camel", "Sheep", "Elephant"],
+    "answer": "Camel",
+    "desc": "Camel bones were found during excavations at Kalibangan."
+  },
+  {
+    "q": "Which site has evidence of both circular and rectangular burials?",
+    "pool": ["Dholavira", "Surkotada", "Kalibangan", "Harappa", "Banawali"],
+    "answer": "Kalibangan",
+    "desc": "Kalibangan showed two types of burials – circular and rectangular."
+  },
+  {
+    "q": "Which site had a unique water management system?",
+    "pool": ["Harappa", "Lothal", "Dholavira", "Kalibangan", "Banawali"],
+    "answer": "Dholavira",
+    "desc": "Dholavira is noted for its sophisticated water management system."
+  },
+  {
+    "q": "Which Indus site is divided into three parts?",
+    "pool": ["Dholavira", "Lothal", "Mohenjodaro", "Banawali", "Kalibangan"],
+    "answer": "Dholavira",
+    "desc": "Dholavira is the only site divided into three distinct parts."
+  },
+  {
+    "q": "Which site has the largest Harappan inscription?",
+    "pool": ["Harappa", "Dholavira", "Kalibangan", "Lothal", "Surkotada"],
+    "answer": "Dholavira",
+    "desc": "The largest Harappan inscription was discovered at Dholavira."
+  },
+  {
+    "q": "Evidence of horse bones was found at which site?",
+    "pool": ["Kalibangan", "Harappa", "Rakhigarhi", "Surkotada", "Banawali"],
+    "answer": "Surkotada",
+    "desc": "Surkotada is the only site with possible evidence of horse bones."
+  },
+  {
+    "q": "Surkotada is located in which state?",
+    "pool": ["Punjab", "Haryana", "Rajasthan", "Sindh", "Gujarat"],
+    "answer": "Gujarat",
+    "desc": "Surkotada is located in Gujarat and was discovered by JP Joshi."
+  },
+  {
+    "q": "Which burial type was observed at Surkotada?",
+    "pool": ["Pit burial", "Circular burial", "Cremation", "Sarcophagus burial", "Jar burial"],
+    "answer": "Pit burial",
+    "desc": "Pit burials were found in Surkotada along with oval graves."
+  },
+  {
+    "q": "Banawali is situated on which river?",
+    "pool": ["Indus", "Ghaggar", "Saraswati", "Ravi", "Luni"],
+    "answer": "Saraswati",
+    "desc": "Banawali is located on the Saraswati river in Haryana."
+  },
+  {
+    "q": "Which site showed both pre-Harappan and Harappan phases?",
+    "pool": ["Rakhigarhi", "Banawali", "Harappa", "Kalibangan", "Chanhudaro"],
+    "answer": "Banawali",
+    "desc": "Banawali revealed evidence of both pre-Harappan and Harappan culture."
+  },
+  {
+    "q": "What crop was found in Banawali?",
+    "pool": ["Wheat", "Barley", "Rice", "Millet", "Peas"],
+    "answer": "Barley",
+    "desc": "Evidence of high-quality barley was found in Banawali."
+  },
+  {
+    "q": "Which site lacked a systematic drainage system?",
+    "pool": ["Banawali", "Dholavira", "Mohenjodaro", "Kalibangan", "Lothal"],
+    "answer": "Banawali",
+    "desc": "Banawali did not have a well-planned drainage system unlike many other sites."
+  },
+  {
+    "q": "Which is the largest known Indus Valley site?",
+    "pool": ["Harappa", "Mohenjodaro", "Lothal", "Rakhigarhi", "Dholavira"],
+    "answer": "Rakhigarhi",
+    "desc": "Rakhigarhi in Haryana is the largest known Indus Valley site."
+  },
+  {
+    "q": "Which archaeologist discovered Dholavira?",
+    "pool": ["JP Joshi", "SR Rao", "BB Lal", "RS Bisht", "RD Banerji"],
+    "answer": "JP Joshi",
+    "desc": "Dholavira was discovered by archaeologist JP Joshi in 1967–68."
+  },
+  {
+    "q": "What unique structure was found in Dholavira besides inscriptions?",
+    "pool": ["Dockyard", "Stadium", "Citadel", "Assembly hall", "Fire altar"],
+    "answer": "Stadium",
+    "desc": "A stadium-like structure was found in Dholavira, unique among Indus sites."
   }
 ]
+
