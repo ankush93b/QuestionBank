@@ -1355,7 +1355,7 @@
       "Current Affairs": ['May 2025','April 2025'],
       "Reasoning Ability": ['Alphabet Positions', 'Alphabet Positions Mix','Alphabet Series','Analogy','Classification I','Classification II','Letter Series','Number Series'],
       "Geography":['Rocks'],
-      "History":['Pre-Historic Period','Indus Valley Civilisation','Vedic Period','Vedic Literature','Jainism','Buddhism'],
+      "History":['Pre-Historic Period','Indus Valley Civilisation','Vedic Period','Vedic Literature','Jainism','Buddhism','Ancient India Dynasties'],
       "Picture-Based Learning":['Countries Flags','Currency Symbols','Logos - India','Logos - International','Monuments - India','Monuments - Worldwide','States']
     };
 
@@ -1693,7 +1693,15 @@ function collapseSearch() {
   autocompleteList.classList.remove('visible');
   autocompleteList.innerHTML = "";
   activeIndex = -1;
-  document.getElementById('info-message').style.display = "flex"
+  auth.onAuthStateChanged(user => {
+      if (user) 
+        
+        document.getElementById('info-message').style.display = 'none';
+        else 
+        document.getElementById('info-message').style.display = 'flex';
+               
+      });
+  
 }
 
     expandBtn.addEventListener('click', function(e) {

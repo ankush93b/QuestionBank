@@ -1,0 +1,534 @@
+[
+  {
+    "q": "Who founded Buddhism?",
+    "pool": ["Gautama Buddha", "Mahavira", "Ashoka", "Chanakya", "Vasudeva"],
+    "answer": "Gautama Buddha",
+    "desc": "Buddhism was founded by Gautama Buddha, also known as Siddhartha or Sakyamuni."
+  },
+  {
+    "q": "Where was Gautama Buddha born?",
+    "pool": ["Kapilavastu", "Vaishali", "Lumbini", "Bodh Gaya", "Sarnath"],
+    "answer": "Lumbini",
+    "desc": "Gautama Buddha was born in Lumbini, which is located in present-day Nepal."
+  },
+  {
+    "q": "In which clan was Gautama Buddha born?",
+    "pool": ["Maurya", "Nanda", "Kuru", "Shakya", "Lichchhavi"],
+    "answer": "Shakya",
+    "desc": "Buddha was born in the Shakya Kshatriya clan."
+  },
+  {
+    "q": "Who was Buddha’s father?",
+    "pool": ["Suddhodana", "Bimbisara", "Ajatashatru", "Mahapadma Nanda", "Bindusara"],
+    "answer": "Suddhodana",
+    "desc": "Suddhodana was the ruler of the Shakya clan and father of Buddha."
+  },
+  {
+    "q": "Who was the mother of Gautama Buddha?",
+    "pool": ["Gautami", "Yashodhara", "Mahamaya", "Amrapali", "Mayadevi"],
+    "answer": "Mahamaya",
+    "desc": "Buddha’s mother was Mahamaya of the Kosalan dynasty."
+  },
+  {
+    "q": "Who raised Gautama Buddha after his mother's death?",
+    "pool": ["Yashodhara", "Gautami", "Mahamaya", "Amrapali", "Prajapati"],
+    "answer": "Gautami",
+    "desc": "After the death of his mother Mahamaya, Buddha was brought up by his stepmother Gautami."
+  },
+  {
+    "q": "Who was the wife of Gautama Buddha?",
+    "pool": ["Gautami", "Mahamaya", "Yashodhara", "Khema", "Sujata"],
+    "answer": "Yashodhara",
+    "desc": "Buddha was married to Yashodhara."
+  },
+  {
+    "q": "What was the name of Buddha’s son?",
+    "pool": ["Rahu", "Rahul", "Rohan", "Rajiv", "Ravi"],
+    "answer": "Rahul",
+    "desc": "Rahul was the name of Buddha’s son."
+  },
+  {
+    "q": "Which of the following is not part of the Triratnas in Buddhism?",
+    "pool": ["Buddha", "Dhamma", "Sangha", "Karma", "None of these"],
+    "answer": "Karma",
+    "desc": "Triratnas include Buddha, Dhamma, and Sangha, not Karma."
+  },
+  {
+    "q": "What does 'Dhamma' refer to in Buddhism?",
+    "pool": ["The community", "The teachings", "The rituals", "The afterlife", "The holy book"],
+    "answer": "The teachings",
+    "desc": "Dhamma refers to the teachings of the Buddha."
+  },
+  {
+    "q": "What does 'Sangha' refer to in Buddhism?",
+    "pool": ["Meditation", "Holy book", "Monastic order", "Teachings", "Enlightenment"],
+    "answer": "Monastic order",
+    "desc": "Sangha is the order of Buddhist monks and nuns."
+  },
+  {
+    "q": "Which of these is not one of the two major sects of Buddhism?",
+    "pool": ["Hinayana", "Mahayana", "Vajrayana", "None of these", "All are"],
+    "answer": "Vajrayana",
+    "desc": "The two main sects are Hinayana and Mahayana; Vajrayana developed later."
+  },
+  {
+    "q": "Which symbol is associated with Buddha's birth?",
+    "pool": ["Horse", "Bodhi Tree", "Wheel", "Lotus and Bull", "Stupa"],
+    "answer": "Lotus and Bull",
+    "desc": "Buddha's birth is symbolized by the lotus and bull."
+  },
+  {
+    "q": "What symbol represents Buddha’s renunciation (Mahabhinishkraman)?",
+    "pool": ["Wheel", "Stupa", "Horse", "Lotus", "Tree"],
+    "answer": "Horse",
+    "desc": "The horse symbolizes the event of renunciation by Gautama Buddha."
+  },
+  {
+    "q": "What symbol denotes Buddha’s enlightenment (Nirvana)?",
+    "pool": ["Lotus", "Bull", "Horse", "Bodhi Tree", "Stupa"],
+    "answer": "Bodhi Tree",
+    "desc": "Buddha attained enlightenment under the Bodhi Tree."
+  },
+  {
+    "q": "Which event is symbolized by the Wheel in Buddhism?",
+    "pool": ["Birth", "Renunciation", "First Sermon", "Death", "Enlightenment"],
+    "answer": "First Sermon",
+    "desc": "The Dharmachakra (Wheel) represents the first sermon or turning of the wheel of Dharma."
+  },
+  {
+    "q": "Which symbol is used for Buddha's death (Mahaparinirvana)?",
+    "pool": ["Stupa", "Bodhi Tree", "Wheel", "Horse", "Bull"],
+    "answer": "Stupa",
+    "desc": "Stupa represents the Mahaparinirvana or death of Buddha."
+  },
+  {
+    "q": "When was Gautama Buddha born?",
+    "pool": ["483 BC", "527 BC", "563 BC", "500 BC", "400 BC"],
+    "answer": "563 BC",
+    "desc": "Buddha was born in 563 BC in Lumbini."
+  },
+  {
+    "q": "Who among the following belonged to the Kosalan dynasty?",
+    "pool": ["Gautama Buddha", "Suddhodana", "Yashodhara", "Mahamaya", "Rahul"],
+    "answer": "Mahamaya",
+    "desc": "Mahamaya, Buddha's mother, belonged to the Kosalan dynasty."
+  },
+  {
+    "q": "The term 'Tathagata' refers to:",
+    "pool": ["A Buddhist monk", "A sacred text", "Gautama Buddha", "A Bodhisattva", "Nirvana"],
+    "answer": "Gautama Buddha",
+    "desc": "Tathagata is one of the titles used for Gautama Buddha."
+  },
+  {
+    "q": "Who among the following was a Kshatriya by birth?",
+    "pool": ["Mahavira", "Gautama Buddha", "Ashoka", "Chandragupta", "Bindusara"],
+    "answer": "Gautama Buddha",
+    "desc": "Buddha was born into the Kshatriya Shakya clan."
+  },
+  {
+    "q": "What is the meaning of the term 'Mahabhinishkraman'?",
+    "pool": ["Enlightenment", "Renunciation", "Birth", "Death", "First sermon"],
+    "answer": "Renunciation",
+    "desc": "Mahabhinishkraman refers to Buddha's great renunciation of worldly life."
+  },
+  {
+    "q": "What is 'Nirvana' in Buddhism?",
+    "pool": ["Birth", "Death", "Rebirth", "Enlightenment", "Renunciation"],
+    "answer": "Enlightenment",
+    "desc": "Nirvana is the state of enlightenment or liberation from the cycle of rebirth."
+  },
+  {
+    "q": "Dharmachakra Pravartana is associated with:",
+    "pool": ["Nirvana", "Death", "First Sermon", "Renunciation", "Ordination"],
+    "answer": "First Sermon",
+    "desc": "Dharmachakra Pravartana means setting the wheel of Dharma in motion, i.e., Buddha's first sermon."
+  },
+  {
+    "q": "Which of these represents the Triratna 'Sangha'?",
+    "pool": ["The tree under which Buddha meditated", "The community of monks and nuns", "The teachings", "The temple", "The scripture"],
+    "answer": "The community of monks and nuns",
+    "desc": "Sangha represents the community of Buddhist monks and nuns."
+  },
+  {
+    "q": "Who was brought up by Gautami?",
+    "pool": ["Ashoka", "Mahavira", "Rahul", "Gautama Buddha", "Ajatashatru"],
+    "answer": "Gautama Buddha",
+    "desc": "Gautama Buddha was brought up by his stepmother Gautami."
+  },
+  {
+    "q": "What is the meaning of 'Dhamma'?",
+    "pool": ["Meditation", "Karma", "Law or teachings", "Path to salvation", "Rituals"],
+    "answer": "Law or teachings",
+    "desc": "Dhamma in Buddhism refers to the teachings or doctrines of the Buddha."
+  },
+  {
+    "q": "Which part of Buddha’s life is symbolized by the 'Lotus and Bull'?",
+    "pool": ["Renunciation", "Enlightenment", "Birth", "First Sermon", "Death"],
+    "answer": "Birth",
+    "desc": "The symbols of lotus and bull denote the birth of Gautama Buddha."
+  },
+  {
+    "q": "Which among the following denotes the death of Buddha?",
+    "pool": ["Mahaparinirvana", "Nirvana", "Mahabhinishkraman", "Dharmachakra Pravartana", "Upasampada"],
+    "answer": "Mahaparinirvana",
+    "desc": "Mahaparinirvana refers to the death of Buddha and his final liberation."
+  },
+
+
+  {
+    "q": "What is the first of the Four Great Truths in Buddhism?",
+    "pool": ["The world is full of sorrow and misery", "Desire leads to happiness", "Life is eternal", "Desire is optional", "Suffering is a choice"],
+    "answer": "The world is full of sorrow and misery",
+    "desc": "The first noble truth states that the world is full of sorrow and misery (dukkha)."
+  },
+  {
+    "q": "According to Buddhism, what is the cause of all pain and misery?",
+    "pool": ["Greed", "Ignorance", "Hatred", "Desire", "Poverty"],
+    "answer": "Desire",
+    "desc": "Desire (tanha) is considered the root cause of all pain and misery."
+  },
+  {
+    "q": "How can pain and misery be ended, according to the Four Noble Truths?",
+    "pool": ["By praying to gods", "By killing or controlling desire", "By doing penance", "By renunciation", "By donations"],
+    "answer": "By killing or controlling desire",
+    "desc": "Buddhism teaches that controlling or eliminating desire ends suffering."
+  },
+  {
+    "q": "Which path is prescribed to control desire in Buddhism?",
+    "pool": ["Six-Fold Path", "Ten Commandments", "Eight-Fold Path", "Triple Gem", "Four Noble Paths"],
+    "answer": "Eight-Fold Path",
+    "desc": "The Eight-Fold Path is the prescribed way to control desire and end suffering."
+  },
+  {
+    "q": "What does 'Madhya Marga' or 'Middle Path' suggest?",
+    "pool": ["Extreme asceticism", "Life of luxury", "Balanced life avoiding extremes", "Path of devotion", "Life in forest"],
+    "answer": "Balanced life avoiding extremes",
+    "desc": "The Middle Path advises avoiding both luxury and severe self-denial."
+  },
+  {
+    "q": "Which of the following is part of the Eight-Fold Path?",
+    "pool": ["Right Wealth", "Right Magic", "Right Action", "Right War", "Right Caste"],
+    "answer": "Right Action",
+    "desc": "Right Action is one of the eight components of the Eight-Fold Path."
+  },
+  {
+    "q": "What is the language of early Buddhist literature?",
+    "pool": ["Sanskrit", "Pali", "Prakrit", "Tamil", "Hindi"],
+    "answer": "Pali",
+    "desc": "Buddhist literature was originally written in Pali, a language of the common people."
+  },
+  {
+    "q": "What does the term 'Tripitakas' mean?",
+    "pool": ["Three Gods", "Three Kings", "Three Fold Basket", "Three Languages", "Three Weapons"],
+    "answer": "Three Fold Basket",
+    "desc": "Tripitakas means 'three fold basket', referring to the three major Buddhist texts."
+  },
+  {
+    "q": "Which Pitaka deals with monastic rules?",
+    "pool": ["Vinaya Pitaka", "Sutta Pitaka", "Abhidhamma Pitaka", "Mahavamsa", "Dipavamsa"],
+    "answer": "Vinaya Pitaka",
+    "desc": "Vinaya Pitaka contains the rules of discipline for monks in Buddhist monasteries."
+  },
+  {
+    "q": "What is contained in the Sutta Pitaka?",
+    "pool": ["Stories of gods", "Buddha’s sermons and teachings", "Laws", "Philosophical essays", "Royal histories"],
+    "answer": "Buddha’s sermons and teachings",
+    "desc": "Sutta Pitaka is the largest pitaka and contains Buddha’s sermons and teachings."
+  },
+  {
+    "q": "Which is the largest of the three Pitakas?",
+    "pool": ["Vinaya Pitaka", "Sutta Pitaka", "Abhidhamma Pitaka", "Jataka Tales", "Mahavamsa"],
+    "answer": "Sutta Pitaka",
+    "desc": "The Sutta Pitaka is the largest among the Tripitakas."
+  },
+  {
+    "q": "What is the focus of the Abhidhamma Pitaka?",
+    "pool": ["Monastic rules", "Buddha's stories", "Philosophical principles", "Historical events", "Moral laws"],
+    "answer": "Philosophical principles",
+    "desc": "Abhidhamma Pitaka explains the philosophical aspects of Buddhism."
+  },
+  {
+    "q": "Which Buddhist text is from Sri Lanka?",
+    "pool": ["Jataka", "Mahavamsa", "Sutta Pitaka", "Dhammapada", "Vinaya Pitaka"],
+    "answer": "Mahavamsa",
+    "desc": "Mahavamsa is a Buddhist historical chronicle from Sri Lanka."
+  },
+  {
+    "q": "What does the Eight-Fold Path aim to achieve?",
+    "pool": ["Wealth", "Power", "End of desire", "Rebirth", "Fame"],
+    "answer": "End of desire",
+    "desc": "The Eight-Fold Path is a means to control desire and end suffering."
+  },
+  {
+    "q": "Which of the following is NOT part of the Eight-Fold Path?",
+    "pool": ["Right Efforts", "Right Livelihood", "Right Weapons", "Right Speech", "Right Mindfulness"],
+    "answer": "Right Weapons",
+    "desc": "Right Weapons is not a part of the Eight-Fold Path."
+  },
+  {
+    "q": "What was one major reason for the decline of Buddhism?",
+    "pool": ["Rise of Jainism", "Foreign invasions", "Use of Sanskrit", "Lack of texts", "Overpopulation"],
+    "answer": "Use of Sanskrit",
+    "desc": "The shift from Pali to Sanskrit made Buddhism less accessible to the masses."
+  },
+  {
+    "q": "Which of the following is a correct pair from the Eight-Fold Path?",
+    "pool": ["Right Love", "Right Fight", "Right Concentration", "Right Sacrifice", "Right Property"],
+    "answer": "Right Concentration",
+    "desc": "Right Concentration is one of the key practices in the Eight-Fold Path."
+  },
+  {
+    "q": "Right Mindfulness refers to:",
+    "pool": ["Being always serious", "Being aware and attentive", "Ignoring emotions", "Fasting", "Praying all day"],
+    "answer": "Being aware and attentive",
+    "desc": "Right Mindfulness involves being aware of one’s thoughts, feelings, and actions."
+  },
+  {
+    "q": "The Buddhist Middle Path avoids which of the following?",
+    "pool": ["Peace and harmony", "Life of moderation", "Extremes of luxury and asceticism", "Learning and wisdom", "Non-violence"],
+    "answer": "Extremes of luxury and asceticism",
+    "desc": "The Middle Path promotes a balanced life avoiding both extremes."
+  },
+  {
+    "q": "What does 'Right Speech' encourage?",
+    "pool": ["Silence", "Flattering", "Truthful and kind words", "Cursing enemies", "Shouting slogans"],
+    "answer": "Truthful and kind words",
+    "desc": "Right Speech promotes honest, kind, and helpful communication."
+  },
+  {
+    "q": "Which is not one of the Pitakas?",
+    "pool": ["Vinaya Pitaka", "Sutta Pitaka", "Abhidhamma Pitaka", "Mantra Pitaka", "None of these"],
+    "answer": "Mantra Pitaka",
+    "desc": "Mantra Pitaka is not among the three Tripitakas of Buddhist literature."
+  },
+  {
+    "q": "Dipavamsa is related to which region?",
+    "pool": ["India", "China", "Nepal", "Sri Lanka", "Tibet"],
+    "answer": "Sri Lanka",
+    "desc": "Dipavamsa is an early chronicle of Sri Lankan Buddhist history."
+  },
+  {
+    "q": "What is 'Right Livelihood' about?",
+    "pool": ["Making more money", "Living in forests", "Earning a living without harming others", "Working for kings", "Collecting donations"],
+    "answer": "Earning a living without harming others",
+    "desc": "Right Livelihood emphasizes ethical and non-harmful ways of earning a living."
+  },
+  {
+    "q": "Which aspect focuses on moral behavior?",
+    "pool": ["Right Concentration", "Right Thought", "Right Action", "Right View", "Right Knowledge"],
+    "answer": "Right Action",
+    "desc": "Right Action promotes ethical conduct and moral behavior."
+  },
+  {
+    "q": "What is the goal of Buddhist teachings?",
+    "pool": ["Power", "Wealth", "Nirvana (freedom from suffering)", "Heaven", "Rebirth as deity"],
+    "answer": "Nirvana (freedom from suffering)",
+    "desc": "Buddhism aims to free individuals from the cycle of suffering and rebirth."
+  },
+  {
+    "q": "Which element emphasizes effort and persistence?",
+    "pool": ["Right View", "Right Efforts", "Right Luck", "Right Devotion", "Right Money"],
+    "answer": "Right Efforts",
+    "desc": "Right Efforts refers to making consistent and disciplined spiritual effort."
+  },
+  {
+    "q": "The use of which language limited the spread of Buddhism?",
+    "pool": ["English", "Pali", "Sanskrit", "Hindi", "Chinese"],
+    "answer": "Sanskrit",
+    "desc": "Sanskrit replaced Pali, making Buddhist texts less accessible to the general public."
+  },
+  {
+    "q": "Right Understanding involves:",
+    "pool": ["Understanding scientific theories", "Knowing holy scriptures", "Understanding the Four Noble Truths", "Knowing mantras", "Learning rituals"],
+    "answer": "Understanding the Four Noble Truths",
+    "desc": "Right Understanding means grasping the truth of suffering, its cause, and its remedy."
+  },
+  {
+    "q": "What is the ultimate aim of the Eight-Fold Path?",
+    "pool": ["Becoming a monk", "Rebirth", "Freedom from suffering", "Becoming rich", "Long life"],
+    "answer": "Freedom from suffering",
+    "desc": "The Eight-Fold Path leads to Nirvana, the end of suffering."
+  },
+  {
+    "q": "Which aspect encourages purity of intentions?",
+    "pool": ["Right Mindfulness", "Right Thought", "Right Effort", "Right Speech", "Right Understanding"],
+    "answer": "Right Thought",
+    "desc": "Right Thought encourages pure, non-harmful, and kind intentions."
+  },
+
+
+  {
+    "q": "When was the First Buddhist Council held?",
+    "pool": ["383 BC", "250 BC", "72 AD", "500 BC", "488 BC"],
+    "answer": "488 BC",
+    "desc": "The First Buddhist Council was held in 488 BC at Rajagriha."
+  },
+  {
+    "q": "Where was the First Buddhist Council held?",
+    "pool": ["Vaishali", "Pataliputra", "Rajagriha", "Kundalvana", "Bodh Gaya"],
+    "answer": "Rajagriha",
+    "desc": "Rajagriha was the site of the First Buddhist Council."
+  },
+  {
+    "q": "Who chaired the First Buddhist Council?",
+    "pool": ["Sabakami", "Mogaliputta Tissa", "Ashwaghosa", "Mahakashyapa", "Vasumitra"],
+    "answer": "Mahakashyapa",
+    "desc": "Mahakashyapa was the chairman of the First Buddhist Council."
+  },
+  {
+    "q": "Who was the patron of the First Buddhist Council?",
+    "pool": ["Kanishka", "Kalashoka", "Ashoka", "Ajatashatru", "Bimbisara"],
+    "answer": "Ajatashatru",
+    "desc": "Ajatashatru supported the First Buddhist Council as its patron."
+  },
+  {
+    "q": "When was the Second Buddhist Council held?",
+    "pool": ["383 BC", "250 BC", "72 AD", "300 BC", "488 BC"],
+    "answer": "383 BC",
+    "desc": "The Second Buddhist Council took place in 383 BC."
+  },
+  {
+    "q": "Which location hosted the Second Buddhist Council?",
+    "pool": ["Rajagriha", "Vaishali", "Pataliputra", "Kundalvana", "Sarnath"],
+    "answer": "Vaishali",
+    "desc": "The Second Buddhist Council was held in Vaishali."
+  },
+  {
+    "q": "Who chaired the Second Buddhist Council?",
+    "pool": ["Mahakashyapa", "Ashwaghosa", "Mogaliputta Tissa", "Sabakami", "Vasumitra"],
+    "answer": "Sabakami",
+    "desc": "Sabakami was the chairman of the Second Buddhist Council."
+  },
+  {
+    "q": "Who was the patron of the Second Buddhist Council?",
+    "pool": ["Ashoka", "Kanishka", "Kalashoka", "Ajatashatru", "Chandragupta"],
+    "answer": "Kalashoka",
+    "desc": "Kalashoka supported the Second Buddhist Council."
+  },
+  {
+    "q": "When was the Third Buddhist Council held?",
+    "pool": ["383 BC", "250 BC", "72 AD", "100 BC", "300 BC"],
+    "answer": "250 BC",
+    "desc": "The Third Buddhist Council took place in 250 BC at Pataliputra."
+  },
+  {
+    "q": "Where did the Third Buddhist Council take place?",
+    "pool": ["Vaishali", "Rajagriha", "Pataliputra", "Kundalvana", "Lumbini"],
+    "answer": "Pataliputra",
+    "desc": "The Third Buddhist Council was held in Pataliputra."
+  },
+  {
+    "q": "Who chaired the Third Buddhist Council?",
+    "pool": ["Mahakashyapa", "Sabakami", "Ashwaghosa", "Mogaliputta Tissa", "Vasumitra"],
+    "answer": "Mogaliputta Tissa",
+    "desc": "Mogaliputta Tissa led the Third Buddhist Council."
+  },
+  {
+    "q": "Who was the royal patron of the Third Buddhist Council?",
+    "pool": ["Ashoka", "Kalashoka", "Ajatashatru", "Kanishka", "Bimbisara"],
+    "answer": "Ashoka",
+    "desc": "Ashoka supported the Third Buddhist Council."
+  },
+  {
+    "q": "When was the Fourth Buddhist Council held?",
+    "pool": ["250 BC", "72 AD", "383 BC", "100 AD", "500 BC"],
+    "answer": "72 AD",
+    "desc": "The Fourth Buddhist Council was held in 72 AD."
+  },
+  {
+    "q": "Where was the Fourth Buddhist Council held?",
+    "pool": ["Vaishali", "Pataliputra", "Rajagriha", "Kundalvana", "Nalanda"],
+    "answer": "Kundalvana",
+    "desc": "The Fourth Buddhist Council was held in Kundalvana."
+  },
+  {
+    "q": "Who were the chairmen of the Fourth Buddhist Council?",
+    "pool": ["Vasumitra and Ashwaghosa", "Mahakashyapa and Sabakami", "Moggaliputta and Ashoka", "Ashoka and Kalashoka", "Kanishka and Vasumitra"],
+    "answer": "Vasumitra and Ashwaghosa",
+    "desc": "Vasumitra and Ashwaghosa jointly chaired the Fourth Buddhist Council."
+  },
+  {
+    "q": "Who patronized the Fourth Buddhist Council?",
+    "pool": ["Ashoka", "Kalashoka", "Ajatashatru", "Kanishka", "Chandragupta"],
+    "answer": "Kanishka",
+    "desc": "Kanishka was the royal patron of the Fourth Buddhist Council."
+  },
+  {
+    "q": "Which council was held under King Ajatashatru's patronage?",
+    "pool": ["First", "Second", "Third", "Fourth", "Fifth"],
+    "answer": "First",
+    "desc": "The First Buddhist Council was supported by Ajatashatru."
+  },
+  {
+    "q": "Which council took place during King Kalashoka's reign?",
+    "pool": ["First", "Second", "Third", "Fourth", "Fifth"],
+    "answer": "Second",
+    "desc": "Kalashoka was the patron of the Second Buddhist Council."
+  },
+  {
+    "q": "Who among the following chaired more than one council?",
+    "pool": ["Mahakashyapa", "Sabakami", "Moggaliputta Tissa", "None", "Ashwagosha"],
+    "answer": "None",
+    "desc": "Each Buddhist Council had a different chairman."
+  },
+  {
+    "q": "Which of these councils was held in the AD era?",
+    "pool": ["First", "Second", "Third", "Fourth", "None"],
+    "answer": "Fourth",
+    "desc": "The Fourth Council, held in 72 AD, was the only one in the AD period."
+  },
+  {
+    "q": "Which council was conducted under the guidance of Moggaliputta Tissa?",
+    "pool": ["First", "Second", "Third", "Fourth", "None"],
+    "answer": "Third",
+    "desc": "Moggaliputta Tissa chaired the Third Buddhist Council at Pataliputra."
+  },
+  {
+    "q": "Which king supported the spread of Buddhism and organized the Third Council?",
+    "pool": ["Kalashoka", "Kanishka", "Ashoka", "Ajatashatru", "Harsha"],
+    "answer": "Ashoka",
+    "desc": "Ashoka organized the Third Council and promoted Buddhism."
+  },
+  {
+    "q": "Who was associated with composing Buddhist texts during the Fourth Council?",
+    "pool": ["Mahakashyapa", "Sabakami", "Ashwaghosa", "Vasumitra", "Buddhaghosa"],
+    "answer": "Ashwaghosa",
+    "desc": "Ashwaghosa was a prominent scholar during the Fourth Council."
+  },
+  {
+    "q": "Which Buddhist Council was convened in Kashmir?",
+    "pool": ["First", "Second", "Third", "Fourth", "None"],
+    "answer": "Fourth",
+    "desc": "The Fourth Council took place in Kundalvana, Kashmir."
+  },
+  {
+    "q": "Which council is believed to have led to the division of Buddhist sects?",
+    "pool": ["First", "Second", "Third", "Fourth", "None"],
+    "answer": "Second",
+    "desc": "The Second Buddhist Council witnessed divisions that led to sect formation."
+  },
+  {
+    "q": "Under whose reign was the compilation of Abhidhamma Pitaka likely formalized?",
+    "pool": ["Ashoka", "Kalashoka", "Kanishka", "Ajatashatru", "Bimbisara"],
+    "answer": "Ashoka",
+    "desc": "During the Third Council under Ashoka, many texts including Abhidhamma were compiled."
+  },
+  {
+    "q": "Which council was held shortly after Buddha’s death?",
+    "pool": ["First", "Second", "Third", "Fourth", "None"],
+    "answer": "First",
+    "desc": "The First Buddhist Council was held soon after Buddha’s passing."
+  },
+  {
+    "q": "Which of the following is the correct sequence of council locations?",
+    "pool": ["Vaishali, Rajagriha, Pataliputra, Kundalvana", "Rajagriha, Vaishali, Pataliputra, Kundalvana", "Rajagriha, Pataliputra, Vaishali, Kundalvana", "Vaishali, Kundalvana, Rajagriha, Pataliputra", "Kundalvana, Vaishali, Rajagriha, Pataliputra"],
+    "answer": "Rajagriha, Vaishali, Pataliputra, Kundalvana",
+    "desc": "This is the correct chronological sequence of Buddhist council locations."
+  },
+  {
+    "q": "Which two individuals chaired the Fourth Council?",
+    "pool": ["Mahakashyapa and Sabakami", "Vasumitra and Ashwaghosa", "Ashoka and Kanishka", "Sabakami and Moggaliputta", "None of these"],
+    "answer": "Vasumitra and Ashwaghosa",
+    "desc": "The Fourth Council was jointly chaired by Vasumitra and Ashwaghosa."
+  }
+]

@@ -1,0 +1,1186 @@
+[
+  {
+    "q": "Who was the founder of the Haryanka Dynasty?",
+    "pool": ["Ajatashatru", "Udayin", "Bimbisara", "Mahapadma Nanda", "Kalashoka"],
+    "answer": "Bimbisara",
+    "desc": "Bimbisara was the founder of the Haryanka Dynasty and expanded Magadha through annexation and alliances."
+  },
+  {
+    "q": "Which kingdom was annexed by Bimbisara to expand Magadha?",
+    "pool": ["Avanti", "Anga", "Kosala", "Vaishali", "Lichchhavi"],
+    "answer": "Anga",
+    "desc": "Bimbisara annexed the kingdom of Anga as part of his expansion of Magadha."
+  },
+  {
+    "q": "What was the capital of the Haryanka Dynasty?",
+    "pool": ["Pataliputra", "Rajgir", "Vaishali", "Taxila", "Ujjain"],
+    "answer": "Rajgir",
+    "desc": "Rajgir, also known as Girivraja, was the capital under the Haryanka rulers like Bimbisara."
+  },
+  {
+    "q": "Who was a contemporary of Buddha?",
+    "pool": ["Udayin", "Kalashoka", "Bimbisara", "Mahapadma Nanda", "Porus"],
+    "answer": "Bimbisara",
+    "desc": "Bimbisara was a contemporary of Gautama Buddha during the 6th century BCE."
+  },
+  {
+    "q": "Who came to power after killing his father Bimbisara?",
+    "pool": ["Ajatashatru", "Udayin", "Mahapadma Nanda", "Shishunaga", "Kalashoka"],
+    "answer": "Ajatashatru",
+    "desc": "Ajatashatru ascended the throne of Magadha after killing his father Bimbisara."
+  },
+  {
+    "q": "Ajatashatru annexed which of the following kingdoms?",
+    "pool": ["Avanti, Anga, Taxila", "Kosala, Vaishali, Lichchhavi", "Kalinga, Malwa, Ujjain", "Gandhara, Sindh, Anga", "Vaishali, Magadha, Taxila"],
+    "answer": "Kosala, Vaishali, Lichchhavi",
+    "desc": "Ajatashatru expanded his kingdom by annexing Kosala, Vaishali, and the Lichchhavi kingdom."
+  },
+  {
+    "q": "Who founded the new capital Pataliputra?",
+    "pool": ["Bimbisara", "Ajatashatru", "Udayin", "Shishunaga", "Dhana Nanda"],
+    "answer": "Udayin",
+    "desc": "Udayin, the successor of Ajatashatru, founded Pataliputra as the new capital."
+  },
+  {
+    "q": "Which dynasty was founded by Shishunaga?",
+    "pool": ["Haryanka", "Nanda", "Maurya", "Gupta", "Shishunaga"],
+    "answer": "Shishunaga",
+    "desc": "Shishunaga established the Shishunaga Dynasty after the Haryanka rulers."
+  },
+  {
+    "q": "Who convened the Second Buddhist Council?",
+    "pool": ["Ashoka", "Ajatashatru", "Kalashoka", "Bindusara", "Kanishka"],
+    "answer": "Kalashoka",
+    "desc": "Kalashoka of the Shishunaga dynasty convened the Second Buddhist Council."
+  },
+  {
+    "q": "Which major kingdom was destroyed by the Shishunaga dynasty?",
+    "pool": ["Kalinga", "Avanti", "Vaishali", "Kosala", "Gandhara"],
+    "answer": "Avanti",
+    "desc": "The Shishunaga dynasty's major achievement was the destruction of the Avanti kingdom."
+  },
+  {
+    "q": "Who was the founder of the Nanda Dynasty?",
+    "pool": ["Dhana Nanda", "Bimbisara", "Mahapadma Nanda", "Ashoka", "Kalashoka"],
+    "answer": "Mahapadma Nanda",
+    "desc": "Mahapadma Nanda was the founder of the Nanda dynasty, considered non-Kshatriya."
+  },
+  {
+    "q": "What was the social status of the Nanda dynasty?",
+    "pool": ["Brahmin", "Kshatriya", "Vaishya", "Non-Kshatriyan", "Shudra"],
+    "answer": "Non-Kshatriyan",
+    "desc": "The Nanda dynasty is believed to be of non-Kshatriyan origin."
+  },
+  {
+    "q": "Which ruler faced Alexander's invasion?",
+    "pool": ["Ajatashatru", "Mahapadma Nanda", "Kalashoka", "Dhana Nanda", "Udayin"],
+    "answer": "Dhana Nanda",
+    "desc": "Alexander invaded India during the reign of Dhana Nanda."
+  },
+  {
+    "q": "Who was the first foreign invader of India?",
+    "pool": ["Alexander", "Cyrus", "Darius", "Seleucus", "Ashoka"],
+    "answer": "Cyrus",
+    "desc": "Cyrus, the founder of the Persian Achaemenid Empire, was the first foreign invader of India."
+  },
+  {
+    "q": "Which river was the site of the Battle of Hydaspes?",
+    "pool": ["Ganga", "Yamuna", "Sutlej", "Jhelum", "Indus"],
+    "answer": "Jhelum",
+    "desc": "The Battle of Hydaspes was fought between Alexander and Porus near the Jhelum River."
+  },
+  {
+    "q": "Who fought against Alexander in the Battle of Hydaspes?",
+    "pool": ["Mahapadma Nanda", "Ajatashatru", "Porus", "Chandragupta Maurya", "Bindusara"],
+    "answer": "Porus",
+    "desc": "Porus (Purushottam) of the Paurava dynasty fought against Alexander at Hydaspes."
+  },
+  {
+    "q": "Which dynasty's capital was Pataliputra?",
+    "pool": ["Maurya", "Gupta", "Shishunaga", "Haryanka", "Nanda"],
+    "answer": "Haryanka",
+    "desc": "Pataliputra was established as the capital by Udayin of the Haryanka dynasty."
+  },
+  {
+    "q": "The Second Buddhist Council was held in which city?",
+    "pool": ["Rajgir", "Pataliputra", "Vaishali", "Kushinagar", "Nalanda"],
+    "answer": "Vaishali",
+    "desc": "The Second Buddhist Council was held at Vaishali under Kalashoka’s patronage."
+  },
+  {
+    "q": "Who among the following was not part of the Haryanka dynasty?",
+    "pool": ["Bimbisara", "Ajatashatru", "Udayin", "Kalashoka", "All were part"],
+    "answer": "Kalashoka",
+    "desc": "Kalashoka belonged to the Shishunaga dynasty, not the Haryanka dynasty."
+  },
+  {
+    "q": "Which of the following expanded Magadha through matrimonial alliances?",
+    "pool": ["Ajatashatru", "Udayin", "Bimbisara", "Mahapadma Nanda", "Shishunaga"],
+    "answer": "Bimbisara",
+    "desc": "Bimbisara strategically used matrimonial alliances to strengthen Magadha's position."
+  },
+  {
+    "q": "Which dynasty saw the end of the Avanti kingdom?",
+    "pool": ["Maurya", "Shishunaga", "Gupta", "Nanda", "Haryanka"],
+    "answer": "Shishunaga",
+    "desc": "The Shishunaga dynasty's key military success was the destruction of the Avanti kingdom."
+  },
+  {
+    "q": "Who succeeded Ajatashatru?",
+    "pool": ["Bimbisara", "Kalashoka", "Udayin", "Dhana Nanda", "Porus"],
+    "answer": "Udayin",
+    "desc": "Udayin, the son of Ajatashatru, succeeded him and established Pataliputra as the capital."
+  },
+  {
+    "q": "During whose reign did Alexander invade India?",
+    "pool": ["Mahapadma Nanda", "Kalashoka", "Dhana Nanda", "Bimbisara", "Ajatashatru"],
+    "answer": "Dhana Nanda",
+    "desc": "Dhana Nanda was the ruler of the Nanda dynasty when Alexander invaded India in 326 BCE."
+  },
+  {
+    "q": "Which dynasty did Porus belong to?",
+    "pool": ["Nanda", "Gupta", "Paurava", "Maurya", "Shunga"],
+    "answer": "Paurava",
+    "desc": "Porus belonged to the Paurava dynasty and ruled the region around the Jhelum River."
+  },
+  {
+    "q": "Who was the Macedonian king that invaded India?",
+    "pool": ["Cyrus", "Darius", "Alexander", "Seleucus", "Antiochus"],
+    "answer": "Alexander",
+    "desc": "Alexander the Great, king of Macedonia, invaded northwest India in 326 BCE."
+  },
+  {
+    "q": "Who established diplomatic contact with the West through conquests?",
+    "pool": ["Ashoka", "Alexander", "Chandragupta", "Porus", "Dhana Nanda"],
+    "answer": "Alexander",
+    "desc": "Alexander’s invasion opened diplomatic and cultural exchanges between India and the West."
+  },
+  {
+    "q": "Who ruled Magadha before the rise of the Mauryan Empire?",
+    "pool": ["Nanda dynasty", "Gupta dynasty", "Paurava dynasty", "Kushana dynasty", "Shunga dynasty"],
+    "answer": "Nanda dynasty",
+    "desc": "The Nanda dynasty was the last ruling dynasty of Magadha before the Mauryas."
+  },
+  {
+    "q": "Which city was earlier known as Girivraja?",
+    "pool": ["Rajgir", "Vaishali", "Pataliputra", "Taxila", "Kalinga"],
+    "answer": "Rajgir",
+    "desc": "Girivraja is the ancient name of Rajgir, the early capital of Magadha."
+  },
+  {
+    "q": "Which Magadhan ruler had conflicts with the Lichchhavis?",
+    "pool": ["Bimbisara", "Udayin", "Kalashoka", "Ajatashatru", "Mahapadma Nanda"],
+    "answer": "Ajatashatru",
+    "desc": "Ajatashatru fought and annexed the Lichchhavi kingdom during his reign."
+  },
+
+
+  {
+    "q": "Who founded the Mauryan Dynasty by overthrowing the Nanda dynasty?",
+    "pool": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Bimbisara", "Ajatashatru"],
+    "answer": "Chandragupta Maurya",
+    "desc": "Chandragupta Maurya overthrew the Nanda Dynasty with the help of Chanakya to establish the Mauryan Empire."
+  },
+  {
+    "q": "Which Greek name was used for Chandragupta Maurya?",
+    "pool": ["Porus", "Sandrocottus", "Philip", "Ptolemy", "Arrian"],
+    "answer": "Sandrocottus",
+    "desc": "Greek scholars referred to Chandragupta Maurya as Sandrocottus."
+  },
+  {
+    "q": "Who was the general of Alexander defeated by Chandragupta Maurya?",
+    "pool": ["Demetrius", "Seleucus Nikator", "Megasthenes", "Antigonus", "Ptolemy"],
+    "answer": "Seleucus Nikator",
+    "desc": "Seleucus Nikator, a general of Alexander, was defeated by Chandragupta in 304 BC."
+  },
+  {
+    "q": "Who was the Greek ambassador sent by Seleucus Nikator to Chandragupta’s court?",
+    "pool": ["Megasthenes", "Deimachos", "Pliny", "Nearchus", "Aristotle"],
+    "answer": "Megasthenes",
+    "desc": "Megasthenes visited Chandragupta's court and wrote the book 'Indica'."
+  },
+  {
+    "q": "What is the name of the book written by Megasthenes?",
+    "pool": ["Arthashastra", "Indica", "Mudrarakshasa", "Rajatarangini", "Mahavamsa"],
+    "answer": "Indica",
+    "desc": "Megasthenes authored 'Indica', an account of Mauryan India."
+  },
+  {
+    "q": "Who wrote 'Mudrarakshasa'?",
+    "pool": ["Chanakya", "Kalidasa", "Vishakhadatta", "Tulsidas", "Banabhatta"],
+    "answer": "Vishakhadatta",
+    "desc": "Vishakhadatta wrote 'Mudrarakshasa', which depicts Chanakya's political strategies."
+  },
+  {
+    "q": "'Mudrarakshasa' describes whose strategies?",
+    "pool": ["Ashoka", "Bindusara", "Chandragupta Maurya", "Ajatashatru", "Samudragupta"],
+    "answer": "Chandragupta Maurya",
+    "desc": "The text details Chanakya’s tactics to establish Chandragupta on the throne."
+  },
+  {
+    "q": "How many wings of armed forces did Chandragupta maintain?",
+    "pool": ["Four", "Six", "Seven", "Five", "Three"],
+    "answer": "Six",
+    "desc": "Chandragupta maintained six wings of armed forces."
+  },
+  {
+    "q": "Who was Chandragupta’s mother?",
+    "pool": ["Mura", "Subhadra", "Durdhara", "Gautami", "Kunti"],
+    "answer": "Mura",
+    "desc": "Mura, a Shudra woman in Nanda’s court, was Chandragupta’s mother."
+  },
+  {
+    "q": "To which religion did Chandragupta convert later in life?",
+    "pool": ["Buddhism", "Jainism", "Hinduism", "Zoroastrianism", "Christianity"],
+    "answer": "Jainism",
+    "desc": "Chandragupta adopted Jainism and spent his final years in Sravanabelgola."
+  },
+  {
+    "q": "Who accompanied Chandragupta Maurya to Sravanabelgola?",
+    "pool": ["Ashoka", "Bhadrabahu", "Chanakya", "Bindusara", "Megasthenes"],
+    "answer": "Bhadrabahu",
+    "desc": "Bhadrabahu, a Jain monk, accompanied Chandragupta to Sravanabelgola."
+  },
+  {
+    "q": "What was the reign period of Chandragupta Maurya?",
+    "pool": ["298–273 BC", "321–298 BC", "273–232 BC", "322–297 BC", "250–225 BC"],
+    "answer": "321–298 BC",
+    "desc": "Chandragupta ruled from 321 BC to 298 BC."
+  },
+  {
+    "q": "Who succeeded Chandragupta Maurya?",
+    "pool": ["Ashoka", "Bindusara", "Sumana", "Bimbisara", "Kanishka"],
+    "answer": "Bindusara",
+    "desc": "Bindusara, his son, succeeded Chandragupta Maurya."
+  },
+  {
+    "q": "What was the title given to Bindusara by Greek writers?",
+    "pool": ["Indicus", "Amitraghat", "Sandrocottus", "Megathenes", "Devanampiya"],
+    "answer": "Amitraghat",
+    "desc": "Greek writers referred to Bindusara as 'Amitraghat', meaning 'Slayer of enemies'."
+  },
+  {
+    "q": "Who visited Bindusara’s court as a Greek ambassador?",
+    "pool": ["Megasthenes", "Deimachos", "Seleucus", "Nearchus", "Plutarch"],
+    "answer": "Deimachos",
+    "desc": "Deimachos was the Greek ambassador who visited Bindusara’s court."
+  },
+  {
+    "q": "What land did Bindusara reportedly conquer?",
+    "pool": ["Northwest India", "Land between two seas", "Deccan Plateau", "Ganges plain", "Kalinga"],
+    "answer": "Land between two seas",
+    "desc": "Bindusara is said to have conquered the region between the Arabian Sea and Bay of Bengal."
+  },
+  {
+    "q": "Who was appointed as viceroy at Taxila by Bindusara?",
+    "pool": ["Ashoka", "Chandragupta", "Sumana", "Bimbisara", "Kanishka"],
+    "answer": "Sumana",
+    "desc": "Bindusara appointed his eldest son, Sumana, as viceroy at Taxila."
+  },
+  {
+    "q": "Which city was Ashoka appointed viceroy of?",
+    "pool": ["Pataliputra", "Ujjain", "Taxila", "Rajagriha", "Kalinga"],
+    "answer": "Ujjain",
+    "desc": "Ashoka was made the viceroy of Ujjain by his father, Bindusara."
+  },
+  {
+    "q": "Who helped Chandragupta Maurya in overthrowing the Nanda dynasty?",
+    "pool": ["Ashoka", "Chanakya", "Vishakhadatta", "Bhadrabahu", "Megasthenes"],
+    "answer": "Chanakya",
+    "desc": "Chanakya, also known as Kautilya, was Chandragupta’s advisor and strategist."
+  },
+  {
+    "q": "Which of the following texts is associated with Chanakya's political strategies?",
+    "pool": ["Indica", "Mudrarakshasa", "Mahabharata", "Arthashastra", "Rajatarangini"],
+    "answer": "Mudrarakshasa",
+    "desc": "'Mudrarakshasa', written by Vishakhadatta, depicts Chanakya’s strategies to place Chandragupta on the throne."
+  },
+
+
+  {
+    "q": "What years did Ashoka rule?",
+    "pool": ["321-297 BC", "293-273 BC", "261-246 BC", "200-175 BC", "273-232 BC"],
+    "answer": "293-273 BC",
+    "desc": "Ashoka ruled from 293 to 273 BC before converting to Buddhism after the Kalinga War."
+  },
+  {
+    "q": "How did Ashoka rule during his first eight years?",
+    "pool": ["As a benevolent ruler", "As a religious monk", "Like a cruel king", "As a democratic leader", "Through Buddhism"],
+    "answer": "Like a cruel king",
+    "desc": "Ashoka was known for ruling cruelly and strictly during his early years."
+  },
+  {
+    "q": "What title was Ashoka given in some inscriptions?",
+    "pool": ["Chakravartin", "Devanamapriya", "Dharmaraja", "Ashokavardhana", "Bodhisattva"],
+    "answer": "Devanamapriya",
+    "desc": "Ashoka was referred to as 'Devanamapriya', meaning 'Dear to the Gods'."
+  },
+  {
+    "q": "Where does the name 'Ashoka' explicitly appear in inscriptions?",
+    "pool": ["Major Rock Edict XIII", "Pillar Edicts", "Minor Rock Edict I", "Bhabru Edict", "Barabar Cave Inscriptions"],
+    "answer": "Minor Rock Edict I",
+    "desc": "The name 'Ashoka' appears in copies of Minor Rock Edict I."
+  },
+  {
+    "q": "Which languages were used in Ashokan inscriptions?",
+    "pool": ["Prakrit, Sanskrit, Tamil", "Greek, Sanskrit, Pali", "Prakrit, Greek, Aramic", "Hindi, Greek, Aramic", "Tamil, Aramic, Greek"],
+    "answer": "Prakrit, Greek, Aramic",
+    "desc": "Ashoka's inscriptions used Prakrit, Greek, and Aramic."
+  },
+  {
+    "q": "Which script was mainly used in Ashokan edicts?",
+    "pool": ["Devanagari", "Kharosthi", "Greek", "Brahmi", "Latin"],
+    "answer": "Brahmi",
+    "desc": "Most of the Ashokan edicts were written in Brahmi script."
+  },
+  {
+    "q": "Who first deciphered the Brahmi script of Ashokan edicts?",
+    "pool": ["Alexander Cunningham", "Fa-Hien", "James Princep", "Hiuen Tsang", "Max Müller"],
+    "answer": "James Princep",
+    "desc": "James Princep deciphered the Brahmi script in 1837 AD."
+  },
+  {
+    "q": "In which year did James Princep decipher Brahmi script?",
+    "pool": ["1810", "1825", "1837", "1842", "1850"],
+    "answer": "1837",
+    "desc": "The Brahmi script was deciphered by James Princep in 1837."
+  },
+  {
+    "q": "What made Ashoka the first king of his kind?",
+    "pool": ["He became a monk", "He wrote poetry", "He maintained direct contact with people via inscriptions", "He started trade with China", "He was the first Buddhist king"],
+    "answer": "He maintained direct contact with people via inscriptions",
+    "desc": "Ashoka used inscriptions to communicate directly with the people, a first for a king."
+  },
+  {
+    "q": "Which edict mentions the Kalinga War?",
+    "pool": ["Minor Rock Edict I", "Major Rock Edict XIII", "Pillar Edict IV", "Bhabru Edict", "Barabar Cave Inscription"],
+    "answer": "Major Rock Edict XIII",
+    "desc": "The Kalinga War is described in Major Rock Edict XIII."
+  },
+  {
+    "q": "Which war changed Ashoka's attitude and led him to Buddhism?",
+    "pool": ["Panipat War", "Kalinga War", "Kurukshetra War", "Deccan War", "Magadha Conflict"],
+    "answer": "Kalinga War",
+    "desc": "The Kalinga War led Ashoka to embrace Buddhism."
+  },
+  {
+    "q": "Who was Ashoka converted to Buddhism under?",
+    "pool": ["Buddha", "Nagarjuna", "Mahavira", "Upagupta", "Vasubandhu"],
+    "answer": "Upagupta",
+    "desc": "Ashoka became a Buddhist under the guidance of Upagupta."
+  },
+  {
+    "q": "Which stupa was built by Ashoka?",
+    "pool": ["Sarnath Stupa", "Bharhut Stupa", "Sanchi Stupa", "Dhamek Stupa", "Amaravati Stupa"],
+    "answer": "Sanchi Stupa",
+    "desc": "Ashoka built the famous Sanchi Stupa."
+  },
+  {
+    "q": "Who killed the last Mauryan king Brihadratha?",
+    "pool": ["Chandragupta", "Ashoka", "Pushyamitra Sunga", "Kanishka", "Samudragupta"],
+    "answer": "Pushyamitra Sunga",
+    "desc": "Brihadratha was killed by Pushyamitra Sunga in 185 BC."
+  },
+  {
+    "q": "In which year was Brihadratha killed?",
+    "pool": ["200 BC", "190 BC", "185 BC", "175 BC", "160 BC"],
+    "answer": "185 BC",
+    "desc": "Brihadratha was assassinated in 185 BC."
+  },
+  {
+    "q": "Which dynasty was founded by Pushyamitra Sunga?",
+    "pool": ["Maurya", "Gupta", "Kushan", "Sunga", "Satavahana"],
+    "answer": "Sunga",
+    "desc": "Pushyamitra Sunga established the Sunga dynasty."
+  },
+  {
+    "q": "What symbols were used on Mauryan punch-marked coins?",
+    "pool": ["Elephant and sun", "Peacock and hill-crescent", "Chakra and lion", "Tree and river", "Horse and wheel"],
+    "answer": "Peacock and hill-crescent",
+    "desc": "The Mauryan punch-marked coins had peacock and hill-crescent symbols."
+  },
+  {
+    "q": "What were the Mauryan coins known for?",
+    "pool": ["Gold content", "Roman influence", "Punch-marked symbols", "Square shape", "Bilingual text"],
+    "answer": "Punch-marked symbols",
+    "desc": "Mauryan currency used punch-marked symbols like the peacock and crescent."
+  },
+  {
+    "q": "What innovation for monks' living was introduced during Mauryan rule?",
+    "pool": ["Stone temples", "Monasteries", "Carved caves", "Wooden huts", "Brick towers"],
+    "answer": "Carved caves",
+    "desc": "Mauryan artisans began carving caves for monks to live in."
+  },
+  {
+    "q": "Which caves near Gaya are an early example of monk living quarters?",
+    "pool": ["Ellora Caves", "Barabar Caves", "Ajanta Caves", "Udayagiri Caves", "Nashik Caves"],
+    "answer": "Barabar Caves",
+    "desc": "Barabar Caves are the earliest known monk caves carved during Mauryan rule."
+  },
+  {
+    "q": "What domestic water facility emerged under the Mauryas?",
+    "pool": ["Canals", "Well systems", "Tanks", "Ringwells", "Stepwells"],
+    "answer": "Ringwells",
+    "desc": "Ringwells were introduced for domestic water use under Mauryan rule."
+  },
+  {
+    "q": "What is Sri Lanka referred to in Ashokan inscriptions?",
+    "pool": ["Simhala", "Lanka", "Tamrapani", "Ceylon", "Ravidesha"],
+    "answer": "Tamrapani",
+    "desc": "In Ashokan inscriptions, Sri Lanka is called 'Tamrapani'."
+  },
+  {
+    "q": "Which script apart from Brahmi was used in Ashokan inscriptions?",
+    "pool": ["Latin", "Greek", "Tamil", "Persian", "Kharosthi"],
+    "answer": "Greek",
+    "desc": "Greek was used alongside Brahmi and Aramic in Ashokan inscriptions."
+  },
+  {
+    "q": "Ashoka ruled during which major Indian dynasty?",
+    "pool": ["Gupta", "Nanda", "Maurya", "Kushan", "Sunga"],
+    "answer": "Maurya",
+    "desc": "Ashoka was a ruler of the Mauryan dynasty."
+  },
+  {
+    "q": "What is the historical significance of Major Rock Edict XIII?",
+    "pool": ["Talks about wildlife", "Mentions Buddha", "Describes Kalinga War", "Promotes trade", "Gives Ashoka's family details"],
+    "answer": "Describes Kalinga War",
+    "desc": "Major Rock Edict XIII mentions Ashoka's remorse after the Kalinga War."
+  },
+  {
+    "q": "Which Mauryan king established communication via inscriptions?",
+    "pool": ["Chandragupta", "Bindusara", "Ashoka", "Brihadratha", "Dasharatha"],
+    "answer": "Ashoka",
+    "desc": "Ashoka used inscriptions to communicate directly with people."
+  },
+  {
+    "q": "Ashoka’s inscriptions are earliest examples of which kind of governance?",
+    "pool": ["Democratic", "Bureaucratic", "Participatory", "Communicative", "Autocratic"],
+    "answer": "Communicative",
+    "desc": "Ashoka was the first to use inscriptions as a medium to communicate governance."
+  },
+  {
+    "q": "Which material were Ashoka’s inscriptions primarily carved on?",
+    "pool": ["Wood", "Metal plates", "Stone", "Papyrus", "Bronze"],
+    "answer": "Stone",
+    "desc": "Ashokan inscriptions were mostly engraved on stone surfaces."
+  },
+  {
+    "q": "What was the purpose of carving Barabar Caves?",
+    "pool": ["Storage", "Military base", "Religious gatherings", "Monk dwellings", "Royal treasury"],
+    "answer": "Monk dwellings",
+    "desc": "Barabar Caves were carved to serve as living spaces for monks."
+  },
+
+
+  {
+    "q": "Who founded the Sunga Dynasty?",
+    "pool": ["Chandragupta Maurya", "Ashoka", "Pushyamitra Sunga", "Brihadratha", "Vasudeva"],
+    "answer": "Pushyamitra Sunga",
+    "desc": "Pushyamitra Sunga established the Sunga Dynasty after assassinating the last Mauryan king, Brihadratha."
+  },
+  {
+    "q": "Which Mauryan king was killed by Pushyamitra Sunga?",
+    "pool": ["Bindusara", "Ashoka", "Chandragupta", "Brihadratha", "Devabhuti"],
+    "answer": "Brihadratha",
+    "desc": "Pushyamitra Sunga killed Brihadratha, the last Mauryan king, to establish the Sunga Dynasty."
+  },
+  {
+    "q": "What was the social background of the Sunga rulers?",
+    "pool": ["Kshatriyas", "Shudras", "Vaishyas", "Brahmins", "Buddhists"],
+    "answer": "Brahmins",
+    "desc": "The rulers of the Sunga Dynasty were Brahmins by caste."
+  },
+  {
+    "q": "Which religious movement saw a revival during the Sunga period?",
+    "pool": ["Jainism", "Buddhism", "Shaivism", "Bhagvatism", "Atheism"],
+    "answer": "Bhagvatism",
+    "desc": "The period of the Sunga Dynasty saw the revival of Bhagvatism, a form of Vaishnavism."
+  },
+  {
+    "q": "Who wrote 'Mahabhasya' during the Sunga period?",
+    "pool": ["Panini", "Kalidasa", "Chanakya", "Patanjali", "Valmiki"],
+    "answer": "Patanjali",
+    "desc": "The scholar Patanjali wrote the 'Mahabhasya', a commentary on Panini's grammar, during the Sunga period."
+  },
+  {
+    "q": "Which monument is considered the most famous from the Sunga period?",
+    "pool": ["Sanchi Stupa", "Ajanta Caves", "Bharhut Stupa", "Ellora Caves", "Meenakshi Temple"],
+    "answer": "Bharhut Stupa",
+    "desc": "The Bharhut Stupa is a prominent art monument from the Sunga period, known for its intricate carvings."
+  },
+  {
+    "q": "When did the Sunga Dynasty end?",
+    "pool": ["73 AD", "185 BC", "73 BC", "28 BC", "100 BC"],
+    "answer": "73 BC",
+    "desc": "The Sunga Dynasty came to an end in 73 BC when the last king, Devabhuti, was assassinated."
+  },
+  {
+    "q": "Who was the last ruler of the Sunga Dynasty?",
+    "pool": ["Pushyamitra Sunga", "Agnimitra", "Brihadratha", "Devabhuti", "Vasudeva"],
+    "answer": "Devabhuti",
+    "desc": "Devabhuti was the last ruler of the Sunga Dynasty, overthrown by his minister Vasudeva."
+  },
+  {
+    "q": "Who founded the Kanva Dynasty?",
+    "pool": ["Devabhuti", "Vasudeva", "Pushyamitra", "Ashoka", "Satakarni"],
+    "answer": "Vasudeva",
+    "desc": "Vasudeva, a minister of Devabhuti, killed him and established the Kanva Dynasty in 73 BC."
+  },
+  {
+    "q": "In which year did the Kanva Dynasty begin?",
+    "pool": ["185 BC", "100 BC", "28 BC", "73 BC", "50 BC"],
+    "answer": "73 BC",
+    "desc": "The Kanva Dynasty was established in 73 BC after the fall of the Sunga Dynasty."
+  },
+  {
+    "q": "How did the Kanva Dynasty come to power?",
+    "pool": ["War with Sunga", "Election", "Assassination of Devabhuti", "Foreign invasion", "Succession treaty"],
+    "answer": "Assassination of Devabhuti",
+    "desc": "Vasudeva assassinated Devabhuti and took control, founding the Kanva Dynasty."
+  },
+  {
+    "q": "Who replaced the Kanva Dynasty after its fall?",
+    "pool": ["Mauryas", "Guptas", "Satavahanas", "Nandas", "Cholas"],
+    "answer": "Satavahanas",
+    "desc": "The Satavahanas replaced the Kanva Dynasty following its decline around 28 BC."
+  },
+  {
+    "q": "What was a major literary contribution during the Sunga period?",
+    "pool": ["Arthashastra", "Mahabharata", "Mahabhasya", "Ramayana", "Manusmriti"],
+    "answer": "Mahabhasya",
+    "desc": "The 'Mahabhasya' by Patanjali is a significant literary work from the Sunga period."
+  },
+  {
+    "q": "The Bharhut Stupa is associated with which dynasty?",
+    "pool": ["Maurya", "Gupta", "Kanva", "Sunga", "Satavahana"],
+    "answer": "Sunga",
+    "desc": "The Bharhut Stupa, known for its detailed sculptures, was constructed during the Sunga Dynasty."
+  },
+  {
+    "q": "Which dynasty followed the Sunga Dynasty?",
+    "pool": ["Gupta", "Kanva", "Satavahana", "Chola", "Nanda"],
+    "answer": "Kanva",
+    "desc": "After the Sunga Dynasty, the Kanva Dynasty was established by Vasudeva in 73 BC."
+  },
+
+
+  {
+    "q": "Who was the most famous king among the Indo-Greeks?",
+    "pool": ["Menander", "Kanishka", "Gondophernes", "Rudradaman I", "Vikramaditya"],
+    "answer": "Menander",
+    "desc": "Menander, also known as Milinda, was the most prominent Indo-Greek ruler."
+  },
+  {
+    "q": "What was the capital of Menander?",
+    "pool": ["Taxila", "Sakala", "Mathura", "Ujjain", "Pataliputra"],
+    "answer": "Sakala",
+    "desc": "Menander's capital was Sakala, located in present-day Sialkot, Punjab."
+  },
+  {
+    "q": "Menander was converted to Buddhism by whom?",
+    "pool": ["Asvaghosha", "Charak", "Nagarjuna", "Nagasena", "Vasumitra"],
+    "answer": "Nagasena",
+    "desc": "Nagasena converted Menander to Buddhism as per the Pali text Milindapanho."
+  },
+  {
+    "q": "Which text describes the dialogue between Menander and Nagasena?",
+    "pool": ["Milindapanho", "Dhammapada", "Mahavamsa", "Buddhacharita", "Jataka"],
+    "answer": "Milindapanho",
+    "desc": "The Milindapanho is a Pali text that records dialogues between Milinda and Nagasena."
+  },
+  {
+    "q": "Which group was the first to issue coins with kingly attribution in India?",
+    "pool": ["Shakas", "Kushanas", "Mauryas", "Indo-Greeks", "Guptas"],
+    "answer": "Indo-Greeks",
+    "desc": "The Indo-Greeks were the first in India to issue coins bearing the names of kings."
+  },
+  {
+    "q": "Which art style did the Indo-Greeks introduce in India?",
+    "pool": ["Gothic", "Hellenistic", "Mughal", "Rajput", "Dravidian"],
+    "answer": "Hellenistic",
+    "desc": "Indo-Greeks introduced Hellenistic art, blending Greek styles with Indian elements."
+  },
+  {
+    "q": "Who was the most famous Shaka ruler?",
+    "pool": ["Menander", "Rudradaman I", "Kanishka", "Gondophernes", "Vikramaditya"],
+    "answer": "Rudradaman I",
+    "desc": "Rudradaman I was the most notable Shaka ruler and a patron of Sanskrit inscriptions."
+  },
+  {
+    "q": "What major infrastructure did Rudradaman I repair?",
+    "pool": ["Grand Anicut", "Kallanai Dam", "Sudarshana Lake", "Asokan Pillars", "Nalanda"],
+    "answer": "Sudarshana Lake",
+    "desc": "Rudradaman I repaired the Sudarshana Lake in the Kathiawar region."
+  },
+  {
+    "q": "What was the language of the Junagarh inscription issued by Rudradaman I?",
+    "pool": ["Prakrit", "Pali", "Tamil", "Sanskrit", "Greek"],
+    "answer": "Sanskrit",
+    "desc": "Rudradaman I's Junagarh inscription was the first ever in Chaste Sanskrit."
+  },
+  {
+    "q": "Who defeated the Shakas and started the Vikram Samvat?",
+    "pool": ["Ashoka", "Chandragupta", "Vikramaditya", "Samudragupta", "Skandagupta"],
+    "answer": "Vikramaditya",
+    "desc": "Vikramaditya of Ujjain defeated the Shakas and began the Vikram Samvat calendar in 57 BC."
+  },
+  {
+    "q": "In which year did Vikram Samvat begin?",
+    "pool": ["57 BC", "78 AD", "19 AD", "130 AD", "150 BC"],
+    "answer": "57 BC",
+    "desc": "Vikram Samvat was initiated in 57 BC by Vikramaditya after defeating the Shakas."
+  },
+  {
+    "q": "Who was the most famous Parthian king?",
+    "pool": ["Kanishka", "Menander", "Gondophernes", "Rudradaman", "Ashoka"],
+    "answer": "Gondophernes",
+    "desc": "Gondophernes was the most notable Parthian king, known for hosting St Thomas in India."
+  },
+  {
+    "q": "Which saint visited India during Gondophernes' reign?",
+    "pool": ["St Paul", "St Augustine", "St Thomas", "St Peter", "St John"],
+    "answer": "St Thomas",
+    "desc": "St Thomas came to India to spread Christianity during the reign of Gondophernes."
+  },
+  {
+    "q": "Where did the Kushanas originate from?",
+    "pool": ["China", "Persia", "Steppes", "Arabia", "Greece"],
+    "answer": "Steppes",
+    "desc": "The Kushanas originated from the Central Asian Steppes and were also called Tocharians."
+  },
+  {
+    "q": "What other name is used for the Kushanas?",
+    "pool": ["Mauryas", "Yechi", "Satavahanas", "Guptas", "Sakas"],
+    "answer": "Yechi",
+    "desc": "The Kushanas were also known as Yechi or Tocharians."
+  },
+  {
+    "q": "Who was the greatest Kushana ruler?",
+    "pool": ["Vima Kadphises", "Kujula Kadphises", "Kanishka", "Ashoka", "Rudradaman"],
+    "answer": "Kanishka",
+    "desc": "Kanishka was the most renowned Kushana emperor and a great patron of Buddhism."
+  },
+  {
+    "q": "Which era did Kanishka start?",
+    "pool": ["Vikram Samvat", "Saka Era", "Gupta Era", "Hijri Era", "Kalachuri Era"],
+    "answer": "Saka Era",
+    "desc": "Kanishka started the Saka Era in 78 AD, which is still used in the Indian calendar system."
+  },
+  {
+    "q": "In which year did the Saka Era begin?",
+    "pool": ["57 BC", "78 AD", "19 AD", "150 AD", "1 AD"],
+    "answer": "78 AD",
+    "desc": "The Saka Era was started by Kanishka in 78 AD."
+  },
+  {
+    "q": "Which dynasty first issued gold coins on a wide scale in India?",
+    "pool": ["Mauryas", "Guptas", "Kushanas", "Shakas", "Parthians"],
+    "answer": "Kushanas",
+    "desc": "The Kushanas were pioneers in issuing gold coins widely known for their purity."
+  },
+  {
+    "q": "Which physician was present in Kanishka's court?",
+    "pool": ["Sushruta", "Charak", "Dhanvantari", "Vagbhata", "Nagarjuna"],
+    "answer": "Charak",
+    "desc": "Charak, the famous physician, was one of the scholars in Kanishka's court."
+  },
+  {
+    "q": "Which Buddhist philosopher was patronized by Kanishka?",
+    "pool": ["Nagarjuna", "Bodhidharma", "Rahul Sankrityayan", "Adi Shankara", "Asanga"],
+    "answer": "Nagarjuna",
+    "desc": "Nagarjuna, a prominent Mahayana Buddhist philosopher, enjoyed patronage under Kanishka."
+  },
+  {
+    "q": "Who authored Buddhacharita and was patronized by Kanishka?",
+    "pool": ["Asvaghosha", "Nagarjuna", "Charak", "Aryabhata", "Panini"],
+    "answer": "Asvaghosha",
+    "desc": "Asvaghosha, the author of Buddhacharita, was among the scholars in Kanishka's court."
+  },
+  {
+    "q": "Which scholar participated in the Fourth Buddhist Council under Kanishka?",
+    "pool": ["Parsva", "Panini", "Kalidasa", "Aryabhatta", "Vatsyayana"],
+    "answer": "Parsva",
+    "desc": "Parsva was one of the prominent figures during the Fourth Buddhist Council held by Kanishka."
+  },
+  {
+    "q": "Which Greek engineer was patronized by Kanishka?",
+    "pool": ["Agesilaus", "Socrates", "Plato", "Aristotle", "Pythagoras"],
+    "answer": "Agesilaus",
+    "desc": "Kanishka supported Agesilaus, a Greek engineer, highlighting his cosmopolitan court."
+  },
+  {
+    "q": "Which king issued the first known Sanskrit inscription?",
+    "pool": ["Ashoka", "Kanishka", "Rudradaman I", "Menander", "Gondophernes"],
+    "answer": "Rudradaman I",
+    "desc": "Rudradaman I's Junagarh inscription is the earliest known Sanskrit inscription."
+  },
+  {
+    "q": "Who defeated the Satavahanas twice?",
+    "pool": ["Ashoka", "Rudradaman I", "Menander", "Vikramaditya", "Kanishka"],
+    "answer": "Rudradaman I",
+    "desc": "Rudradaman I of the Shaka dynasty defeated the Satavahanas on two occasions."
+  },
+  {
+    "q": "The Indo-Greeks ruled mainly in which region of India?",
+    "pool": ["South India", "Western Ghats", "Punjab", "Bihar", "Odisha"],
+    "answer": "Punjab",
+    "desc": "The Indo-Greeks, especially Menander, ruled over the Punjab region."
+  },
+  {
+    "q": "What did St Thomas come to India to promote?",
+    "pool": ["Buddhism", "Islam", "Judaism", "Christianity", "Zoroastrianism"],
+    "answer": "Christianity",
+    "desc": "St Thomas came to India to spread Christianity during the reign of Gondophernes."
+  },
+  {
+    "q": "Which group introduced Hellenistic art in India?",
+    "pool": ["Parthians", "Indo-Greeks", "Shakas", "Kushanas", "Guptas"],
+    "answer": "Indo-Greeks",
+    "desc": "Hellenistic art was introduced in India by the Indo-Greeks, merging Greek and Indian aesthetics."
+  },
+
+
+  {
+    "q": "Who was the founder of the Satavahana dynasty?",
+    "pool": ["Gautamiputra Satakarni", "Simuka", "Agastya", "Tolkappiyar", "Karikala"],
+    "answer": "Simuka",
+    "desc": "Simuka (60-37 BC) was the founder of the Satavahana dynasty."
+  },
+  {
+    "q": "Which dynasty succeeded the Satavahanas in the 3rd century AD?",
+    "pool": ["Cholas", "Ikshvakus", "Pandyas", "Mauryas", "Cheras"],
+    "answer": "Ikshvakus",
+    "desc": "The Satavahanas were succeeded by the Ikshvakus in the 3rd century AD."
+  },
+  {
+    "q": "Where are the famous chaityas and viharas of the Satavahana period located?",
+    "pool": ["Tamil Nadu", "North-West Deccan", "Odisha", "Karnataka", "Gujarat"],
+    "answer": "North-West Deccan",
+    "desc": "The chaityas and viharas were mainly cut out in the North-West Deccan, especially in Maharashtra."
+  },
+  {
+    "q": "Which of the following is a famous chaitya from the Satavahana period?",
+    "pool": ["Sanchi", "Kanheri", "Mahabalipuram", "Ajanta", "Ellora"],
+    "answer": "Kanheri",
+    "desc": "Kanheri is one of the famous chaityas built during the Satavahana period."
+  },
+  {
+    "q": "What was the official language of the Satavahanas?",
+    "pool": ["Sanskrit", "Tamil", "Prakrit", "Pali", "Kannada"],
+    "answer": "Prakrit",
+    "desc": "The Satavahanas used Prakrit as their official language."
+  },
+  {
+    "q": "Which material was NOT commonly used in Satavahana coinage?",
+    "pool": ["Lead", "Bronze", "Silver", "Copper", "Potin"],
+    "answer": "Silver",
+    "desc": "The Satavahanas issued coins of lead, copper, bronze, and potin, but not silver."
+  },
+  {
+    "q": "Which Satavahana king was especially famous?",
+    "pool": ["Simuka", "Tolkappiyar", "Gautamiputra Satakarni", "Karikala", "Nakkirar"],
+    "answer": "Gautamiputra Satakarni",
+    "desc": "Gautamiputra Satakarni was one of the most prominent Satavahana kings."
+  },
+  {
+    "q": "The Sangam Age lies between which two Indian historical periods?",
+    "pool": ["Vedic and Mauryan", "Gupta and Mughal", "Post-Mauryan and Pre-Gupta", "Gupta and British", "Indus and Vedic"],
+    "answer": "Post-Mauryan and Pre-Gupta",
+    "desc": "The Sangam Age corresponds to the post-Mauryan and pre-Gupta periods."
+  },
+  {
+    "q": "Which were the three main dynasties during the Sangam Age?",
+    "pool": ["Mauryas, Guptas, Pandyas", "Pandyas, Cholas, Cheras", "Satavahanas, Ikshvakus, Guptas", "Cholas, Rashtrakutas, Chalukyas", "Nandas, Cholas, Pandyas"],
+    "answer": "Pandyas, Cholas, Cheras",
+    "desc": "The three prominent dynasties of the Sangam Age were the Cheras, Cholas, and Pandyas."
+  },
+  {
+    "q": "What was the capital of the Pandya dynasty?",
+    "pool": ["Vanji", "Madurai", "Kaveripattanam", "Karle", "Nasik"],
+    "answer": "Madurai",
+    "desc": "Madurai was the capital of the Pandyas and was famous for its pearls."
+  },
+  {
+    "q": "Who first mentioned the Pandyas in historical records?",
+    "pool": ["Agastya", "Tolkappiyar", "Megasthenes", "Kautilya", "Ashoka"],
+    "answer": "Megasthenes",
+    "desc": "The Pandyas were first mentioned by Megasthenes."
+  },
+  {
+    "q": "With which empire did the Pandyas trade and send embassies?",
+    "pool": ["Chinese", "Greek", "Roman", "Persian", "Mongol"],
+    "answer": "Roman",
+    "desc": "The Pandyas traded with the Roman Empire and even sent embassies to Emperor Augustus."
+  },
+  {
+    "q": "Where was the Chola kingdom located?",
+    "pool": ["North India", "North-East of Pandya Kingdom", "Kerala", "Central India", "Odisha"],
+    "answer": "North-East of Pandya Kingdom",
+    "desc": "The Chola kingdom was situated to the North-East of the Pandya Kingdom between the Pennar and Vellar rivers."
+  },
+  {
+    "q": "What was the capital of the Chola kingdom during the Sangam Age?",
+    "pool": ["Madurai", "Vanji", "Puhar", "Nasik", "Karle"],
+    "answer": "Puhar",
+    "desc": "The capital of the Chola kingdom was Kaveripattanam, also called Puhar."
+  },
+  {
+    "q": "Where was the Chera capital Vanji located?",
+    "pool": ["Tamil Nadu", "Andhra", "Kerala", "Karnataka", "Odisha"],
+    "answer": "Kerala",
+    "desc": "Vanji, the capital of the Cheras, was located in the Kerala region."
+  },
+  {
+    "q": "With which civilization did the Cheras maintain important trade relations?",
+    "pool": ["Greek", "Roman", "Chinese", "Persian", "Arab"],
+    "answer": "Roman",
+    "desc": "The Cheras had significant trade relations with the Romans."
+  },
+  {
+    "q": "What does 'Sangam' refer to in Sangam Literature?",
+    "pool": ["Religious festival", "War assembly", "Assembly of poets", "Trade center", "Temple council"],
+    "answer": "Assembly of poets",
+    "desc": "Sangam refers to an assembly or college of Tamil poets under royal patronage."
+  },
+  {
+    "q": "Where was the First Sangam held?",
+    "pool": ["Vanji", "Madurai", "Kapatpuram", "Puhar", "Karle"],
+    "answer": "Madurai",
+    "desc": "The First Sangam was held at Madurai and was chaired by Agastya."
+  },
+  {
+    "q": "Who chaired the First Sangam?",
+    "pool": ["Nakkirar", "Tolkappiyar", "Agastya", "Karikala", "Megasthenes"],
+    "answer": "Agastya",
+    "desc": "Agastya chaired the First Sangam held in Madurai."
+  },
+  {
+    "q": "Where was the Second Sangam held?",
+    "pool": ["Vanji", "Kapatpuram", "Karle", "Puhar", "Nasik"],
+    "answer": "Kapatpuram",
+    "desc": "The Second Sangam was held at Kapatpuram and chaired by Tolkappiyar."
+  },
+  {
+    "q": "Who chaired the Second Sangam?",
+    "pool": ["Agastya", "Nakkirar", "Tolkappiyar", "Tiruvalluvar", "Simuka"],
+    "answer": "Tolkappiyar",
+    "desc": "Tolkappiyar chaired the Second Sangam held at Kapatpuram."
+  },
+  {
+    "q": "Who chaired the Third Sangam?",
+    "pool": ["Agastya", "Tolkappiyar", "Nakkirar", "Simuka", "Karikala"],
+    "answer": "Nakkirar",
+    "desc": "The Third Sangam was chaired by Nakkirar in Madurai."
+  },
+  {
+    "q": "Which famous work is known as the 'Fifth Veda' in Tamil literature?",
+    "pool": ["Silappadikaram", "Kural", "Manimekalai", "Tolkappiyam", "Periyapuranam"],
+    "answer": "Kural",
+    "desc": "The 'Kural' by Tiruvalluvar is called the 'Fifth Veda' or the Bible of Tamil Land."
+  },
+  {
+    "q": "Who wrote the 'Kural'?",
+    "pool": ["Agastya", "Nakkirar", "Tiruvalluvar", "Tolkappiyar", "Karikala"],
+    "answer": "Tiruvalluvar",
+    "desc": "Tiruvalluvar authored the famous ethical text 'Kural'."
+  },
+  {
+    "q": "Which rivers bounded the Chola kingdom?",
+    "pool": ["Ganga and Yamuna", "Krishna and Godavari", "Pennar and Vellar", "Kaveri and Vaigai", "Narmada and Tapi"],
+    "answer": "Pennar and Vellar",
+    "desc": "The Chola kingdom was located between the Pennar and Vellar rivers."
+  },
+  {
+    "q": "Which dynasty’s capital was known for pearls?",
+    "pool": ["Cheras", "Cholas", "Pandyas", "Satavahanas", "Ikshvakus"],
+    "answer": "Pandyas",
+    "desc": "Madurai, the capital of the Pandyas, was famous for its pearl trade."
+  },
+  {
+    "q": "What was 'Potin', used by the Satavahanas?",
+    "pool": ["A coin metal", "A battle weapon", "A trade good", "A temple", "A monk's robe"],
+    "answer": "A coin metal",
+    "desc": "Potin was an alloy used in the coinage of the Satavahanas."
+  },
+  {
+    "q": "Which site is not a chaitya or vihara related to the Satavahanas?",
+    "pool": ["Nasik", "Karle", "Kanheri", "Madurai", "None of these"],
+    "answer": "Madurai",
+    "desc": "Madurai is not a site of Satavahana chaityas or viharas."
+  },
+  {
+    "q": "Which material was predominantly used in Satavahana coinage?",
+    "pool": ["Gold", "Lead", "Silver", "Iron", "Steel"],
+    "answer": "Lead",
+    "desc": "Lead was the most commonly used material in Satavahana coins."
+  },
+
+
+  {
+    "q": "Who was the first Gupta ruler to acquire the title of Maharajadhiraja?",
+    "pool": ["Chandragupta I", "Samudragupta", "Chandragupta II", "Skandagupta", "Kumaragupta"],
+    "answer": "Chandragupta I",
+    "desc": "Chandragupta I was the first Gupta ruler to adopt the title Maharajadhiraja, indicating sovereignty."
+  },
+  {
+    "q": "Chandragupta I strengthened his position by marrying a princess from which clan?",
+    "pool": ["Maurya", "Lichchhavi", "Satavahana", "Sunga", "Rashtrakuta"],
+    "answer": "Lichchhavi",
+    "desc": "He married a Lichchhavi princess, which enhanced the status of the Gupta dynasty."
+  },
+  {
+    "q": "Which important regions did Chandragupta I establish authority over?",
+    "pool": ["Punjab, Bengal, Odisha", "Kalinga, Konkan, Malwa", "Magadha, Prayaga, Saketa", "Gujarat, Sindh, Kashmir", "Dravida, Karnataka, Maharashtra"],
+    "answer": "Magadha, Prayaga, Saketa",
+    "desc": "Chandragupta I extended Gupta control over these strategic regions."
+  },
+  {
+    "q": "Which Gupta ruler is called the Napoleon of India?",
+    "pool": ["Chandragupta I", "Samudragupta", "Chandragupta II", "Kumaragupta", "Skandagupta"],
+    "answer": "Samudragupta",
+    "desc": "Samudragupta earned the title 'Napoleon of India' from historian V.A. Smith due to his military conquests."
+  },
+  {
+    "q": "Which foreign ruler sent a mission to Samudragupta’s court for building a temple at Gaya?",
+    "pool": ["Fa-Hien", "Meghavarman", "Kanishka", "Alexander", "Xuanzang"],
+    "answer": "Meghavarman",
+    "desc": "Meghavarman of Sri Lanka sought permission to build a Buddhist temple at Gaya."
+  },
+  {
+    "q": "The Allahabad Pillar inscription about Samudragupta was composed by whom?",
+    "pool": ["Kalidasa", "Amarsimha", "Harisena", "Bharavi", "Banabhatta"],
+    "answer": "Harisena",
+    "desc": "Harisena, the court poet of Samudragupta, composed the Allahabad Pillar inscription."
+  },
+  {
+    "q": "Which titles were assumed by Samudragupta?",
+    "pool": ["Sakari and Vikramaditya", "Kaviraj and Vikrama", "Maharajadhiraja and Devaputra", "Rajadhiraja and Chakravarti", "Veer and Mahabali"],
+    "answer": "Kaviraj and Vikrama",
+    "desc": "Samudragupta took the titles Kaviraj (King of poets) and Vikrama."
+  },
+  {
+    "q": "The Mehrauli Iron Pillar inscription is associated with which Gupta ruler?",
+    "pool": ["Chandragupta I", "Chandragupta II", "Samudragupta", "Kumaragupta", "Skandagupta"],
+    "answer": "Chandragupta II",
+    "desc": "The Iron Pillar inscription near Qutub Minar in Mehrauli is linked to Chandragupta II."
+  },
+  {
+    "q": "Who was the Chinese pilgrim that visited India during Chandragupta II's reign?",
+    "pool": ["Xuanzang", "I-Tsing", "Fa-Hien", "Zhang Qian", "Megasthenes"],
+    "answer": "Fa-Hien",
+    "desc": "Fa-Hien visited India during the reign of Chandragupta II between AD 399–414."
+  },
+  {
+    "q": "Which literary figures were part of Chandragupta II’s Navratnas?",
+    "pool": ["Kalidasa and Banabhatta", "Kalidasa and Harisena", "Kalidasa and Amarsimha", "Kalidasa and Bharavi", "Kalidasa and Aryabhata"],
+    "answer": "Kalidasa and Amarsimha",
+    "desc": "Kalidasa and Amarsimha were among the nine gems (Navratnas) in Chandragupta II’s court."
+  },
+  {
+    "q": "Which Saka ruler was defeated by Chandragupta II?",
+    "pool": ["Rudradaman I", "Rudrasimha III", "Nahapana", "Chashtana", "Simuka"],
+    "answer": "Rudrasimha III",
+    "desc": "Chandragupta II defeated the Saka Kshatrapa ruler Rudrasimha III."
+  },
+  {
+    "q": "What was the name of Ramagupta’s widow whom Chandragupta II married?",
+    "pool": ["Prabhavati", "Kumudvati", "Dhruvadevi", "Kritika", "Vishnudharma"],
+    "answer": "Dhruvadevi",
+    "desc": "Chandragupta II killed Ramagupta and married his widow, Dhruvadevi."
+  },
+  {
+    "q": "What title did Chandragupta II adopt after defeating the Sakas?",
+    "pool": ["Devaputra", "Kaviraj", "Sakari", "Chakravarti", "Maharajadhiraja"],
+    "answer": "Sakari",
+    "desc": "After his victory over the Sakas, Chandragupta II adopted the title Sakari (Destroyer of Sakas)."
+  },
+  {
+    "q": "Who was the first Gupta ruler to issue silver coins?",
+    "pool": ["Samudragupta", "Chandragupta I", "Chandragupta II", "Skandagupta", "Kumaragupta"],
+    "answer": "Chandragupta II",
+    "desc": "Chandragupta II was the first to issue silver coins, commemorating his victory over the Sakas."
+  },
+  {
+    "q": "Which Gupta ruler’s reign marked the visit of Fa-Hien?",
+    "pool": ["Chandragupta I", "Samudragupta", "Chandragupta II", "Skandagupta", "Kumaragupta"],
+    "answer": "Chandragupta II",
+    "desc": "Fa-Hien visited India during the rule of Chandragupta II (AD 380–414)."
+  },
+  {
+    "q": "Which title was adopted by Chandragupta II besides Sakari?",
+    "pool": ["Vikramaditya", "Kaviraj", "Napoleon", "Devaputra", "Rajarshi"],
+    "answer": "Vikramaditya",
+    "desc": "Chandragupta II assumed the title Vikramaditya after his military conquests."
+  },
+  {
+    "q": "What was the Gupta age famously known as?",
+    "pool": ["Iron Age", "Dark Age", "Golden Age", "Silver Age", "Stone Age"],
+    "answer": "Golden Age",
+    "desc": "The Gupta period is regarded as the Golden Age of Indian history due to its cultural and economic prosperity."
+  },
+  {
+    "q": "Which Gupta ruler issued the largest number of gold coins?",
+    "pool": ["Samudragupta", "Chandragupta I", "Chandragupta II", "Kumaragupta", "Skandagupta"],
+    "answer": "Chandragupta II",
+    "desc": "The Gupta period, especially under Chandragupta II, saw the largest issuance of gold coins in ancient India."
+  },
+  {
+    "q": "Who called Samudragupta the 'Napoleon of India'?",
+    "pool": ["Megasthenes", "Harisena", "Fa-Hien", "V.A. Smith", "Xuanzang"],
+    "answer": "V.A. Smith",
+    "desc": "Historian V.A. Smith gave Samudragupta the title 'Napoleon of India' due to his extensive conquests."
+  },
+  {
+    "q": "Which Gupta ruler was also a poet and musician?",
+    "pool": ["Chandragupta I", "Samudragupta", "Chandragupta II", "Skandagupta", "Kumaragupta"],
+    "answer": "Samudragupta",
+    "desc": "Samudragupta was not only a conqueror but also an accomplished poet and musician."
+  },
+  {
+    "q": "Which inscription gives details about Samudragupta's reign?",
+    "pool": ["Mehrauli Iron Pillar", "Sarnath Edict", "Allahabad Pillar", "Bhitari Pillar", "Hathigumpha Inscription"],
+    "answer": "Allahabad Pillar",
+    "desc": "The Allahabad Pillar inscription composed by Harisena details Samudragupta's rule and achievements."
+  },
+  {
+    "q": "Who composed the Allahabad Pillar inscription?",
+    "pool": ["Kalidasa", "Amarsimha", "Tolkappiyar", "Harisena", "Banabhatta"],
+    "answer": "Harisena",
+    "desc": "Harisena, the court poet, composed the Allahabad Pillar inscription during Samudragupta’s reign."
+  },
+  {
+    "q": "Which court poet is considered part of the Navratnas in Gupta period?",
+    "pool": ["Aryabhata", "Kalidasa", "Bhaskara", "Banabhatta", "Katyayana"],
+    "answer": "Kalidasa",
+    "desc": "Kalidasa, the great Sanskrit poet and dramatist, was one of the Navratnas in Chandragupta II’s court."
+  },
+  {
+    "q": "Which city houses the Iron Pillar associated with Gupta period?",
+    "pool": ["Patna", "Allahabad", "Ujjain", "Mehrauli", "Sarnath"],
+    "answer": "Mehrauli",
+    "desc": "The famous Iron Pillar bearing inscription related to Chandragupta II is located in Mehrauli, Delhi."
+  },
+  {
+    "q": "The title 'Kaviraj' refers to which ability of Samudragupta?",
+    "pool": ["Administrator", "Warrior", "Poet", "Philosopher", "Priest"],
+    "answer": "Poet",
+    "desc": "Samudragupta was titled 'Kaviraj' because of his poetic talents."
+  },
+  {
+    "q": "Who was killed by Chandragupta II to seize the throne?",
+    "pool": ["Skandagupta", "Kumaragupta", "Ramagupta", "Samudragupta", "Devagupta"],
+    "answer": "Ramagupta",
+    "desc": "Chandragupta II is said to have killed his brother Ramagupta and married his widow to become king."
+  },
+  {
+    "q": "What religious structure did Meghavarman want to build in Gaya?",
+    "pool": ["Hindu temple", "Jain monastery", "Buddhist temple", "Ashokan stupa", "Matha"],
+    "answer": "Buddhist temple",
+    "desc": "Meghavarman of Sri Lanka sent a mission to Samudragupta to build a Buddhist temple at Gaya."
+  },
+  {
+    "q": "Which title associated with Samudragupta symbolizes valor?",
+    "pool": ["Vikramaditya", "Kaviraj", "Vikrama", "Sakari", "Maharaja"],
+    "answer": "Vikrama",
+    "desc": "Samudragupta used the title 'Vikrama', symbolizing bravery and heroism."
+  },
+  {
+    "q": "What material were most Gupta coins made of?",
+    "pool": ["Silver", "Bronze", "Iron", "Gold", "Lead"],
+    "answer": "Gold",
+    "desc": "Gupta coins were primarily made of gold, reflecting the empire’s prosperity during the Golden Age."
+  },
+
+
+  {
+    "q": "Who succeeded Chandragupta II as the ruler of the Gupta Empire?",
+    "pool": ["Samudragupta", "Skandagupta", "Kumaragupta I", "Ramagupta", "Vishnugupta"],
+    "answer": "Kumaragupta I",
+    "desc": "Kumaragupta I, the son of Chandragupta II, succeeded him as the Gupta emperor."
+  },
+  {
+    "q": "Which deity did Kumaragupta I worship?",
+    "pool": ["Vishnu", "Shiva", "Kartikeya", "Indra", "Brahma"],
+    "answer": "Kartikeya",
+    "desc": "Kumaragupta I was a devotee of Lord Kartikeya, the god of war."
+  },
+  {
+    "q": "Which famous ancient learning institution was founded by Kumaragupta I?",
+    "pool": ["Takshashila", "Vikramashila", "Nalanda Mahavihara", "Ujjain University", "Valabhi University"],
+    "answer": "Nalanda Mahavihara",
+    "desc": "Kumaragupta I founded Nalanda Mahavihara, which later became a major center of Buddhist learning."
+  },
+  {
+    "q": "What was the reign period of Kumaragupta I?",
+    "pool": ["AD 335–380", "AD 380–414", "AD 415–455", "AD 455–467", "AD 467–500"],
+    "answer": "AD 415–455",
+    "desc": "Kumaragupta I ruled from AD 415 to AD 455, continuing the legacy of the Gupta dynasty."
+  },
+  {
+    "q": "Who was the last great ruler of the Gupta dynasty?",
+    "pool": ["Chandragupta I", "Samudragupta", "Chandragupta II", "Skandagupta", "Kumaragupta I"],
+    "answer": "Skandagupta",
+    "desc": "Skandagupta is considered the last notable ruler of the Gupta Empire."
+  },
+  {
+    "q": "Which foreign tribe invaded India during Skandagupta’s reign?",
+    "pool": ["Kushanas", "Sakas", "Hunas", "Parthians", "Greeks"],
+    "answer": "Hunas",
+    "desc": "The Hunas, a Central Asian tribe, invaded India during Skandagupta's reign."
+  },
+  {
+    "q": "Which title did Skandagupta assume after repelling the Hunas?",
+    "pool": ["Kaviraj", "Sakari", "Devaputra", "Vikramaditya", "Chakravarti"],
+    "answer": "Vikramaditya",
+    "desc": "After defeating the Hunas, Skandagupta adopted the title Vikramaditya to commemorate his victory."
+  },
+  {
+    "q": "Which inscription records Skandagupta's assumption of the title Vikramaditya?",
+    "pool": ["Mehrauli Iron Pillar", "Allahabad Pillar", "Bhitari Pillar", "Hathigumpha", "Sarnath Edict"],
+    "answer": "Bhitari Pillar",
+    "desc": "The Bhitari Pillar Inscription mentions Skandagupta’s assumption of the title Vikramaditya."
+  },
+  {
+    "q": "What was the major achievement of Skandagupta’s reign?",
+    "pool": ["Founding Nalanda", "Defeating Sakas", "Repelling the Hunas", "Building Ashokan pillars", "Marrying Dhruvadevi"],
+    "answer": "Repelling the Hunas",
+    "desc": "Skandagupta's significant military achievement was successfully repelling the Hunas."
+  },
+  {
+    "q": "What was the reign period of Skandagupta?",
+    "pool": ["AD 335–380", "AD 380–414", "AD 415–455", "AD 455–467", "AD 470–500"],
+    "answer": "AD 455–467",
+    "desc": "Skandagupta ruled from AD 455 to AD 467, facing internal and external challenges."
+  },
+  {
+    "q": "Kumaragupta I was the son of which Gupta ruler?",
+    "pool": ["Chandragupta I", "Samudragupta", "Chandragupta II", "Skandagupta", "Ramagupta"],
+    "answer": "Chandragupta II",
+    "desc": "Kumaragupta I was the son and successor of Chandragupta II."
+  },
+  {
+    "q": "Which major educational center is attributed to the Gupta period under Kumaragupta I?",
+    "pool": ["Ujjain", "Takshashila", "Nalanda", "Vikramashila", "Ajanta"],
+    "answer": "Nalanda",
+    "desc": "Nalanda University was established under Kumaragupta I’s rule and became a world-renowned learning center."
+  },
+  {
+    "q": "What was Skandagupta’s relationship with Kumaragupta I?",
+    "pool": ["Brother", "Father", "Son", "Nephew", "Uncle"],
+    "answer": "Son",
+    "desc": "Skandagupta was the son of Kumaragupta I and succeeded him on the Gupta throne."
+  },
+  {
+    "q": "What impact did the Huna invasions have during Skandagupta’s rule?",
+    "pool": ["Strengthened economy", "No impact", "Led to decline of Gupta power", "Expanded Gupta territory", "Brought new technology"],
+    "answer": "Led to decline of Gupta power",
+    "desc": "Though Skandagupta repelled the Hunas, their invasions weakened the Gupta Empire over time."
+  },
+  {
+    "q": "Which of the following was celebrated through the title ‘Vikramaditya’ by Skandagupta?",
+    "pool": ["His coronation", "His silver coinage", "His poetic skills", "Victory over Hunas", "Founding of Nalanda"],
+    "answer": "Victory over Hunas",
+    "desc": "Skandagupta took the title Vikramaditya after successfully defeating the Huna invaders."
+  }
+]

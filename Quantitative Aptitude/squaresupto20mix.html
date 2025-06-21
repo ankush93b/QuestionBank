@@ -462,6 +462,15 @@
         </div>
     </div>
     <script>
+         // Disable F5 and Ctrl+R
+    document.addEventListener("keydown", function (e) {
+      if ((e.key === "F5") || 
+          (e.ctrlKey && e.key === "r") || 
+          (e.metaKey && e.key === "r")) {
+        e.preventDefault();
+        
+      }
+    });
         // Define these globally!
         const subject = getQueryParam('subject');
         const topic = getQueryParam('topic');
