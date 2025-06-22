@@ -4,3 +4,11 @@
     "answer": "answer here",
     "desc": "A brief description for answer"
   },
+
+{
+    "q": "This is the logo of which famous company?",
+    "pool": [pool of 5 options],
+    "answer": "any one option",
+	"image": "../images/logosinternational/Answer.png"
+    
+  }

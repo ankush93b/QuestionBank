@@ -1182,5 +1182,334 @@
     "pool": ["His coronation", "His silver coinage", "His poetic skills", "Victory over Hunas", "Founding of Nalanda"],
     "answer": "Victory over Hunas",
     "desc": "Skandagupta took the title Vikramaditya after successfully defeating the Huna invaders."
+  },
+
+
+  {
+    "q": "Who was the greatest king of the Pushyabhuti Dynasty?",
+    "pool": ["Harshavardhana", "Chandragupta", "Ashoka", "Prabhakar Vardhana", "Samudragupta"],
+    "answer": "Harshavardhana",
+    "desc": "Harshavardhana, son of Prabhakar Vardhana, was the greatest king of the Pushyabhuti Dynasty."
+  },
+  {
+    "q": "Where did Harshavardhana shift his capital?",
+    "pool": ["Pataliputra", "Thaneshwar", "Kannauj", "Ujjain", "Delhi"],
+    "answer": "Kannauj",
+    "desc": "Harshavardhana shifted the capital from Thaneshwar to Kannauj."
+  },
+  {
+    "q": "Which Chinese traveler visited India during Harsha's reign?",
+    "pool": ["Fa-Hien", "Ibn Battuta", "Marco Polo", "Hieun Tsang", "Al-Beruni"],
+    "answer": "Hieun Tsang",
+    "desc": "Hieun Tsang visited India during the reign of Harshavardhana."
+  },
+  {
+    "q": "Which monastery did Harsha establish?",
+    "pool": ["Nalanda", "Takshashila", "Vikramashila", "Odantapuri", "Somapura"],
+    "answer": "Nalanda",
+    "desc": "Harsha established a large monastery at Nalanda."
+  },
+  {
+    "q": "Who wrote 'Harshacharita'?",
+    "pool": ["Kalidasa", "Banabhata", "Harsha", "Vatsyayana", "Vishakhadatta"],
+    "answer": "Banabhata",
+    "desc": "Banabhata, a court poet of Harsha, wrote 'Harshacharita'."
+  },
+  {
+    "q": "Which of the following is NOT a play written by Harsha?",
+    "pool": ["Ratnawali", "Nagananda", "Kadambari", "Priyadarshika", "None of the above"],
+    "answer": "Kadambari",
+    "desc": "Kadambari was written by Banabhata, not Harsha."
+  },
+  {
+    "q": "Who founded the Rashtrakuta dynasty?",
+    "pool": ["Krishna I", "Dantidurg", "Amoghavarsha", "Govinda III", "Indra I"],
+    "answer": "Dantidurg",
+    "desc": "Dantidurg was the founder of the Rashtrakuta dynasty."
+  },
+  {
+    "q": "Who built the Kailasha temple at Ellora?",
+    "pool": ["Krishna I", "Dantidurg", "Amoghavarsha", "Harsha", "Narsimhavarman"],
+    "answer": "Krishna I",
+    "desc": "Krishna I of the Rashtrakuta dynasty built the Kailasha temple at Ellora."
+  },
+  {
+    "q": "Which king is credited with writing the first Kannada poetry 'Kaviraj Marg'?",
+    "pool": ["Krishna I", "Amoghavarsha", "Dantidurg", "Vikramaditya", "Pulakesin II"],
+    "answer": "Amoghavarsha",
+    "desc": "Amoghavarsha wrote 'Kaviraj Marg', the first known Kannada poetic work."
+  },
+  {
+    "q": "The Elephanta cave shrine is dedicated to which deity?",
+    "pool": ["Vishnu", "Brahma", "Shiva", "Indra", "Surya"],
+    "answer": "Shiva",
+    "desc": "The Elephanta cave shrine is dedicated to Lord Shiva."
+  },
+  {
+    "q": "Which dynasty ruled Orissa before the Gangas?",
+    "pool": ["Mauryas", "Guptas", "Cholas", "Kalingas", "Kesaris"],
+    "answer": "Kesaris",
+    "desc": "The Kesaris ruled Orissa before the Gangas and built the Lingaraja temple."
+  },
+  {
+    "q": "Who constructed the Sun Temple at Konark?",
+    "pool": ["Anantvarman", "Narsimhadeva", "Krishna I", "Dantidurg", "Banabhata"],
+    "answer": "Narsimhadeva",
+    "desc": "The Sun Temple at Konark was constructed by Narsimhadeva of the Ganga dynasty."
+  },
+  {
+    "q": "Who built the Jagannath Temple at Puri?",
+    "pool": ["Harsha", "Narsimhadeva", "Anantvarman", "Kesari", "Vikramaditya"],
+    "answer": "Anantvarman",
+    "desc": "Anantvarman built the famous Jagannath Temple at Puri."
+  },
+  {
+    "q": "Which temple was built by the Kesari dynasty?",
+    "pool": ["Sun Temple", "Jagannath Temple", "Lingaraja Temple", "Kailasha Temple", "Elephanta Caves"],
+    "answer": "Lingaraja Temple",
+    "desc": "The Lingaraja Temple at Bhubaneswar was built by the Kesaris."
+  },
+  {
+    "q": "Who founded the Pallava dynasty?",
+    "pool": ["Mahendravarman", "Simhavishnu", "Narsimhavarman", "Dantidurg", "Amoghavarsha"],
+    "answer": "Simhavishnu",
+    "desc": "Simhavishnu was the founder of the Pallava dynasty."
+  },
+  {
+    "q": "What was the capital of the Pallava dynasty?",
+    "pool": ["Pataliputra", "Kanchi", "Madurai", "Mahabalipuram", "Ujjain"],
+    "answer": "Kanchi",
+    "desc": "Kanchi (Kanchipuram) was the capital of the Pallava dynasty."
+  },
+  {
+    "q": "Who was the greatest ruler of the Pallava dynasty?",
+    "pool": ["Simhavishnu", "Mahendravarman", "Narsimhavarman", "Rajaraja", "Pulakesin II"],
+    "answer": "Narsimhavarman",
+    "desc": "Narsimhavarman I was considered the greatest ruler of the Pallava dynasty."
+  },
+  {
+    "q": "What town did Narsimhavarman found?",
+    "pool": ["Kanchipuram", "Tanjore", "Mamallapuram", "Puri", "Ujjain"],
+    "answer": "Mamallapuram",
+    "desc": "Narsimhavarman founded the town of Mamallapuram, also known as Mahabalipuram."
+  },
+  {
+    "q": "What architectural feature is associated with Mamallapuram?",
+    "pool": ["Pagodas", "Stupas", "Viharas", "Monasteries", "Forts"],
+    "answer": "Pagodas",
+    "desc": "Narsimhavarman built rock-cut rathas and pagodas at Mamallapuram."
+  },
+  {
+    "q": "Who wrote the play 'Ratnawali'?",
+    "pool": ["Kalidasa", "Harsha", "Banabhata", "Vatsyayana", "Vishakhadatta"],
+    "answer": "Harsha",
+    "desc": "Harsha wrote the Sanskrit play 'Ratnawali'."
+  },
+  {
+    "q": "Which of the following is a literary work of Banabhata?",
+    "pool": ["Nagananda", "Kadambari", "Priyadarshika", "Malavikagnimitram", "Meghaduta"],
+    "answer": "Kadambari",
+    "desc": "Banabhata authored the novel 'Kadambari'."
+  },
+  {
+    "q": "Which dynasty built the Elephanta cave shrine?",
+    "pool": ["Cholas", "Pallavas", "Rashtrakutas", "Guptas", "Gangas"],
+    "answer": "Rashtrakutas",
+    "desc": "The Rashtrakutas are credited with building the Elephanta cave shrine."
+  },
+  {
+    "q": "Which Rashtrakuta king is compared to Vikramaditya?",
+    "pool": ["Krishna I", "Amoghavarsha", "Dantidurg", "Indra II", "Govinda III"],
+    "answer": "Amoghavarsha",
+    "desc": "Amoghavarsha was compared to Vikramaditya for his patronage of arts and literature."
+  },
+  {
+    "q": "What language was 'Kaviraj Marg' written in?",
+    "pool": ["Sanskrit", "Kannada", "Tamil", "Prakrit", "Pali"],
+    "answer": "Kannada",
+    "desc": "‘Kaviraj Marg’ is considered the earliest known work of Kannada literature."
+  },
+  {
+    "q": "Where is the Lingaraja Temple located?",
+    "pool": ["Puri", "Konark", "Bhubaneshwar", "Kanchi", "Mamallapuram"],
+    "answer": "Bhubaneshwar",
+    "desc": "The Lingaraja Temple is situated in Bhubaneshwar, Odisha."
+  },
+  {
+    "q": "What is another name for Mamallapuram?",
+    "pool": ["Kanchi", "Tanjore", "Mahabalipuram", "Ujjain", "Badami"],
+    "answer": "Mahabalipuram",
+    "desc": "Mamallapuram is also known as Mahabalipuram."
+  },
+  {
+    "q": "Which king's court poet was Banabhata?",
+    "pool": ["Chandragupta", "Harsha", "Ashoka", "Vikramaditya", "Samudragupta"],
+    "answer": "Harsha",
+    "desc": "Banabhata was the court poet of Harshavardhana."
+  },
+  {
+    "q": "Which of the following plays was NOT written by Harsha?",
+    "pool": ["Priyadarshika", "Kadambari", "Ratnawali", "Nagananda", "None of the above"],
+    "answer": "Kadambari",
+    "desc": "‘Kadambari’ was written by Banabhata, not Harsha."
+  },
+  {
+    "q": "Who was the father of Harshavardhana?",
+    "pool": ["Chandragupta", "Samudragupta", "Prabhakar Vardhana", "Banabhata", "Kanishka"],
+    "answer": "Prabhakar Vardhana",
+    "desc": "Harshavardhana was the son of Prabhakar Vardhana of Thaneshwar."
+  },
+
+
+  {
+    "q": "Who was the second king of the Palas known for founding Vikramashila University?",
+    "pool": ["Gopala", "Devapala", "Dharmapala", "Mahipala", "Ramapala"],
+    "answer": "Dharmapala",
+    "desc": "Dharmapala, the second king of the Palas, founded the Vikramashila University and revived Nalanda University."
+  },
+  {
+    "q": "What was the capital of the Palas?",
+    "pool": ["Pataliputra", "Nalanda", "Monghyr", "Rajgir", "Gaur"],
+    "answer": "Monghyr",
+    "desc": "The capital of the Palas was Monghyr."
+  },
+  {
+    "q": "Who was the greatest ruler of the Pratiharas?",
+    "pool": ["Nagabhata", "Vatsaraja", "Bhoja", "Raja Harsha", "Mahendrapala"],
+    "answer": "Bhoja",
+    "desc": "Bhoja, also known as Mihir or Adivraha, was the greatest ruler of the Pratiharas."
+  },
+  {
+    "q": "Which dynasty is credited with building the Khajuraho temples?",
+    "pool": ["Palas", "Chalukyas", "Pratiharas", "Chandelas", "Paramaras"],
+    "answer": "Chandelas",
+    "desc": "The Khajuraho temples were built during the reign of the Chandelas of Bundelkhand."
+  },
+  {
+    "q": "Who founded the Chalukya dynasty of Vatapi?",
+    "pool": ["Pulakesin I", "Jayasimha", "Vikramaditya", "Ranaraga", "Mangalesha"],
+    "answer": "Jayasimha",
+    "desc": "Jayasimha founded the Chalukya dynasty of Vatapi."
+  },
+  {
+    "q": "Which ruler was contemporary to Harshavardhana?",
+    "pool": ["Pulakesin II", "Jayasimha", "Bhoja", "Dharmapala", "Nagabhata"],
+    "answer": "Jayasimha",
+    "desc": "Jayasimha of the Chalukyas of Vatapi was contemporary to Harshavardhana."
+  },
+  {
+    "q": "Which Rajput clan ruled over South Rajasthan?",
+    "pool": ["Chalukyas", "Paramaras", "Chahamanas", "Pratiharas", "Guhilas"],
+    "answer": "Pratiharas",
+    "desc": "The Pratiharas were a Rajput clan that ruled over South Rajasthan."
+  },
+  {
+    "q": "Which Rajput clan ruled over East Rajasthan?",
+    "pool": ["Solankis", "Chahamanas", "Paramaras", "Pratiharas", "Chandelas"],
+    "answer": "Chahamanas",
+    "desc": "The Chahamanas, also known as Chauhans, ruled over East Rajasthan."
+  },
+  {
+    "q": "Which Rajput clan ruled Kathiawar?",
+    "pool": ["Pratiharas", "Paramaras", "Chahamanas", "Chalukyas/Solankis", "Guhilas"],
+    "answer": "Chalukyas/Solankis",
+    "desc": "The Chalukyas, also known as Solankis, ruled the Kathiawar region."
+  },
+  {
+    "q": "Which Rajput clan ruled over the Malwa region?",
+    "pool": ["Chahamanas", "Paramaras", "Chalukyas", "Pratiharas", "Chandelas"],
+    "answer": "Paramaras",
+    "desc": "The Paramaras were the Rajput clan that ruled over the Malwa region."
+  },
+
+  {
+    "q": "Who was the founder of the Chola dynasty?",
+    "pool": ["Rajaraja I", "Rajendra I", "Aditya I", "Vijayalaya", "Purantaka I"],
+    "answer": "Vijayalaya",
+    "desc": "Vijayalaya was the founder of the Chola dynasty and established Tanjore as the capital."
+  },
+  {
+    "q": "What was the capital of the Chola dynasty under Vijayalaya?",
+    "pool": ["Madurai", "Tanjore", "Kanchipuram", "Trichy", "Gangaikonda Cholapuram"],
+    "answer": "Tanjore",
+    "desc": "Tanjore (also spelled Thanjavur) was the capital city under Vijayalaya, the Chola founder."
+  },
+  {
+    "q": "Which Chola king wiped out the Pallavas and weakened the Pandyas?",
+    "pool": ["Rajaraja I", "Rajendra I", "Aditya I", "Purantaka I", "Vijayalaya"],
+    "answer": "Aditya I",
+    "desc": "Aditya I defeated the Pallavas and weakened the Pandyas during his reign."
+  },
+  {
+    "q": "Which Chola king captured Madurai but was later defeated at the Battle of Takkolam?",
+    "pool": ["Aditya I", "Purantaka I", "Rajaraja I", "Rajendra I", "Krishna III"],
+    "answer": "Purantaka I",
+    "desc": "Purantaka I captured Madurai but was defeated by the Rashtrakuta king Krishna III at Takkolam."
+  },
+  {
+    "q": "Who defeated Purantaka I at the Battle of Takkolam?",
+    "pool": ["Aditya I", "Rajaraja I", "Krishna III", "Rajendra I", "Vikramaditya VI"],
+    "answer": "Krishna III",
+    "desc": "Krishna III of the Rashtrakuta dynasty defeated Purantaka I at the Battle of Takkolam."
+  },
+  {
+    "q": "Which Chola king led a naval expedition against the Shailendra empire?",
+    "pool": ["Aditya I", "Purantaka I", "Rajaraja I", "Rajendra I", "Vijayalaya"],
+    "answer": "Rajaraja I",
+    "desc": "Rajaraja I led a successful naval expedition against the Shailendra empire in the Malaya Peninsula."
+  },
+  {
+    "q": "Which region did Rajaraja I conquer during his reign?",
+    "pool": ["Southern Sri Lanka", "Northern Sri Lanka", "Malaya Peninsula", "Madurai", "Orissa"],
+    "answer": "Northern Sri Lanka",
+    "desc": "Rajaraja I conquered Northern Sri Lanka during his military campaigns."
+  },
+  {
+    "q": "Which temple did Rajaraja I construct?",
+    "pool": ["Meenakshi Temple", "Lingaraja Temple", "Kailasha Temple", "Rajarajeshwari Temple", "Sun Temple"],
+    "answer": "Rajarajeshwari Temple",
+    "desc": "Rajaraja I built the Rajarajeshwari Temple, also known as the Brihadeshvara Temple, in Tanjore."
+  },
+  {
+    "q": "Which Chola king annexed the whole of Sri Lanka?",
+    "pool": ["Aditya I", "Rajaraja I", "Rajendra I", "Purantaka I", "Vijayalaya"],
+    "answer": "Rajendra I",
+    "desc": "Rajendra I successfully annexed the entire island of Sri Lanka during his reign."
+  },
+  {
+    "q": "Which title was taken by Rajendra I after his campaigns?",
+    "pool": ["Maharajadhiraja", "Vikramaditya", "Choleshwara", "Gangaikonda", "Kalingavijaya"],
+    "answer": "Gangaikonda",
+    "desc": "After his victories, Rajendra I took the title 'Gangaikonda' and founded Gangaikonda Cholapuram."
+  },
+  {
+    "q": "Which city was founded by Rajendra I?",
+    "pool": ["Madurai", "Kanchipuram", "Tanjore", "Gangaikonda Cholapuram", "Uraiyur"],
+    "answer": "Gangaikonda Cholapuram",
+    "desc": "Rajendra I established Gangaikonda Cholapuram as a new capital to commemorate his victory over the Ganga region."
+  },
+  {
+    "q": "The Dancing Figure of Shiva (Nataraja) is associated with which dynasty?",
+    "pool": ["Pallavas", "Rashtrakutas", "Mauryas", "Cholas", "Guptas"],
+    "answer": "Cholas",
+    "desc": "The iconic bronze sculpture of Nataraja belongs to the Chola period."
+  },
+  {
+    "q": "Which Chola king ruled from AD 985 to 1014?",
+    "pool": ["Aditya I", "Rajendra I", "Rajaraja I", "Purantaka I", "Vijayalaya"],
+    "answer": "Rajaraja I",
+    "desc": "Rajaraja I ruled from 985 to 1014 AD and was one of the greatest Chola rulers."
+  },
+  {
+    "q": "Which Chola king ruled from AD 1014 to 1044?",
+    "pool": ["Rajaraja I", "Rajendra I", "Aditya I", "Krishna III", "Purantaka I"],
+    "answer": "Rajendra I",
+    "desc": "Rajendra I ruled from 1014 to 1044 AD and expanded the empire to its zenith."
+  },
+  {
+    "q": "What notable administrative feature existed during the Chola period?",
+    "pool": ["Caste-based governance", "Absolute monarchy", "Slave administration", "Feudal lords rule", "Local self-government"],
+    "answer": "Local self-government",
+    "desc": "The Chola administration was known for its effective system of local self-government."
   }
 ]

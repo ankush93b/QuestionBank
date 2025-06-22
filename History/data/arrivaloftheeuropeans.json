@@ -1,0 +1,298 @@
+[
+  {
+    "q": "Who was the first Portuguese to arrive in India?",
+    "pool": ["Vasco-da-Gama", "Alfonso de Albuquerque", "Francisco de Almeida", "Bartholomew Diaz", "Pedro Cabral"],
+    "answer": "Vasco-da-Gama",
+    "desc": "Vasco-da-Gama reached Calicut in 1498 during the reign of the Hindu ruler Zamorin."
+  },
+  {
+    "q": "In which year did Vasco-da-Gama reach Calicut?",
+    "pool": ["1492", "1494", "1498", "1502", "1509"],
+    "answer": "1498",
+    "desc": "Vasco-da-Gama reached the port of Calicut in 1498."
+  },
+  {
+    "q": "Who was the ruler of Calicut when Vasco-da-Gama arrived?",
+    "pool": ["Tipu Sultan", "Zamorin", "Hyder Ali", "Bahadur Shah", "Sher Shah"],
+    "answer": "Zamorin",
+    "desc": "Zamorin was the Hindu ruler of Calicut during Vasco-da-Gama's arrival."
+  },
+  {
+    "q": "Which Portuguese governor captured Goa in 1510?",
+    "pool": ["Francisco de Almeida", "Alfonso de Albuquerque", "Pedro Cabral", "Vasco-da-Gama", "Henry the Navigator"],
+    "answer": "Alfonso de Albuquerque",
+    "desc": "Alfonso de Albuquerque captured Goa in AD 1510."
+  },
+  {
+    "q": "Who was the first Governor of Portuguese India?",
+    "pool": ["Francisco de Almeida", "Alfonso de Albuquerque", "Vasco-da-Gama", "Pedro Cabral", "Henry the Navigator"],
+    "answer": "Francisco de Almeida",
+    "desc": "Francisco de Almeida was the first Portuguese Governor of India."
+  },
+  {
+    "q": "Which of these was not a Portuguese settlement?",
+    "pool": ["Daman", "Bombay", "Hooghly", "Madurai", "San Thome"],
+    "answer": "Madurai",
+    "desc": "Madurai was not among the Portuguese settlements."
+  },
+  {
+    "q": "When was the Dutch East India Company formed?",
+    "pool": ["1599", "1600", "1602", "1615", "1650"],
+    "answer": "1602",
+    "desc": "The Dutch East India Company was formed in AD 1602."
+  },
+  {
+    "q": "Where did the Dutch establish their first factory in India?",
+    "pool": ["Surat", "Pulicat", "Chinsura", "Masulipatnam", "Cochin"],
+    "answer": "Masulipatnam",
+    "desc": "The Dutch established their first factory at Masulipatnam in 1605."
+  },
+  {
+    "q": "Which battle marked the decline of Dutch power in India?",
+    "pool": ["Battle of Plassey", "Battle of Wandiwash", "Battle of Bedara", "Battle of Buxar", "Battle of Haldighati"],
+    "answer": "Battle of Bedara",
+    "desc": "The Dutch were defeated by the English at the Battle of Bedara in 1759."
+  },
+  {
+    "q": "After the Battle of Bedara, the Dutch focused on which region?",
+    "pool": ["India", "Sri Lanka", "Malaya", "Indonesia", "Burma"],
+    "answer": "Indonesia",
+    "desc": "Post-Battle of Bedara, Dutch gained control over Indonesia."
+  },
+  {
+    "q": "When was the English East India Company formed?",
+    "pool": ["1599", "1600", "1601", "1602", "1613"],
+    "answer": "1599",
+    "desc": "The English East India Company was formed in 1599."
+  },
+  {
+    "q": "Which Englishman received a farman from Jahangir in 1613?",
+    "pool": ["Sir Thomas Roe", "Job Charnock", "Captain William Hawkins", "John Surman", "Robert Clive"],
+    "answer": "Captain William Hawkins",
+    "desc": "Captain William Hawkins received permission to erect a factory at Surat in 1613."
+  },
+  {
+    "q": "Who got an imperial farman from Jahangir in 1615?",
+    "pool": ["Captain Hawkins", "John Surman", "Job Charnock", "Sir Thomas Roe", "Francis Drake"],
+    "answer": "Sir Thomas Roe",
+    "desc": "Sir Thomas Roe secured an imperial farman in 1615 to trade throughout the Mughal Empire."
+  },
+  {
+    "q": "Who is credited with founding the city of Calcutta?",
+    "pool": ["Robert Clive", "Sir Thomas Roe", "Job Charnock", "Captain Hawkins", "Warren Hastings"],
+    "answer": "Job Charnock",
+    "desc": "Job Charnock founded Calcutta in 1698 after acquiring the zamindari of three villages."
+  },
+  {
+    "q": "Which year marks the foundation of Calcutta?",
+    "pool": ["1686", "1690", "1695", "1698", "1700"],
+    "answer": "1698",
+    "desc": "Calcutta was founded in 1698 by Job Charnock."
+  },
+  {
+    "q": "Which fort was built in Calcutta in 1700?",
+    "pool": ["Fort St. George", "Fort William", "Fort Augustus", "Fort St. David", "Fort Kochi"],
+    "answer": "Fort William",
+    "desc": "Fort William was set up in Calcutta in 1700."
+  },
+  {
+    "q": "Who obtained a farman from Farrukhsiyar in 1717?",
+    "pool": ["Job Charnock", "Sir Thomas Roe", "John Surman", "Captain Hawkins", "Robert Clive"],
+    "answer": "John Surman",
+    "desc": "John Surman secured a farman from Mughal emperor Farrukhsiyar in 1717."
+  },
+  {
+    "q": "What document is considered the Magna Carta of the English Company?",
+    "pool": ["Treaty of Paris", "Farrukhsiyar's farman", "Treaty of Purandar", "Battle of Plassey", "Jahangir’s charter"],
+    "answer": "Farrukhsiyar's farman",
+    "desc": "The farman from Farrukhsiyar in 1717 is called the Magna Carta of the Company."
+  },
+  {
+    "q": "Which of these was NOT a Dutch factory in India?",
+    "pool": ["Chinsura", "Pulicat", "Surat", "Karaikal", "Lucknow"],
+    "answer": "Lucknow",
+    "desc": "Lucknow was not among the Dutch trading posts."
+  },
+  {
+    "q": "Which city near Madras was a Portuguese settlement?",
+    "pool": ["Salsette", "San Thome", "Daman", "Hooghly", "Cochin"],
+    "answer": "San Thome",
+    "desc": "San Thome, near Madras, was a Portuguese settlement."
+  },
+  {
+    "q": "Which company was granted a charter by Queen Elizabeth in 1600?",
+    "pool": ["French East India Company", "Dutch East India Company", "English East India Company", "Danish East India Company", "Portuguese India Company"],
+    "answer": "English East India Company",
+    "desc": "Queen Elizabeth granted a charter to the English East India Company in 1600."
+  },
+  {
+    "q": "Which was NOT a Portuguese factory?",
+    "pool": ["Bombay", "Chaul", "Salsette", "Calcutta", "Hooghly"],
+    "answer": "Calcutta",
+    "desc": "Calcutta was founded by the English, not the Portuguese."
+  },
+  {
+    "q": "Which of the following was a Dutch factory?",
+    "pool": ["Kalikata", "Govindpur", "Karaikal", "San Thome", "Daman"],
+    "answer": "Karaikal",
+    "desc": "Karaikal was one of the Dutch factories."
+  },
+  {
+    "q": "What did the Dutch lose to the British after the Battle of Bedara?",
+    "pool": ["Ceylon", "Indonesia", "India", "Java", "Singapore"],
+    "answer": "India",
+    "desc": "Post-defeat at Bedara, the Dutch lost India to the British."
+  },
+  {
+    "q": "What was founded on the zamindari of Suttanati, Kalikata, and Govindpur?",
+    "pool": ["Bombay", "Calcutta", "Madras", "Delhi", "Surat"],
+    "answer": "Calcutta",
+    "desc": "The city of Calcutta was founded after acquiring these three villages."
+  },
+  {
+    "q": "When was Fort William established?",
+    "pool": ["1690", "1698", "1700", "1707", "1717"],
+    "answer": "1700",
+    "desc": "Fort William was set up in Calcutta in 1700."
+  },
+  {
+    "q": "Which Mughal emperor granted the 1717 farman?",
+    "pool": ["Jahangir", "Aurangzeb", "Farrukhsiyar", "Shah Jahan", "Bahadur Shah I"],
+    "answer": "Farrukhsiyar",
+    "desc": "Farrukhsiyar granted the 1717 farman to the English."
+  },
+  {
+    "q": "Which city did the English establish their first factory in?",
+    "pool": ["Madras", "Surat", "Calcutta", "Bombay", "Cochin"],
+    "answer": "Surat",
+    "desc": "The first English factory was established in Surat in 1613."
+  },
+  {
+    "q": "Who gave permission to the English to trade throughout the Mughal Empire?",
+    "pool": ["Akbar", "Shah Jahan", "Jahangir", "Aurangzeb", "Farrukhsiyar"],
+    "answer": "Jahangir",
+    "desc": "Jahangir allowed English trade in all parts of the Mughal Empire."
+  },
+
+
+  {
+    "q": "In which year did the Battle of Plassey take place?",
+    "pool": ["1747", "1750", "1757", "1764", "1772"],
+    "answer": "1757",
+    "desc": "The Battle of Plassey was fought in 1757."
+  },
+  {
+    "q": "Who was defeated by the English in the Battle of Plassey?",
+    "pool": ["Mir Qasim", "Shah Alam II", "Sirajuddaula", "Shujauddaula", "Tipu Sultan"],
+    "answer": "Sirajuddaula",
+    "desc": "Sirajuddaula, the Nawab of Bengal, was defeated in the Battle of Plassey."
+  },
+  {
+    "q": "The Battle of Buxar was fought in which year?",
+    "pool": ["1757", "1760", "1764", "1773", "1782"],
+    "answer": "1764",
+    "desc": "The Battle of Buxar took place in 1764."
+  },
+  {
+    "q": "Who led the English forces in the Battle of Buxar?",
+    "pool": ["Lord Clive", "Captain Hawkins", "Captain Munro", "Robert Clive", "Sir Eyre Coote"],
+    "answer": "Captain Munro",
+    "desc": "Captain Munro led the English forces in the Battle of Buxar."
+  },
+  {
+    "q": "Which of the following was NOT a participant in the Battle of Buxar?",
+    "pool": ["Mir Qasim", "Sirajuddaula", "Shujauddaula", "Shah Alam II", "Captain Munro"],
+    "answer": "Sirajuddaula",
+    "desc": "Sirajuddaula was defeated earlier in the Battle of Plassey and was not part of the Battle of Buxar."
+  },
+  {
+    "q": "When was the Danish East India Company formed?",
+    "pool": ["1600", "1616", "1625", "1664", "1700"],
+    "answer": "1616",
+    "desc": "The Danish East India Company was formed in 1616."
+  },
+  {
+    "q": "Where was the Danish colony Tranquebar located?",
+    "pool": ["Kerala", "Andhra Pradesh", "Tamil Nadu", "Bengal", "Goa"],
+    "answer": "Tamil Nadu",
+    "desc": "Tranquebar was a Danish colony on the southern Coromandel coast in Tamil Nadu."
+  },
+  {
+    "q": "Which Danish settlement was located in Bengal?",
+    "pool": ["Pondicherry", "Chinsura", "Serampur", "Karaikal", "Masulipatnam"],
+    "answer": "Serampur",
+    "desc": "Serampur in Bengal was one of the main Danish settlements in India."
+  },
+  {
+    "q": "When did the Danes sell their Indian settlements to the English?",
+    "pool": ["1800", "1815", "1830", "1845", "1857"],
+    "answer": "1845",
+    "desc": "The Danish sold their settlements to the English in 1845."
+  },
+  {
+    "q": "Who established the French East India Company?",
+    "pool": ["Napoleon", "Francois Caron", "Colbert", "Louis XIV", "Jean-Baptiste"],
+    "answer": "Colbert",
+    "desc": "Colbert established the French East India Company under state patronage in 1664."
+  },
+  {
+    "q": "In which year was the French East India Company formed?",
+    "pool": ["1600", "1616", "1664", "1668", "1675"],
+    "answer": "1664",
+    "desc": "The French East India Company was formed in 1664."
+  },
+  {
+    "q": "Who established the first French factory in India?",
+    "pool": ["Colbert", "Francois Caron", "La Bourdonnais", "Joseph Dupleix", "Jean-Baptiste"],
+    "answer": "Francois Caron",
+    "desc": "Francois Caron established the first French factory at Surat in 1668."
+  },
+  {
+    "q": "Where was the first French factory in India established?",
+    "pool": ["Pondicherry", "Surat", "Madras", "Masulipatnam", "Chandernagore"],
+    "answer": "Surat",
+    "desc": "The first French factory was established at Surat in 1668."
+  },
+  {
+    "q": "When did the French set up a factory at Masulipatnam?",
+    "pool": ["1664", "1668", "1669", "1675", "1680"],
+    "answer": "1669",
+    "desc": "The French established a factory at Masulipatnam in 1669."
+  },
+  {
+    "q": "Which battle marked the decline of French power in India?",
+    "pool": ["Battle of Plassey", "Battle of Wandiwash", "Battle of Buxar", "Battle of Bedara", "Battle of Panipat"],
+    "answer": "Battle of Wandiwash",
+    "desc": "The French were decisively defeated by the English in the Battle of Wandiwash in 1760."
+  },
+  {
+    "q": "Who won the Battle of Wandiwash?",
+    "pool": ["French", "Dutch", "English", "Danes", "Portuguese"],
+    "answer": "English",
+    "desc": "The English defeated the French in the Battle of Wandiwash in 1760."
+  },
+  {
+    "q": "Which of these battles took place in 1760?",
+    "pool": ["Battle of Plassey", "Battle of Buxar", "Battle of Wandiwash", "Battle of Bedara", "Battle of Panipat"],
+    "answer": "Battle of Wandiwash",
+    "desc": "The Battle of Wandiwash was fought in 1760 between the English and the French."
+  },
+  {
+    "q": "Which European power had a colony at Tranquebar?",
+    "pool": ["English", "French", "Dutch", "Portuguese", "Danish"],
+    "answer": "Danish",
+    "desc": "Tranquebar on the Coromandel coast was a Danish colony."
+  },
+  {
+    "q": "Which two Danish settlements were sold to the English in 1845?",
+    "pool": ["Tranquebar and Pondicherry", "Serampur and Goa", "Tranquebar and Serampur", "Serampur and Surat", "Tranquebar and Karaikal"],
+    "answer": "Tranquebar and Serampur",
+    "desc": "The Danes sold Tranquebar and Serampur to the English in 1845."
+  },
+  {
+    "q": "Who among the following was NOT involved in the Battle of Buxar?",
+    "pool": ["Mir Qasim", "Shujauddaula", "Shah Alam II", "Sirajuddaula", "Captain Munro"],
+    "answer": "Sirajuddaula",
+    "desc": "Sirajuddaula was already defeated in the Battle of Plassey and did not participate in the Battle of Buxar."
+  }
+]

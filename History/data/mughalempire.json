@@ -1,0 +1,522 @@
+[
+  {
+    "q": "Who was the founder of the Mughal Empire in India?",
+    "pool": ["Babur", "Humayun", "Akbar", "Sher Shah Suri", "Ibrahim Lodhi"],
+    "answer": "Babur",
+    "desc": "Babur founded the Mughal Empire in 1526 after defeating Ibrahim Lodhi at the First Battle of Panipat."
+  },
+  {
+    "q": "Which technology did Babur introduce in Indian warfare?",
+    "pool": ["Steam engine", "Gunpowder", "Archery", "Iron chariots", "Cannon balls"],
+    "answer": "Gunpowder",
+    "desc": "Babur introduced the use of gunpowder and artillery in Indian battles."
+  },
+  {
+    "q": "Whom did Babur defeat in the First Battle of Panipat (1526)?",
+    "pool": ["Rana Sanga", "Sher Shah Suri", "Ibrahim Lodhi", "Medini Rai", "Mahmud Lodi"],
+    "answer": "Ibrahim Lodhi",
+    "desc": "Babur defeated Ibrahim Lodhi in 1526, marking the beginning of the Mughal Empire."
+  },
+  {
+    "q": "The Battle of Khanwa (1527) was fought between Babur and:",
+    "pool": ["Humayun", "Sher Shah Suri", "Rana Sanga", "Mahmud Lodi", "Baz Bahadur"],
+    "answer": "Rana Sanga",
+    "desc": "Babur defeated Rana Sanga (Sangram Singh) at the Battle of Khanwa in 1527."
+  },
+  {
+    "q": "Who was defeated by Babur in the Battle of Chanderi (1528)?",
+    "pool": ["Rana Sanga", "Ibrahim Lodhi", "Medini Rai", "Sher Shah Suri", "Hemu"],
+    "answer": "Medini Rai",
+    "desc": "Medini Rai of Chanderi was defeated by Babur in 1528."
+  },
+  {
+    "q": "Which battle did Babur fight against Mahmud Lodi?",
+    "pool": ["Panipat", "Khanwa", "Chanderi", "Ghagra", "Kannauj"],
+    "answer": "Ghagra",
+    "desc": "The Battle of Ghagra in 1529 was fought by Babur against Mahmud Lodi."
+  },
+  {
+    "q": "In which language did Babur write his memoirs, Tuzuk-i-Baburi?",
+    "pool": ["Persian", "Arabic", "Hindi", "Turkish", "Urdu"],
+    "answer": "Turkish",
+    "desc": "Babur wrote Tuzuk-i-Baburi in his native Turkish language."
+  },
+  {
+    "q": "What title did Babur adopt after declaring Jehad?",
+    "pool": ["Sultan", "Kaiser", "Ghazi", "Padshah", "Emperor"],
+    "answer": "Ghazi",
+    "desc": "Babur declared Jehad and took the title ‘Ghazi’ meaning a warrior of faith."
+  },
+  {
+    "q": "Where was Babur originally buried after his death in 1530?",
+    "pool": ["Delhi", "Agra", "Kabul", "Lahore", "Multan"],
+    "answer": "Agra",
+    "desc": "Babur was first buried at Aram Bagh in Agra, later moved to Kabul."
+  },
+  {
+    "q": "Which place became Babur’s final resting place?",
+    "pool": ["Delhi", "Fatehpur Sikri", "Lahore", "Bagh-e Babun (Kabul)", "Agra"],
+    "answer": "Bagh-e Babun (Kabul)",
+    "desc": "Babur’s body was later shifted to Bagh-e Babun in Kabul, Afghanistan."
+  },
+  {
+    "q": "What was the name of the second capital built by Humayun in Delhi?",
+    "pool": ["Fatehpur Sikri", "Shahjahanabad", "Dinpanah", "Agra Fort", "Red Fort"],
+    "answer": "Dinpanah",
+    "desc": "Humayun built Dinpanah in Delhi as his second capital."
+  },
+  {
+    "q": "Who defeated Humayun in the Battle of Chausa (1539)?",
+    "pool": ["Babur", "Sher Shah Suri", "Hemu", "Baz Bahadur", "Rana Pratap"],
+    "answer": "Sher Shah Suri",
+    "desc": "Sher Shah Suri defeated Humayun in the Battle of Chausa in 1539."
+  },
+  {
+    "q": "In which battle was Humayun again defeated by Sher Shah Suri in 1540?",
+    "pool": ["Khanwa", "Panipat", "Chanderi", "Kannauj", "Haldighati"],
+    "answer": "Kannauj",
+    "desc": "Humayun was decisively defeated by Sher Shah Suri in the Battle of Kannauj in 1540."
+  },
+  {
+    "q": "How many years did Humayun spend in exile after his defeat?",
+    "pool": ["5", "10", "15", "20", "25"],
+    "answer": "15",
+    "desc": "Humayun spent 15 years in exile after being defeated by Sher Shah Suri."
+  },
+  {
+    "q": "Who helped Humayun to recapture the Mughal throne in 1555?",
+    "pool": ["Rana Pratap", "Sher Shah", "Bairam Khan", "Gulbadan Begum", "Akbar"],
+    "answer": "Bairam Khan",
+    "desc": "Humayun was assisted by Bairam Khan in regaining the throne in 1555."
+  },
+  {
+    "q": "How did Humayun die in 1556?",
+    "pool": ["Battle wound", "Assassination", "Fall from library stairs", "Poisoning", "Illness"],
+    "answer": "Fall from library stairs",
+    "desc": "Humayun died after accidentally falling from the stairs of his library."
+  },
+  {
+    "q": "Who wrote the book 'Humayun-nama'?",
+    "pool": ["Akbar", "Babur", "Bairam Khan", "Jahangir", "Gulbadan Begum"],
+    "answer": "Gulbadan Begum",
+    "desc": "Humayun-nama was written by Humayun's half-sister Gulbadan Begum."
+  },
+  {
+    "q": "At what age did Akbar become emperor?",
+    "pool": ["10", "12", "13", "14", "15"],
+    "answer": "14",
+    "desc": "Akbar was coronated as emperor at the age of 14."
+  },
+  {
+    "q": "Who defeated Hemu in the Second Battle of Panipat (1556)?",
+    "pool": ["Babur", "Sher Shah", "Akbar", "Bairam Khan", "Rana Sanga"],
+    "answer": "Akbar",
+    "desc": "Akbar, with help from Bairam Khan, defeated Hemu in 1556."
+  },
+  {
+    "q": "Which Mughal officer helped Akbar in early victories and guidance?",
+    "pool": ["Sher Shah", "Rana Pratap", "Bairam Khan", "Hemu", "Jahangir"],
+    "answer": "Bairam Khan",
+    "desc": "Bairam Khan was Akbar’s regent and guided him during his early reign."
+  },
+  {
+    "q": "Who ruled Malwa when Akbar conquered it in 1561?",
+    "pool": ["Hemu", "Baz Bahadur", "Rana Sanga", "Sher Shah", "Rani Durgawati"],
+    "answer": "Baz Bahadur",
+    "desc": "Baz Bahadur was defeated by Akbar when Malwa was annexed in 1561."
+  },
+  {
+    "q": "Who ruled Garh-Katanga when Akbar invaded it?",
+    "pool": ["Rana Pratap", "Baz Bahadur", "Rani Durgawati", "Medini Rai", "Hemu"],
+    "answer": "Rani Durgawati",
+    "desc": "Rani Durgawati was the ruler of Garh-Katanga and fought bravely against Akbar."
+  },
+  {
+    "q": "In which year did Akbar conquer Chittor?",
+    "pool": ["1566", "1568", "1570", "1576", "1580"],
+    "answer": "1568",
+    "desc": "Chittor was captured by Akbar in 1568 after a prolonged siege."
+  },
+  {
+    "q": "Which Rajput fort did Akbar conquer in 1569?",
+    "pool": ["Kalinjar", "Gwalior", "Ranthambhor", "Asirgarh", "Ajmer"],
+    "answer": "Ranthambhor",
+    "desc": "Akbar captured Ranthambhor Fort in 1569 as part of his Rajput campaigns."
+  },
+  {
+    "q": "The Battle of Haldighati (1576) was fought between Akbar and:",
+    "pool": ["Baz Bahadur", "Sher Shah", "Rana Sanga", "Rana Pratap", "Ibrahim Lodhi"],
+    "answer": "Rana Pratap",
+    "desc": "Rana Pratap resisted Mughal expansion and fought Akbar in the Battle of Haldighati."
+  },
+  {
+    "q": "When did Akbar conquer Kashmir?",
+    "pool": ["1572", "1586", "1593", "1601", "1603"],
+    "answer": "1586",
+    "desc": "Akbar annexed Kashmir into the Mughal Empire in 1586."
+  },
+  {
+    "q": "Which region did Akbar annex in 1593?",
+    "pool": ["Sindh", "Asirgarh", "Kashmir", "Mewar", "Malwa"],
+    "answer": "Sindh",
+    "desc": "Sindh was conquered by Akbar in 1593, expanding Mughal rule in the northwest."
+  },
+  {
+    "q": "Which fort was captured by Akbar in 1603?",
+    "pool": ["Gwalior", "Asirgarh", "Kalinjar", "Ranthambhor", "Ajmer"],
+    "answer": "Asirgarh",
+    "desc": "Asirgarh Fort was the last major conquest of Akbar in 1603."
+  },
+
+
+  {
+    "q": "Where is Buland Darwaza located?",
+    "pool": ["Delhi", "Agra", "Fatehpur Sikri", "Lahore", "Jaipur"],
+    "answer": "Fatehpur Sikri",
+    "desc": "Buland Darwaza was constructed at Fatehpur Sikri after Akbar’s victory over Gujarat in 1572."
+  },
+  {
+    "q": "Which victory led Akbar to build Buland Darwaza?",
+    "pool": ["Malwa", "Kashmir", "Gujarat", "Bengal", "Sindh"],
+    "answer": "Gujarat",
+    "desc": "The gateway was built to commemorate Akbar’s victory over Gujarat in 1572."
+  },
+  {
+    "q": "Who was Harkha Bai?",
+    "pool": ["Akbar's mother", "Akbar's sister", "Rajput wife of Akbar", "Sufi saint", "Maid in court"],
+    "answer": "Rajput wife of Akbar",
+    "desc": "Harkha Bai was Akbar’s wife and the daughter of Rajput ruler Bharmal."
+  },
+  {
+    "q": "Who was the first Englishman to visit Akbar’s court?",
+    "pool": ["Sir Thomas Roe", "Ralph Fitch", "Captain Hawkins", "William Hawkins", "Robert Clive"],
+    "answer": "Ralph Fitch",
+    "desc": "Ralph Fitch visited Akbar’s court in 1585 and was the first Englishman to do so."
+  },
+  {
+    "q": "When did Akbar abolish the Jaziyah tax?",
+    "pool": ["1556", "1564", "1575", "1582", "1590"],
+    "answer": "1564",
+    "desc": "Akbar abolished the discriminatory Jaziyah tax on non-Muslims in 1564."
+  },
+  {
+    "q": "What does Sulh-i-Kul mean?",
+    "pool": ["Holy war", "One God", "Peace to all", "Divine law", "Faith in all"],
+    "answer": "Peace to all",
+    "desc": "Sulh-i-Kul was Akbar’s principle promoting religious tolerance and peace among all religions."
+  },
+  {
+    "q": "Where was the Ibadat Khana built by Akbar?",
+    "pool": ["Delhi", "Agra", "Fatehpur Sikri", "Lahore", "Ajmer"],
+    "answer": "Fatehpur Sikri",
+    "desc": "The Ibadat Khana or Hall of Prayer was constructed at Fatehpur Sikri by Akbar."
+  },
+  {
+    "q": "In which year did Akbar issue the 'Degree of Infallibility'?",
+    "pool": ["1575", "1579", "1582", "1585", "1590"],
+    "answer": "1579",
+    "desc": "Akbar issued the 'Degree of Infallibility' in 1579, asserting his authority in religious matters."
+  },
+  {
+    "q": "What was the name of Akbar’s religious order?",
+    "pool": ["Din-i-Islam", "Sulh-i-Kul", "Din-i-Ilahi", "Tariqat-i-Akbari", "Nur-i-Khuda"],
+    "answer": "Din-i-Ilahi",
+    "desc": "Akbar formulated Din-i-Ilahi in 1582, blending elements of various religions."
+  },
+  {
+    "q": "Who was the first to join Din-i-Ilahi?",
+    "pool": ["Abul Fazal", "Birbal", "Todar Mal", "Tansen", "Raja Man Singh"],
+    "answer": "Birbal",
+    "desc": "Birbal was the first courtier to accept Akbar’s religious order, Din-i-Ilahi."
+  },
+  {
+    "q": "What was the name of Akbar’s land revenue system?",
+    "pool": ["Ayn-i-Akbari", "Mansabdari", "Zabti System", "Iqtadari", "Riyaz-ul-Mulk"],
+    "answer": "Zabti System",
+    "desc": "Akbar's land revenue system was called the Todar Mal Bandobast or Zabti System."
+  },
+  {
+    "q": "Which system was used for organizing the Mughal nobility and army?",
+    "pool": ["Iqta System", "Jagirdari System", "Mansabdari System", "Feudal System", "Faujdar System"],
+    "answer": "Mansabdari System",
+    "desc": "The Mansabdari system organized ranks and responsibilities within the Mughal army and bureaucracy."
+  },
+  {
+    "q": "Who among the following was NOT one of Akbar’s Navratnas?",
+    "pool": ["Abul Fazal", "Tansen", "Birbal", "Sher Shah", "Todar Mal"],
+    "answer": "Sher Shah",
+    "desc": "Sher Shah Suri was not one of Akbar’s nine jewels (Navratnas)."
+  },
+  {
+    "q": "Who among Akbar’s Navratnas was known for music?",
+    "pool": ["Birbal", "Tansen", "Faizi", "Mullah-do-Pyaza", "Man Singh"],
+    "answer": "Tansen",
+    "desc": "Tansen was a legendary musician and one of the Navratnas in Akbar’s court."
+  },
+  {
+    "q": "Who wrote the 'Akbarnama'?",
+    "pool": ["Birbal", "Faizi", "Abul Fazal", "Todar Mal", "Manucci"],
+    "answer": "Abul Fazal",
+    "desc": "Abul Fazal was a historian and courtier who wrote Akbarnama and Ain-i-Akbari."
+  },
+  {
+    "q": "Which Sikh Guru was executed by Jahangir?",
+    "pool": ["Guru Nanak", "Guru Angad", "Guru Amar Das", "Guru Arjan Dev", "Guru Tegh Bahadur"],
+    "answer": "Guru Arjan Dev",
+    "desc": "Jahangir ordered the execution of Guru Arjan Dev in 1606, the fifth Sikh Guru."
+  },
+  {
+    "q": "Which place did Jahangir lose to Persia in 1622?",
+    "pool": ["Kandahar", "Lahore", "Kabul", "Ghaziabad", "Peshawar"],
+    "answer": "Kandahar",
+    "desc": "Jahangir lost Kandahar to the Safavids of Persia in 1622, a major failure of his reign."
+  },
+  {
+    "q": "What title was conferred upon Mehr-un-Nisa after marrying Jahangir?",
+    "pool": ["Roshan Ara", "Nur Mahal", "Nurjahan", "Begum Sahib", "Shahzadi"],
+    "answer": "Nurjahan",
+    "desc": "Mehr-un-Nisa was titled 'Nurjahan' after marrying Jahangir in 1611."
+  },
+  {
+    "q": "Which justice device did Jahangir set up at Agra Fort?",
+    "pool": ["Zanjir-i-Adal", "Bell of Justice", "Gate of Petition", "Darbar-i-Adalat", "Justice Drum"],
+    "answer": "Zanjir-i-Adal",
+    "desc": "Jahangir established the Zanjir-i-Adal, a chain of justice for the public to seek redressal."
+  },
+  {
+    "q": "Which English ambassador visited Jahangir's court?",
+    "pool": ["Ralph Fitch", "Captain Hawkins", "Sir Thomas Roe", "Bernier", "Manucci"],
+    "answer": "Sir Thomas Roe",
+    "desc": "Sir Thomas Roe was sent by King James I and visited Jahangir’s court to seek trade rights."
+  },
+  {
+    "q": "Which painter was famous in Jahangir’s court?",
+    "pool": ["Bichitr", "Ustad Mansur", "Ravi Varma", "Mir Sayyid", "Basawan"],
+    "answer": "Ustad Mansur",
+    "desc": "Ustad Mansur was known for naturalistic and animal paintings during Jahangir’s reign."
+  },
+  {
+    "q": "Which European traveler visited Jahangir’s court along with Hawkins?",
+    "pool": ["Bernier", "Manucci", "Ralph Fitch", "Sir Thomas Roe", "None"],
+    "answer": "Sir Thomas Roe",
+    "desc": "Captain Hawkins and Sir Thomas Roe were notable English visitors to Jahangir’s court."
+  },
+  {
+    "q": "Who annexed Ahmadnagar during the Mughal rule?",
+    "pool": ["Babur", "Akbar", "Jahangir", "Shahjahan", "Aurangzeb"],
+    "answer": "Shahjahan",
+    "desc": "Shahjahan annexed Ahmadnagar, expanding Mughal control in the Deccan."
+  },
+  {
+    "q": "When did Shahjahan secure Kandahar from Persia?",
+    "pool": ["1611", "1622", "1639", "1645", "1650"],
+    "answer": "1639",
+    "desc": "Shahjahan reclaimed Kandahar from Persia in 1639, though it was later lost again."
+  },
+  {
+    "q": "Which two South Indian kingdoms accepted Shahjahan’s overlordship?",
+    "pool": ["Ahmednagar and Bijapur", "Golconda and Mysore", "Bijapur and Golconda", "Hyderabad and Mysore", "Vijayanagar and Mysore"],
+    "answer": "Bijapur and Golconda",
+    "desc": "Bijapur and Golconda accepted Shahjahan's suzerainty without military resistance."
+  },
+  {
+    "q": "Who among these was a French traveler to Shahjahan’s court?",
+    "pool": ["Manucci", "Bernier", "Hawkins", "Faizi", "Badauni"],
+    "answer": "Bernier",
+    "desc": "Francois Bernier was a French physician and traveler who visited Shahjahan’s court."
+  },
+  {
+    "q": "Which Mughal emperor built the Taj Mahal?",
+    "pool": ["Babur", "Akbar", "Jahangir", "Shahjahan", "Aurangzeb"],
+    "answer": "Shahjahan",
+    "desc": "Shahjahan built the Taj Mahal in memory of his wife Mumtaz Mahal."
+  },
+  {
+    "q": "Which Mughal monument is known as the 'Pearl Mosque'?",
+    "pool": ["Taj Mahal", "Moti Masjid", "Jama Masjid", "Red Fort", "Buland Darwaza"],
+    "answer": "Moti Masjid",
+    "desc": "Moti Masjid, meaning 'Pearl Mosque', was built by Shahjahan in Agra."
+  },
+  {
+    "q": "Which Mughal emperor’s reign is known as the Golden Age of architecture?",
+    "pool": ["Babur", "Akbar", "Jahangir", "Shahjahan", "Aurangzeb"],
+    "answer": "Shahjahan",
+    "desc": "Shahjahan’s reign is considered the Golden Age of Mughal architecture due to monuments like the Taj Mahal and Red Fort."
+  },
+
+
+  {
+    "q": "Who became emperor after the Mughal war of succession in 1658?",
+    "pool": ["Dara Shikoh", "Shuja", "Murad", "Aurangzeb", "Jahangir"],
+    "answer": "Aurangzeb",
+    "desc": "Aurangzeb emerged victorious after defeating his brothers Dara, Shuja, and Murad in a war of succession."
+  },
+  {
+    "q": "Which region saw a Jat peasant rebellion during Aurangzeb’s reign?",
+    "pool": ["Punjab", "Mathura", "Delhi", "Awadh", "Gujarat"],
+    "answer": "Mathura",
+    "desc": "The Jat peasantry in Mathura rebelled during Aurangzeb’s rule."
+  },
+  {
+    "q": "Which Sikh Guru was executed by Aurangzeb?",
+    "pool": ["Guru Nanak", "Guru Arjan Dev", "Guru Har Gobind", "Guru Tegh Bahadur", "Guru Gobind Singh"],
+    "answer": "Guru Tegh Bahadur",
+    "desc": "Guru Tegh Bahadur, the ninth Sikh Guru, was executed by Aurangzeb in 1675."
+  },
+  {
+    "q": "Which peasant group rebelled in Punjab during Aurangzeb’s reign?",
+    "pool": ["Jats", "Rajputs", "Satnamis", "Marathas", "Pathans"],
+    "answer": "Satnamis",
+    "desc": "The Satnamis, a peasant sect, rebelled in Punjab against Aurangzeb’s rule."
+  },
+  {
+    "q": "The annexation of which region in 1658 led to a Mughal-Rajput rift?",
+    "pool": ["Mewar", "Amber", "Marwar", "Jaipur", "Udaipur"],
+    "answer": "Marwar",
+    "desc": "The annexation of Marwar after the death of Raja Jaswant Singh led to a rift with Rajputs."
+  },
+  {
+    "q": "Which Mughal ruler achieved the greatest territorial extent of the empire?",
+    "pool": ["Akbar", "Jahangir", "Shahjahan", "Aurangzeb", "Babur"],
+    "answer": "Aurangzeb",
+    "desc": "The Mughal Empire reached its greatest territorial extent under Aurangzeb."
+  },
+  {
+    "q": "Aurangzeb’s empire stretched from Kashmir to which southern city?",
+    "pool": ["Hyderabad", "Goa", "Jinji", "Bijapur", "Madurai"],
+    "answer": "Jinji",
+    "desc": "Aurangzeb’s empire extended from Kashmir in the north to Jinji in the south."
+  },
+  {
+    "q": "Which tax did Aurangzeb reimpose in 1679?",
+    "pool": ["Lagaan", "Zakat", "Jaziya", "Khiraj", "Chauth"],
+    "answer": "Jaziya",
+    "desc": "Aurangzeb reimposed the Jaziya tax on non-Muslims in 1679."
+  },
+  {
+    "q": "What was Aurangzeb also known as due to his austere lifestyle?",
+    "pool": ["Zinda Pir", "Hind Ka Sher", "Alam Shah", "Mujaddid", "Pir-i-Kamil"],
+    "answer": "Zinda Pir",
+    "desc": "Aurangzeb was known as 'Zinda Pir' or the living saint because of his simple lifestyle."
+  },
+  {
+    "q": "In which year did Aurangzeb conquer Bijapur?",
+    "pool": ["1658", "1675", "1686", "1687", "1690"],
+    "answer": "1686",
+    "desc": "Aurangzeb conquered Bijapur in 1686, expanding Mughal rule in the Deccan."
+  },
+  {
+    "q": "Which Deccan state did Aurangzeb conquer in 1687?",
+    "pool": ["Ahmadnagar", "Golconda", "Bijapur", "Hyderabad", "Kurnool"],
+    "answer": "Golconda",
+    "desc": "Aurangzeb captured the rich kingdom of Golconda in 1687."
+  },
+  {
+    "q": "What monument did Aurangzeb build at Aurangabad?",
+    "pool": ["Moti Masjid", "Bibi Ka Maqbara", "Jama Masjid", "Badshahi Mosque", "Taj Mahal"],
+    "answer": "Bibi Ka Maqbara",
+    "desc": "Bibi Ka Maqbara was built by Aurangzeb in memory of his wife Rabia-ud-Daurani."
+  },
+  {
+    "q": "Where is the Badshahi Mosque, built by Aurangzeb, located?",
+    "pool": ["Delhi", "Agra", "Lahore", "Fatehpur Sikri", "Jaipur"],
+    "answer": "Lahore",
+    "desc": "The Badshahi Mosque, a grand Mughal structure, was built by Aurangzeb in Lahore."
+  },
+  {
+    "q": "Which mosque did Aurangzeb build inside the Red Fort?",
+    "pool": ["Jama Masjid", "Moti Masjid", "Badshahi Mosque", "Nagina Masjid", "Zinat-ul-Masjid"],
+    "answer": "Moti Masjid",
+    "desc": "Aurangzeb built the Moti Masjid (Pearl Mosque) inside the Red Fort, Delhi."
+  },
+  {
+    "q": "Which of these was NOT a cause of Mughal decline?",
+    "pool": ["Jagirdari crisis", "Strong successors", "Aurangzeb’s religious policies", "Maratha rise", "Foreign invasions"],
+    "answer": "Strong successors",
+    "desc": "The Mughal Empire declined due to weak successors, not strong ones."
+  },
+  {
+    "q": "Who invaded India in 1739, weakening the Mughal Empire?",
+    "pool": ["Abdali", "Babur", "Nadir Shah", "Shah Jahan", "Taimur"],
+    "answer": "Nadir Shah",
+    "desc": "Nadir Shah invaded Delhi in 1739 and carried off immense wealth, accelerating Mughal decline."
+  },
+  {
+    "q": "Which ruler repeatedly invaded India after Nadir Shah?",
+    "pool": ["Babur", "Abdali", "Ghazni", "Aurangzeb", "Man Singh"],
+    "answer": "Abdali",
+    "desc": "Ahmad Shah Abdali invaded India multiple times after Nadir Shah’s invasion."
+  },
+  {
+    "q": "What was the religious policy of Aurangzeb often criticized for?",
+    "pool": ["Tolerance", "Secularism", "Orthodoxy", "Mysticism", "Innovation"],
+    "answer": "Orthodoxy",
+    "desc": "Aurangzeb's strict Islamic orthodoxy alienated many and contributed to the empire’s decline."
+  },
+  {
+    "q": "What was the main administrative crisis during Mughal decline?",
+    "pool": ["Revenue overload", "Jagirdari crisis", "Rajput rebellion", "Sikh revolt", "Maratha taxation"],
+    "answer": "Jagirdari crisis",
+    "desc": "The Jagirdari system collapsed due to over-assignment of jagirs and poor revenue realization."
+  },
+  {
+    "q": "Which regional power grew strong during Mughal decline?",
+    "pool": ["Marathas", "Rajputs", "Jats", "Satnamis", "Ahoms"],
+    "answer": "Marathas",
+    "desc": "The Marathas emerged as a dominant power after Aurangzeb’s prolonged Deccan campaigns."
+  },
+  {
+    "q": "Who founded the Sur Dynasty?",
+    "pool": ["Sher Shah", "Bahlul Lodi", "Babur", "Humayun", "Ibrahim Lodi"],
+    "answer": "Sher Shah",
+    "desc": "Farid, later known as Sher Shah Suri, founded the Sur Dynasty after defeating Humayun."
+  },
+  {
+    "q": "Who gave the title 'Sher Shah' to Farid?",
+    "pool": ["Babur", "Bahar Khan Lohani", "Humayun", "Rana Sanga", "Akbar"],
+    "answer": "Bahar Khan Lohani",
+    "desc": "Bahar Khan Lohani, the Afghan ruler of Bihar, gave the title 'Sher Shah' to Farid."
+  },
+  {
+    "q": "Which coin was introduced by Sher Shah Suri?",
+    "pool": ["Rupee", "Dinar", "Ashrafi", "Taka", "Mohur"],
+    "answer": "Rupee",
+    "desc": "Sher Shah introduced the silver coin called 'Rupaya', the predecessor to modern Rupee."
+  },
+  {
+    "q": "What copper coin did Sher Shah Suri issue?",
+    "pool": ["Dam", "Falus", "Tanka", "Paika", "Jital"],
+    "answer": "Dam",
+    "desc": "The copper coin introduced by Sher Shah Suri was called the Dam."
+  },
+  {
+    "q": "Where is Sher Shah’s tomb located?",
+    "pool": ["Delhi", "Patna", "Sasaram", "Agra", "Jaunpur"],
+    "answer": "Sasaram",
+    "desc": "Sher Shah’s tomb is a grand structure located in Sasaram, Bihar."
+  },
+  {
+    "q": "What city did Sher Shah Suri build on the Yamuna River?",
+    "pool": ["Agra", "Sasaram", "Purana Qila", "Lahore", "Jaunpur"],
+    "answer": "Purana Qila",
+    "desc": "Sher Shah built a new city at the site of present-day Purana Qila in Delhi."
+  },
+  {
+    "q": "What architectural legacy did Sher Shah leave in Delhi?",
+    "pool": ["Qutub Minar", "Humayun’s Tomb", "Purana Qila", "Jama Masjid", "Red Fort"],
+    "answer": "Purana Qila",
+    "desc": "Sher Shah began construction of Purana Qila in Delhi, later completed by Humayun."
+  },
+  {
+    "q": "Which dynasty ruled between Humayun’s exile and restoration?",
+    "pool": ["Lodi", "Sur", "Tughlaq", "Sayyid", "Khilji"],
+    "answer": "Sur",
+    "desc": "The Sur Dynasty ruled during Humayun’s exile from India before his restoration."
+  },
+  {
+    "q": "Which religious practice did Aurangzeb forbid?",
+    "pool": ["Namaz", "Zakat", "Sati", "Hajj", "Fasting"],
+    "answer": "Sati",
+    "desc": "Aurangzeb forbade the practice of Sati as part of his religious policy."
+  }
+]

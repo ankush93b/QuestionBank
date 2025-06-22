@@ -1,0 +1,444 @@
+[
+  {
+    "q": "What was the original name of Bahadur Shah I?",
+    "pool": ["Muazzam", "Farrukhsiyar", "Jahangir", "Alamgir", "Shah Alam II"],
+    "answer": "Muazzam",
+    "desc": "Bahadur Shah I's original name was Muazzam. He was also titled Shah Alam I."
+  },
+  {
+    "q": "Who ascended the throne with the help of Zulfikar Khan?",
+    "pool": ["Farrukhsiyar", "Jahandar Shah", "Ahmed Shah", "Bahadur Shah II", "Akbar II"],
+    "answer": "Jahandar Shah",
+    "desc": "Jahandar Shah became emperor in 1712 with the support of Zulfikar Khan."
+  },
+  {
+    "q": "Which Mughal emperor abolished the Jizya tax?",
+    "pool": ["Aurangzeb", "Jahandar Shah", "Farrukhsiyar", "Shah Alam II", "Akbar II"],
+    "answer": "Jahandar Shah",
+    "desc": "Jahandar Shah abolished the Jizya tax during his short reign."
+  },
+  {
+    "q": "Which emperor's reign saw the emergence of the Sayyid Brothers?",
+    "pool": ["Farrukhsiyar", "Bahadur Shah I", "Muhammad Shah", "Ahmed Shah", "Alamgir"],
+    "answer": "Farrukhsiyar",
+    "desc": "The Sayyid Brothers rose to prominence during the reign of Farrukhsiyar (1713–1719)."
+  },
+  {
+    "q": "Who was ruling when Nadir Shah invaded India?",
+    "pool": ["Jahandar Shah", "Muhammad Shah", "Farrukhsiyar", "Shah Alam II", "Akbar II"],
+    "answer": "Muhammad Shah",
+    "desc": "Nadir Shah invaded India during the reign of Muhammad Shah and took the Peacock Throne and Kohinoor diamond."
+  },
+  {
+    "q": "Who marched towards Delhi during Ahmed Shah's reign?",
+    "pool": ["Aurangzeb", "Ahmed Shah Abdali", "Nadir Shah", "Alamgir", "Marathas"],
+    "answer": "Ahmed Shah Abdali",
+    "desc": "Ahmed Shah Abdali, a general of Nadir Shah, marched to Delhi during Ahmed Shah’s reign."
+  },
+  {
+    "q": "Which emperor saw Delhi occupied by Ahmed Shah?",
+    "pool": ["Shah Alam II", "Alamgir", "Akbar II", "Bahadur Shah I", "Farrukhsiyar"],
+    "answer": "Alamgir",
+    "desc": "During Alamgir II's reign, Ahmed Shah Abdali occupied Delhi."
+  },
+  {
+    "q": "Who couldn't enter Delhi for 12 years during his reign?",
+    "pool": ["Shah Alam II", "Muhammad Shah", "Akbar II", "Bahadur Shah I", "Farrukhsiyar"],
+    "answer": "Shah Alam II",
+    "desc": "Shah Alam II was kept away from Delhi for 12 years due to political instability."
+  },
+  {
+    "q": "Which Mughal emperor gave the title 'Raja' to Ram Mohan Roy?",
+    "pool": ["Bahadur Shah II", "Shah Alam II", "Akbar II", "Muhammad Shah", "Alamgir"],
+    "answer": "Akbar II",
+    "desc": "Akbar II gave the title 'Raja' to social reformer Raja Ram Mohan Roy."
+  },
+  {
+    "q": "Who was the last Mughal emperor?",
+    "pool": ["Bahadur Shah I", "Bahadur Shah II", "Shah Alam II", "Akbar II", "Alamgir"],
+    "answer": "Bahadur Shah II",
+    "desc": "Bahadur Shah II was the last Mughal emperor and played a symbolic role in the 1857 Revolt."
+  },
+  {
+    "q": "Who authored Tuzuk-i-Babari?",
+    "pool": ["Abul Fazal", "Babur", "Jahangir", "Darashikoh", "Hamid Lahori"],
+    "answer": "Babur",
+    "desc": "Tuzuk-i-Babari is the autobiography of Babur, the founder of the Mughal Empire."
+  },
+  {
+    "q": "Which Mughal emperor wrote Tuzuk-i-Jahangir?",
+    "pool": ["Babur", "Jahangir", "Akbar", "Shah Jahan", "Aurangzeb"],
+    "answer": "Jahangir",
+    "desc": "Jahangir documented his reign in the memoir Tuzuk-i-Jahangir."
+  },
+  {
+    "q": "Who wrote the Akbarnamah and Ain-i-Akbari?",
+    "pool": ["Birbal", "Tansen", "Faizi", "Abul Fazal", "Todar Mal"],
+    "answer": "Abul Fazal",
+    "desc": "Abul Fazal authored the Akbarnamah and Ain-i-Akbari, chronicling Akbar’s reign."
+  },
+  {
+    "q": "Which author wrote Padshahnama?",
+    "pool": ["Abul Fazal", "Jahangir", "Darashikoh", "Hamid Lahori", "Mirza Md Qasim"],
+    "answer": "Hamid Lahori",
+    "desc": "Hamid Lahori authored the Padshahnama, a chronicle of Shah Jahan's reign."
+  },
+  {
+    "q": "Majma-ul-Bahrain was written by?",
+    "pool": ["Akbar", "Darashikoh", "Abul Fazal", "Jahangir", "Shah Jahan"],
+    "answer": "Darashikoh",
+    "desc": "Darashikoh wrote Majma-ul-Bahrain, a book promoting the unity of Hindu and Islamic philosophies."
+  },
+  {
+    "q": "Who authored Alamgirnama?",
+    "pool": ["Abul Fazal", "Jahangir", "Mirza Md Qasim", "Hamid Lahori", "Darashikoh"],
+    "answer": "Mirza Md Qasim",
+    "desc": "Mirza Muhammad Qasim wrote the Alamgirnama, chronicling Aurangzeb’s rule."
+  },
+  {
+    "q": "Who succeeded Bahadur Shah I?",
+    "pool": ["Jahandar Shah", "Farrukhsiyar", "Akbar II", "Alamgir", "Bahadur Shah II"],
+    "answer": "Jahandar Shah",
+    "desc": "Jahandar Shah succeeded Bahadur Shah I in 1712."
+  },
+  {
+    "q": "Which Mughal ruler was considered a pensioner of the East India Company?",
+    "pool": ["Akbar II", "Shah Alam II", "Bahadur Shah II", "Muhammad Shah", "Farrukhsiyar"],
+    "answer": "Akbar II",
+    "desc": "Akbar II was a nominal ruler and a pensioner under the East India Company."
+  },
+  {
+    "q": "Who ruled from 1719 to 1748?",
+    "pool": ["Muhammad Shah", "Farrukhsiyar", "Jahandar Shah", "Akbar II", "Alamgir"],
+    "answer": "Muhammad Shah",
+    "desc": "Muhammad Shah reigned from 1719 to 1748, during which Nadir Shah invaded India."
+  },
+  {
+    "q": "Under whose reign did Ahmed Shah Abdali invade India?",
+    "pool": ["Ahmed Shah", "Shah Alam II", "Bahadur Shah II", "Alamgir", "Akbar II"],
+    "answer": "Ahmed Shah",
+    "desc": "Ahmed Shah Abdali invaded India during the reign of Ahmed Shah (1748–1754)."
+  },
+  {
+    "q": "Who took away the Kohinoor diamond from India?",
+    "pool": ["Nadir Shah", "Ahmed Shah Abdali", "Shah Jahan", "Aurangzeb", "Akbar"],
+    "answer": "Nadir Shah",
+    "desc": "Nadir Shah took the Kohinoor diamond and the Peacock Throne during his invasion of India."
+  },
+  {
+    "q": "Who was made the symbolic leader during the 1857 Revolt?",
+    "pool": ["Bahadur Shah II", "Shah Alam II", "Akbar II", "Aurangzeb", "Jahangir"],
+    "answer": "Bahadur Shah II",
+    "desc": "Bahadur Shah II was declared the symbolic leader of the 1857 Revolt against the British."
+  },
+  {
+    "q": "Which Mughal ruler’s autobiography is Tuzuk-i-Babari?",
+    "pool": ["Babur", "Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+    "answer": "Babur",
+    "desc": "Tuzuk-i-Babari is the autobiography of Babur, detailing his conquests and administration."
+  },
+  {
+    "q": "Who ruled the Mughal Empire the longest among the Later Mughals?",
+    "pool": ["Muhammad Shah", "Bahadur Shah I", "Farrukhsiyar", "Akbar II", "Shah Alam II"],
+    "answer": "Shah Alam II",
+    "desc": "Shah Alam II ruled from 1759 to 1806, the longest among the Later Mughal emperors."
+  },
+  {
+    "q": "What was the reign period of Bahadur Shah I?",
+    "pool": ["1707–1712", "1712–1713", "1713–1719", "1748–1754", "1759–1806"],
+    "answer": "1707–1712",
+    "desc": "Bahadur Shah I ruled the Mughal Empire from 1707 to 1712."
+  },
+  {
+    "q": "Who documented Shah Jahan's reign in Padshahnama?",
+    "pool": ["Hamid Lahori", "Darashikoh", "Mirza Md Qasim", "Babur", "Abul Fazal"],
+    "answer": "Hamid Lahori",
+    "desc": "Padshahnama, a detailed account of Shah Jahan's reign, was written by Hamid Lahori."
+  },
+  {
+    "q": "Alamgir ruled during which years?",
+    "pool": ["1754–1759", "1712–1713", "1748–1754", "1806–1837", "1759–1806"],
+    "answer": "1754–1759",
+    "desc": "Alamgir II ruled the Mughal Empire from 1754 to 1759."
+  },
+  {
+    "q": "Who was the Mughal emperor during the loss of Punjab and Multan?",
+    "pool": ["Ahmed Shah", "Alamgir", "Bahadur Shah II", "Muhammad Shah", "Akbar II"],
+    "answer": "Ahmed Shah",
+    "desc": "During Ahmed Shah’s reign, Punjab and Multan were ceded to Ahmed Shah Abdali."
+  },
+  {
+    "q": "Which ruler's court was known for cultural revival despite decline?",
+    "pool": ["Muhammad Shah", "Bahadur Shah I", "Farrukhsiyar", "Alamgir", "Shah Alam II"],
+    "answer": "Muhammad Shah",
+    "desc": "Muhammad Shah's court saw a cultural revival even though the empire was weakening."
+  },
+
+
+  {
+    "q": "Where was Shivaji born?",
+    "pool": ["Shivner", "Raigarh", "Pune", "Satara", "Bassein"],
+    "answer": "Shivner",
+    "desc": "Shivaji was born at Shivner to Shahji Bhonsle and Jijabai."
+  },
+  {
+    "q": "Who was Shivaji's religious teacher?",
+    "pool": ["Dadaji Kondadev", "Samarth Ramdas", "Ramdas Swami", "Nana Phadnavis", "Baji Rao"],
+    "answer": "Samarth Ramdas",
+    "desc": "Samarth Ramdas was the religious teacher of Shivaji."
+  },
+  {
+    "q": "Who was Shivaji's guardian?",
+    "pool": ["Samarth Ramdas", "Balaji Vishwanath", "Dadaji Kondadev", "Jijabai", "Shahu"],
+    "answer": "Dadaji Kondadev",
+    "desc": "Dadaji Kondadev was Shivaji’s guardian."
+  },
+  {
+    "q": "In which year was the Treaty of Purandar signed?",
+    "pool": ["1665", "1659", "1674", "1707", "1761"],
+    "answer": "1665",
+    "desc": "The Treaty of Purandar was signed between Shivaji and the Mughals in 1665."
+  },
+  {
+    "q": "Where was Shivaji coronated?",
+    "pool": ["Raigarh", "Shivner", "Delhi", "Bassein", "Salsette"],
+    "answer": "Raigarh",
+    "desc": "Shivaji was coronated at Raigarh in 1674."
+  },
+  {
+    "q": "What title did Shivaji assume at his coronation?",
+    "pool": ["Chhatrapati", "Haindava Dharmadharak", "Peshwa", "Samrat", "Senapati"],
+    "answer": "Haindava Dharmadharak",
+    "desc": "Shivaji assumed the title of Haindava Dharmadharak (Protector of Hinduism)."
+  },
+  {
+    "q": "Which post was responsible for military affairs in Ashtapradhan?",
+    "pool": ["Peshwa", "Sar-i-Naubat", "Amatya", "Panditrao", "Nyayadhish"],
+    "answer": "Sar-i-Naubat",
+    "desc": "Sar-i-Naubat was the military chief in the Ashtapradhan council."
+  },
+  {
+    "q": "Who looked after justice in Shivaji's council?",
+    "pool": ["Panditrao", "Dabir", "Nyayadhish", "Amatya", "Waqenavis"],
+    "answer": "Nyayadhish",
+    "desc": "Nyayadhish was responsible for justice in Shivaji's Ashtapradhan."
+  },
+  {
+    "q": "Who handled intelligence in Shivaji's Ashtapradhan?",
+    "pool": ["Waqenavis", "Surunavis", "Amatya", "Sar-i-Naubat", "Dabir"],
+    "answer": "Waqenavis",
+    "desc": "Waqenavis handled intelligence in Shivaji’s administration."
+  },
+  {
+    "q": "Which successor of Shivaji fought the Battle of Khed?",
+    "pool": ["Rajaram", "Shahu", "Sambhaji", "Balaji Baji Rao", "Baji Rao"],
+    "answer": "Shahu",
+    "desc": "Shahu, a successor of Shivaji, fought the Battle of Khed in 1708."
+  },
+  {
+    "q": "Who was the first Peshwa?",
+    "pool": ["Baji Rao", "Balaji Vishwanath", "Balaji Baji Rao", "Nana Sahib", "Dadaji Kondadev"],
+    "answer": "Balaji Vishwanath",
+    "desc": "Balaji Vishwanath was the first Peshwa of the Maratha Empire."
+  },
+  {
+    "q": "Which emperor recognized Shahu as king of Swarajya?",
+    "pool": ["Aurangzeb", "Farukh Siyyar", "Bahadur Shah I", "Shah Alam II", "Ahmed Shah Abdali"],
+    "answer": "Farukh Siyyar",
+    "desc": "Farukh Siyyar recognized Shahu as king under the agreement by Balaji Vishwanath."
+  },
+  {
+    "q": "Who is considered the greatest exponent of guerilla tactics after Shivaji?",
+    "pool": ["Baji Rao", "Balaji Baji Rao", "Shambhaji", "Dadaji Kondadev", "Raghunath Rao"],
+    "answer": "Baji Rao",
+    "desc": "Baji Rao is regarded as the greatest exponent of guerilla tactics after Shivaji."
+  },
+  {
+    "q": "Which Maratha leader defeated the Siddis of Janjira?",
+    "pool": ["Shivaji", "Baji Rao", "Balaji Vishwanath", "Shahu", "Rajaram"],
+    "answer": "Baji Rao",
+    "desc": "Baji Rao defeated the Siddis of Janjira during his military campaigns."
+  },
+  {
+    "q": "Who conquered Bassein and Salsette from the Portuguese?",
+    "pool": ["Balaji Vishwanath", "Shahu", "Baji Rao", "Rajaram", "Nana Sahib"],
+    "answer": "Baji Rao",
+    "desc": "Baji Rao conquered Bassein and Salsette from the Portuguese."
+  },
+  {
+    "q": "What was Balaji Baji Rao popularly known as?",
+    "pool": ["Baji Rao I", "Nana Sahib", "Shahu", "Rajaram", "Peshwa Saheb"],
+    "answer": "Nana Sahib",
+    "desc": "Balaji Baji Rao was popularly known as Nana Sahib."
+  },
+  {
+    "q": "When was the Third Battle of Panipat fought?",
+    "pool": ["1761", "1708", "1674", "1735", "1818"],
+    "answer": "1761",
+    "desc": "The Third Battle of Panipat was fought in 1761 between the Marathas and Ahmed Shah Abdali."
+  },
+  {
+    "q": "Who fought the Third Battle of Panipat against the Marathas?",
+    "pool": ["Nadir Shah", "Ahmed Shah Abdali", "Farukh Siyyar", "Shah Alam", "Siddis"],
+    "answer": "Ahmed Shah Abdali",
+    "desc": "Ahmed Shah Abdali defeated the Marathas in the Third Battle of Panipat."
+  },
+  {
+    "q": "Who helped in administration under Shivaji?",
+    "pool": ["Ashtapradhan", "Council of Ministers", "Diwan-i-Am", "Rajya Sabha", "Mantriparishad"],
+    "answer": "Ashtapradhan",
+    "desc": "Ashtapradhan was a council of eight ministers aiding Shivaji in administration."
+  },
+  {
+    "q": "Who was the accounts minister in Shivaji’s council?",
+    "pool": ["Mazumdar", "Panditrao", "Nyayadhish", "Waqenavis", "Dabir"],
+    "answer": "Mazumdar",
+    "desc": "Mazumdar or Amatya was in charge of accounts in the Ashtapradhan council."
+  },
+  {
+    "q": "What does 'Haindava Dharmadharak' mean?",
+    "pool": ["Warrior of Hindustan", "Protector of Hinduism", "Religious King", "Brave Hindu", "Messenger of Dharma"],
+    "answer": "Protector of Hinduism",
+    "desc": "‘Haindava Dharmadharak’ means ‘Protector of Hinduism,’ a title assumed by Shivaji."
+  },
+  {
+    "q": "When was Shivaji coronated?",
+    "pool": ["1674", "1665", "1627", "1680", "1707"],
+    "answer": "1674",
+    "desc": "Shivaji was coronated in 1674 at Raigarh."
+  },
+  {
+    "q": "Who succeeded Shivaji immediately after his death?",
+    "pool": ["Sambhaji", "Rajaram", "Shahu", "Balaji Vishwanath", "Baji Rao"],
+    "answer": "Sambhaji",
+    "desc": "Sambhaji succeeded Shivaji immediately after his death."
+  },
+  {
+    "q": "Who was the father of Shivaji?",
+    "pool": ["Shahji Bhonsle", "Shahu", "Rajaram", "Balaji Vishwanath", "Baji Rao"],
+    "answer": "Shahji Bhonsle",
+    "desc": "Shahji Bhonsle was the father of Shivaji."
+  },
+  {
+    "q": "Who was Shivaji's mother?",
+    "pool": ["Jijabai", "Gauri Bai", "Rani Laxmi", "Taramati", "Ahilyabai"],
+    "answer": "Jijabai",
+    "desc": "Jijabai was Shivaji's mother."
+  },
+  {
+    "q": "What system began under Baji Rao?",
+    "pool": ["Confederacy", "Jagirdari", "Mansabdari", "Diarchy", "Dual Administration"],
+    "answer": "Confederacy",
+    "desc": "The system of confederacy began under Baji Rao."
+  },
+  {
+    "q": "Which Peshwa is called the ‘kingmaker’?",
+    "pool": ["Balaji Vishwanath", "Sayyid Brothers", "Nana Sahib", "Rajaram", "Shahu"],
+    "answer": "Sayyid Brothers",
+    "desc": "The Sayyid Brothers were considered ‘kingmakers’ during the Maratha period."
+  },
+  {
+    "q": "What is the period of Maratha empire?",
+    "pool": ["1674–1818", "1627–1761", "1665–1806", "1707–1857", "1680–1837"],
+    "answer": "1674–1818",
+    "desc": "The Maratha Empire lasted from 1674 to 1818."
+  },
+  {
+    "q": "Who was known as Nana Sahib?",
+    "pool": ["Balaji Baji Rao", "Baji Rao I", "Shahu", "Rajaram", "Shivaji II"],
+    "answer": "Balaji Baji Rao",
+    "desc": "Balaji Baji Rao, son of Baji Rao, was known as Nana Sahib."
+  },
+
+
+  {
+    "q": "Who founded the Sikh religion?",
+    "pool": ["Guru Nanak", "Guru Angad", "Guru Gobind Singh", "Guru Arjan Dev", "Guru Amardas"],
+    "answer": "Guru Nanak",
+    "desc": "Guru Nanak Ji (1469–1539) was the founder of Sikhism and the first of the ten Sikh Gurus."
+  },
+  {
+    "q": "Which Guru invented the Gurmukhi script?",
+    "pool": ["Guru Nanak", "Guru Angad", "Guru Amardas", "Guru Tegh Bahadur", "Guru Ramdas"],
+    "answer": "Guru Angad",
+    "desc": "Guru Angad (1539–1552) invented the Gurmukhi script which later became the standard writing system for the Punjabi language."
+  },
+  {
+    "q": "Which Guru struggled against the sati and purdah systems?",
+    "pool": ["Guru Arjan Dev", "Guru Har Rai", "Guru Amardas", "Guru Hargobind Singh", "Guru Gobind Singh"],
+    "answer": "Guru Amardas",
+    "desc": "Guru Amardas (1552–1574) actively worked against the practices of sati and purdah and established 22 preaching centers (Gadiyans)."
+  },
+  {
+    "q": "Who founded the city of Amritsar in 1577?",
+    "pool": ["Guru Nanak", "Guru Ramdas", "Guru Hargobind", "Guru Tegh Bahadur", "Guru Angad"],
+    "answer": "Guru Ramdas",
+    "desc": "Guru Ramdas (1574–1581) founded Amritsar in 1577 on land granted by Mughal Emperor Akbar."
+  },
+  {
+    "q": "Who composed the Adi Granth?",
+    "pool": ["Guru Arjan Dev", "Guru Gobind Singh", "Guru Nanak", "Guru Hargobind", "Guru Tegh Bahadur"],
+    "answer": "Guru Arjan Dev",
+    "desc": "Guru Arjan Dev (1581–1606) composed the Adi Granth, which was later expanded into the Guru Granth Sahib."
+  },
+  {
+    "q": "Which Guru established the Akal Takht?",
+    "pool": ["Guru Nanak", "Guru Ramdas", "Guru Arjan Dev", "Guru Hargobind Singh", "Guru Har Rai"],
+    "answer": "Guru Hargobind Singh",
+    "desc": "Guru Hargobind Singh (1606–1644) established the Akal Takht and fortified Amritsar, introducing the concept of Miri-Piri (spiritual and temporal authority)."
+  },
+  {
+    "q": "Who provided care to Dara Shikoh?",
+    "pool": ["Guru Hargobind Singh", "Guru Tegh Bahadur", "Guru Gobind Singh", "Guru Har Rai", "Guru Ramdas"],
+    "answer": "Guru Har Rai",
+    "desc": "Guru Har Rai (1644–1661) is known for providing medical and moral support to Dara Shikoh, the brother of Mughal emperor Aurangzeb."
+  },
+  {
+    "q": "Who was the youngest Guru in terms of age at the time of Guruship?",
+    "pool": ["Guru Har Rai", "Guru Harkishan", "Guru Angad", "Guru Ramdas", "Guru Nanak"],
+    "answer": "Guru Harkishan",
+    "desc": "Guru Harkishan (1661–1664) was the youngest of all Sikh Gurus and became Guru at a very young age."
+  },
+  {
+    "q": "Who was the ninth Sikh Guru?",
+    "pool": ["Guru Tegh Bahadur", "Guru Gobind Singh", "Guru Harkishan", "Guru Har Rai", "Guru Arjan Dev"],
+    "answer": "Guru Tegh Bahadur",
+    "desc": "Guru Tegh Bahadur (1664–1675) was the ninth Guru of Sikhism and is remembered for his sacrifice to protect religious freedom."
+  },
+  {
+    "q": "Who founded the Khalsa?",
+    "pool": ["Guru Hargobind", "Guru Tegh Bahadur", "Guru Nanak", "Guru Gobind Singh", "Guru Angad"],
+    "answer": "Guru Gobind Singh",
+    "desc": "Guru Gobind Singh (1675–1708) founded the Khalsa in 1699, creating a distinct Sikh identity and martial community."
+  },
+  {
+    "q": "Which Guru's period marks the end of human Guruship in Sikhism?",
+    "pool": ["Guru Hargobind", "Guru Gobind Singh", "Guru Arjan Dev", "Guru Angad", "Guru Har Rai"],
+    "answer": "Guru Gobind Singh",
+    "desc": "Guru Gobind Singh declared the Guru Granth Sahib as the eternal Guru before his death in 1708, ending the line of human Gurus."
+  },
+  {
+    "q": "Who was granted land by Akbar to found Amritsar?",
+    "pool": ["Guru Harkishan", "Guru Ramdas", "Guru Amardas", "Guru Tegh Bahadur", "Guru Har Rai"],
+    "answer": "Guru Ramdas",
+    "desc": "Akbar granted land to Guru Ramdas, who used it to found the city of Amritsar in 1577."
+  },
+  {
+    "q": "Who composed the original version of the Guru Granth Sahib?",
+    "pool": ["Guru Nanak", "Guru Arjan Dev", "Guru Gobind Singh", "Guru Tegh Bahadur", "Guru Angad"],
+    "answer": "Guru Arjan Dev",
+    "desc": "Guru Arjan Dev compiled the Adi Granth, which was later finalized into the Guru Granth Sahib by Guru Gobind Singh."
+  },
+  {
+    "q": "Which Guru established 22 preaching centers (Gadiyans)?",
+    "pool": ["Guru Ramdas", "Guru Arjan Dev", "Guru Angad", "Guru Amardas", "Guru Harkishan"],
+    "answer": "Guru Amardas",
+    "desc": "Guru Amardas created 22 preaching centers to spread Sikh teachings more effectively."
+  },
+  {
+    "q": "Which Guru fortified Amritsar for protection?",
+    "pool": ["Guru Gobind Singh", "Guru Arjan Dev", "Guru Hargobind Singh", "Guru Ramdas", "Guru Tegh Bahadur"],
+    "answer": "Guru Hargobind Singh",
+    "desc": "Guru Hargobind Singh fortified Amritsar and introduced the concept of armed defense for Sikhs."
+  }
+]

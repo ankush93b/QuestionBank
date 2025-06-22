@@ -1,0 +1,481 @@
+[
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Apple",
+      "Microsoft",
+      "Google",
+      "Amazon",
+      "Samsung"
+    ],
+    "answer": "Apple",
+    "image": "../images/logosinternational/Apple.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Meta",
+      "Apple",
+      "IBM",
+      "Microsoft",
+      "Intel"
+    ],
+    "answer": "Microsoft",
+    "image": "../images/logosinternational/Microsoft.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Google",
+      "Samsung",
+      "Meta",
+      "Amazon",
+      "Sony"
+    ],
+    "answer": "Google",
+    "image": "../images/logosinternational/Google.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Samsung",
+      "Tencent"
+    ],
+    "answer": "Amazon",
+    "image": "../images/logosinternational/Amazon.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Samsung",
+      "Intel",
+      "IBM",
+      "Sony",
+      "Apple"
+    ],
+    "answer": "Samsung",
+    "image": "../images/logosinternational/Samsung.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Meta",
+      "Google",
+      "Apple",
+      "Tencent",
+      "Microsoft"
+    ],
+    "answer": "Meta",
+    "image": "../images/logosinternational/Meta.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Intel",
+      "IBM",
+      "Samsung",
+      "Apple",
+      "Microsoft"
+    ],
+    "answer": "Intel",
+    "image": "../images/logosinternational/Intel.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "IBM",
+      "Intel",
+      "Deloitte",
+      "McKinsey & Company",
+      "GE"
+    ],
+    "answer": "IBM",
+    "image": "../images/logosinternational/IBM.png"
+  },
+  
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Tencent",
+      "Meta",
+      "Google",
+      "Amazon",
+      "Sony"
+    ],
+    "answer": "Tencent",
+    "image": "../images/logosinternational/Tencent.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "JPMorgan Chase",
+      "Goldman Sachs",
+      "Visa",
+      "Mastercard",
+      "American Express"
+    ],
+    "answer": "JPMorgan Chase",
+    "image": "../images/logosinternational/JPMorgan_Chase.png"
+  },
+  
+  
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Visa",
+      "Mastercard",
+      "PayPal",
+      "American Express",
+      "Chase"
+    ],
+    "answer": "Visa",
+    "image": "../images/logosinternational/Visa.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Mastercard",
+      "Visa",
+      "Apple Pay",
+      "Google Pay",
+      "Amazon Pay"
+    ],
+    "answer": "Mastercard",
+    "image": "../images/logosinternational/Mastercard.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "American Express",
+      "Visa",
+      "Goldman Sachs",
+      "Apple",
+      "GE"
+    ],
+    "answer": "American Express",
+    "image": "../images/logosinternational/American_Express.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "PwC",
+      "EY",
+      "Deloitte",
+      "McKinsey & Company",
+      "IBM"
+    ],
+    "answer": "PwC",
+    "image": "../images/logosinternational/PwC.png"
+  },
+  
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "EY",
+      "PwC",
+      "IBM",
+      "Microsoft",
+      "Visa"
+    ],
+    "answer": "EY",
+    "image": "../images/logosinternational/EY.png"
+  },
+  
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Toyota",
+      "Tesla",
+      "Volkswagen",
+      "BMW",
+      "Mercedes-Benz"
+    ],
+    "answer": "Toyota",
+    "image": "../images/logosinternational/Toyota.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Tesla",
+      "Toyota",
+      "Volkswagen",
+      "Ford",
+      "GM"
+    ],
+    "answer": "Tesla",
+    "image": "../images/logosinternational/Tesla.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Volkswagen",
+      "BMW",
+      "Mercedes-Benz",
+      "Toyota",
+      "Tesla"
+    ],
+    "answer": "Volkswagen",
+    "image": "../images/logosinternational/Volkswagen.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Mercedes-Benz",
+      "Volkswagen",
+      "BMW",
+      "Audi",
+      "Toyota"
+    ],
+    "answer": "Mercedes-Benz",
+    "image": "../images/logosinternational/Mercedes-Benz.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "BMW",
+      "Mercedes-Benz",
+      "Volkswagen",
+      "Toyota",
+      "Tesla"
+    ],
+    "answer": "BMW",
+    "image": "../images/logosinternational/BMW.png"
+  },
+  
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "PepsiCo",
+      "Coca-Cola",
+      "Nestl\u00e9",
+      "Unilever",
+      "Nike"
+    ],
+    "answer": "PepsiCo",
+    "image": "../images/logosinternational/PepsiCo.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Procter & Gamble",
+      "Unilever",
+      "Nestl\u00e9",
+      "PepsiCo",
+      "Coca-Cola"
+    ],
+    "answer": "Procter & Gamble",
+    "image": "../images/logosinternational/Procter_and_Gamble.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Unilever",
+      "P&G",
+      "Nestl\u00e9",
+      "Coca-Cola",
+      "Nike"
+    ],
+    "answer": "Unilever",
+    "image": "../images/logosinternational/Unilever.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Nestle",
+      "Unilever",
+      "Coca-Cola",
+      "PepsiCo",
+      "P&G"
+    ],
+    "answer": "Nestle",
+    "image": "../images/logosinternational/Nestle.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Nike",
+      "Adidas",
+      "Puma",
+      "Reebok",
+      "Under Armour"
+    ],
+    "answer": "Nike",
+    "image": "../images/logosinternational/Nike.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Adidas",
+      "Nike",
+      "Puma",
+      "Reebok",
+      "Fila"
+    ],
+    "answer": "Adidas",
+    "image": "../images/logosinternational/Adidas.png"
+  },
+  
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Hennes & Mauritz",
+      "Zara",
+      "Uniqlo",
+      "Mango",
+      "Levi's"
+    ],
+    "answer": "Hennes & Mauritz",
+    "image": "../images/logosinternational/HandM.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "IKEA",
+      "Wayfair",
+      "Ashley Furniture",
+      "Walmart",
+      "Target"
+    ],
+    "answer": "IKEA",
+    "image": "../images/logosinternational/IKEA.png"
+  },
+ 
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Pfizer",
+      "Moderna",
+      "Johnson & Johnson",
+      "Roche",
+      "Novartis"
+    ],
+    "answer": "Pfizer",
+    "image": "../images/logosinternational/Pfizer.png"
+  },
+  
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Novartis",
+      "Roche",
+      "Pfizer",
+      "Johnson & Johnson",
+      "Bayer"
+    ],
+    "answer": "Novartis",
+    "image": "../images/logosinternational/Novartis.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Merck & Co.",
+      "Pfizer",
+      "Novartis",
+      "Roche",
+      "Johnson & Johnson"
+    ],
+    "answer": "Merck & Co.",
+    "image": "../images/logosinternational/Merck_and_Co..png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Boeing",
+      "Airbus",
+      "Lockheed Martin",
+      "Northrop Grumman",
+      "Raytheon"
+    ],
+    "answer": "Boeing",
+    "image": "../images/logosinternational/Boeing.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Airbus",
+      "Boeing",
+      "Embraer",
+      "Bombardier",
+      "Dassault"
+    ],
+    "answer": "Airbus",
+    "image": "../images/logosinternational/Airbus.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Federal Express",
+      "UPS",
+      "DHL",
+      "Amazon Logistics",
+      "Blue Dart"
+    ],
+    "answer": "Federal Express",
+    "image": "../images/logosinternational/FedEx.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "UPS",
+      "FedEx",
+      "DHL",
+      "Amazon",
+      "USPS"
+    ],
+    "answer": "UPS",
+    "image": "../images/logosinternational/UPS.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Shell",
+      "ExxonMobil",
+      "BP",
+      "Chevron",
+      "TotalEnergies"
+    ],
+    "answer": "Shell",
+    "image": "../images/logosinternational/Shell.png"
+  },
+  
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Saudi Aramco",
+      "Shell",
+      "ExxonMobil",
+      "BP",
+      "Chevron"
+    ],
+    "answer": "Saudi Aramco",
+    "image": "../images/logosinternational/Saudi_Aramco.png"
+  },
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "General Electric",
+      "Siemens",
+      "ABB",
+      "Honeywell",
+      "Schneider Electric"
+    ],
+    "answer": "General Electric",
+    "image": "../images/logosinternational/General_Electric.png"
+  },
+  
+  {
+    "q": "This is the logo of which famous company?",
+    "pool": [
+      "Walt Disney",
+      "Netflix",
+      "Warner Bros",
+      "Sony Pictures",
+      "Paramount"
+    ],
+    "answer": "Walt Disney",
+    "image": "../images/logosinternational/walt.png"
+  }
+]

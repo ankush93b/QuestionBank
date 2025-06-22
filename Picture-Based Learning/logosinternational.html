@@ -35,6 +35,9 @@
         html, body {
             height: 100%;
             box-sizing: border-box;
+            overscroll-behavior-y: none;
+            overscroll-behavior: contain;
+            touch-action: pan-x pan-y;
         }
         body { 
             font-family: 'Segoe UI', Arial, sans-serif; 
@@ -499,6 +502,15 @@
         </div>
     </div>
     <script>
+        // Disable F5 and Ctrl+R
+    document.addEventListener("keydown", function (e) {
+      if ((e.key === "F5") || 
+          (e.ctrlKey && e.key === "r") || 
+          (e.metaKey && e.key === "r")) {
+        e.preventDefault();
+        
+      }
+    });
         // Place this OUTSIDE any function, near the top of your script
 
 function showModal(type) {
@@ -622,12 +634,20 @@ window.showModal = showModal;
         }
 
         // Pool of questions, each with 7 options and 1 correct answer (by value)
-        // Now, each question can optionally have an "image" property (relative or absolute path)
-        const questions = [
-            { q: "This is the flag of which Country?", pool: ["India", "Burma", "Sri Lanka", "Thailand"], answer: "Sri Lanka", image: "../images/flags/Sri Lanka.png" },
-           
-             
-        ];
+        let questions = [];
+
+        fetch('data/logosinternational.json')
+        .then(response => response.json())
+        .then(data => {
+            questions = data;
+            startNewCycle();
+            loadQuestion();
+            updateTimerDisplay();
+            timerInterval = setInterval(tick, 1000);
+        })
+        .catch(err => {
+            document.getElementById('question').textContent = 'Failed to load questions.';
+        });
 
         // TIMER LOGIC
         let timer = 300; // 5 mins in seconds
@@ -919,11 +939,7 @@ window.showModal = showModal;
             document.getElementById('timerLabel').textContent = "Elapsed:";
         }
 
-        // INITIALIZE
-        startNewCycle();
-        loadQuestion();
-        updateTimerDisplay();
-        timerInterval = setInterval(tick, 1000);
+        
     </script>
 </body>
 </html>

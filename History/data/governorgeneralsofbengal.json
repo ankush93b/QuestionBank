@@ -1,0 +1,352 @@
+[
+  {
+    "q": "Who was the first Governor-General of Bengal?",
+    "pool": ["Warren Hastings", "Lord Cornwallis", "Sir John Shore", "Lord Clive", "William Bentinck"],
+    "answer": "Warren Hastings",
+    "desc": "Warren Hastings served as the first Governor-General of Bengal from 1774 to 1785."
+  },
+  {
+    "q": "Which act brought an end to the dual government system?",
+    "pool": ["Charter Act, 1813", "Pitt's India Act", "Regulating Act, 1773", "Act of 1781", "Government of India Act, 1858"],
+    "answer": "Regulating Act, 1773",
+    "desc": "The Regulating Act of 1773, implemented by Warren Hastings, ended the dual government system."
+  },
+  {
+    "q": "What was the significance of the Act of 1781?",
+    "pool": ["Ended East India Company rule", "Established Supreme Court", "Demarcated jurisdiction between Governor-General and Supreme Court", "Introduced Civil Services", "Started Permanent Settlement"],
+    "answer": "Demarcated jurisdiction between Governor-General and Supreme Court",
+    "desc": "The Act of 1781 clarified the roles of the Governor-General-in-Council and the Supreme Court at Calcutta."
+  },
+  {
+    "q": "Which act was passed in 1784 to improve governance in India?",
+    "pool": ["Regulating Act", "Charter Act", "Indian Councils Act", "Pitt’s India Act", "Judicature Act"],
+    "answer": "Pitt’s India Act",
+    "desc": "Pitt’s India Act of 1784 was enacted to address the shortcomings of the Regulating Act of 1773."
+  },
+  {
+    "q": "The Rohilla War occurred during the term of which Governor-General?",
+    "pool": ["Lord Cornwallis", "Sir John Shore", "Warren Hastings", "William Bentinck", "Lord Wellesley"],
+    "answer": "Warren Hastings",
+    "desc": "The Rohilla War of 1774 occurred under Warren Hastings."
+  },
+  {
+    "q": "When was the First Maratha War fought?",
+    "pool": ["1765–1771", "1775–1782", "1785–1790", "1790–1792", "1800–1802"],
+    "answer": "1775–1782",
+    "desc": "The First Maratha War took place from 1775 to 1782 under Warren Hastings."
+  },
+  {
+    "q": "Which treaty ended the First Maratha War?",
+    "pool": ["Treaty of Seringapatnam", "Treaty of Salbai", "Treaty of Bassein", "Treaty of Allahabad", "Treaty of Purandhar"],
+    "answer": "Treaty of Salbai",
+    "desc": "The Treaty of Salbai (1782) brought the First Maratha War to an end."
+  },
+  {
+    "q": "The Second Mysore War took place during the tenure of which Governor-General?",
+    "pool": ["Warren Hastings", "Cornwallis", "Wellesley", "Sir John Shore", "Dalhousie"],
+    "answer": "Warren Hastings",
+    "desc": "The Second Mysore War (1780–84) occurred during Warren Hastings' administration."
+  },
+  {
+    "q": "Who founded the Asiatic Society of Bengal?",
+    "pool": ["Warren Hastings", "Lord Cornwallis", "Sir William Jones", "Charles Wilkins", "John Shore"],
+    "answer": "Sir William Jones",
+    "desc": "Sir William Jones founded the Asiatic Society of Bengal in 1784 in Calcutta."
+  },
+  {
+    "q": "In which year was the English translation of Bhagavad Gita published?",
+    "pool": ["1774", "1781", "1785", "1790", "1795"],
+    "answer": "1785",
+    "desc": "Charles Wilkins translated the Bhagavad Gita into English in 1785."
+  },
+  {
+    "q": "Who translated the Bhagavad Gita into English?",
+    "pool": ["William Jones", "Charles Wilkins", "Max Müller", "James Mill", "John Shore"],
+    "answer": "Charles Wilkins",
+    "desc": "Charles Wilkins translated the Bhagavad Gita into English in 1785."
+  },
+  {
+    "q": "Which war did Lord Cornwallis fight against Tipu Sultan?",
+    "pool": ["First Mysore War", "Second Mysore War", "Third Mysore War", "Fourth Mysore War", "Anglo-Maratha War"],
+    "answer": "Third Mysore War",
+    "desc": "Lord Cornwallis led the British in the Third Mysore War (1790–92) against Tipu Sultan."
+  },
+  {
+    "q": "Which treaty ended the Third Mysore War?",
+    "pool": ["Treaty of Salbai", "Treaty of Mangalore", "Treaty of Bassein", "Treaty of Seringapatnam", "Treaty of Purandhar"],
+    "answer": "Treaty of Seringapatnam",
+    "desc": "The Treaty of Seringapatnam (1792) concluded the Third Mysore War."
+  },
+  {
+    "q": "Who introduced the Permanent Settlement in Bengal?",
+    "pool": ["Warren Hastings", "Lord Cornwallis", "Sir John Shore", "William Bentinck", "Lord Wellesley"],
+    "answer": "Lord Cornwallis",
+    "desc": "Lord Cornwallis introduced the Permanent Settlement system in 1793 in Bengal and Bihar."
+  },
+  {
+    "q": "When was the Permanent Settlement introduced?",
+    "pool": ["1789", "1790", "1791", "1793", "1795"],
+    "answer": "1793",
+    "desc": "The Permanent Settlement was implemented in 1793 under Lord Cornwallis."
+  },
+  {
+    "q": "Who is known as the Father of Civil Services in India?",
+    "pool": ["Warren Hastings", "Lord Cornwallis", "Lord Wellesley", "John Shore", "William Bentinck"],
+    "answer": "Lord Cornwallis",
+    "desc": "Lord Cornwallis is regarded as the Father of Civil Services in India for initiating administrative reforms."
+  },
+  {
+    "q": "What administrative reform did Cornwallis introduce?",
+    "pool": ["Abolition of slavery", "Introduction of Diarchy", "Separation of revenue and judicial functions", "Creation of Indian National Congress", "Expansion of railways"],
+    "answer": "Separation of revenue and judicial functions",
+    "desc": "Cornwallis introduced judicial reforms by separating revenue and judicial administration."
+  },
+  {
+    "q": "What was a key feature of Cornwallis' policing reforms?",
+    "pool": ["Creation of CBI", "Establishment of Daroga system", "Indianization of army", "Railway policing", "Intelligence Bureau"],
+    "answer": "Establishment of Daroga system",
+    "desc": "Cornwallis introduced a policing system with circles (thanas) headed by Indian officials called Darogas."
+  },
+  {
+    "q": "Who translated Abhigyan Shakuntalam into English?",
+    "pool": ["William Jones", "Charles Wilkins", "John Shore", "Francis Buchanan", "Max Müller"],
+    "answer": "William Jones",
+    "desc": "William Jones translated Kalidasa’s *Abhigyan Shakuntalam* into English in 1789."
+  },
+  {
+    "q": "In which year was Abhigyan Shakuntalam translated into English?",
+    "pool": ["1784", "1785", "1787", "1789", "1793"],
+    "answer": "1789",
+    "desc": "William Jones translated *Abhigyan Shakuntalam* into English in 1789."
+  },
+  {
+    "q": "Who succeeded Cornwallis as Governor-General of Bengal?",
+    "pool": ["William Bentinck", "Sir John Shore", "Warren Hastings", "Lord Wellesley", "Lord Dalhousie"],
+    "answer": "Sir John Shore",
+    "desc": "Sir John Shore succeeded Lord Cornwallis in 1793."
+  },
+  {
+    "q": "Which Governor-General played a key role in the Permanent Settlement?",
+    "pool": ["Warren Hastings", "Lord Cornwallis", "Sir John Shore", "Lord Wellesley", "Lord Dalhousie"],
+    "answer": "Sir John Shore",
+    "desc": "Sir John Shore supported and helped implement the Permanent Settlement system."
+  },
+  {
+    "q": "The Battle of Kharda took place in which year?",
+    "pool": ["1790", "1793", "1795", "1797", "1799"],
+    "answer": "1795",
+    "desc": "The Battle of Kharda was fought in 1795 between the Marathas and the Nizam of Hyderabad."
+  },
+  {
+    "q": "Which two powers were involved in the Battle of Kharda?",
+    "pool": ["Marathas and British", "Mughals and Marathas", "Nizams and Marathas", "British and Nizams", "British and French"],
+    "answer": "Nizams and Marathas",
+    "desc": "The Battle of Kharda (1795) was fought between the Nizam of Hyderabad and the Marathas."
+  },
+  {
+    "q": "What was the role of Sir John Shore in the Battle of Kharda?",
+    "pool": ["He led British forces", "He negotiated a treaty", "He remained neutral", "He allied with Nizam", "He supported Marathas"],
+    "answer": "He remained neutral",
+    "desc": "Sir John Shore remained neutral during the Battle of Kharda, declining military help to the Nizam."
+  },
+  {
+    "q": "Who was Governor-General when the Treaty of Salbai was signed?",
+    "pool": ["Lord Cornwallis", "Sir John Shore", "Warren Hastings", "Lord Wellesley", "Dalhousie"],
+    "answer": "Warren Hastings",
+    "desc": "The Treaty of Salbai (1782) was signed during Warren Hastings’ tenure."
+  },
+  {
+    "q": "The Asiatic Society of Bengal was founded in which city?",
+    "pool": ["Bombay", "Madras", "Delhi", "Calcutta", "Lucknow"],
+    "answer": "Calcutta",
+    "desc": "The Asiatic Society of Bengal was established in Calcutta in 1784."
+  },
+  {
+    "q": "The term 'Father of Civil Services in India' refers to which Governor-General?",
+    "pool": ["Lord Wellesley", "Lord Cornwallis", "Warren Hastings", "Sir John Shore", "Lord Dalhousie"],
+    "answer": "Lord Cornwallis",
+    "desc": "Lord Cornwallis earned this title due to his foundational reforms in Indian civil administration."
+  },
+  {
+    "q": "Which Governor-General's tenure saw both the Third Mysore War and Permanent Settlement?",
+    "pool": ["Warren Hastings", "Lord Cornwallis", "Sir John Shore", "William Bentinck", "Lord Minto"],
+    "answer": "Lord Cornwallis",
+    "desc": "Lord Cornwallis was responsible for conducting the Third Mysore War and implementing the Permanent Settlement."
+  },
+
+
+  {
+    "q": "Who introduced the Subsidiary Alliance in India?",
+    "pool": ["Lord Wellesley", "Lord Hastings", "Lord Cornwallis", "Lord Minto", "Lord Amherst"],
+    "answer": "Lord Wellesley",
+    "desc": "The Subsidiary Alliance system was introduced by Lord Wellesley in 1798."
+  },
+  {
+    "q": "Which Indian ruler was the first to accept the Subsidiary Alliance?",
+    "pool": ["Scindia", "Nizam of Hyderabad", "Peshwa", "Bhonsle", "Ranjit Singh"],
+    "answer": "Nizam of Hyderabad",
+    "desc": "The Nizam of Hyderabad was the first to sign the Subsidiary Alliance in 1798."
+  },
+  {
+    "q": "Which of these states did NOT enter into Subsidiary Alliance under Lord Wellesley?",
+    "pool": ["Mysore", "Awadh", "Punjab", "Tanjore", "Hyderabad"],
+    "answer": "Punjab",
+    "desc": "Punjab, under Ranjit Singh, did not enter into the Subsidiary Alliance system under Lord Wellesley."
+  },
+  {
+    "q": "The Treaty of Bassein (1802) was signed with which Indian power?",
+    "pool": ["Nizam", "Bhonsle", "Peshwa", "Scindia", "Ranjit Singh"],
+    "answer": "Peshwa",
+    "desc": "The Treaty of Bassein was signed in 1802 between the British and the Peshwa Baji Rao II."
+  },
+  {
+    "q": "Which war was a consequence of the Treaty of Bassein?",
+    "pool": ["First Maratha War", "Second Maratha War", "Third Maratha War", "Anglo-Nepal War", "Pindari War"],
+    "answer": "Second Maratha War",
+    "desc": "The Treaty of Bassein led to the Second Maratha War (1803–1805)."
+  },
+  {
+    "q": "During whose tenure did the Vellore Mutiny take place?",
+    "pool": ["Lord Wellesley", "Lord Minto I", "George Barlow", "Lord Hastings", "Lord Amherst"],
+    "answer": "George Barlow",
+    "desc": "The Vellore Mutiny occurred in 1806 under Governor-General George Barlow."
+  },
+  {
+    "q": "In which year did the Vellore Mutiny take place?",
+    "pool": ["1805", "1806", "1807", "1808", "1809"],
+    "answer": "1806",
+    "desc": "The Vellore Mutiny occurred in 1806 due to religious and cultural grievances."
+  },
+  {
+    "q": "Who signed the Treaty of Amritsar with Maharaja Ranjit Singh?",
+    "pool": ["Lord Wellesley", "George Barlow", "Lord Minto I", "Lord Hastings", "Lord Amherst"],
+    "answer": "Lord Minto I",
+    "desc": "Lord Minto I signed the Treaty of Amritsar with Ranjit Singh in 1809."
+  },
+  {
+    "q": "The Treaty of Amritsar was signed in which year?",
+    "pool": ["1808", "1809", "1810", "1811", "1812"],
+    "answer": "1809",
+    "desc": "The Treaty of Amritsar was signed in 1809 between the British and Ranjit Singh."
+  },
+  {
+    "q": "Which act ended the trade monopoly of the East India Company?",
+    "pool": ["Charter Act of 1813", "Regulating Act", "Pitt's India Act", "Charter Act of 1833", "Act of 1781"],
+    "answer": "Charter Act of 1813",
+    "desc": "The Charter Act of 1813 ended the East India Company's monopoly on trade in India (except tea and trade with China)."
+  },
+  {
+    "q": "Who was Governor-General when the Charter Act of 1813 was passed?",
+    "pool": ["Lord Minto I", "Lord Hastings", "Lord Amherst", "George Barlow", "Lord Wellesley"],
+    "answer": "Lord Minto I",
+    "desc": "The Charter Act of 1813 was enacted during the tenure of Lord Minto I."
+  },
+  {
+    "q": "The Anglo-Nepal War was fought during the tenure of which Governor-General?",
+    "pool": ["Lord Hastings", "Lord Minto", "Lord Wellesley", "George Barlow", "Lord Amherst"],
+    "answer": "Lord Hastings",
+    "desc": "The Anglo-Nepal War (1814–1816) took place under Lord Hastings."
+  },
+  {
+    "q": "Which treaty ended the Anglo-Nepal War?",
+    "pool": ["Treaty of Yandaboo", "Treaty of Amritsar", "Treaty of Seringapatnam", "Treaty of Sagauli", "Treaty of Salbai"],
+    "answer": "Treaty of Sagauli",
+    "desc": "The Treaty of Sagauli (1816) ended the Anglo-Nepal War and resulted in the cession of Nepali territory to the British."
+  },
+  {
+    "q": "The Third Maratha War took place during whose tenure?",
+    "pool": ["Lord Hastings", "Lord Amherst", "Lord Minto", "Lord Wellesley", "George Barlow"],
+    "answer": "Lord Hastings",
+    "desc": "The Third Maratha War (1817–1818) occurred under Lord Hastings."
+  },
+  {
+    "q": "What was the outcome of the Third Maratha War?",
+    "pool": ["Establishment of Madras Presidency", "Annexation of Mysore", "Dissolution of Maratha Confederacy", "Treaty with Ranjit Singh", "Introduction of Doctrine of Lapse"],
+    "answer": "Dissolution of Maratha Confederacy",
+    "desc": "The Third Maratha War ended the Maratha Confederacy and established British supremacy in western India."
+  },
+  {
+    "q": "Which new province was created after the Third Maratha War?",
+    "pool": ["Punjab", "Madras", "Bombay", "Bengal", "Awadh"],
+    "answer": "Bombay",
+    "desc": "The Bombay Presidency was created following the defeat of the Marathas in the Third Maratha War."
+  },
+  {
+    "q": "The Pindari War was fought during which Governor-General’s term?",
+    "pool": ["Lord Wellesley", "Lord Minto", "Lord Hastings", "Lord Amherst", "George Barlow"],
+    "answer": "Lord Hastings",
+    "desc": "The Pindari War (1817–1818) was fought under Lord Hastings to eliminate the Pindari menace."
+  },
+  {
+    "q": "Who introduced the Ryotwari System in Madras Presidency?",
+    "pool": ["Lord Cornwallis", "Thomas Munro", "William Bentinck", "Lord Hastings", "John Shore"],
+    "answer": "Thomas Munro",
+    "desc": "Thomas Munro introduced the Ryotwari System in 1820 under Lord Hastings' administration."
+  },
+  {
+    "q": "In which year was the Ryotwari System introduced?",
+    "pool": ["1817", "1818", "1819", "1820", "1821"],
+    "answer": "1820",
+    "desc": "The Ryotwari System was introduced in 1820 by Thomas Munro."
+  },
+  {
+    "q": "During which Governor-General’s tenure was the First Burmese War fought?",
+    "pool": ["Lord Hastings", "Lord Amherst", "Lord Wellesley", "Lord Minto", "George Barlow"],
+    "answer": "Lord Amherst",
+    "desc": "The First Burmese War (1824–1826) took place under Lord Amherst."
+  },
+  {
+    "q": "Which treaty ended the First Burmese War?",
+    "pool": ["Treaty of Yandaboo", "Treaty of Sagauli", "Treaty of Salbai", "Treaty of Amritsar", "Treaty of Bassein"],
+    "answer": "Treaty of Yandaboo",
+    "desc": "The Treaty of Yandaboo in 1826 ended the First Burmese War."
+  },
+  {
+    "q": "When was the Treaty of Yandaboo signed?",
+    "pool": ["1824", "1825", "1826", "1827", "1828"],
+    "answer": "1826",
+    "desc": "The Treaty of Yandaboo was signed in 1826, marking the end of the First Burmese War."
+  },
+  {
+    "q": "Which city was captured in 1826 under Lord Amherst?",
+    "pool": ["Delhi", "Hyderabad", "Bharatpur", "Agra", "Lucknow"],
+    "answer": "Bharatpur",
+    "desc": "Bharatpur was captured in 1826 during the tenure of Lord Amherst."
+  },
+  {
+    "q": "Lord Amherst served as Governor-General during which period?",
+    "pool": ["1820–1823", "1823–1828", "1828–1833", "1813–1823", "1807–1813"],
+    "answer": "1823–1828",
+    "desc": "Lord Amherst was the Governor-General of India from 1823 to 1828."
+  },
+  {
+    "q": "Lord Wellesley served as Governor-General during which years?",
+    "pool": ["1786–1793", "1793–1798", "1798–1805", "1805–1807", "1807–1813"],
+    "answer": "1798–1805",
+    "desc": "Lord Wellesley served as the Governor-General of India from 1798 to 1805."
+  },
+  {
+    "q": "Which Governor-General signed treaties with multiple Indian states under the Subsidiary Alliance system?",
+    "pool": ["Lord Minto", "George Barlow", "Lord Wellesley", "Lord Hastings", "Lord Amherst"],
+    "answer": "Lord Wellesley",
+    "desc": "Lord Wellesley expanded British influence by signing Subsidiary Alliances with various Indian states."
+  },
+  {
+    "q": "Who was the Governor-General during the Third Maratha War and the Pindari War?",
+    "pool": ["Lord Hastings", "Lord Wellesley", "Lord Minto", "Lord Amherst", "George Barlow"],
+    "answer": "Lord Hastings",
+    "desc": "Lord Hastings presided over both the Third Maratha War and the Pindari War."
+  },
+  {
+    "q": "Which Governor-General signed a treaty with Maharaja Ranjit Singh?",
+    "pool": ["Lord Amherst", "Lord Hastings", "Lord Wellesley", "Lord Minto I", "George Barlow"],
+    "answer": "Lord Minto I",
+    "desc": "Lord Minto I signed the Treaty of Amritsar with Ranjit Singh in 1809."
+  },
+  {
+    "q": "The capture of Bharatpur in 1826 happened under which Governor-General?",
+    "pool": ["Lord Wellesley", "Lord Hastings", "Lord Minto", "George Barlow", "Lord Amherst"],
+    "answer": "Lord Amherst",
+    "desc": "Bharatpur was captured in 1826 during the administration of Lord Amherst."
+  }
+]

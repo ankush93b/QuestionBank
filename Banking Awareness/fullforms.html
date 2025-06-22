@@ -13,6 +13,9 @@
         html, body {
             height: 100%;
             box-sizing: border-box;
+            overscroll-behavior-y: none;
+            overscroll-behavior: contain;
+            touch-action: pan-x pan-y;
         }
         body { 
             font-family: Arial, sans-serif; 
@@ -476,6 +479,15 @@
         </div>
     </div>
     <script>
+        // Disable F5 and Ctrl+R
+    document.addEventListener("keydown", function (e) {
+      if ((e.key === "F5") || 
+          (e.ctrlKey && e.key === "r") || 
+          (e.metaKey && e.key === "r")) {
+        e.preventDefault();
+        
+      }
+    });
         window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());

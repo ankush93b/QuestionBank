@@ -1,0 +1,874 @@
+[
+  {
+    "q": "Who invaded India in AD 712 and conquered Sindh?",
+    "pool": ["Mohammad Ghori", "Mahmud of Ghazni", "Qutub-ud-din Aibak", "Mohammad bin Qasim", "Prithviraj Chauhan"],
+    "answer": "Mohammad bin Qasim",
+    "desc": "Mohammad bin Qasim led the first successful Arab invasion of India in AD 712 and conquered Sindh."
+  },
+  {
+    "q": "How many expeditions did Mahmud of Ghazni lead into India?",
+    "pool": ["10", "15", "17", "20", "25"],
+    "answer": "17",
+    "desc": "Mahmud of Ghazni led around 17 expeditions into India, mainly for plundering wealth."
+  },
+  {
+    "q": "Which famous Hindu temple did Mahmud of Ghazni raid in 1025?",
+    "pool": ["Kashi Vishwanath", "Somnath", "Kedarnath", "Jagannath", "Vaishno Devi"],
+    "answer": "Somnath",
+    "desc": "In 1025, Mahmud of Ghazni raided the Somnath temple located on the Kathiawar coast."
+  },
+  {
+    "q": "Where was the Somnath temple situated?",
+    "pool": ["Gujarat", "Punjab", "Rajasthan", "Maharashtra", "Uttar Pradesh"],
+    "answer": "Gujarat",
+    "desc": "The Somnath temple is located in Kathiawar, which is in present-day Gujarat."
+  },
+  {
+    "q": "Who defeated Mohammad Ghori in the First Battle of Tarain?",
+    "pool": ["Mahmud of Ghazni", "Qutub-ud-din Aibak", "Prithviraj Chauhan", "Babur", "Raja Bhoj"],
+    "answer": "Prithviraj Chauhan",
+    "desc": "In 1191, Prithviraj Chauhan defeated Mohammad Ghori in the First Battle of Tarain."
+  },
+  {
+    "q": "When did the First Battle of Tarain take place?",
+    "pool": ["1190", "1191", "1192", "1200", "1215"],
+    "answer": "1191",
+    "desc": "The First Battle of Tarain took place in 1191 between Mohammad Ghori and Prithviraj Chauhan."
+  },
+  {
+    "q": "Who won the Second Battle of Tarain in 1192?",
+    "pool": ["Prithviraj Chauhan", "Mohammad Ghori", "Mahmud of Ghazni", "Qutub-ud-din Aibak", "Raja Harsh"],
+    "answer": "Mohammad Ghori",
+    "desc": "Mohammad Ghori defeated Prithviraj Chauhan in the Second Battle of Tarain in 1192."
+  },
+  {
+    "q": "Which battle laid the foundation of Muslim rule in India?",
+    "pool": ["Battle of Panipat", "First Battle of Tarain", "Second Battle of Tarain", "Battle of Haldighati", "Battle of Talikota"],
+    "answer": "Second Battle of Tarain",
+    "desc": "The Second Battle of Tarain in 1192 is considered the beginning of Muslim rule in India."
+  },
+  {
+    "q": "Who is considered the founder of Muslim rule in India?",
+    "pool": ["Qutub-ud-din Aibak", "Babur", "Mohammad bin Qasim", "Mohammad Ghori", "Alauddin Khilji"],
+    "answer": "Mohammad Ghori",
+    "desc": "Mohammad Ghori is regarded as the founder of Muslim rule in India after his victory at Tarain."
+  },
+  {
+    "q": "When was the Ilbari Dynasty founded?",
+    "pool": ["1192", "1206", "1290", "1215", "1236"],
+    "answer": "1206",
+    "desc": "The Ilbari Dynasty, also known as the Slave Dynasty, was founded in AD 1206."
+  },
+  {
+    "q": "Who founded the Slave Dynasty?",
+    "pool": ["Iltutmish", "Razia Sultana", "Balban", "Qutub-ud-din Aibak", "Mohammad Ghori"],
+    "answer": "Qutub-ud-din Aibak",
+    "desc": "Qutub-ud-din Aibak founded the Slave Dynasty in 1206 after the death of Mohammad Ghori."
+  },
+  {
+    "q": "What was the initial capital of Qutub-ud-din Aibak?",
+    "pool": ["Delhi", "Lahore", "Ajmer", "Kabul", "Multan"],
+    "answer": "Lahore",
+    "desc": "Qutub-ud-din Aibak initially ruled from Lahore before shifting the capital to Delhi."
+  },
+  {
+    "q": "What was Qutub-ud-din Aibak popularly called due to his generosity?",
+    "pool": ["Sultan-e-Azam", "Lakh Baksh", "Sultan of Delhi", "Malik-ul-Mulk", "Zakaat Baksh"],
+    "answer": "Lakh Baksh",
+    "desc": "Qutub-ud-din Aibak was nicknamed 'Lakh Baksh' for his generosity and donations."
+  },
+  {
+    "q": "Who laid the foundation of Qutub Minar?",
+    "pool": ["Iltutmish", "Alauddin Khilji", "Qutub-ud-din Aibak", "Firoz Shah", "Razia Sultana"],
+    "answer": "Qutub-ud-din Aibak",
+    "desc": "Qutub-ud-din Aibak initiated the construction of the Qutub Minar in Delhi."
+  },
+  {
+    "q": "The Qutub Minar was named after which famous Sufi saint?",
+    "pool": ["Nizamuddin Auliya", "Moinuddin Chishti", "Khwaja Qutubuddin Bakhtiyar Kaki", "Baba Farid", "Sheikh Salim Chishti"],
+    "answer": "Khwaja Qutubuddin Bakhtiyar Kaki",
+    "desc": "Qutub Minar was named after Khwaja Qutubuddin Bakhtiyar Kaki, a revered Sufi saint."
+  },
+  {
+    "q": "Which mosque was the first to be built in India?",
+    "pool": ["Jama Masjid", "Quwwat-ul-Islam", "Adhai Din ka Jhopra", "Badshahi Masjid", "Moti Masjid"],
+    "answer": "Quwwat-ul-Islam",
+    "desc": "Quwwat-ul-Islam mosque in Delhi is the first mosque built in India by Qutub-ud-din Aibak."
+  },
+  {
+    "q": "Where is Adhai Din ka Jhopra located?",
+    "pool": ["Delhi", "Ajmer", "Jaipur", "Lahore", "Multan"],
+    "answer": "Ajmer",
+    "desc": "Adhai Din ka Jhopra, a mosque built by Qutub-ud-din Aibak, is located in Ajmer."
+  },
+  {
+    "q": "How did Qutub-ud-din Aibak die?",
+    "pool": ["In battle", "By assassination", "While playing Chaugan", "Old age", "Poisoned"],
+    "answer": "While playing Chaugan",
+    "desc": "Qutub-ud-din Aibak died after a fall from his horse while playing Chaugan (polo) in Lahore."
+  },
+  {
+    "q": "What game was Qutub-ud-din Aibak playing when he died?",
+    "pool": ["Chess", "Kho-Kho", "Chaugan", "Pachisi", "Horse racing"],
+    "answer": "Chaugan",
+    "desc": "Chaugan, a form of polo, was being played by Qutub-ud-din Aibak at the time of his death."
+  },
+  {
+    "q": "Which dynasty was also known as the Mamluk Dynasty?",
+    "pool": ["Tughlaq", "Khilji", "Lodhi", "Slave", "Sayyid"],
+    "answer": "Slave",
+    "desc": "The Slave Dynasty is also referred to as the Mamluk Dynasty in Indian history."
+  },
+  {
+    "q": "Who was the spiritual inspiration behind the name Qutub Minar?",
+    "pool": ["Qutubuddin Bakhtiyar Kaki", "Nizamuddin Auliya", "Sheikh Chishti", "Baba Farid", "Ali Hajveri"],
+    "answer": "Qutubuddin Bakhtiyar Kaki",
+    "desc": "Qutub Minar was named to honor the Sufi saint Qutubuddin Bakhtiyar Kaki."
+  },
+  {
+    "q": "What does 'Adhai Din ka Jhopra' literally mean?",
+    "pool": ["House of Two Days", "Mosque of Three Days", "Cottage of Two and a Half Days", "Temple of Five Days", "Palace of Four Nights"],
+    "answer": "Cottage of Two and a Half Days",
+    "desc": "'Adhai Din ka Jhopra' translates to 'Cottage of Two and a Half Days'."
+  },
+  {
+    "q": "Where did Mohammad Ghori come from?",
+    "pool": ["Turkey", "Persia", "Afghanistan", "Uzbekistan", "Iran"],
+    "answer": "Afghanistan",
+    "desc": "Mohammad Ghori hailed from Ghor, in present-day Afghanistan."
+  },
+  {
+    "q": "Which Rajput king was defeated in the Second Battle of Tarain?",
+    "pool": ["Raja Bhoj", "Rana Pratap", "Raja Harsh", "Prithviraj Chauhan", "Vikramaditya"],
+    "answer": "Prithviraj Chauhan",
+    "desc": "Prithviraj Chauhan was defeated by Mohammad Ghori in 1192 at the Second Battle of Tarain."
+  },
+  {
+    "q": "Who succeeded Mohammad Ghori in India?",
+    "pool": ["Iltutmish", "Qutub-ud-din Aibak", "Mahmud of Ghazni", "Razia Sultana", "Balban"],
+    "answer": "Qutub-ud-din Aibak",
+    "desc": "Qutub-ud-din Aibak, Ghori's general, took over after his master's death and became Sultan."
+  },
+  {
+    "q": "What religion did Mahmud of Ghazni and Mohammad Ghori follow?",
+    "pool": ["Hinduism", "Buddhism", "Islam", "Jainism", "Zoroastrianism"],
+    "answer": "Islam",
+    "desc": "Both Mahmud of Ghazni and Mohammad Ghori were Muslim invaders from Central Asia."
+  },
+  {
+    "q": "Which monument is associated with both religious and architectural significance during Aibak's rule?",
+    "pool": ["Red Fort", "Qutub Minar", "India Gate", "Charminar", "Buland Darwaza"],
+    "answer": "Qutub Minar",
+    "desc": "Qutub Minar is a famous minaret begun by Qutub-ud-din Aibak and completed by Iltutmish."
+  },
+  {
+    "q": "Which city became the political center under Qutub-ud-din Aibak?",
+    "pool": ["Kabul", "Lahore", "Ajmer", "Delhi", "Kanauj"],
+    "answer": "Delhi",
+    "desc": "Though Aibak started in Lahore, he eventually made Delhi his political center."
+  },
+  {
+    "q": "Which Sultan built the Quwwat-ul-Islam mosque?",
+    "pool": ["Iltutmish", "Alauddin Khilji", "Balban", "Qutub-ud-din Aibak", "Muhammad Tughlaq"],
+    "answer": "Qutub-ud-din Aibak",
+    "desc": "Qutub-ud-din Aibak built the Quwwat-ul-Islam mosque in Delhi."
+  },
+
+
+  {
+    "q": "Who formed the Turkan-e-Chahalgani or Chalisa?",
+    "pool": ["Razia Sultan", "Iltutmish", "Balban", "Alauddin Khalji", "Jalaluddin Khalji"],
+    "answer": "Iltutmish",
+    "desc": "Iltutmish formed the Chalisa, a group of 40 powerful Turkish nobles, to strengthen his administration."
+  },
+  {
+    "q": "What was the Chalisa?",
+    "pool": ["A tax policy", "A religious group", "A group of Turkish nobles", "A military alliance", "A legal code"],
+    "answer": "A group of Turkish nobles",
+    "desc": "The Chalisa was a council of 40 powerful Turkish nobles formed by Iltutmish."
+  },
+  {
+    "q": "How did Iltutmish manage salaries for officials?",
+    "pool": ["By giving them gold coins", "By assigning lands (Iqtas)", "Through barter system", "By paying in foreign currency", "By tax exemptions"],
+    "answer": "By assigning lands (Iqtas)",
+    "desc": "Iltutmish divided his empire into Iqtas, land assigned to officials in lieu of salary."
+  },
+  {
+    "q": "Which coin types were introduced by Iltutmish?",
+    "pool": ["Gold dinar and silver tanka", "Silver tanka and copper jital", "Copper jital and bronze paisa", "Gold mohur and copper coin", "Rupee and paisa"],
+    "answer": "Silver tanka and copper jital",
+    "desc": "Iltutmish introduced two coin types: the silver tanka and copper jital."
+  },
+  {
+    "q": "When did Iltutmish rule Delhi?",
+    "pool": ["1192–1210", "1210–1236", "1236–1240", "1266–1286", "1290–1320"],
+    "answer": "1210–1236",
+    "desc": "Iltutmish ruled from AD 1210 to 1236 and laid strong administrative foundations."
+  },
+  {
+    "q": "Who was the first and only Muslim woman ruler of medieval India?",
+    "pool": ["Razia Sultan", "Ruqaiya Begum", "Noor Jahan", "Gulbadan Begum", "Nur-un-Nisa"],
+    "answer": "Razia Sultan",
+    "desc": "Razia Sultan was the first and only Muslim woman ruler of medieval India, ruling from 1236 to 1240."
+  },
+  {
+    "q": "Which governor did Razia Sultan marry?",
+    "pool": ["Iltutmish", "Bahram Shah", "Altunia", "Balban", "Malik Kafur"],
+    "answer": "Altunia",
+    "desc": "Razia Sultan married Altunia, the governor of Bhatinda."
+  },
+  {
+    "q": "Who killed Razia Sultan?",
+    "pool": ["Altunia", "Iltutmish", "Bahram Shah", "Alauddin Khalji", "Jalaluddin Khalji"],
+    "answer": "Bahram Shah",
+    "desc": "Razia Sultan was killed by Bahram Shah, her brother and son of Iltutmish."
+  },
+  {
+    "q": "Which practice was introduced by Balban to emphasize royal authority?",
+    "pool": ["Iqta", "Sijdah and Paibos", "Jizya", "Chalisa", "Purdah"],
+    "answer": "Sijdah and Paibos",
+    "desc": "Balban introduced Sijdah and Paibos to strengthen the divine image of the king."
+  },
+  {
+    "q": "What does 'Niyabat-e-Khudai' mean?",
+    "pool": ["King as military leader", "King as divine ruler", "King as deputy of God", "King as people's servant", "King as priest"],
+    "answer": "King as deputy of God",
+    "desc": "Balban proclaimed the king as 'Niyabat-e-Khudai', meaning deputy of God."
+  },
+  {
+    "q": "What title did Balban use to describe himself as God's representative?",
+    "pool": ["Zil-e-Illahi", "Sultan-e-Azam", "Nizam-ul-Mulk", "Khilafat", "Hazrat"],
+    "answer": "Zil-e-Illahi",
+    "desc": "Balban referred to himself as 'Zil-e-Illahi', meaning the shadow of God."
+  },
+  {
+    "q": "What were Diwan-e-Ariz and Diwan-e-Wazarat?",
+    "pool": ["Military and Finance Departments", "Justice and Tax Departments", "Religious and Cultural Offices", "Trade and Transport Bureaus", "Land and Forest Departments"],
+    "answer": "Military and Finance Departments",
+    "desc": "Balban separated the Military Department (Diwan-e-Ariz) and Finance Department (Diwan-e-Wazarat)."
+  },
+  {
+    "q": "Who ruled Delhi from AD 1266 to 1286?",
+    "pool": ["Iltutmish", "Razia Sultan", "Balban", "Alauddin Khalji", "Nasiruddin"],
+    "answer": "Balban",
+    "desc": "Balban ruled Delhi from AD 1266 to 1286 and implemented strict court discipline."
+  },
+  {
+    "q": "Which dynasty ruled from AD 1290 to 1320?",
+    "pool": ["Slave Dynasty", "Tughlaq Dynasty", "Khilji Dynasty", "Lodhi Dynasty", "Sayyid Dynasty"],
+    "answer": "Khilji Dynasty",
+    "desc": "The Khalji Dynasty ruled from AD 1290 to 1320 and expanded the empire significantly."
+  },
+  {
+    "q": "Who was the first ruler of the Khalji Dynasty?",
+    "pool": ["Alauddin Khalji", "Balban", "Jalaluddin Firuz Khalji", "Iltutmish", "Raziya Sultan"],
+    "answer": "Jalaluddin Firuz Khalji",
+    "desc": "Jalaluddin Firuz Khalji was the founder of the Khalji Dynasty in 1290."
+  },
+  {
+    "q": "What belief did Jalaluddin Firuz Khalji hold about India?",
+    "pool": ["It should be entirely Hindu", "It cannot be a fully Islamic state", "It should be ruled by nobles", "It should not have a capital", "It must be divided into provinces"],
+    "answer": "It cannot be a fully Islamic state",
+    "desc": "Jalaluddin believed India could not be a fully Islamic state due to its diverse population."
+  },
+  {
+    "q": "Who succeeded Jalaluddin Firuz Khalji?",
+    "pool": ["Balban", "Nasiruddin", "Alauddin Khalji", "Iltutmish", "Ghiyasuddin Tughlaq"],
+    "answer": "Alauddin Khalji",
+    "desc": "Alauddin Khalji succeeded Jalaluddin Firuz Khalji and expanded the empire significantly."
+  },
+  {
+    "q": "Which southern general led Alauddin Khalji's southern campaigns?",
+    "pool": ["Balban", "Malik Kafur", "Altunia", "Qutbuddin Mubarak", "Bahram Shah"],
+    "answer": "Malik Kafur",
+    "desc": "Malik Kafur led Alauddin Khalji’s southern conquests to expand the Delhi Sultanate."
+  },
+  {
+    "q": "Which regions were conquered by Alauddin Khalji?",
+    "pool": ["Kashmir and Sindh", "Gujarat, Chittor, Malwa", "Punjab and Bengal", "Delhi and Agra", "Awadh and Bihar"],
+    "answer": "Gujarat, Chittor, Malwa",
+    "desc": "Alauddin Khalji expanded his empire to Gujarat, Chittor, Ranthambhor, and Malwa."
+  },
+  {
+    "q": "Which economic policy was implemented by Alauddin Khalji in Doab?",
+    "pool": ["Increased taxes", "Introduced coin reforms", "No iqta system", "Famine relief", "Tribal subsidies"],
+    "answer": "No iqta system",
+    "desc": "Alauddin Khalji did not allow iqtas in the fertile Doab region to retain direct revenue control."
+  },
+  {
+    "q": "What did Alauddin Khalji abolish in Khalisa land?",
+    "pool": ["Jizya", "Zamindari", "Purdah", "Iqta", "Agricultural tax"],
+    "answer": "Zamindari",
+    "desc": "Alauddin abolished Zamindari in Khalisa land to assert state control over revenue."
+  },
+  {
+    "q": "Which Sultan is credited for ending the iqta system in some areas?",
+    "pool": ["Iltutmish", "Balban", "Alauddin Khalji", "Razia Sultan", "Jalaluddin Khalji"],
+    "answer": "Alauddin Khalji",
+    "desc": "Alauddin Khalji ended the iqta system in the Doab region to increase direct state revenue."
+  },
+  {
+    "q": "Who introduced Sijdah and Paibos in the royal court?",
+    "pool": ["Alauddin Khalji", "Balban", "Iltutmish", "Razia Sultan", "Muhammad Ghori"],
+    "answer": "Balban",
+    "desc": "Balban introduced the court practices of Sijdah and Paibos to assert royal authority."
+  },
+  {
+    "q": "Which woman ruler in medieval India married the governor of Bhatinda?",
+    "pool": ["Razia Sultan", "Ruqaiya Begum", "Noor Jahan", "Gulbadan Begum", "Mumtaz Mahal"],
+    "answer": "Razia Sultan",
+    "desc": "Razia Sultan married Altunia, governor of Bhatinda, during her reign."
+  },
+  {
+    "q": "Who reviewed that India cannot be a totally Islamic state?",
+    "pool": ["Iltutmish", "Alauddin Khalji", "Jalaluddin Khalji", "Balban", "Malik Kafur"],
+    "answer": "Jalaluddin Khalji",
+    "desc": "Jalaluddin Firuz Khalji acknowledged India's religious diversity and declared it couldn't be wholly Islamic."
+  },
+  {
+    "q": "Who was responsible for the Mongol threat during his reign?",
+    "pool": ["Balban", "Iltutmish", "Razia Sultan", "Alauddin Khalji", "Firoz Shah Tughlaq"],
+    "answer": "Iltutmish",
+    "desc": "During Iltutmish’s reign, India faced threats from Mongol invasions."
+  },
+  {
+    "q": "What is a 'Khalisa' land?",
+    "pool": ["Temple-owned land", "Private land", "Royal land directly controlled by the state", "Unused forest land", "Religious land grants"],
+    "answer": "Royal land directly controlled by the state",
+    "desc": "Khalisa land referred to land under direct state administration without intermediaries like zamindars."
+  },
+  {
+    "q": "Who ruled Delhi immediately after Iltutmish?",
+    "pool": ["Balban", "Alauddin Khalji", "Razia Sultan", "Nasiruddin", "Bahram Shah"],
+    "answer": "Razia Sultan",
+    "desc": "Razia Sultan, daughter of Iltutmish, succeeded him as ruler in AD 1236."
+  },
+  {
+    "q": "Who was killed by his own daughter, Razia Sultan?",
+    "pool": ["Iltutmish", "Balban", "Altunia", "No one", "Jalaluddin Khalji"],
+    "answer": "No one",
+    "desc": "Razia Sultan was herself killed by Bahram Shah; she did not kill anyone in her family."
+  },
+
+
+  {
+    "q": "Which Sultan adopted the policy of Blood and Iron to tackle the Mongols?",
+    "pool": ["Balban", "Iltutmish", "Alauddin Khalji", "Muhammad bin Tughlaq", "Firoz Shah Tughlaq"],
+    "answer": "Alauddin Khalji",
+    "desc": "Alauddin Khalji adopted the policy of Blood and Iron to deal with Mongol invasions."
+  },
+  {
+    "q": "Which city was built by Alauddin Khalji as his capital?",
+    "pool": ["Delhi", "Agra", "Siri", "Tughlaqabad", "Jaunpur"],
+    "answer": "Siri",
+    "desc": "Alauddin Khalji built the city of Siri and made it his capital."
+  },
+  {
+    "q": "What significant structure did Alauddin Khalji add an entrance to?",
+    "pool": ["Red Fort", "Jama Masjid", "Qutub Minar", "Humayun's Tomb", "Alai Minar"],
+    "answer": "Qutub Minar",
+    "desc": "Alauddin Khalji added an entrance door to the Qutub Minar."
+  },
+  {
+    "q": "Which title did Alauddin Khalji adopt?",
+    "pool": ["Ghazi", "Zil-e-Ilahi", "Sikandar-i-Sani", "Nizam-ul-Mulk", "Niyabat-e-Khudai"],
+    "answer": "Sikandar-i-Sani",
+    "desc": "Alauddin Khalji called himself Sikandar-i-Sani, meaning Second Alexander."
+  },
+  {
+    "q": "What was the Chehra and Dagh system introduced by Alauddin Khalji related to?",
+    "pool": ["Agriculture", "Religion", "Trade", "Military", "Education"],
+    "answer": "Military",
+    "desc": "The Chehra (face registry) and Dagh (branding of horses) system were military reforms."
+  },
+  {
+    "q": "Who was the first Turkish Sultan to separate religion from politics?",
+    "pool": ["Iltutmish", "Balban", "Alauddin Khalji", "Muhammad bin Tughlaq", "Firoz Shah Tughlaq"],
+    "answer": "Alauddin Khalji",
+    "desc": "Alauddin Khalji separated religion from politics, emphasizing a secular approach to governance."
+  },
+  {
+    "q": "Which famous poet was present in Alauddin Khalji's court?",
+    "pool": ["Kabir", "Tulsidas", "Amir Khusrau", "Rahim", "Kalidasa"],
+    "answer": "Amir Khusrau",
+    "desc": "Amir Khusrau, a renowned poet and musician, was in Alauddin Khalji's court."
+  },
+  {
+    "q": "Who founded the Tughlaq Dynasty?",
+    "pool": ["Muhammad bin Tughlaq", "Firoz Shah Tughlaq", "Ghiyasuddin Tughlaq", "Alauddin Khalji", "Nasiruddin"],
+    "answer": "Ghiyasuddin Tughlaq",
+    "desc": "Ghiyasuddin Tughlaq founded the Tughlaq Dynasty and built Tughlaqabad."
+  },
+  {
+    "q": "Which city did Ghiyasuddin Tughlaq make his capital?",
+    "pool": ["Delhi", "Siri", "Tughlaqabad", "Firozabad", "Jaunpur"],
+    "answer": "Tughlaqabad",
+    "desc": "Ghiyasuddin Tughlaq established Tughlaqabad as his capital city."
+  },
+  {
+    "q": "Who is known as the 'wise fool' king?",
+    "pool": ["Balban", "Ghiyasuddin Tughlaq", "Muhammad bin Tughlaq", "Firoz Shah Tughlaq", "Iltutmish"],
+    "answer": "Muhammad bin Tughlaq",
+    "desc": "Muhammad bin Tughlaq was called the 'wise fool' due to his ambitious yet impractical experiments."
+  },
+  {
+    "q": "Which was not one of Muhammad bin Tughlaq’s five experiments?",
+    "pool": ["Transfer of capital", "Taxation in Doab", "Introduction of rupee", "Token currency", "Qarachil expedition"],
+    "answer": "Introduction of rupee",
+    "desc": "Muhammad bin Tughlaq never introduced the rupee; his notable experiments included token currency and capital transfer."
+  },
+  {
+    "q": "Where did Muhammad bin Tughlaq transfer his capital to?",
+    "pool": ["Delhi", "Siri", "Tughlaqabad", "Daulatabad", "Agra"],
+    "answer": "Daulatabad",
+    "desc": "Muhammad bin Tughlaq transferred his capital from Delhi to Daulatabad to strengthen control over the Deccan."
+  },
+  {
+    "q": "Which department was set up by Muhammad bin Tughlaq for agriculture?",
+    "pool": ["Diwan-i-Ariz", "Diwan-i-Riyasat", "Diwan-i-Kohi", "Diwan-i-Insha", "Diwan-i-Wazarat"],
+    "answer": "Diwan-i-Kohi",
+    "desc": "Muhammad bin Tughlaq established Diwan-i-Kohi to promote agriculture and improve farming."
+  },
+  {
+    "q": "What type of loans were given to farmers under Muhammad bin Tughlaq?",
+    "pool": ["Zakat", "Jizya", "Sondhar", "Iqta", "Firoz"],
+    "answer": "Sondhar",
+    "desc": "Sondhar loans were extended to farmers to encourage agricultural productivity."
+  },
+  {
+    "q": "Who was the Moroccan traveler that visited the court of Muhammad bin Tughlaq?",
+    "pool": ["Marco Polo", "Ibn Battuta", "Al-Biruni", "Megasthenes", "Hiuen Tsang"],
+    "answer": "Ibn Battuta",
+    "desc": "Ibn Battuta, the Moroccan traveler, visited the court of Muhammad bin Tughlaq and recorded his experiences."
+  },
+  {
+    "q": "Which ruler founded the towns of Hissar, Firozpur, Fatehabad, and Jaunpur?",
+    "pool": ["Muhammad bin Tughlaq", "Ghiyasuddin Tughlaq", "Firoz Shah Tughlaq", "Alauddin Khalji", "Sher Shah Suri"],
+    "answer": "Firoz Shah Tughlaq",
+    "desc": "Firoz Shah Tughlaq founded several towns including Firozabad and Hissar."
+  },
+  {
+    "q": "What was Firozabad during Firoz Shah Tughlaq’s reign?",
+    "pool": ["A temple", "A battle site", "His capital", "A mosque", "A fort"],
+    "answer": "His capital",
+    "desc": "Firoz Shah Tughlaq made Firozabad his capital city."
+  },
+  {
+    "q": "Which ruler brought Ashokan pillars from Topara and Meerut?",
+    "pool": ["Ghiyasuddin Tughlaq", "Balban", "Firoz Shah Tughlaq", "Alauddin Khalji", "Sher Shah Suri"],
+    "answer": "Firoz Shah Tughlaq",
+    "desc": "Firoz Shah Tughlaq transported two Ashokan pillars to Delhi from Topara and Meerut."
+  },
+  {
+    "q": "What book was written by Firoz Shah Tughlaq?",
+    "pool": ["Tughlaqnama", "Fatuhat-e-Firozshahi", "Tarikh-i-Firoz", "Ain-i-Akbari", "Shahnama"],
+    "answer": "Fatuhat-e-Firozshahi",
+    "desc": "Firoz Shah Tughlaq wrote *Fatuhat-e-Firozshahi*, detailing his reign and reforms."
+  },
+  {
+    "q": "What major architectural repair was undertaken by Firoz Shah Tughlaq?",
+    "pool": ["Humayun’s Tomb", "Red Fort", "Qutub Minar", "Tughlaqabad", "Siri Fort"],
+    "answer": "Qutub Minar",
+    "desc": "Firoz Shah Tughlaq repaired Qutub Minar after it was damaged by lightning."
+  },
+  {
+    "q": "What system did Firoz Shah Tughlaq make hereditary?",
+    "pool": ["Mansabdari", "Chalisa", "Iqtadari", "Zamindari", "Diwani"],
+    "answer": "Iqtadari",
+    "desc": "Firoz Shah Tughlaq made the Iqtadari system, a system of land grants, hereditary."
+  },
+  {
+    "q": "What was 'Kharaj' under Firoz Shah Tughlaq?",
+    "pool": ["Military tax", "Trade tax", "Land tax", "Property tax", "Sales tax"],
+    "answer": "Land tax",
+    "desc": "Kharaj was a land tax equal to one-tenth of the produce."
+  },
+  {
+    "q": "What was 'Khams' under the Tughlaq administration?",
+    "pool": ["Land tax", "Tax on cattle", "Tax on trade", "One-tenth of war booty", "Tax on temples"],
+    "answer": "One-tenth of war booty",
+    "desc": "Khams was a tax levied on one-tenth of the spoils of war."
+  },
+  {
+    "q": "What tax was imposed on Brahmans by Firoz Shah Tughlaq for the first time?",
+    "pool": ["Kharaj", "Zakat", "Jizya", "Sales tax", "Fitra"],
+    "answer": "Jizya",
+    "desc": "Firoz Shah Tughlaq imposed Jizya tax on Brahmans for the first time in Sultanate history."
+  },
+  {
+    "q": "Which Tughlaq ruler was fond of collecting slaves?",
+    "pool": ["Muhammad bin Tughlaq", "Firoz Shah Tughlaq", "Ghiyasuddin Tughlaq", "Nasiruddin", "Alauddin Khalji"],
+    "answer": "Firoz Shah Tughlaq",
+    "desc": "Firoz Shah Tughlaq maintained a large number of slaves and was known for his fondness for them."
+  },
+  {
+    "q": "Which canal-building ruler is remembered for water conservation efforts?",
+    "pool": ["Balban", "Iltutmish", "Firoz Shah Tughlaq", "Alauddin Khalji", "Muhammad bin Tughlaq"],
+    "answer": "Firoz Shah Tughlaq",
+    "desc": "Firoz Shah Tughlaq is credited with initiating canal construction for irrigation."
+  },
+  {
+    "q": "Which dynasty witnessed the foundation of Bahmani and Vijayanagara empires?",
+    "pool": ["Slave", "Khilji", "Tughlaq", "Lodhi", "Mughal"],
+    "answer": "Tughlaq",
+    "desc": "The Tughlaq dynasty period saw the emergence of the Bahmani and Vijayanagara kingdoms in the south."
+  },
+  {
+    "q": "Which Tughlaq ruler failed in the Qarachil expedition?",
+    "pool": ["Firoz Shah Tughlaq", "Ghiyasuddin Tughlaq", "Muhammad bin Tughlaq", "Alauddin Khalji", "Balban"],
+    "answer": "Muhammad bin Tughlaq",
+    "desc": "Muhammad bin Tughlaq's Qarachil expedition to the Himalayas ended in failure."
+  },
+  {
+    "q": "Which Sultan’s reforms earned him the nickname ‘mad genius’ or ‘wise fool’?",
+    "pool": ["Balban", "Iltutmish", "Muhammad bin Tughlaq", "Firoz Shah Tughlaq", "Alauddin Khalji"],
+    "answer": "Muhammad bin Tughlaq",
+    "desc": "His ambitious reforms, although well-intentioned, often failed, earning him the title 'wise fool.'"
+  },
+
+
+  {
+    "q": "Which of the following coins was NOT introduced by the Tughlaq ruler?",
+    "pool": ["Aadha", "Bhikh", "Shashgani", "Hasthragani", "Gaz-i-Sikandari"],
+    "answer": "Gaz-i-Sikandari",
+    "desc": "Gaz-i-Sikandari was a unit of measurement introduced by Sikander Lodhi, not a coin."
+  },
+  {
+    "q": "Who ordered the general massacre in Delhi in 1398?",
+    "pool": ["Babur", "Timur", "Ibrahim Lodhi", "Rana Sanga", "Alauddin Khilji"],
+    "answer": "Timur",
+    "desc": "Timur, the Mongol leader, ordered the massacre during his invasion of Delhi in 1398."
+  },
+  {
+    "q": "Under which ruler did the massacre in Delhi occur in 1398?",
+    "pool": ["Firuz Shah Tughlaq", "Nasiruddin Mahmud", "Muhammad bin Tughlaq", "Alauddin Khilji", "Ghiyasuddin Tughlaq"],
+    "answer": "Nasiruddin Mahmud",
+    "desc": "The massacre happened during the reign of Nasiruddin Mahmud, the last Tughlaq ruler."
+  },
+  {
+    "q": "Who founded the Sayyid dynasty?",
+    "pool": ["Mubarak Shah", "Alauddin Alam Shah", "Khizr Khan", "Muhammad Shah", "Zafar Khan"],
+    "answer": "Khizr Khan",
+    "desc": "Khizr Khan founded the Sayyid dynasty after Timur's invasion."
+  },
+  {
+    "q": "Who among the following was NOT a Sayyid ruler?",
+    "pool": ["Mubarak Shah", "Muhammad Shah", "Alauddin Alam Shah", "Bahlol Lodhi", "Khizr Khan"],
+    "answer": "Bahlol Lodhi",
+    "desc": "Bahlol Lodhi was the founder of the Lodhi dynasty, not a Sayyid ruler."
+  },
+  {
+    "q": "The Lodhis were the first __________ to rule India.",
+    "pool": ["Mughals", "Turks", "Afghans", "Rajputs", "Persians"],
+    "answer": "Afghans",
+    "desc": "The Lodhi dynasty was the first Afghan dynasty to rule parts of India."
+  },
+  {
+    "q": "Who founded the Lodhi dynasty?",
+    "pool": ["Ibrahim Lodhi", "Sikander Lodhi", "Bahlol Lodhi", "Zain-ul-Abidin", "Khizr Khan"],
+    "answer": "Bahlol Lodhi",
+    "desc": "Bahlol Lodhi founded the Lodhi dynasty in 1451."
+  },
+  {
+    "q": "Which Lodhi ruler introduced the Gaz-i-Sikandari?",
+    "pool": ["Bahlol Lodhi", "Ibrahim Lodhi", "Sikander Lodhi", "Mahmud Beghra", "Rana Kumbha"],
+    "answer": "Sikander Lodhi",
+    "desc": "Sikander Lodhi introduced the Gaz-i-Sikandari as a unit to measure agricultural land."
+  },
+  {
+    "q": "Who founded the city of Agra in 1504?",
+    "pool": ["Babur", "Ibrahim Lodhi", "Sikander Lodhi", "Rana Sanga", "Khizr Khan"],
+    "answer": "Sikander Lodhi",
+    "desc": "Sikander Lodhi founded the city of Agra in 1504."
+  },
+  {
+    "q": "Which Persian verse was composed by Sikander Lodhi?",
+    "pool": ["Shahnama", "Gulrukhi", "Ain-i-Akbari", "Zafarnama", "Masnavi"],
+    "answer": "Gulrukhi",
+    "desc": "Sikander Lodhi wrote the Persian verse 'Gulrukhi'."
+  },
+  {
+    "q": "Who defeated Ibrahim Lodhi in the Battle of Khatoli?",
+    "pool": ["Babur", "Rana Sanga", "Zain-ul-Abidin", "Mahmud Khalji", "Rana Kumbha"],
+    "answer": "Rana Sanga",
+    "desc": "Rana Sanga of Mewar defeated Ibrahim Lodhi at the Battle of Khatoli."
+  },
+  {
+    "q": "In which year was Ibrahim Lodhi defeated by Babur?",
+    "pool": ["1524", "1517", "1526", "1504", "1400"],
+    "answer": "1526",
+    "desc": "Babur defeated Ibrahim Lodhi in the First Battle of Panipat in 1526, starting Mughal rule."
+  },
+  {
+    "q": "Who was the last Lodhi ruler?",
+    "pool": ["Bahlol Lodhi", "Ibrahim Lodhi", "Sikander Lodhi", "Khizr Khan", "Zain-ul-Abidin"],
+    "answer": "Ibrahim Lodhi",
+    "desc": "Ibrahim Lodhi was the last Lodhi ruler before the Mughal conquest."
+  },
+  {
+    "q": "When did Gujarat break away from the Delhi Sultanate?",
+    "pool": ["1397", "1451", "1526", "1339", "1504"],
+    "answer": "1397",
+    "desc": "Gujarat broke away from Delhi in 1397 under Zafar Khan."
+  },
+  {
+    "q": "Who assumed the title of Sultan Muzaffar Shah in Gujarat?",
+    "pool": ["Zafar Khan", "Ahmed Shah I", "Mahmud Beghra", "Babur", "Alauddin Khilji"],
+    "answer": "Zafar Khan",
+    "desc": "Zafar Khan took the title of Sultan Muzaffar Shah after establishing rule in Gujarat."
+  },
+  {
+    "q": "Which city was built by Ahmed Shah I?",
+    "pool": ["Agra", "Ahmedabad", "Delhi", "Chittor", "Diu"],
+    "answer": "Ahmedabad",
+    "desc": "Ahmed Shah I founded Ahmedabad in Gujarat."
+  },
+  {
+    "q": "Which Gujarat ruler allowed the Portuguese to set up a factory at Diu?",
+    "pool": ["Zafar Khan", "Ahmed Shah I", "Mahmud Beghra", "Sikander Lodhi", "Rana Sanga"],
+    "answer": "Mahmud Beghra",
+    "desc": "Mahmud Beghra ruled Gujarat when the Portuguese established a factory at Diu."
+  },
+  {
+    "q": "Who asserted independence in Kashmir in 1339?",
+    "pool": ["Zain-ul-Abidin", "Shamsuddin Shah", "Rana Hamir", "Alauddin Khilji", "Mahmud Beghra"],
+    "answer": "Shamsuddin Shah",
+    "desc": "Shamsuddin Shah established his rule in Kashmir in 1339."
+  },
+  {
+    "q": "Which Kashmiri ruler is known as the Akbar of Kashmir?",
+    "pool": ["Shamsuddin Shah", "Zafar Khan", "Zain-ul-Abidin", "Khizr Khan", "Rana Kumbha"],
+    "answer": "Zain-ul-Abidin",
+    "desc": "Zain-ul-Abidin is called the Akbar of Kashmir for his reforms and tolerance."
+  },
+  {
+    "q": "What is Zaina Lank?",
+    "pool": ["A Persian poem", "A battle site", "An artificial island", "A coin", "A city"],
+    "answer": "An artificial island",
+    "desc": "Zaina Lank is an artificial island in Wular Lake built by Zain-ul-Abidin."
+  },
+  {
+    "q": "Who restored Rajput rule in Mewar after Alauddin Khilji's invasion?",
+    "pool": ["Rana Kumbha", "Rana Sanga", "Rana Hamir", "Mahmud Khalji", "Babur"],
+    "answer": "Rana Hamir",
+    "desc": "Rana Hamir restored Rajput rule in Mewar after Alauddin Khilji's capture of Chittor."
+  },
+  {
+    "q": "Who built the Vijay Stambh at Chittor?",
+    "pool": ["Rana Hamir", "Rana Kumbha", "Rana Sanga", "Zain-ul-Abidin", "Mahmud Beghra"],
+    "answer": "Rana Kumbha",
+    "desc": "Rana Kumbha built Vijay Stambh to commemorate his victory over Mahmud Khalji."
+  },
+  {
+    "q": "Whom did Rana Kumbha defeat to build the Vijay Stambh?",
+    "pool": ["Babur", "Alauddin Khilji", "Mahmud Khalji", "Ibrahim Lodhi", "Shamsuddin Shah"],
+    "answer": "Mahmud Khalji",
+    "desc": "Rana Kumbha defeated Mahmud Khalji of Malwa and built the Vijay Stambh at Chittor."
+  },
+  {
+    "q": "Which lake houses the Zaina Lank?",
+    "pool": ["Dal Lake", "Wular Lake", "Pichola Lake", "Sambhar Lake", "Chilka Lake"],
+    "answer": "Wular Lake",
+    "desc": "Zaina Lank is located in Wular Lake in Kashmir."
+  },
+  {
+    "q": "In what year did Timur invade Delhi?",
+    "pool": ["1398", "1400", "1526", "1339", "1451"],
+    "answer": "1398",
+    "desc": "Timur invaded Delhi and caused a massacre in the year 1398."
+  },
+  {
+    "q": "Who ruled Delhi at the time of Timur's invasion?",
+    "pool": ["Muhammad bin Tughlaq", "Nasiruddin Mahmud", "Firuz Shah", "Alauddin Khilji", "Babur"],
+    "answer": "Nasiruddin Mahmud",
+    "desc": "Timur invaded during the reign of Nasiruddin Mahmud, the last Tughlaq ruler."
+  },
+  {
+    "q": "Who was the founder of the Gujarat Sultanate?",
+    "pool": ["Ahmed Shah I", "Mahmud Beghra", "Zafar Khan", "Sikander Lodhi", "Babur"],
+    "answer": "Zafar Khan",
+    "desc": "Zafar Khan broke away from Delhi and founded the Gujarat Sultanate."
+  },
+  {
+    "q": "Who was the greatest ruler of Kashmir?",
+    "pool": ["Shamsuddin Shah", "Zain-ul-Abidin", "Rana Sanga", "Ibrahim Lodhi", "Mahmud Beghra"],
+    "answer": "Zain-ul-Abidin",
+    "desc": "Zain-ul-Abidin is regarded as the greatest ruler of Kashmir for his enlightened rule."
+  },
+  {
+    "q": "Which Lodhi ruler was in power when Babur invaded India?",
+    "pool": ["Bahlol Lodhi", "Ibrahim Lodhi", "Sikander Lodhi", "Khizr Khan", "Rana Kumbha"],
+    "answer": "Ibrahim Lodhi",
+    "desc": "Ibrahim Lodhi was defeated by Babur in 1526, marking the start of Mughal rule."
+  },
+
+
+  {
+    "q": "Who were the founders of the Vijayanagara Empire?",
+    "pool": ["Krishnadeva Raya and Tenali Rama", "Harihara I and Bukka I", "Devaraya I and Devaraya II", "Rama Raya and Sadasiva", "Nikitin and Conti"],
+    "answer": "Harihara I and Bukka I",
+    "desc": "Harihara I and Bukka I founded the Vijayanagara Empire in 1336."
+  },
+  {
+    "q": "Which of the following was NOT a dynasty of the Vijayanagara Empire?",
+    "pool": ["Sangam", "Saluva", "Tuluva", "Aravidu", "Maurya"],
+    "answer": "Maurya",
+    "desc": "Maurya was an ancient Indian dynasty, not part of Vijayanagara's ruling dynasties."
+  },
+  {
+    "q": "Who built a dam across the Tungabhadra river?",
+    "pool": ["Harihara I", "Bukka I", "Devaraya I", "Devaraya II", "Krishnadeva Raya"],
+    "answer": "Devaraya I",
+    "desc": "Devaraya I built a dam across the Tungabhadra river for irrigation and water management."
+  },
+  {
+    "q": "Which foreign traveler visited the court of Devaraya I?",
+    "pool": ["Marco Polo", "Ibn Battuta", "Nicolo de Conti", "Dominigo Paes", "Barbosa"],
+    "answer": "Nicolo de Conti",
+    "desc": "Nicolo de Conti, an Italian traveler, visited the court of Devaraya I."
+  },
+  {
+    "q": "Who was the Russian merchant who visited Vijayanagara?",
+    "pool": ["Abdur Razzaq", "Nikitin", "Barbosa", "Ibn Battuta", "Conti"],
+    "answer": "Nikitin",
+    "desc": "Nikitin was a Russian merchant who visited the Vijayanagara Empire."
+  },
+  {
+    "q": "Who was known as ‘Gajabetekara’ and wrote Mahanataka Sudhanidhi?",
+    "pool": ["Harihara I", "Devaraya II", "Krishnadeva Raya", "Tenalirama", "Sadasiva"],
+    "answer": "Devaraya II",
+    "desc": "Devaraya II was called ‘Gajabetekara’ and authored Mahanataka Sudhanidhi."
+  },
+  {
+    "q": "Which Persian ambassador visited the court of Devaraya II?",
+    "pool": ["Ibn Battuta", "Nicolo de Conti", "Abdur Razzaq", "Nikitin", "Barbosa"],
+    "answer": "Abdur Razzaq",
+    "desc": "Persian ambassador Abdur Razzaq visited Devaraya II’s court."
+  },
+  {
+    "q": "Who is considered the greatest ruler of Vijayanagara?",
+    "pool": ["Harihara I", "Devaraya I", "Devaraya II", "Krishnadeva Raya", "Sadasiva"],
+    "answer": "Krishnadeva Raya",
+    "desc": "Krishnadeva Raya is widely regarded as the greatest ruler of the Vijayanagara Empire."
+  },
+  {
+    "q": "Which ruler was known as Abhinava Bhoja and Andhra Pitamah?",
+    "pool": ["Bukka I", "Devaraya II", "Krishnadeva Raya", "Harihara I", "Tenalirama"],
+    "answer": "Krishnadeva Raya",
+    "desc": "Krishnadeva Raya was honored with titles like Abhinava Bhoja and Andhra Pitamah."
+  },
+  {
+    "q": "Which of the following was NOT one of Krishnadeva Raya’s titles?",
+    "pool": ["Abhinava Bhoja", "Andhra Bhoja", "Andhra Pitamah", "Gajabetekara", "All of the above"],
+    "answer": "Gajabetekara",
+    "desc": "Gajabetekara was a title of Devaraya II, not Krishnadeva Raya."
+  },
+  {
+    "q": "What was the collective name of the eight Telugu poets in Krishnadeva Raya’s court?",
+    "pool": ["Navaratna", "Ashta Diggaja", "Pancha Pandava", "Saptarishi", "Sahitya Sabha"],
+    "answer": "Ashta Diggaja",
+    "desc": "Eight celebrated poets in Krishnadeva Raya's court were known as the Ashta Diggaja."
+  },
+  {
+    "q": "Who among the following was part of the Ashta Diggaja?",
+    "pool": ["Tenalirama", "Nikitin", "Barbosa", "Conti", "Ibn Battuta"],
+    "answer": "Tenalirama",
+    "desc": "Tenalirama was one of the eight Ashta Diggajas in Krishnadeva Raya’s court."
+  },
+  {
+    "q": "Who visited the Vijayanagara court during Krishnadeva Raya’s reign?",
+    "pool": ["Marco Polo", "Dominigo Paes", "Ibn Battuta", "Fa Hien", "Xuanzang"],
+    "answer": "Dominigo Paes",
+    "desc": "Dominigo Paes, a Portuguese traveler, visited Vijayanagara during Krishnadeva Raya’s reign."
+  },
+  {
+    "q": "Barbosa, who visited Vijayanagara, was from which country?",
+    "pool": ["Russia", "Italy", "Persia", "Portugal", "China"],
+    "answer": "Portugal",
+    "desc": "Barbosa was a Portuguese traveler who visited Krishnadeva Raya’s court."
+  },
+  {
+    "q": "Who was the last ruler of the Tuluva dynasty?",
+    "pool": ["Devaraya II", "Krishnadeva Raya", "Harihara I", "Sadasiva", "Ali Barid"],
+    "answer": "Sadasiva",
+    "desc": "Sadasiva was the last ruler of the Tuluva dynasty of Vijayanagara."
+  },
+  {
+    "q": "The Battle of Talikota took place in which year?",
+    "pool": ["1526", "1336", "1565", "1347", "1509"],
+    "answer": "1565",
+    "desc": "The Battle of Talikota in 1565 led to the decline of the Vijayanagara Empire."
+  },
+  {
+    "q": "Who defeated Vijayanagara in the Battle of Talikota?",
+    "pool": ["Mughals", "British", "Ahmadnagar, Bijapur, Golconda and Bidar", "Rajputs", "Marathas"],
+    "answer": "Ahmadnagar, Bijapur, Golconda and Bidar",
+    "desc": "An alliance of Deccan sultanates defeated Vijayanagara in the Battle of Talikota."
+  },
+  {
+    "q": "Who founded the Bahmani Kingdom?",
+    "pool": ["Fatullah Khan", "Hasan Gangu", "Quli Qutub Shah", "Ali Barid", "Yusuf Adil Shah"],
+    "answer": "Hasan Gangu",
+    "desc": "Alauddin Hasan Bahman Shah, also known as Hasan Gangu, founded the Bahmani Kingdom."
+  },
+  {
+    "q": "What was the capital of the Bahmani Kingdom originally?",
+    "pool": ["Bidar", "Gulbarg", "Hyderabad", "Bijapur", "Berar"],
+    "answer": "Gulbarg",
+    "desc": "Gulbarg was the original capital of the Bahmani Kingdom."
+  },
+  {
+    "q": "Who shifted the capital of the Bahmani Kingdom to Bidar?",
+    "pool": ["Ali Barid", "Ahmad Shah Wali", "Yusuf Adil Shah", "Hasan Gangu", "Fatullah Khan"],
+    "answer": "Ahmad Shah Wali",
+    "desc": "Ahmad Shah Wali transferred the Bahmani capital from Gulbarg to Bidar."
+  },
+  {
+    "q": "Which kingdom was founded by Malik Ahmad Bahri?",
+    "pool": ["Bijapur", "Golconda", "Ahmadnagar", "Berar", "Bidar"],
+    "answer": "Ahmadnagar",
+    "desc": "Malik Ahmad Bahri founded the Nizamsahis of Ahmadnagar."
+  },
+  {
+    "q": "Who founded the Adilsahi kingdom of Bijapur?",
+    "pool": ["Yusuf Adil Shah", "Ali Barid", "Fatullah Khan", "Quli Qutub Shah", "Ahmad Bahri"],
+    "answer": "Yusuf Adil Shah",
+    "desc": "Yusuf Adil Shah established the Adilsahi dynasty at Bijapur."
+  },
+  {
+    "q": "Who founded the Imadsahis of Berar?",
+    "pool": ["Quli Qutub Shah", "Ali Barid", "Fatullah Khan Imad-ul-Mulk", "Yusuf Adil Shah", "Ahmad Shah"],
+    "answer": "Fatullah Khan Imad-ul-Mulk",
+    "desc": "Fatullah Khan Imad-ul-Mulk was the founder of the Imadsahi dynasty in Berar."
+  },
+  {
+    "q": "Who was the founder of the Qutubsahis of Golconda?",
+    "pool": ["Quli Qutub Shah", "Ali Barid", "Ahmad Bahri", "Hasan Gangu", "Yusuf Adil Shah"],
+    "answer": "Quli Qutub Shah",
+    "desc": "Quli Qutub Shah founded the Qutubsahi dynasty at Golconda."
+  },
+  {
+    "q": "Who founded the Baridsahis of Bidar?",
+    "pool": ["Ali Barid", "Ahmad Shah", "Quli Qutub Shah", "Yusuf Adil Shah", "Fatullah Khan"],
+    "answer": "Ali Barid",
+    "desc": "Ali Barid established the Baridsahi dynasty in Bidar."
+  },
+  {
+    "q": "Which tomb has the world’s second-largest dome?",
+    "pool": ["Taj Mahal", "Charminar", "Gol Gumbaz", "Qutb Minar", "Red Fort"],
+    "answer": "Gol Gumbaz",
+    "desc": "Gol Gumbaz, built by Muhammad Adil Shah in Bijapur, has the second-largest dome in the world."
+  },
+  {
+    "q": "Who built the Gol Gumbaz in Bijapur?",
+    "pool": ["Ali Barid", "Muhammad Adil Shah", "Quli Qutub Shah", "Ahmad Shah", "Krishnadeva Raya"],
+    "answer": "Muhammad Adil Shah",
+    "desc": "Muhammad Adil Shah of Bijapur built the iconic Gol Gumbaz."
+  },
+  {
+    "q": "Who built the Charminar and founded Hyderabad?",
+    "pool": ["Krishnadeva Raya", "Muhammad Adil Shah", "Quli Qutub Shah", "Ali Barid", "Ibrahim Qutub Shah"],
+    "answer": "Quli Qutub Shah",
+    "desc": "Quli Qutub Shah built Charminar and founded the city of Hyderabad."
+  }
+]
