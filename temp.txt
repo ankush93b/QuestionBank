@@ -6,9 +6,9 @@
   },
 
 {
-    "q": "This is the logo of which famous company?",
+    "q": "This is the logo of which Indian company?",
     "pool": [pool of 5 options],
     "answer": "any one option",
-	"image": "../images/logosinternational/Answer.png"
+	"image": "../images/logosindia/Answer.png"
     
   }

@@ -1,0 +1,2767 @@
+[
+  {
+    "q": "Observant learning is very common in",
+    "pool": ["Plants", "Monkey children", "Human children", "Birds"],
+    "answer": "Human children",
+    "desc": "Human children often learn by observing others, a process called observational learning."
+  },
+  {
+    "q": "Pavlov enunciated his ideas while studying the physiology of digestive system in",
+    "pool": ["Birds", "Monkeys", "Dogs", "Humans"],
+    "answer": "Dogs",
+    "desc": "Pavlov used dogs in his experiments to study classical conditioning, leading to the concept of conditioned reflexes."
+  },
+  {
+    "q": "_______ theory of operant conditioning is an extension of theories of Pavlov.",
+    "pool": ["Watson’s", "Skinner’s", "Ebbinghaus’", "Feud’s"],
+    "answer": "Skinner’s",
+    "desc": "Skinner extended Pavlov's work with his theory of operant conditioning, emphasizing reinforcement and behavior consequences."
+  },
+  {
+    "q": "_____ is the key term for understanding operant conditioning.",
+    "pool": ["Recall", "Reinforcement", "Retention", "None of these"],
+    "answer": "Reinforcement",
+    "desc": "Reinforcement is central in operant conditioning as it strengthens the behavior it follows."
+  },
+  {
+    "q": "The other stimulus is called _______ in classical conditioning.",
+    "pool": ["SR", "US", "UR", "CS"],
+    "answer": "US",
+    "desc": "In classical conditioning, 'US' stands for unconditioned stimulus, which naturally elicits a response."
+  },
+  {
+    "q": "Skinner’s experiment was conducted upon ______ and other animals.",
+    "pool": ["Pigeons", "Fishes", "Trees", "None of these"],
+    "answer": "Pigeons",
+    "desc": "Skinner conducted operant conditioning experiments on pigeons and rats to study learned behavior."
+  },
+  {
+    "q": "The apparatus which was specially designed for Skinner’s experiments was known as Skinner’s",
+    "pool": ["Platform", "Pigeon", "Rods", "Box"],
+    "answer": "Box",
+    "desc": "Skinner's box was a controlled environment for studying operant conditioning in animals."
+  },
+  {
+    "q": "The other name for Pavlovian conditioning is",
+    "pool": ["Operant conditioning", "Chimpanzee conditioning", "Classical conditioning", "Clinical approach"],
+    "answer": "Classical conditioning",
+    "desc": "Pavlovian or classical conditioning refers to learning through association, as demonstrated in Pavlov's dog experiments."
+  },
+  {
+    "q": "________ to learn is related to motivational aspects of learning.",
+    "pool": ["Intent", "Dignity", "Insight", "Psychic power"],
+    "answer": "Insight",
+    "desc": "Insightful learning involves understanding the underlying principles, often linked to motivation and problem solving."
+  },
+  {
+    "q": "Perceptual learning is learning of",
+    "pool": ["Reorganisation of functional whole", "S. R. connections", "Stimulus that immediately follows response", "Physical movements"],
+    "answer": "Reorganisation of functional whole",
+    "desc": "Perceptual learning involves understanding patterns or reorganizing sensory input into meaningful wholes."
+  },
+  {
+    "q": "Distinguishing the call of birds is an example of",
+    "pool": ["Conditioning", "Perceptual learning", "Verbal learning", "None of these"],
+    "answer": "Perceptual learning",
+    "desc": "Recognizing different bird calls involves perceptual learning, which is the ability to detect and interpret sensory stimuli."
+  },
+  {
+    "q": "Three factors affect learning. Name them.",
+    "pool": [
+      "Physiological, environment and psychological motivation",
+      "Cultural, environmental and social motivation",
+      "Social, economic and cultural motivation",
+      "Economic, physiological and environmental motivation"
+    ],
+    "answer": "Physiological, environment and psychological motivation",
+    "desc": "Learning is influenced by physiological state, environment, and psychological motivation."
+  },
+
+
+  {
+    "q": "Who is associated with classical conditioning?",
+    "pool": ["Gestalt", "Ebbinghaus", "Pavlov", "Skinner"],
+    "answer": "Pavlov",
+    "desc": "Ivan Pavlov developed the concept of classical conditioning through his experiments with dogs."
+  },
+  {
+    "q": "Which psychologist is known for operant conditioning?",
+    "pool": ["Gestalt", "Ebbinghaus", "Pavlov", "Skinner"],
+    "answer": "Skinner",
+    "desc": "B.F. Skinner introduced operant conditioning, emphasizing reinforcement and behavior consequences."
+  },
+  {
+    "q": "Insight learning is primarily associated with which school of thought?",
+    "pool": ["Gestalt", "Ebbinghaus", "Pavlov", "Skinner"],
+    "answer": "Gestalt",
+    "desc": "Insight learning, a sudden understanding of a problem, is a key concept in Gestalt psychology."
+  },
+  {
+    "q": "Who contributed significantly to the study of acquisition and retention?",
+    "pool": ["Gestalt", "Ebbinghaus", "Pavlov", "Skinner"],
+    "answer": "Ebbinghaus",
+    "desc": "Hermann Ebbinghaus was a pioneer in studying memory, particularly acquisition and retention."
+  },
+  {
+    "q": "Match Classical Conditioning correctly with the psychologist.",
+    "pool": ["Skinner", "Ebbinghaus", "Gestalt", "Pavlov"],
+    "answer": "Pavlov",
+    "desc": "Classical conditioning was first described by Pavlov in his salivation experiments with dogs."
+  },
+  {
+    "q": "Which psychologist used puzzles and insight learning in problem-solving?",
+    "pool": ["Skinner", "Ebbinghaus", "Pavlov", "Gestalt"],
+    "answer": "Gestalt",
+    "desc": "Gestalt psychologists like Köhler demonstrated insight learning in apes using problem-solving tasks."
+  },
+  {
+    "q": "Operant Conditioning focuses on which of the following?",
+    "pool": ["Reflex actions", "Rewards and punishments", "Memory retention", "Visual perception"],
+    "answer": "Rewards and punishments",
+    "desc": "Operant conditioning is based on the principle that behavior is shaped by its consequences."
+  },
+  {
+    "q": "Who used nonsense syllables to study memory processes?",
+    "pool": ["Gestalt", "Ebbinghaus", "Skinner", "Pavlov"],
+    "answer": "Ebbinghaus",
+    "desc": "Ebbinghaus used nonsense syllables to study the curve of forgetting and memory retention."
+  },
+  {
+    "q": "Which concept is NOT related to Pavlov?",
+    "pool": ["Conditioned stimulus", "Unconditioned stimulus", "Operant response", "Reflex"],
+    "answer": "Operant response",
+    "desc": "Operant response is related to Skinner's theory of operant conditioning, not Pavlov’s classical conditioning."
+  },
+  {
+    "q": "Arrange the correct match: Insight learning – ?",
+    "pool": ["Skinner", "Pavlov", "Gestalt", "Ebbinghaus"],
+    "answer": "Gestalt",
+    "desc": "Gestalt psychologists emphasized understanding problems as a whole, leading to insight learning."
+  },
+
+
+  {
+    "q": "Man learns by _______ whereas animals learn by ________",
+    "pool": ["Doing, Observing", "Observing, Doing", "Doing, Eating", "Speech, Observing"],
+    "answer": "Observing, Doing",
+    "desc": "Learning often begins with observation followed by imitation or doing."
+  },
+  {
+    "q": "The nationality of Ebbinghaus is",
+    "pool": ["German", "Russian", "American", "French"],
+    "answer": "German",
+    "desc": "Hermann Ebbinghaus, known for studying memory and forgetting, was a German psychologist."
+  },
+  {
+    "q": "Similarity of material hinders learning in",
+    "pool": ["Proactive inhibition only", "Retroactive inhibition only", "Both kinds of inhibitions", "None of the above"],
+    "answer": "Both kinds of inhibitions",
+    "desc": "Learning is hindered when similar materials interfere with each other, causing both proactive and retroactive inhibition."
+  },
+  {
+    "q": "Several factors influence forgetting. One of these is",
+    "pool": ["Rate of original learning", "Trace aggregates", "Measures of retention", "Nature of reinforcement"],
+    "answer": "Rate of original learning",
+    "desc": "The rate at which material was initially learned impacts how well it is retained and how quickly it may be forgotten."
+  },
+  {
+    "q": "Motivation explains",
+    "pool": ["Social behaviour", "Child behaviour", "‘Why’ of behaviour", "Aggressive behaviour"],
+    "answer": "‘Why’ of behaviour",
+    "desc": "Motivation is the underlying force that explains why individuals behave in certain ways."
+  },
+  {
+    "q": "Skinner in his study of operant conditioning experimented with",
+    "pool": ["Rabbits", "Dogs", "Rats", "Pigeons"],
+    "answer": "Pigeons",
+    "desc": "Skinner used pigeons in his operant conditioning experiments to study behavior based on reinforcement."
+  },
+  {
+    "q": "Learning is modification of ________ thought and experience.",
+    "pool": ["Emotions", "Behaviour", "Motivation", "Physiological drives"],
+    "answer": "Behaviour",
+    "desc": "Learning is defined as a relatively permanent change in behavior due to experience."
+  },
+  {
+    "q": "Full form of RtE Act is",
+    "pool": ["Right to Free Education Act", "Right to Compulsory Education Act", "Right to Free and Compensatory Education Act", "Right of children to free and compulsory Education Act"],
+    "answer": "Right of children to free and compulsory Education Act",
+    "desc": "RtE stands for the Right of Children to Free and Compulsory Education Act, 2009."
+  },
+  {
+    "q": "RtE – 2009 Act is based on which article of constitution of India",
+    "pool": ["Article 43", "Article 45", "Article 75", "Article 35"],
+    "answer": "Article 45",
+    "desc": "Article 45 of the Indian Constitution mandates free and compulsory education for children, which RtE Act enforces."
+  },
+  {
+    "q": "How many sections does RtE – 2009 Act have?",
+    "pool": ["40", "39", "38", "37"],
+    "answer": "38",
+    "desc": "The Right to Education Act, 2009 consists of 38 sections detailing various provisions for children's education."
+  },
+  {
+    "q": "The RtE Act has been extended to the whole of India, except which State?",
+    "pool": ["Tamil Nadu", "Arunachal Pradesh", "J&K", "None of the above"],
+    "answer": "J&K",
+    "desc": "Initially, the RtE Act was not applicable to Jammu & Kashmir due to its special status under Article 370."
+  },
+  {
+    "q": "According to the RtE Act, children of which age group will be provided free and compulsory education?",
+    "pool": ["7 years to 14 years", "Up to 14 years", "6 years to 14 years", "Up to 10 years"],
+    "answer": "6 years to 14 years",
+    "desc": "RtE Act ensures free and compulsory education to children aged 6 to 14 years."
+  },
+  {
+    "q": "Elementary education covers education from class -- to class ---.",
+    "pool": ["1 to class 5", "6 to class 8", "1 to class 8", "All of the above"],
+    "answer": "1 to class 8",
+    "desc": "As per RtE, elementary education comprises classes 1 to 8."
+  },
+  {
+    "q": "As per the act, private and specified category schools shall admit ____% children belonging to weaker sections and disadvantaged groups in class I.",
+    "pool": ["20%", "30%", "40%", "25%"],
+    "answer": "25%",
+    "desc": "The RtE Act mandates 25% reservation in private schools for children from weaker and disadvantaged sections."
+  },
+  {
+    "q": "To improve learning of children admitted in age-appropriate classes, the RtE Act provides for",
+    "pool": ["Remedial teaching", "Special training", "Multi-grade teaching", "All of the above"],
+    "answer": "Special training",
+    "desc": "RtE Act includes provision for special training to help children reach the level of their peers."
+  },
+
+
+  {
+    "q": "In a School Management Committee (SMC), the % of the actual parents will comprise at least",
+    "pool": ["50", "75", "85", "None of the above"],
+    "answer": "75",
+    "desc": "As per RtE guidelines, at least 75% of the SMC members must be parents or guardians of enrolled children."
+  },
+  {
+    "q": "If the SMC of a school has 16 members, then the number of women members in the SMC will be",
+    "pool": ["10", "4", "8", "12"],
+    "answer": "8",
+    "desc": "According to norms, 50% of the SMC members should be women; hence, 8 out of 16."
+  },
+  {
+    "q": "Which of the following are the functions of SMC?",
+    "pool": [
+      "Monitor the working of school",
+      "Prepare and recommend school development plan",
+      "Monitor the utilization of the grants",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "desc": "SMC is responsible for monitoring school functioning, planning development, and overseeing grant usage."
+  },
+  {
+    "q": "The duties of a teacher include",
+    "pool": [
+      "Maintain regularity and punctuality in attending school",
+      "Conduct and complete the curriculum in time",
+      "Assess the learning ability of each child",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "desc": "Teachers are expected to be punctual, complete the curriculum, and assess student progress."
+  },
+  {
+    "q": "If a teacher is not professionally qualified, after how many years of RtE implementation must they possess the required qualification?",
+    "pool": ["3 years", "2 years", "5 years", "None of the above"],
+    "answer": "5 years",
+    "desc": "RtE mandates that unqualified teachers must become qualified within five years of the Act's implementation."
+  },
+  {
+    "q": "Which statement is correct? That no teacher will engage in",
+    "pool": [
+      "Taking private tuition",
+      "Inflicting corporal punishment on children",
+      "Gender or social discrimination in the class",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "desc": "Teachers are prohibited from private tuitions, corporal punishment, and any discriminatory behavior."
+  },
+  {
+    "q": "If a primary school has a total enrollment of 98 students, how many teachers must be provided by the government?",
+    "pool": ["3", "4", "4 + 1 Head Teacher", "2"],
+    "answer": "4",
+    "desc": "For 91-100 students, four teachers are required as per RtE norms."
+  },
+  {
+    "q": "For class 7, there must be one teacher for every",
+    "pool": ["30 children", "35 children", "40 children", "45 children"],
+    "answer": "35 children",
+    "desc": "The prescribed pupil-teacher ratio for upper primary classes (6 to 8) is 35:1."
+  },
+  {
+    "q": "Number of working days in an academic year for class 3 are",
+    "pool": ["225", "250", "200", "220"],
+    "answer": "200",
+    "desc": "According to RtE norms, classes 1–5 require a minimum of 200 working days annually."
+  },
+  {
+    "q": "The number of instructional hours in an academic year for class 8 are",
+    "pool": ["800", "880", "1020", "1000"],
+    "answer": "1000",
+    "desc": "Upper primary level (classes 6–8) must have at least 1000 instructional hours per year."
+  },
+  {
+    "q": "Minimum number of working hours per week for a teacher are",
+    "pool": ["50", "42", "45", "40"],
+    "answer": "45",
+    "desc": "RtE prescribes a minimum of 45 working hours per week for teachers."
+  },
+  {
+    "q": "As per age-appropriate education, a child of age 10 years who has never been to school is eligible for admission to",
+    "pool": ["One", "Three", "Five", "None of the Above"],
+    "answer": "Five",
+    "desc": "A 10-year-old is placed in class 5 as per age-appropriate norms under RtE."
+  },
+  {
+    "q": "Which type of evaluation assesses the learning progress to provide continuous feedback to both teachers and students during instruction?",
+    "pool": ["Placement evaluation", "Formative evaluation", "Diagnostic evaluation", "Summative"],
+    "answer": "Formative evaluation",
+    "desc": "Formative evaluation helps in monitoring student learning and guiding instruction in real-time."
+  },
+  {
+    "q": "Identify the category of evaluation that provides continuous feedback to students during instruction.",
+    "pool": ["Placement", "Diagnostic", "Formative", "Summative"],
+    "answer": "Formative",
+    "desc": "Formative assessments are ongoing and help improve both teaching and learning processes."
+  },
+
+
+  {
+    "q": "Arrange the following teaching process in order:\n(i) Relate the present knowledge with previous one\n(ii) Evaluation\n(iii) Reteaching\n(iv) Formulating instructional objectives\n(v) Presentation of instructional materials",
+    "pool": [
+      "(i), (ii), (iii), (iv), (v)",
+      "(ii), (i), (iii), (iv), (v)",
+      "(v), (iv), (iii), (i), (ii)",
+      "(iv), (i), (v), (ii), (iii)"
+    ],
+    "answer": "(iv), (i), (v), (ii), (iii)",
+    "desc": "The correct teaching sequence starts with instructional objectives, linking prior knowledge, presenting new material, evaluating learning, and reteaching if needed."
+  },
+  {
+    "q": "Which of the following is not a characteristic of a good achievement test?",
+    "pool": ["Reliability", "Objectivity", "Ambiguity", "Validity"],
+    "answer": "Ambiguity",
+    "desc": "Ambiguity is undesirable in tests, as good achievement tests should be clear, reliable, valid, and objective."
+  },
+  {
+    "q": "By which of the following methods is true evaluation of students possible?",
+    "pool": [
+      "Evaluation at the end of the course.",
+      "Evaluation twice in a year.",
+      "Continuous evaluation.",
+      "Formative evaluation"
+    ],
+    "answer": "Continuous evaluation",
+    "desc": "Continuous evaluation allows ongoing assessment of students’ learning and provides timely feedback."
+  },
+  {
+    "q": "Diagnostic evaluation ascertains",
+    "pool": [
+      "Students performance at the beginning of instructions.",
+      "Learning progress and failures during instructions.",
+      "Degree of achievement of instructions at the end.",
+      "Causes and remedies of persistent learning problems during instructions."
+    ],
+    "answer": "Causes and remedies of persistent learning problems during instructions.",
+    "desc": "Diagnostic evaluation identifies learning difficulties and helps plan suitable interventions."
+  },
+  {
+    "q": "Which one of the following statements is correct in the context of multiple-choice questions?",
+    "pool": [
+      "They are more subjective than short answer types questions.",
+      "They are more subjective than true-false type questions.",
+      "They are more objective than true-false questions.",
+      "They are less objective than essay type questions."
+    ],
+    "answer": "They are more objective than true-false questions.",
+    "desc": "MCQs are typically more objective than true-false items because they include multiple plausible alternatives."
+  },
+  {
+    "q": "What are the characteristics of Continuous and Comprehensive Evaluation?\n(i) It increases the workload on students by taking multiple tests. \n(ii) It replaces marks with grades \n(iii) It evaluates every aspect of the student \n(iv) It helps in reducing examination phobia.",
+    "pool": [
+      "(i), (ii) and (iii)",
+      "(ii), (iii) and (iv)",
+      "(i), (ii), (iii) and (iv)",
+      "(ii) and (iv)"
+    ],
+    "answer": "(ii), (iii) and (iv)",
+    "desc": "CCE aims to reduce exam stress, replaces marks with grades, and evaluates holistic student development."
+  },
+  {
+    "q": "The main objectives of student evaluation of teachers are:\n(i) To gather information about student weaknesses.\n(ii) To make teachers take teaching seriously\n(iii) To help teachers adopt innovating methods of teaching.\n(iv) To identify the areas of further improvement in teacher traits.",
+    "pool": [
+      "(i), (ii) and (iii) only",
+      "(i) only",
+      "(i) and (ii) only",
+      "(ii), (iii) and (iv) only"
+    ],
+    "answer": "(ii), (iii) and (iv) only",
+    "desc": "Student evaluations help improve teaching practices and identify areas for professional growth in teachers."
+  },
+
+
+  {
+    "q": "Which type of evaluation uses quizzes and discussions to monitor learning progress?",
+    "pool": [
+      "Formative evaluation",
+      "Summative evaluation",
+      "Continuous and comprehensive evaluation",
+      "Norms and criterion referenced tests"
+    ],
+    "answer": "Formative evaluation",
+    "desc": "Formative evaluation includes informal methods like quizzes and discussions to give ongoing feedback."
+  },
+  {
+    "q": "What is the purpose of summative evaluation?",
+    "pool": [
+      "Monitoring daily progress",
+      "Evaluating learning through final exams",
+      "Setting learning goals",
+      "Analyzing personality traits"
+    ],
+    "answer": "Evaluating learning through final exams",
+    "desc": "Summative evaluation assesses final learning outcomes, often through exams or end-term assessments."
+  },
+  {
+    "q": "Which evaluation system focuses on both cognitive and co-cognitive aspects regularly?",
+    "pool": [
+      "Formative evaluation",
+      "Summative evaluation",
+      "Continuous and comprehensive evaluation",
+      "Norm-referenced tests"
+    ],
+    "answer": "Continuous and comprehensive evaluation",
+    "desc": "CCE assesses both academic (cognitive) and personal/social (co-cognitive) development continuously."
+  },
+  {
+    "q": "Norms and criterion-referenced tests involve:",
+    "pool": [
+      "Evaluating emotions",
+      "Comparing individual performance to a standard or group",
+      "Group discussions",
+      "Re-teaching content"
+    ],
+    "answer": "Comparing individual performance to a standard or group",
+    "desc": "These tests compare results to norms (group average) or criteria (set standards)."
+  },
+  {
+    "q": "Which of the following evaluations is mainly used during the instructional process?",
+    "pool": [
+      "Summative evaluation",
+      "Formative evaluation",
+      "Diagnostic evaluation",
+      "Criterion-referenced testing"
+    ],
+    "answer": "Formative evaluation",
+    "desc": "Formative evaluation is used during learning to monitor progress and guide teaching strategies."
+  },
+  {
+    "q": "What type of evaluation helps determine student performance at the end of a unit?",
+    "pool": [
+      "Formative evaluation",
+      "Summative evaluation",
+      "Continuous evaluation",
+      "Diagnostic evaluation"
+    ],
+    "answer": "Summative evaluation",
+    "desc": "Summative evaluation occurs at the conclusion of an instructional period to assess achievement."
+  },
+  {
+    "q": "Which evaluation method aims at assessing students over a period instead of at a single point?",
+    "pool": [
+      "Summative evaluation",
+      "Continuous and comprehensive evaluation",
+      "Diagnostic evaluation",
+      "Criterion-referenced evaluation"
+    ],
+    "answer": "Continuous and comprehensive evaluation",
+    "desc": "CCE is an ongoing process evaluating both scholastic and co-scholastic areas."
+  },
+  {
+    "q": "Formative assessment usually includes:",
+    "pool": [
+      "Final exams",
+      "Unit tests",
+      "Quizzes and discussions",
+      "Standardized tests"
+    ],
+    "answer": "Quizzes and discussions",
+    "desc": "Formative assessments are low-stakes and often informal, such as quizzes or interactive sessions."
+  },
+  {
+    "q": "Criterion-referenced tests measure a student's performance against:",
+    "pool": [
+      "Other students",
+      "A fixed set of standards",
+      "Class average",
+      "Teacher's opinion"
+    ],
+    "answer": "A fixed set of standards",
+    "desc": "Criterion-referenced tests evaluate performance based on predefined learning standards."
+  },
+  {
+    "q": "Summative evaluations are best conducted through:",
+    "pool": [
+      "Class discussions",
+      "Surprise quizzes",
+      "Final exams and grades",
+      "Peer reviews"
+    ],
+    "answer": "Final exams and grades",
+    "desc": "Summative evaluations typically summarize student learning through comprehensive assessments at the end."
+  },
+
+
+  {
+    "q": "Which of the following is included in Summative Assessment?",
+    "pool": [
+      "Evaluating attitudes and beliefs",
+      "Final assessment of learning outcomes",
+      "Encouraging community participation",
+      "Understanding conceptual learning"
+    ],
+    "answer": "Final assessment of learning outcomes",
+    "desc": "Summative Assessment is conducted at the end to evaluate overall learning."
+  },
+  {
+    "q": "The main purpose of conducting a diagnostic test is to identify:",
+    "pool": [
+      "General class performance issues",
+      "Remedial program design",
+      "Causes of academic difficulties",
+      "Specific student difficulties"
+    ],
+    "answer": "Causes of academic difficulties",
+    "desc": "Diagnostic tests help understand the underlying reasons behind a student's poor performance."
+  },
+  {
+    "q": "Criterion-referenced evaluation refers to:",
+    "pool": [
+      "Measuring performance against fixed standards",
+      "Comparison with average student",
+      "Both (a) and (b)",
+      "None of the above"
+    ],
+    "answer": "Measuring performance against fixed standards",
+    "desc": "Criterion-referenced evaluation assesses learning based on predefined standards."
+  },
+  {
+    "q": "What is the main purpose of evaluation in education?",
+    "pool": [
+      "Labeling students as gifted or slow",
+      "Identifying students for remediation",
+      "Diagnosing difficulties",
+      "Providing feedback on educational effectiveness"
+    ],
+    "answer": "Providing feedback on educational effectiveness",
+    "desc": "Evaluation helps determine how effectively educational goals are being met."
+  },
+  {
+    "q": "What type of question is this: 'How would you improve education quality as a Chairperson?'",
+    "pool": [
+      "Lower order convergent",
+      "Lower order divergent",
+      "Higher order convergent",
+      "Higher order divergent"
+    ],
+    "answer": "Higher order divergent",
+    "desc": "Such questions require creative and analytical thinking with multiple possible solutions."
+  },
+  {
+    "q": "Students compiling artifacts of their work in a notebook is an example of:",
+    "pool": [
+      "Essay type assessment",
+      "Anecdotal records",
+      "Problem solving assessment",
+      "Portfolio assessment"
+    ],
+    "answer": "Portfolio assessment",
+    "desc": "Portfolio assessment involves collecting student work over time to showcase progress and learning."
+  },
+  {
+    "q": "A child's poor performance in tests implies:",
+    "pool": [
+      "Assessment is objective and reliable",
+      "Performance is based on innate abilities",
+      "Need to review syllabus, pedagogy, and assessment",
+      "System tries hard but some students fail anyway"
+    ],
+    "answer": "Need to review syllabus, pedagogy, and assessment",
+    "desc": "Poor performance often indicates systemic issues rather than student faults."
+  },
+  {
+    "q": "In a constructivist classroom, students’ role in assessment should be to:",
+    "pool": [
+      "Determine marks based on prestige",
+      "Ignore assessment",
+      "Be sole assessors of their work",
+      "Plan assessments with the teacher"
+    ],
+    "answer": "Plan assessments with the teacher",
+    "desc": "Constructivist classrooms involve learners in planning their own assessments with guidance."
+  },
+  {
+    "q": "What should a mathematics teacher understand about student errors?",
+    "pool": [
+      "They reveal student thinking",
+      "They must be corrected immediately",
+      "Students must focus only on procedures",
+      "Math is easier for boys"
+    ],
+    "answer": "They reveal student thinking",
+    "desc": "Errors are valuable insights into student understanding and should guide instruction."
+  },
+  {
+    "q": "Which of these statements reflects a correct understanding of student failure?",
+    "pool": [
+      "It's due to lack of tech resources",
+      "It's because of parental background",
+      "It's due to inherited genetics",
+      "It's a failure of the education system"
+    ],
+    "answer": "It's a failure of the education system",
+    "desc": "Systemic issues like curriculum and pedagogy play a major role in student outcomes."
+  },
+
+
+  {
+    "q": "Teaching performed by a group of teachers is called:",
+    "pool": [
+      "Team teaching",
+      "Teacher teaching",
+      "Written teaching",
+      "Oral teaching"
+    ],
+    "answer": "Team teaching",
+    "desc": "Team teaching involves multiple teachers collaboratively planning and delivering instruction."
+  },
+  {
+    "q": "Team Teaching was used for the first time in:",
+    "pool": [
+      "India",
+      "Russia",
+      "America",
+      "Britain"
+    ],
+    "answer": "America",
+    "desc": "Team teaching originated in the United States as part of educational reform initiatives."
+  },
+  {
+    "q": "Who developed a teaching model where the teacher was replaced by a computer?",
+    "pool": [
+      "Asuwel",
+      "Denial Davis",
+      "Queens",
+      "Jonrads"
+    ],
+    "answer": "Denial Davis",
+    "desc": "Denial Davis is known for developing a computer-based teaching model replacing traditional teachers."
+  },
+  {
+    "q": "The computer-based teaching model was developed by:",
+    "pool": [
+      "Gilbert – (1962)",
+      "Stolurow and Davis (1965)",
+      "Robert Gagne (1965)",
+      "Mecner (1965)"
+    ],
+    "answer": "Stolurow and Davis (1965)",
+    "desc": "Stolurow and Davis introduced computer-based instructional models in the mid-1960s."
+  },
+  {
+    "q": "Programmed learning was propounded by:",
+    "pool": [
+      "Sydney Pressy",
+      "Normal A. Crowder",
+      "Skinner",
+      "E. L. Thorndike"
+    ],
+    "answer": "Skinner",
+    "desc": "B.F. Skinner developed programmed instruction based on behavioral psychology principles."
+  },
+  {
+    "q": "Instruction includes:",
+    "pool": [
+      "Teaching",
+      "Providing information",
+      "Making students learn",
+      "None of the above"
+    ],
+    "answer": "Providing information",
+    "desc": "Instruction involves organized delivery of information and guidance to aid learning."
+  },
+
+
+  {
+    "q": "Which one has been provided by programmed Instruction?",
+    "pool": [
+      "Behavioural Technology",
+      "Educational Technology",
+      "Instructional Technology",
+      "Instructional format"
+    ],
+    "answer": "Educational Technology",
+    "desc": "Programmed instruction contributes to educational technology by offering structured, learner-paced content delivery."
+  },
+  {
+    "q": "The principle of programmed learning is:",
+    "pool": [
+      "Presenting the subject matter in small frames",
+      "Continuing the learning process",
+      "Continuous Evaluation",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "desc": "Programmed learning involves presenting material in steps, evaluating progress, and ensuring continuity in learning."
+  },
+  {
+    "q": "Which technology is used to achieve the educational aims in case these aims have not been achieved?",
+    "pool": [
+      "Educational Technology",
+      "Instructional Technology",
+      "Behavioural Technology",
+      "Instructional Format"
+    ],
+    "answer": "Educational Technology",
+    "desc": "Educational technology aims to bridge gaps in achieving learning objectives through structured tools and methods."
+  },
+  {
+    "q": "Computer was developed in India in:",
+    "pool": ["1961", "1971", "1951", "1965"],
+    "answer": "1961",
+    "desc": "The first computer in India was developed in 1961, marking the start of the country's computing advancements."
+  },
+  {
+    "q": "Father of software approach is:",
+    "pool": ["Laith", "Maikin", "Skineer", "Jonthan"],
+    "answer": "Skineer",
+    "desc": "B.F. Skinner, known for operant conditioning, pioneered the software approach through programmed learning techniques."
+  },
+  {
+    "q": "Instructional Technology was first used in:",
+    "pool": ["1925", "1920", "1930", "1926"],
+    "answer": "1926",
+    "desc": "The use of instructional technology began in 1926, coinciding with the rise of audiovisual tools in education."
+  },
+
+
+  {
+    "q": "‘Team teaching’",
+    "pool": [
+      "involves teams of teachers to optimize resources, interest & expertise.",
+      "is a way out to manage with the shortage of teachers",
+      "encourage healthy competition among teams of teachers in a school",
+      "involves small teams of students as per their ability."
+    ],
+    "answer": "involves teams of teachers to optimize resources, interest & expertise.",
+    "desc": "Team teaching allows multiple teachers to collaborate, plan and deliver instruction together to enhance educational quality."
+  },
+  {
+    "q": "The teaching method, in which two or more teachers make a plan of the subjects co-operatively carry it out & always evaluate its effect on the students periodically is called:",
+    "pool": [
+      "Audio-Visual teaching",
+      "Team teaching",
+      "Visual teaching",
+      "Individual teaching"
+    ],
+    "answer": "Team teaching",
+    "desc": "Team teaching is a collaborative method where teachers co-plan, co-instruct, and co-assess a group of students."
+  },
+  {
+    "q": "In a computer Aided Learning (CAL) class, a teacher ran a programme on screen about ‘Triangle’ and sat behind in class as an observer. This type of computer aided learning based on programmed learning may be disadvantageous as:",
+    "pool": [
+      "students may feel lost due to absence of teacher- pupil interaction",
+      "students get every information in sequential manner",
+      "Students get a chance to understand at their own pace.",
+      "Students are responsible for their own learning"
+    ],
+    "answer": "students may feel lost due to absence of teacher- pupil interaction",
+    "desc": "Without teacher interaction, CAL may hinder real-time feedback and emotional support crucial for young learners."
+  },
+  {
+    "q": "Which of the following methods is use for teaching science in the present era of technology?",
+    "pool": [
+      "Programmed Instruction",
+      "Team Teaching",
+      "Computer Assisted Teaching",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "desc": "Modern science teaching incorporates various methods including programmed instruction, team teaching, and computer-aided learning."
+  },
+  {
+    "q": "Which one of the following is not one of the advantages of ‘Team Teaching Method’?",
+    "pool": [
+      "It helps in sharing the best faculty by more students",
+      "It involves optimum use of teaching techniques and devices",
+      "It improves the teaching quality",
+      "It affects the socio-economic conditions of the pupils"
+    ],
+    "answer": "It affects the socio-economic conditions of the pupils",
+    "desc": "Team teaching influences pedagogy and learning, not the socio-economic status of learners."
+  },
+  {
+    "q": "If some students are not in a mood to study in the class. You will:",
+    "pool": [
+      "force them to study",
+      "tell those students to leave the class",
+      "warn them that they must study or else you will report the matter to the principal",
+      "tell them some interesting things related to their interest or your own subject."
+    ],
+    "answer": "tell them some interesting things related to their interest or your own subject.",
+    "desc": "Engaging uninterested students through relatable or interesting content can help regain their attention and curiosity."
+  },
+  {
+    "q": "Which of the following is a teacher-related factor affecting learning?",
+    "pool": [
+      "Proper seating arrangement",
+      "Availability of teaching-learning resources",
+      "Nature of the content or learning experiences",
+      "Mastery over the subject-matter"
+    ],
+    "answer": "Mastery over the subject-matter",
+    "desc": "A teacher’s deep knowledge of their subject significantly influences the effectiveness of the teaching-learning process."
+  },
+  {
+    "q": "Parents should play a ………………… role in the learning process of young children.",
+    "pool": [
+      "sympathetic",
+      "neutral",
+      "negative",
+      "proactive"
+    ],
+    "answer": "proactive",
+    "desc": "Active involvement by parents supports children's academic and emotional development."
+  },
+  {
+    "q": "Kohlberg’s theory of moral development as a follow-up of Piaget’s theory was a result of:",
+    "pool": [
+      "observing children in action",
+      "Creating game-like situations",
+      "Creating moral dilemmas for people",
+      "talking to parents"
+    ],
+    "answer": "Creating moral dilemmas for people",
+    "desc": "Kohlberg posed moral dilemmas to assess moral reasoning across different age groups."
+  },
+  {
+    "q": "According to Kohlberg, at which level is morality externally controlled?",
+    "pool": [
+      "Pre-conventional level",
+      "Conventional level",
+      "Post-conventional level",
+      "None of the above"
+    ],
+    "answer": "Pre-conventional level",
+    "desc": "In the pre-conventional level, moral reasoning is based on consequences like punishment and reward."
+  },
+
+
+  {
+    "q": "Which one of the following is not a part of a stage proposed by Kohlberg in his Theory of Moral Development?",
+    "pool": [
+      "Self-interest and reward",
+      "Relationships with others",
+      "Social contract and social rights",
+      "Following universal ethical principles"
+    ],
+    "answer": "Social contract and social rights",
+    "desc": "Kohlberg proposed 'Social Contract and Individual Rights' rather than 'Social contract and social rights'."
+  },
+  {
+    "q": "Sameera returned the book she took from Malti’s bag because she was afraid of being punished if she was caught. This illustrates Kohlberg’s:",
+    "pool": [
+      "pre-conventional level",
+      "conventional level",
+      "post-conventional level",
+      "pre-operational level"
+    ],
+    "answer": "pre-conventional level",
+    "desc": "Fear of punishment indicates pre-conventional moral reasoning."
+  },
+  {
+    "q": "Children in primary schools follow which of the following stages as proposed by Lawrence Kohlberg?",
+    "pool": [
+      "B and A",
+      "B and D",
+      "A and D",
+      "A and C"
+    ],
+    "answer": "B and A",
+    "desc": "Primary children typically fall into Obedience/Punishment and Individualism/Exchange stages."
+  },
+  {
+    "q": "Which of the following is a characteristic of Kohlberg’s stages of moral development?",
+    "pool": [
+      "Universal sequences of stages across all cultures",
+      "Stages proceed in non-hierarchic manner",
+      "Variable sequence of stages",
+      "Stages are isolated responses and not general pattern"
+    ],
+    "answer": "Universal sequences of stages across all cultures",
+    "desc": "Kohlberg believed moral development progresses through universal and fixed stages."
+  },
+  {
+    "q": "What is a major criticism of Kohlberg’s theory?",
+    "pool": [
+      "Kohlberg proposed a theory without any empirical basis",
+      "Kohlberg did not give clear cut stages of moral development",
+      "Kohlberg proposed that moral reasoning is developmental",
+      "Kohlberg did not account for cultural differences in moral reasoning of men and women"
+    ],
+    "answer": "Kohlberg did not account for cultural differences in moral reasoning of men and women",
+    "desc": "Critics argue that Kohlberg’s research was biased toward male subjects and Western values."
+  },
+  {
+    "q": "A child reasons ‘You do this for me and I’ll do that for you.’ In which stage of Kohlberg’s moral reasoning would this child fall?",
+    "pool": [
+      "The ‘good boy-good girl’ orientation",
+      "The social-contract orientation",
+      "The instrumental purpose",
+      "The punishment and obedience orientation"
+    ],
+    "answer": "The ‘good boy-good girl’ orientation",
+    "desc": "This illustrates a transactional morality typical of the 'good boy-good girl' orientation."
+  },
+  {
+    "q": "Which one of the following is a correctly matched pair?",
+    "pool": [
+      "Good boy and good girl orientation : One earns approval by being nice",
+      "Law and order orientation : Ethical principles are self-chosen on the basis of the value of human rights",
+      "Social contract orientation : Physical consequences of an action determine whether it is good or bad",
+      "Punishment and obedience orientation : Laws are not fixed, but can be changed for the good of society"
+    ],
+    "answer": "Good boy and good girl orientation : One earns approval by being nice",
+    "desc": "In this stage, morality is determined by seeking approval and maintaining relationships."
+  },
+  {
+    "q": "Lawrence Kohlberg’s theory of moral reasoning has been criticized on several counts. Which of the following statements is correct in the context of this criticism?",
+    "pool": [
+      "Kohlberg has duplicated Piaget’s methods of arriving at his theoretical framework",
+      "Kohlberg has not given typical responses to each stage of moral reasoning",
+      "Kohlberg theory does not focus on children’s responses.",
+      "Kohlberg has based his study primarily on a male sample"
+    ],
+    "answer": "Kohlberg has based his study primarily on a male sample",
+    "desc": "Kohlberg's studies primarily involved boys, leading to criticism of gender bias in his theory."
+  },
+  {
+    "q": "According to Kohlberg, in which stage of moral development people approach moral problems as members of society?",
+    "pool": [
+      "State-3",
+      "State-4",
+      "State-5",
+      "State-6"
+    ],
+    "answer": "State-4",
+    "desc": "Stage 4 involves maintaining social order by following laws and rules."
+  },
+  {
+    "q": "According to Kohlberg’s Theory of Moral Development and his various stages of moral development which one of the following is not a state proposed by him",
+    "pool": [
+      "Individualism and Exchange",
+      "Interpersonal Relationships",
+      "Social Contract and Social Rights",
+      "Universal Principles"
+    ],
+    "answer": "Social Contract and Social Rights",
+    "desc": "The correct terminology is 'Social Contract and Individual Rights', not 'Social Rights'."
+  },
+
+
+  {
+    "q": "The most primitive sentiment expressed by the child in the early childhood is?",
+    "pool": ["his love for his own self", "his love for his toys", "his love for his parents", "All of the above"],
+    "answer": "his love for his own self",
+    "desc": "In early childhood, self-love or egocentrism is the most primitive and dominant sentiment."
+  },
+  {
+    "q": "According to Kohlberg, a teacher can instill moral values in children by?",
+    "pool": ["giving strict instructions on ‘how to behave’", "given importance to religious teachings", "laying clear rules of behavior", "involving them in discussions on moral issues"],
+    "answer": "involving them in discussions on moral issues",
+    "desc": "Kohlberg emphasized moral reasoning through discussions to develop moral thinking in children."
+  },
+  {
+    "q": "What level of moral development is Brandi demonstrating when she follows rules because of authority and fear of punishment?",
+    "pool": ["Punishment and obedience orientation", "Autonomous morality", "Social-relational perspective", "Concrete, individualist orientation"],
+    "answer": "Punishment and obedience orientation",
+    "desc": "Brandi follows rules primarily to avoid punishment, which reflects the first stage of Kohlberg's moral development."
+  },
+  {
+    "q": "According to Gilligan, the morality of _________ for men and morality of _________ for women.",
+    "pool": ["Justice; Caring", "Caring; Justice", "Superiority; Inferiority", "Giving; Receiving"],
+    "answer": "Justice; Caring",
+    "desc": "Gilligan argued men tend to emphasize justice, while women focus more on care and responsibility in moral reasoning."
+  },
+  {
+    "q": "According to Kohlberg, the level of development where a child's morality is controlled by fear of punishment is called?",
+    "pool": ["morality level", "convention morality level", "self-accepted moral principle level", "pre-moral level"],
+    "answer": "pre-moral level",
+    "desc": "In the pre-moral or pre-conventional level, children's moral decisions are driven by consequences like punishment."
+  },
+  {
+    "q": "According to Kohlberg, the thinking process involved in judgments about right and wrong is called?",
+    "pool": ["morality co-operation", "moral reasoning", "moral realism", "moral dilemma"],
+    "answer": "moral reasoning",
+    "desc": "Moral reasoning is the cognitive process used to make judgments about ethical questions."
+  },
+  {
+    "q": "Jai Singh refuses to pay taxes to a corrupt government. He is at which stage of Kohlberg’s moral development?",
+    "pool": ["Conventional", "Post-conventional", "Pre-conventional", "Para-conventional"],
+    "answer": "Post-conventional",
+    "desc": "Jai Singh's reasoning reflects post-conventional morality, where moral principles override laws."
+  },
+  {
+    "q": "As a teacher you advocate against bullying. Adolescents who join you are at which stage?",
+    "pool": ["The conventional level", "The pre-conventional level", "The post-conventional level", "Social order maintaining level"],
+    "answer": "The conventional level",
+    "desc": "These adolescents follow societal norms and seek approval, indicating conventional moral development."
+  },
+  {
+    "q": "A child cannot distinguish between ‘saw’ and ‘was’, ‘nuclear’ and ‘unclear’. He/she is suffering from?",
+    "pool": ["dysmorphia", "dyslexia", "word jumbling disorder", "ADHD"],
+    "answer": "dyslexia",
+    "desc": "Dyslexia is a learning disorder that involves difficulty in reading due to problems identifying speech sounds and decoding words."
+  },
+  {
+    "q": "Gifted students are?",
+    "pool": ["independent in their judgements", "independent of teachers", "introvert in nature", "non-assertive of their needs"],
+    "answer": "independent in their judgements",
+    "desc": "Gifted students typically demonstrate advanced thinking and often make independent judgments."
+  },
+  {
+    "q": "Group activities are the best source for?",
+    "pool": ["improving the performance of children & become socialized", "deteriorating the performance of children", "diverting children", "influencing them in a certain way"],
+    "answer": "improving the performance of children & become socialized",
+    "desc": "Group activities enhance social skills and overall performance in children through collaboration."
+  },
+  {
+    "q": "Orthopedically impaired children are likely to have?",
+    "pool": ["Poliomyelitis", "dysthymia", "dyscalculia", "dyslexia"],
+    "answer": "Poliomyelitis",
+    "desc": "Poliomyelitis is a disease that can cause physical disability, often classified under orthopedic impairments."
+  },
+  {
+    "q": "Which of the following is an example of a specific learning disability?",
+    "pool": ["Mental retardation", "Dyslexia", "Attention deficit hyper disorder", "Autism"],
+    "answer": "Dyslexia",
+    "desc": "Dyslexia is a specific learning disability affecting reading, not linked to overall intelligence."
+  },
+  {
+    "q": "What is the most appropriate way to encourage disadvantaged children to attend school regularly?",
+    "pool": ["Paying Rs. 5 per day to attract children", "Opening residential schools", "Not allowing children to attend school may be made a legally punishable offence", "A child collector employed by the school must bring children from their homes every day"],
+    "answer": "Opening residential schools",
+    "desc": "Residential schools can remove environmental and logistical barriers, encouraging regular attendance among disadvantaged children."
+  },
+
+
+  {
+    "q": "Which of the following statements about creativity is not true?",
+    "pool": [
+      "intelligent children might be creative but the vice versa is not correct.",
+      "They are very social in personal relations.",
+      "They are risk takers, enthusiastic and dedicated to the pursuit of their own ideas.",
+      "None of the above"
+    ],
+    "answer": "They are very social in personal relations.",
+    "desc": "Creativity is not necessarily associated with being social; many creative individuals may prefer solitude."
+  },
+  {
+    "q": "Successful inclusion requires the following except:",
+    "pool": ["Capacity building", "Sensitization", "Segregation", "Involvement of parents"],
+    "answer": "Segregation",
+    "desc": "Inclusion promotes integration, not segregation, which isolates students with special needs."
+  },
+  {
+    "q": "Which one of the following is the most crucial factor for a differently abled child?",
+    "pool": [
+      "Controlling his/her behaviour",
+      "Improving his/her grades",
+      "Enhancing his/her skills",
+      "Reducing his/her suffering"
+    ],
+    "answer": "Enhancing his/her skills",
+    "desc": "Empowering differently abled children through skill development fosters independence and confidence."
+  },
+  {
+    "q": "Teaching methods for gifted children should promote:",
+    "pool": ["abstract thinking", "problem solving skill", "both A & B", "None of the above"],
+    "answer": "both A & B",
+    "desc": "Gifted children benefit from methods that challenge their abstract and problem-solving abilities."
+  },
+  {
+    "q": "The objective of Inclusive education is:",
+    "pool": [
+      "to uncover and minimize barriers to learning",
+      "to change attitudes, behaviors, teaching methods, curricular and environments",
+      "to promote constantly the local cultures and content of various communities of the society",
+      "All these"
+    ],
+    "answer": "All these",
+    "desc": "Inclusive education aims to remove learning barriers and create a flexible, accommodating environment for all learners."
+  },
+  {
+    "q": "A teacher in the class should keep the pitch of his voice:",
+    "pool": ["High enough", "Low", "Moderate", "Sometime low and sometime high"],
+    "answer": "High enough",
+    "desc": "A sufficiently high pitch helps maintain attention and ensures audibility in the classroom."
+  },
+  {
+    "q": "Primary function of the school as an agent of society is to:",
+    "pool": [
+      "Maintain social stability",
+      "Develop an adequate level of vocational competence in children",
+      "Prepare the child for life",
+      "Provide children with an understanding of their environment"
+    ],
+    "answer": "Maintain social stability",
+    "desc": "Schools play a key role in socializing children and contributing to social cohesion and stability."
+  },
+  {
+    "q": "In the context of education, socialization means:",
+    "pool": [
+      "Always following social norms",
+      "Adjusting and adapting to social environment",
+      "Respecting elders in society",
+      "None of these"
+    ],
+    "answer": "Adjusting and adapting to social environment",
+    "desc": "Educational socialization involves adapting to societal norms and participating meaningfully in community life."
+  },
+  {
+    "q": "Inclusive Education:",
+    "pool": [
+      "Celebrates diversity in the classroom",
+      "Encourages strict admission procedures",
+      "Includes indoctrination of facts",
+      "Includes teachers from marginalized groups"
+    ],
+    "answer": "Celebrates diversity in the classroom",
+    "desc": "Inclusive education values and embraces diversity among learners."
+  },
+  {
+    "q": "Which one of the following is least important in an inclusive classroom?",
+    "pool": [
+      "Lesser stress on competition and grades",
+      "More co-operative and collaborative activity",
+      "More choice for students",
+      "More effort by teachers to “cover” course"
+    ],
+    "answer": "More effort by teachers to “cover” course",
+    "desc": "Inclusive classrooms focus on learning processes and adaptability over rigid curriculum coverage."
+  },
+  {
+    "q": "An inclusive school:",
+    "pool": [
+      "Is committed to improve the learning outcomes of all students irrespective of their capabilities",
+      "Differentiate between students and sets less challenging achievement targets for specially abled children",
+      "Committed particularly to improve the learning outcomes of specially abled students",
+      "Decides learning needs of students according to their disability"
+    ],
+    "answer": "Is committed to improve the learning outcomes of all students irrespective of their capabilities",
+    "desc": "Inclusive schools aim to cater to all students, not just those with disabilities."
+  },
+  {
+    "q": "Inclusion in school primarily focuses on:",
+    "pool": [
+      "Making subtle provisions for special category children",
+      "Fulfilling the needs of children with disabilities only",
+      "Meeting the need of the disabled child at the expense of entire class",
+      "Including the educational needs of illiterate parents in schools"
+    ],
+    "answer": "Making subtle provisions for special category children",
+    "desc": "Inclusion means making flexible accommodations without isolating or prioritizing specific groups unfairly."
+  },
+  {
+    "q": "An inclusive classroom is that where:",
+    "pool": [
+      "Assessments are repeated till the time every learner achieves minimum grades",
+      "Teachers teach from only prescribed books to lessen the burden of the students",
+      "There is an active involvement of children in solving as many problems as possible",
+      "Teachers created diverse and meaningful learning experiences for every learner"
+    ],
+    "answer": "Teachers created diverse and meaningful learning experiences for every learner",
+    "desc": "Inclusive classrooms are designed to accommodate and engage every learner through varied instruction."
+  },
+  {
+    "q": "The rationale behind inclusive education is that:",
+    "pool": [
+      "Society is heterogeneous and schools need to be inclusive to cater to heterogeneous society.",
+      "We need to take pity on special children and provide them access to facilities.",
+      "It is not cost-effective to provide for separate schools for special children.",
+      "The benchmarks for performance of each child should be uniform"
+    ],
+    "answer": "Society is heterogeneous and schools need to be inclusive to cater to heterogeneous society.",
+    "desc": "Inclusive education reflects the diversity of society, ensuring equitable opportunities for all."
+  },
+  {
+    "q": "The ______ aids us to divide people into types.",
+    "pool": ["Faculty theory", "Two factor theory", "Hierarchic theory", "None of the above"],
+    "answer": "Two factor theory",
+    "desc": "The two-factor theory helps in classifying people based on motivation and hygiene factors."
+  },
+
+
+  {
+    "q": "Intelligence is said to be constituted of a multitude of separate factors, or elements, each one being a minute element of ability, is suggested by:",
+    "pool": ["Thurstone", "Vernon", "Thorndike", "Guilford"],
+    "answer": "Thorndike",
+    "desc": "Thorndike proposed that intelligence consists of many separate, specific elements, each contributing to a person's abilities."
+  },
+  {
+    "q": "The CAVD test consists of four parts, namely, sentence completion, arithmetical reasoning, vocabulary and:",
+    "pool": ["Memory", "Abstract thinking", "Following directions", "None of the above"],
+    "answer": "Following directions",
+    "desc": "The CAVD test includes tasks like following directions to assess cognitive processing abilities."
+  },
+  {
+    "q": "It was in ____ that Spearman published his correlations between sensory tests and estimates of intelligence.",
+    "pool": ["1901", "1902", "1903", "None of these"],
+    "answer": "None of these",
+    "desc": "The exact year was not among the provided choices, hence 'None of these' is the correct answer."
+  },
+  {
+    "q": "Spearman developed the ______ technique to prove that no significant factors other than ‘g’ and specifics are present.",
+    "pool": ["Primary mental abilities", "Abstract intelligence", "Tetrad difference", "None of the above"],
+    "answer": "Tetrad difference",
+    "desc": "Spearman used the tetrad difference method to support his two-factor theory of intelligence."
+  },
+  {
+    "q": "Spearman’s statistical techniques were strongly criticized by:",
+    "pool": ["Thomson", "Thorndike", "Thurstone", "Vernon"],
+    "answer": "Thomson",
+    "desc": "Thomson criticized Spearman’s methods, proposing alternative models of intelligence."
+  },
+  {
+    "q": "“Superior intelligence is accompanied by superior physical vigour” was said by:",
+    "pool": ["Sir Francis Galton", "Charles Darwin", "Alfred Binet", "None of the above"],
+    "answer": "Sir Francis Galton",
+    "desc": "Galton linked physical and intellectual strength, laying groundwork for psychometrics."
+  },
+  {
+    "q": "Intelligent activity is not an expression of innumerable highly specific factors as stated by:",
+    "pool": ["Group factor theory", "Two-factor theory", "Monarchic theory", "Faculty theory"],
+    "answer": "Group factor theory",
+    "desc": "Group factor theory holds that intelligence is structured around several groups, not a multitude of isolated factors."
+  },
+  {
+    "q": "Thurstone’s primary factors include number factor, verbal factor and:",
+    "pool": ["Space factor", "Word fluency factor", "Reasoning factor", "All the above"],
+    "answer": "All the above",
+    "desc": "Thurstone identified multiple primary mental abilities including all the listed factors."
+  },
+  {
+    "q": "The mind can be pictured as a kind of hierarchy or genealogical tree, where the general mental ability factor is the most prominent component. It is the:",
+    "pool": ["Hierarchic theory", "Two-factor", "Group factor theory", "None of the above"],
+    "answer": "Hierarchic theory",
+    "desc": "The hierarchic theory represents intelligence as a structure with general ability at the top."
+  },
+  {
+    "q": "The structure of intellect model was propounded by:",
+    "pool": ["Thorndike", "Vernon", "J.P. Guilford", "Cattell"],
+    "answer": "J.P. Guilford",
+    "desc": "Guilford's Structure of Intellect model broke intelligence into three dimensions: operations, contents, and products."
+  },
+  {
+    "q": "The only theory which considers creativity (Divergent production) along with intelligence (Convergent production) in the same model is:",
+    "pool": ["Group factor theory", "Multifactor theory", "Structure of intellect model by Guilford", "Hierarchic theory"],
+    "answer": "Structure of intellect model by Guilford",
+    "desc": "Guilford’s model uniquely integrates both divergent (creative) and convergent (logical) thinking."
+  },
+  {
+    "q": "Under the common underlying factor of ‘g’, abilities tend to fall in two major groups: verbal educational factor (V : ed) and:",
+    "pool": ["Mathematical factor (M)", "Spatial-mechanical-perceptual factor(K : m)", "Vocabulary factor", "Space factor"],
+    "answer": "Spatial-mechanical-perceptual factor(K : m)",
+    "desc": "Vernon's model divides general intelligence into verbal-educational and spatial-mechanical-perceptual factors."
+  },
+  {
+    "q": "Guilford’s major strategy adopted in the construction of SI model tests was to define:",
+    "pool": ["Factors", "Intelligence", "Components of intelligence", "Values"],
+    "answer": "Factors",
+    "desc": "Guilford emphasized identifying and categorizing specific factors of intelligence in his model."
+  },
+  {
+    "q": "Measurement is a process of assigning symbols to ______ dimension in known standards.",
+    "pool": ["Arithmetical", "Verbal", "Psychological", "All of these"],
+    "answer": "Psychological",
+    "desc": "Psychological measurement involves quantifying attributes like intelligence or behavior using standardized symbols."
+  },
+
+
+  {
+    "q": "When a test measures what it claims to measure, it is known as ____ test.",
+    "pool": ["Valid", "Reliable", "Standardised", "None of these"],
+    "answer": "Reliable",
+    "desc": "Reliability refers to the consistency of a test, but in this context the answer key indicates 'Reliable' as correct, though typically 'Valid' is more accurate for the definition given."
+  },
+  {
+    "q": "A ______ of behaviour is supposed to be the representative of the total behavior which the individual shows in all the possible life situations.",
+    "pool": ["Collection", "Set", "Test", "Sample"],
+    "answer": "Sample",
+    "desc": "A sample of behavior in a test setting is considered to represent broader patterns of behavior in real life."
+  },
+  {
+    "q": "A task where a synonym or antonym has to be chosen is known as",
+    "pool": ["Vocabulary task", "Verbal analogies task", "Digit span task", "None of the above"],
+    "answer": "Vocabulary task",
+    "desc": "Synonym and antonym tasks are categorized under vocabulary tasks in verbal ability assessments."
+  },
+  {
+    "q": "The psychologist Binet was a",
+    "pool": ["German", "Russian", "French", "Dutch"],
+    "answer": "French",
+    "desc": "Alfred Binet was a French psychologist who pioneered intelligence testing."
+  },
+  {
+    "q": "Bhatia’s intelligence test and Koli’s block design test are",
+    "pool": ["Individual tests", "Group tests", "Verbal tests", "None of these"],
+    "answer": "Individual tests",
+    "desc": "These tests are administered individually to assess cognitive abilities in a personalized setting."
+  },
+  {
+    "q": "Which one of the following is best suited for emotional development of children?",
+    "pool": ["No involvement of the teachers as it is the task of the parents", "Passive classroom environment", "Authoritarian classroom environment", "Democratic classroom environment"],
+    "answer": "Democratic classroom environment",
+    "desc": "A democratic classroom encourages emotional expression, responsibility, and mutual respect."
+  },
+  {
+    "q": "According to Piaget, a child between 2 and 7 years is in the ______ stage of cognitive development.",
+    "pool": ["Concrete operational", "Sensorimotor", "Pre-operational", "Formal operational"],
+    "answer": "Pre-operational",
+    "desc": "In the pre-operational stage, children develop language and begin to use symbols but lack logical operations."
+  },
+  {
+    "q": "According to Piaget, children’s thinking differs more in ___ from adults than in ___.",
+    "pool": ["amount; kind", "size; correctness", "kind; amount", "size; type"],
+    "answer": "kind; amount",
+    "desc": "Piaget emphasized qualitative differences (kind) in thinking, rather than quantitative (amount)."
+  },
+  {
+    "q": "According to Piaget, during the first stage of development (birth to about 2 years age), a child learns best:",
+    "pool": ["by using the senses", "by comprehending natural words only", "by thinking in an abstract fashion", "by applying newly acquired knowledge of language"],
+    "answer": "by using the senses",
+    "desc": "In the sensorimotor stage, learning is primarily through sensory experiences and motor activities."
+  },
+  {
+    "q": "The stage of cognitive development, according to Piaget, in which a child displays ‘object permanence’ is:",
+    "pool": ["sensorimotor stage", "pre-operational stage", "concrete operational stage", "formal operational stage"],
+    "answer": "sensorimotor stage",
+    "desc": "Object permanence is a key milestone of the sensorimotor stage, where infants learn that objects continue to exist even when out of sight."
+  },
+  {
+    "q": "According to Piaget’s cognitive theory of learning, the process by which the cognitive structure is modified is called:",
+    "pool": ["Assimilation", "Schema", "Perception", "Accommodation"],
+    "answer": "Accommodation",
+    "desc": "Accommodation is the process of altering existing cognitive schemas in response to new information."
+  },
+  {
+    "q": "Which of the following implications cannot be derived from the Piaget’s theory of cognitive development?",
+    "pool": ["Sensitivity to children’s readiness to learn", "Acceptance of individual differences", "Discovery learning", "Need of verbal teaching"],
+    "answer": "Need of verbal teaching",
+    "desc": "Piaget emphasized hands-on, discovery learning rather than verbal instruction."
+  },
+  {
+    "q": "“Thought not only determines language, but also precedes it” was the idea put forward by:",
+    "pool": ["Jean Piaget", "Kohlberg", "Vygotsky", "Pavlov"],
+    "answer": "Vygotsky",
+    "desc": "Vygotsky proposed that thought and language initially develop separately and then merge, with thought eventually influencing language."
+  },
+  {
+    "q": "Which of the following statements is correct in relation to ‘concept formation’ by a child?",
+    "pool": ["Concepts are emotionally ordered", "There is a set pattern of concept development", "Concepts are not hierarchical in nature", "Concepts are not individual"],
+    "answer": "Concepts are not hierarchical in nature",
+    "desc": "Children’s concept formation is not always strictly hierarchical; it can vary based on context and development."
+  },
+
+
+  {
+    "q": "According to Piaget, which one of the following factors plays an important role in influencing development?",
+    "pool": ["Language", "Reinforcement", "Experience with the physical world", "Imitation"],
+    "answer": "Experience with the physical world",
+    "desc": "Piaget emphasized interaction with the physical environment as crucial for cognitive development."
+  },
+  {
+    "q": "The cognitive ability that comes in the pre-operational period is",
+    "pool": ["ability for abstract thinking", "hypothetic-deductive thinking", "ability of goal-directed behaviour", "ability to take other’s perspective"],
+    "answer": "ability of goal-directed behaviour",
+    "desc": "Goal-directed behavior begins to emerge in the pre-operational stage, though not fully developed."
+  },
+  {
+    "q": "In a constructivist classroom as envisioned by Piaget and Vygotsky, learning",
+    "pool": ["is constructed by the students themselves who play an active role", "is offering of reinforcement by the teacher", "is dictated by the teacher and the students are passive recipients of the same", "happen by pairing of a stimulus and a response."],
+    "answer": "is constructed by the students themselves who play an active role",
+    "desc": "Constructivism stresses learner agency and active knowledge construction."
+  },
+  {
+    "q": "In the context of envisioned by language development, which of the following areas are underestimated by Piaget?",
+    "pool": ["Heredity", "Social Interaction", "Egocentric speech", "Active construction by the child"],
+    "answer": "Social Interaction",
+    "desc": "Vygotsky criticized Piaget for underestimating the role of social interaction in language development."
+  },
+  {
+    "q": "At which of the following ages would you expect clock-time concepts to be mastered initially by a child?",
+    "pool": ["Two years", "Three years", "Four years", "Between five and six years"],
+    "answer": "Between five and six years",
+    "desc": "Children typically begin to understand clock time around 5–6 years of age."
+  },
+  {
+    "q": "During the third to the eighth week of pregnancy, the developing child can be accurately referred to as the—",
+    "pool": ["Prenate", "Zygote", "Embryo", "Foetus"],
+    "answer": "Embryo",
+    "desc": "The embryonic stage spans from the third to the eighth week after conception."
+  },
+  {
+    "q": "Which is the correct sequence of Piaget's stages of cognitive development?",
+    "pool": [
+      "Sensori-motor, concrete operational, formal operational, post-operational",
+      "Pre-operational, concrete operational, formal operational, sensori-motor",
+      "Sensori-motor, pre-operational, concrete operational, formal operational",
+      "Pre-operational, informal operational, formal operational, post-operational"
+    ],
+    "answer": "Sensori-motor, pre-operational, concrete operational, formal operational",
+    "desc": "This is the standard developmental sequence described by Piaget."
+  },
+  {
+    "q": "During the formal operations stage, children begin to",
+    "pool": [
+      "Accurately use concepts of time, space and number",
+      "Think primarily about concrete objects or situations",
+      "Develop the concept of object permanency",
+      "Think in terms of abstract principles and hypothetical situations"
+    ],
+    "answer": "Think in terms of abstract principles and hypothetical situations",
+    "desc": "Formal operations allow abstract and hypothetical reasoning."
+  },
+  {
+    "q": "A child is largely nonverbal, is learning to coordinate purposeful movements with sense information, and is developing the concept of object permanence. The child is in Piaget's ……….. stage.",
+    "pool": ["Sensori-motor", "Preoperational", "Concrete-operational", "Formal operations"],
+    "answer": "Sensori-motor",
+    "desc": "These traits define Piaget's sensorimotor stage (birth to 2 years)."
+  },
+  {
+    "q": "According to Piaget, adaptation is the process of adjusting schemes in response to the environment by means of Assimilation and ………… .",
+    "pool": ["Schemes", "Disequilibrium", "Constructivism", "Accommodation"],
+    "answer": "Accommodation",
+    "desc": "Accommodation involves altering mental structures in response to new information."
+  },
+  {
+    "q": "According to Vygotsky, young children use what mechanism to turn shared knowledge into their personal knowledge?",
+    "pool": ["Conservation of energy", "Private speech", "Autonomous morality", "Sensori-motor behaviour"],
+    "answer": "Private speech",
+    "desc": "Private speech helps internalize learning through self-guided talk."
+  },
+  {
+    "q": "__________ is one of the best methods to study the growth and development of the child.",
+    "pool": ["Psychoanalytic methods", "Comparative methods", "Developmental method", "Statistical method"],
+    "answer": "Developmental method",
+    "desc": "Developmental methods track age-related changes across the lifespan."
+  },
+  {
+    "q": "Developmental task is a concept, first used by _________.",
+    "pool": ["Herbart", "Bruner", "Havighurst", "Hurlock"],
+    "answer": "Havighurst",
+    "desc": "Robert Havighurst introduced the concept of developmental tasks tied to life stages."
+  },
+  {
+    "q": "Children in pre-primary get satisfaction from being allowed to discover. They become distressed, when they are discouraged. They do so due to their motivation to",
+    "pool": ["reduce their ignorance", "affiliate with the class", "create disorder in the class", "exercise their power."],
+    "answer": "reduce their ignorance",
+    "desc": "Young children are naturally curious and driven to explore and learn."
+  },
+
+
+  {
+    "q": "Which of the following is not related to the infancy period?",
+    "pool": [
+      "Growth occurs from bilateral to unilateral trend in motor organs",
+      "Growth occurs from general to specific trend in motor organs",
+      "Emotional and social development that is not a part of motor development",
+      "Steady mental growth"
+    ],
+    "answer": "Emotional and social development that is not a part of motor development",
+    "desc": "During infancy, focus is on motor and mental development like sitting, walking, etc., not emotional or social development."
+  },
+  {
+    "q": "Identify the incorrect statement about growth and development.",
+    "pool": [
+      "Growth denotes to quantitative changes, while development refers to qualitative changes.",
+      "Growth is a function of the environment.",
+      "Growth is possible without development.",
+      "Growth is governed by intrinsic and genetic factors."
+    ],
+    "answer": "Growth is possible without development.",
+    "desc": "Development can occur without physical growth; for example, intellectual or emotional development may continue even without physical change."
+  },
+  {
+    "q": "In ________ stage of development, a child appears self-centered.",
+    "pool": [
+      "infancy",
+      "early childhood",
+      "adolescence",
+      "adulthood"
+    ],
+    "answer": "infancy",
+    "desc": "Infants initially appear self-centered as they begin to recognize family and surroundings."
+  },
+  {
+    "q": "Who said, “Development is not limited to growing layer. Instead it consists of a progressive series of changes towards the goal of maturity.”",
+    "pool": [
+      "Erikson",
+      "Jersild, Telford and Sawrey",
+      "Piaget",
+      "Hurlock"
+    ],
+    "answer": "Hurlock",
+    "desc": "This quote reflects Hurlock’s view of human development as a continual journey toward maturity."
+  },
+  {
+    "q": "Developmental perspective of teaching demands teachers to",
+    "pool": [
+      "be strict disciplinarians as children experiment quite frequently",
+      "adapt instructional strategies based on the knowledge of developmental factors",
+      "treat children in different developmental stages in an equitable manner",
+      "provide learning that results in the development of only the cognitive domain"
+    ],
+    "answer": "adapt instructional strategies based on the knowledge of developmental factors",
+    "desc": "Teachers must modify teaching strategies based on students' developmental needs for effective learning."
+  },
+  {
+    "q": "Which one of the following statements about development is correct?",
+    "pool": [
+      "Developmental changes go forward in a straight line.",
+      "Development proceeds from birth to adolescence in a forward manner and then it goes backward.",
+      "Development occurs at a different rate among different individuals.",
+      "Development occurs at a very fast pace from birth till adolescence and then it stops."
+    ],
+    "answer": "Development occurs at a different rate among different individuals.",
+    "desc": "Every child develops at a unique pace, influenced by various genetic and environmental factors."
+  },
+  {
+    "q": "Which of the following theorists would be of the opinion that students study hard for their personal growth and development?",
+    "pool": [
+      "Bandura",
+      "Maslow",
+      "Skinner",
+      "Piaget"
+    ],
+    "answer": "Maslow",
+    "desc": "Maslow's hierarchy of needs includes self-actualization, where individuals strive for personal growth and achievement."
+  },
+  {
+    "q": "The Social Learning theory proposed by Miller and Dollard said that",
+    "pool": [
+      "people learn by watching what others do",
+      "human thought processes are central to understanding personality",
+      "Both (a) and (b)",
+      "Neither (a) nor (b)"
+    ],
+    "answer": "Both (a) and (b)",
+    "desc": "Miller and Dollard emphasized observational learning and the role of internal cognitive processes."
+  },
+  {
+    "q": "Naresh and Mukesh are in the same age group. They show differences in social and mental development. It is due to which of the following?",
+    "pool": [
+      "Principle of Modifiability",
+      "Principle of Definite and Predictable Pattern",
+      "Principle of Individuality",
+      "Principle of Uniform Pattern"
+    ],
+    "answer": "Principle of Individuality",
+    "desc": "Each individual develops uniquely, even when in the same age group."
+  },
+  {
+    "q": "Which one of the following is a true statement corresponding to Cephalocaudal Principle of child’s development?",
+    "pool": [
+      "Development is from head to foot",
+      "Development is from foot to head",
+      "Development is from middle to periphery",
+      "None of the above"
+    ],
+    "answer": "Development is from head to foot",
+    "desc": "Cephalocaudal principle means development progresses from the head down to the feet."
+  },
+  {
+    "q": "Which of the following is an external factor of development?",
+    "pool": [
+      "Economic conditions",
+      "Social condition",
+      "Life experiences",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "desc": "External development factors include economic, social, and experiential influences."
+  },
+  {
+    "q": "“Development is a never ending process” with which principle of child development can this thought be associated?",
+    "pool": [
+      "Development is corelated",
+      "Development is continuous",
+      "Development follows a pattern",
+      "Development involves change"
+    ],
+    "answer": "Development is continuous",
+    "desc": "Development is a lifelong process that doesn't stop at any fixed stage."
+  },
+  {
+    "q": "A mother observes that one of her twins has learnt to walk faster than the other. This difference in learning is related to which principle of development?",
+    "pool": [
+      "Development proceeds from head to toe",
+      "Development proceeds stage by stage",
+      "Development proceeds at different place for different people",
+      "Development proceeds from general to specific"
+    ],
+    "answer": "Development proceeds at different place for different people",
+    "desc": "Each child develops at their own pace, even among twins."
+  },
+  {
+    "q": "Why is it important for the teachers to know about the various stages of child development?\nA. To produce a comfortable environment for teaching and learning process.\nB. To know and understand the problems faced by a child. \nC. To establish an effective communication with the child.",
+    "pool": [
+      "Only A",
+      "Only B",
+      "Both A and C",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "desc": "Teachers should understand development to create a comfortable environment, recognize problems, and communicate effectively."
+  },
+
+
+  {
+    "q": "Human behavior is a result of …………….. stimulus.",
+    "pool": [
+      "physiological",
+      "environmental",
+      "Both physiological and environmental",
+      "Neither physiological nor environmental"
+    ],
+    "answer": "Both physiological and environmental",
+    "desc": "Human behavior is influenced by both internal (physiological) and external (environmental) stimuli."
+  },
+  {
+    "q": "Which of the following factors is not related to motivation?",
+    "pool": [
+      "Interest",
+      "Objectives of life",
+      "Physical fitness",
+      "Mental health"
+    ],
+    "answer": "Physical fitness",
+    "desc": "While interest, life goals, and mental health are linked to motivation, physical fitness is more associated with general health than motivation directly."
+  },
+  {
+    "q": "Abraham Maslow explained theory of motivation in 1954 in the perspective of",
+    "pool": [
+      "needs",
+      "rewards",
+      "expectancy",
+      "objectives"
+    ],
+    "answer": "needs",
+    "desc": "Maslow’s theory of motivation is based on a hierarchy of human needs, from basic to self-actualization."
+  },
+  {
+    "q": "As soon as the process of motivation stops",
+    "pool": [
+      "activity of the person also stops",
+      "need of the activity becomes dead",
+      "Both of the above",
+      "None of the above"
+    ],
+    "answer": "Both of the above",
+    "desc": "When motivation ceases, both the activity and the associated need are likely to diminish or stop."
+  },
+  {
+    "q": "Goals of life also become a motivating force because",
+    "pool": [
+      "goals become the need of the person",
+      "goals stimulate internal process of the person involved",
+      "Both of the above",
+      "None of the above"
+    ],
+    "answer": "goals become the need of the person",
+    "desc": "Life goals transform into internal needs that drive behavior and motivation."
+  },
+  {
+    "q": "The theory similar to Maslow’s theory of motivation is",
+    "pool": [
+      "drive theory",
+      "social theory",
+      "instinct theory",
+      "None of these"
+    ],
+    "answer": "None of these",
+    "desc": "Maslow's need hierarchy theory is unique and not directly aligned with drive, social, or instinct theories."
+  },
+  {
+    "q": "Which point is taken into account by the teacher while selecting a particular technique of motivation?",
+    "pool": [
+      "Learning-objectives and its level",
+      "Learning structure",
+      "Both of the above",
+      "None of the above"
+    ],
+    "answer": "Learning-objectives and its level",
+    "desc": "Motivation techniques should align with the specific learning objectives and their complexity."
+  },
+  {
+    "q": "Motivation technique can work only up to the",
+    "pool": [
+      "application level of cognitive objectives",
+      "comprehension level of objectives",
+      "highest level of cognitive domain",
+      "None of the above"
+    ],
+    "answer": "highest level of cognitive domain",
+    "desc": "Motivational techniques can be effective even at the highest cognitive levels, like analysis and evaluation."
+  },
+  {
+    "q": "Techniques of motivation are most useful for realising",
+    "pool": [
+      "cognitive objectives",
+      "affective objectives",
+      "psychomotor objectives",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "desc": "Motivation techniques benefit all learning domains—cognitive, affective, and psychomotor."
+  },
+
+
+  {
+    "q": "“Our action and behavior is motivated by the desire for getting pleasure and avoiding pain.” This is the opinion by-",
+    "pool": ["Thomas Hobbes", "Descartes", "Kant", "John Locke"],
+    "answer": "Thomas Hobbes",
+    "desc": "Thomas Hobbes believed that human actions are motivated by the pursuit of pleasure and the avoidance of pain."
+  },
+  {
+    "q": "Fundamental instincts of humans are inherited rather than acquired. These instincts are the spring of human behavior. The above opinion was held by",
+    "pool": ["Charles Darwin", "Mc Dougal", "Both of these", "None of these"],
+    "answer": "Both of these",
+    "desc": "Both Charles Darwin and McDougall held the view that human behavior is driven by innate, inherited instincts."
+  },
+  {
+    "q": "Instinct theory of behavior was rejected by psychologists on which of the following grounds?",
+    "pool": [
+      "Adult behavior is guided by experience and learning also. It is not always guided by instinct",
+      "Human behavior is affected by the cultural factors also",
+      "Human being is a rational animal. He is not supposed to be directed by instincts only",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "desc": "The instinct theory was rejected because human behavior is also shaped by learning, culture, and rational thought, not just instincts."
+  },
+  {
+    "q": "Achievement motive in a child can be developed by",
+    "pool": [
+      "Proper guidance and high expectation from the child",
+      "Telling the stories of great men to the child",
+      "Setting a realistic goal for the child",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "desc": "A combination of guidance, inspiration, and goal-setting helps cultivate achievement motivation in children."
+  },
+  {
+    "q": "……………… is considered a sign of motivated teaching.",
+    "pool": [
+      "Maximum attendance in the class",
+      "Remedial work given by the teacher",
+      "Questioning by students",
+      "Pin drop silence in the class"
+    ],
+    "answer": "Questioning by students",
+    "desc": "Students asking questions indicates engagement and intrinsic motivation, which are hallmarks of effective teaching."
+  },
+  {
+    "q": "Which of the following is not needed for students to be motivated to learn?",
+    "pool": [
+      "Skills and knowledge required for satisfactory learning",
+      "Giving praise and encouragement while learning is going on",
+      "Involving students in activities which make them work with each other",
+      "None of the above"
+    ],
+    "answer": "None of the above",
+    "desc": "All listed elements are essential for fostering student motivation; hence, 'None of the above' is correct."
+  },
+  {
+    "q": "A student works hard to clear an entrance test for admission into a medical college. The student is said to be motivated",
+    "pool": ["experientially", "intrinsically", "extrinsically", "individually"],
+    "answer": "intrinsically",
+    "desc": "The student’s effort stems from personal ambition and internal drive, which is intrinsic motivation."
+  },
+  {
+    "q": "Which one of the following optimizes motivation to learn?",
+    "pool": [
+      "Tendency to choose very easy or difficult goals",
+      "Personal satisfaction in meeting targets",
+      "Extrinsic factor",
+      "Motivation to avoid failure"
+    ],
+    "answer": "Personal satisfaction in meeting targets",
+    "desc": "Personal satisfaction drives intrinsic motivation, which is most effective for sustained learning."
+  },
+  {
+    "q": "The news of ‘a woman selling her child to obtain food’ may be understood best on the basis of",
+    "pool": [
+      "Psychosocial theory",
+      "Theory of reinforced contingencies",
+      "Psychoanalytical theory",
+      "Theory of hierarchical needs"
+    ],
+    "answer": "Theory of hierarchical needs",
+    "desc": "Maslow’s hierarchy of needs explains that basic physiological needs like food dominate behavior in extreme situations."
+  },
+  {
+    "q": "The Government of India has started Mid-day Meal Scheme for the elementary schools. Which of the following theories of motivation supports his scheme?",
+    "pool": ["Cognitive", "Humanistic", "Behaviourist", "Socio-cultural"],
+    "answer": "Humanistic",
+    "desc": "The Humanistic theory, particularly Maslow’s hierarchy, supports addressing basic needs like hunger to foster learning."
+  },
+
+
+  {
+    "q": "Learning theory has been criticised as failing to explain underlying ______ in individual behavior patterns.",
+    "pool": ["Motives", "Social structure", "Executive functions", "Consistencies"],
+    "answer": "Consistencies",
+    "desc": "Learning theory has been critiqued for not adequately explaining consistent patterns in individual behavior."
+  },
+  {
+    "q": "The self as ______ and self as a process, are seen in most theories which employ any kind of self construction.",
+    "pool": ["Image", "Object", "Ego", "None of these"],
+    "answer": "Object",
+    "desc": "Many self-theories distinguish between the self as an object and as a dynamic process."
+  },
+  {
+    "q": "In ______ theory, the ego comprises the personality’s executive functions.",
+    "pool": ["Maslow’s", "Erikson’s", "Spearman’s", "Psychoanalytic"],
+    "answer": "Psychoanalytic",
+    "desc": "Freud’s psychoanalytic theory defines the ego as the executive that mediates between the id, superego, and reality."
+  },
+  {
+    "q": "_____ are also prominent in phenomenological theories: those which build upon the perceived, subjective world of one’s immediate experience.",
+    "pool": ["Clients", "Experiences", "Parents", "Self-concepts"],
+    "answer": "Self-concepts",
+    "desc": "Phenomenological theories, like Rogers’, focus heavily on how self-concepts shape experience and behavior."
+  },
+  {
+    "q": "The _______ is the individual’s frame of reference and may or may not correspond with external reality.",
+    "pool": ["Phenomenal field", "Self-concepts", "Learning", "Ego"],
+    "answer": "Phenomenal field",
+    "desc": "The phenomenal field refers to the subjective reality that guides an individual's perception and behavior."
+  },
+  {
+    "q": "Out of the ______, there gradually develops a portion which is the self.",
+    "pool": ["Phenomenal field", "Learning through conditioning", "Id", "Super ego"],
+    "answer": "Phenomenal field",
+    "desc": "According to humanistic psychology, the self emerges from one's subjective experiences in the phenomenal field."
+  },
+  {
+    "q": "According to Rogers, in addition to the present self, there is also a/an",
+    "pool": ["Self-image", "Ideal self", "Preconscious self", "Unconscious self"],
+    "answer": "Ideal self",
+    "desc": "Carl Rogers emphasized the 'ideal self' — who we aspire to become — alongside our current self-image."
+  },
+  {
+    "q": "Symbolised experience may not match external reality. This is called",
+    "pool": ["Congruence", "Incongruence", "Self-actualisation", "Peak experience"],
+    "answer": "Incongruence",
+    "desc": "In Rogers' theory, incongruence arises when a person’s self-concept is not aligned with actual experience."
+  },
+  {
+    "q": "In Rogers’ notion, in mature adjusted people there will be ______ between the organism and the self.",
+    "pool": ["Incongruence", "An ideal self", "Congruence", "None of these"],
+    "answer": "Congruence",
+    "desc": "Congruence represents alignment between a person's self-concept and their actual experience."
+  },
+  {
+    "q": "If the reaction to a child’s behavior is disapproving, the child will regard the action as unworthy and tend to",
+    "pool": ["Exclude it", "Reinforce it", "Do it more frequently", "None of the above"],
+    "answer": "Exclude it",
+    "desc": "Negative feedback can lead a child to internalize the behavior as undesirable and suppress it."
+  },
+  {
+    "q": "______ helped to popularise the Q technique in personality research, a method of self-description which is particularly easy to analyse statistically.",
+    "pool": ["Erikson", "Maslow", "Jenson", "Rogers"],
+    "answer": "Rogers",
+    "desc": "Carl Rogers popularized the Q-sort technique, used to explore self-perception and personality."
+  },
+  {
+    "q": "Maslow’s ________ theory stresses the positive tendency to fulfill one’s basic potentialities.",
+    "pool": ["Humanistic psychology", "Self", "Self-actualisation", "Psychoanalysis"],
+    "answer": "Self-actualisation",
+    "desc": "Maslow’s theory of self-actualisation highlights the drive toward realizing one’s fullest potential."
+  },
+  {
+    "q": "Truly self-actualised people are rare but _________ which most of us have had, are moments of self-actualisation.",
+    "pool": ["Distortion of image", "Peak experiences", "Incongruences", "None of the above"],
+    "answer": "Peak experiences",
+    "desc": "Maslow described peak experiences as brief moments of intense joy and self-fulfillment."
+  },
+  {
+    "q": "Erikson’s trust-versus-mistrust stage occurs during",
+    "pool": ["Middle childhood", "Early adulthood", "Infancy", "Early childhood"],
+    "answer": "Infancy",
+    "desc": "According to Erikson, the trust vs. mistrust stage — foundational for healthy development — occurs in infancy."
+  },
+
+
+  {
+    "q": "Maslow (1967) found that his group of people or the self-actualised people had some distinct characteristics like",
+    "pool": ["They were open to experience", "They were in tune with themselves", "They resisted conformity to culture", "All the above"],
+    "answer": "All the above",
+    "desc": "Maslow noted that self-actualized individuals share traits like openness, authenticity, and resistance to cultural conformity."
+  },
+  {
+    "q": "All the self-theories share a view of personality which relies heavily on",
+    "pool": ["Situational variations", "Social interaction", "Classical and operant conditioning", "Introspection"],
+    "answer": "Introspection",
+    "desc": "Self-theories often emphasize internal reflection to understand one’s self-concept and personal growth."
+  },
+  {
+    "q": "_______ seek to discover individuals’ characteristic behaviours and do not have right or wrong answers.",
+    "pool": ["Intelligence tests", "Mental ability tests", "Personality tests", "None of the above"],
+    "answer": "Personality tests",
+    "desc": "Personality tests are designed to uncover consistent traits and styles, rather than assess correctness."
+  },
+  {
+    "q": "Pencil and paper tests which ask questions or give simple statements to be marked “yes” or “no” are called",
+    "pool": ["Thematic Apperception Test", "Mental Ability Test", "Differential Ability Test", "Questionnaires"],
+    "answer": "Questionnaires",
+    "desc": "These structured 'yes' or 'no' style tools are commonly used in self-report personality assessments."
+  },
+  {
+    "q": "There is no known_______ for some of the tests made up by individuals or “testing agencies” for use in selecting executives or employees in industry.",
+    "pool": ["Validity", "Reliability", "Consistency", "Uniformity"],
+    "answer": "Validity",
+    "desc": "Without proven validity, these tests cannot be trusted to accurately measure what they claim to assess."
+  },
+  {
+    "q": "Most questionnaires in magazines designed to tell us whether we are good husbands, introverts, successful executives and so forth are",
+    "pool": ["Valid", "Not valid", "Apparent", "Deceptive"],
+    "answer": "Not valid",
+    "desc": "Such informal questionnaires are typically not scientifically validated and lack psychological rigor."
+  },
+  {
+    "q": "‘Mirambaka’ – The school based on ideas of free progress education was advocated by",
+    "pool": ["M. K. Gandhi", "Vivekananda", "John Dewey", "Aurobindo"],
+    "answer": "Aurobindo",
+    "desc": "Sri Aurobindo's educational vision emphasized individual spiritual and intellectual growth."
+  },
+  {
+    "q": "The most important single factor of success for a teacher in the beginning of teaching career is",
+    "pool": ["Verbal fluency and organization ability", "Positive attitude and outlook towards life", "Personality and ability to adjust to classroom", "Competence and professional ethics"],
+    "answer": "Personality and ability to adjust to classroom",
+    "desc": "A teacher's adaptability and interpersonal skills are crucial for managing the early teaching challenges."
+  },
+  {
+    "q": "For a teacher in higher educational institution, which of the following is the best option to do in leisure time?",
+    "pool": ["Taking rest in teacher’s room", "Reading magazines in library", "Talking to administrative staff", "Doing research"],
+    "answer": "Doing research",
+    "desc": "Engaging in research enriches the teacher’s subject knowledge and contributes to academia."
+  },
+  {
+    "q": "What are the components of Tyler’s model of curriculum?",
+    "pool": [
+      "Aims, subject content, teaching, evaluation",
+      "Purpose, educational experiences, effective organization of experiences, verification of goal",
+      "Aims of education, organization of content, testing, feedback",
+      "Subject content, teaching, learning, testing"
+    ],
+    "answer": "Purpose, educational experiences, effective organization of experiences, verification of goal",
+    "desc": "Tyler’s model is a systematic framework for curriculum development focusing on objectives and their evaluation."
+  },
+  {
+    "q": "The experienced teachers do not require the detailed lesson plan of a topic because",
+    "pool": [
+      "They can teach more effectively without its help",
+      "There are just few curious students in the class",
+      "The teacher is not likely to face any challenges from students even if they are wrong",
+      "They can equip themselves with brief outline as they gain specialization in it through experience"
+    ],
+    "answer": "They can equip themselves with brief outline as they gain specialization in it through experience",
+    "desc": "With experience, teachers can rely on flexible planning based on deep content mastery."
+  },
+  {
+    "q": "The ideal teacher",
+    "pool": [
+      "Covers the whole syllabus in class",
+      "Helps his students in learning",
+      "Is a friend, philosopher and guide",
+      "Is a strict disciplinarian"
+    ],
+    "answer": "Is a friend, philosopher and guide",
+    "desc": "An ideal teacher supports holistic development beyond academics."
+  },
+  {
+    "q": "The field of education is permeated by conflicts and misconceptions because",
+    "pool": [
+      "Subjectivity of interpretation",
+      "Problem are not amenable to rigorous scientific investigation",
+      "Lack of good teaching methods",
+      "All the above"
+    ],
+    "answer": "Problem are not amenable to rigorous scientific investigation",
+    "desc": "Educational issues often lack clear-cut solutions due to their complex and context-dependent nature."
+  },
+
+
+  {
+    "q": "In the introduction part of a lesson plan, a teacher aims to get student’s",
+    "pool": ["Assignments", "Aptitude", "Attention", "Abilities"],
+    "answer": "Attention",
+    "desc": "The introduction is designed to capture and focus students' attention, preparing them for the lesson ahead."
+  },
+  {
+    "q": "With the development of technology, the role of teacher in future will be",
+    "pool": ["to provide information", "to development new textbooks", "to guide students", "to use the internet in teaching"],
+    "answer": "to guide students",
+    "desc": "As information becomes widely accessible, teachers act more as facilitators and mentors than information providers."
+  },
+  {
+    "q": "Which of the following is not a level of teaching learning?",
+    "pool": ["Differentiation level", "Memory level", "Reflective level", "Understanding level"],
+    "answer": "Differentiation level",
+    "desc": "The three recognized levels of teaching are memory, understanding, and reflective; 'differentiation level' is not one of them."
+  },
+  {
+    "q": "What does the cognitive domain of Bloom’s Taxonomy of Educational Objection affect in learners?",
+    "pool": ["Thoughts", "Emotions", "Skills", "All the above"],
+    "answer": "Thoughts",
+    "desc": "The cognitive domain addresses mental skills and knowledge acquisition, impacting thinking and reasoning abilities."
+  },
+  {
+    "q": "Integral education concept is propounded by",
+    "pool": ["Sri Aurobindo", "Mahatma Gandhi", "Swami Dayanand", "Swami Vivekananda"],
+    "answer": "Sri Aurobindo",
+    "desc": "Sri Aurobindo emphasized education that integrates the physical, emotional, mental, and spiritual aspects of a learner."
+  },
+  {
+    "q": "The standard of education can be raised by",
+    "pool": ["Appointing good teachers", "Providing physical facilities in schools", "Reforming examination system", "Providing computer in schools"],
+    "answer": "Appointing good teachers",
+    "desc": "The quality of teachers is the most critical factor in improving education standards."
+  },
+  {
+    "q": "Which of the following skills are needed for the present-day teacher to adjust effectively with classroom teaching?\nI. Knowledge of technology\nII. Use of technology in teaching learning\nIII. Knowledge of student’s needs\nIV. Content mastery",
+    "pool": ["I and II", "II and III", "II, III, and IV", "II and IV"],
+    "answer": "II, III, and IV",
+    "desc": "Modern teaching requires integrating technology, understanding learners, and having strong subject knowledge."
+  },
+  {
+    "q": "The primary duty of a teacher is to",
+    "pool": ["Raise the intellectual standards of students", "Improve the physical standards of students", "Help in all-round development of students", "Imbibe value system in students"],
+    "answer": "Help in all-round development of students",
+    "desc": "Teachers are expected to support students holistically—intellectually, emotionally, socially, and morally."
+  },
+  {
+    "q": "Which one of the following is the most important quality of a good teacher?",
+    "pool": ["punctuality and sincerity", "content mastery", "content mastery and reactive", "content mastery and sociable"],
+    "answer": "content mastery and sociable",
+    "desc": "Besides deep subject knowledge, a teacher must connect well with students to be effective."
+  },
+  {
+    "q": "The primary responsibility for the teacher’s adjustment lies with",
+    "pool": ["The children", "The principal", "The teacher himself", "The community"],
+    "answer": "The teacher himself",
+    "desc": "It is ultimately the teacher’s responsibility to adapt and grow within the educational environment."
+  },
+  {
+    "q": "Which one of the following statements is correct?",
+    "pool": [
+      "Syllabus is an annexure to the curriculum.",
+      "Curriculum is the same in all educational institutions.",
+      "Curriculum includes both formal and informal education.",
+      "Curriculum does not include method of evaluation"
+    ],
+    "answer": "Syllabus is an annexure to the curriculum.",
+    "desc": "The syllabus is a subset or component of the broader curriculum, which includes goals, pedagogy, and assessments."
+  },
+  {
+    "q": "A successful teacher is one who is",
+    "pool": ["compassionate and disciplinarian", "quiet and reactive", "Tolerant and dominating", "Passive and active"],
+    "answer": "compassionate and disciplinarian",
+    "desc": "A balance of empathy and authority helps teachers manage classrooms effectively and foster student respect."
+  },
+  {
+    "q": "The most important quality of a good teacher is",
+    "pool": ["sound knowledge of subject matter", "good communication skills", "concern for students welfare", "effective leadership qualities"],
+    "answer": "sound knowledge of subject matter",
+    "desc": "A deep understanding of content is foundational to effective teaching."
+  },
+
+
+  {
+    "q": "If a student asks questions on some unrelated topic in the class, as teacher you will",
+    "pool": [
+      "Allow him to ask unrelated questions.",
+      "Not allow him to ask unrelated questions.",
+      "Answer the question after the class.",
+      "consider it as an act of indiscipline."
+    ],
+    "answer": "Answer the question after the class.",
+    "desc": "Addressing off-topic questions after class maintains classroom focus without discouraging student curiosity."
+  },
+  {
+    "q": "A guardian never comes to see you in school. As a teacher, you will",
+    "pool": [
+      "Ignore the child",
+      "write a letter to the guardian",
+      "Go to meet him yourself if possible",
+      "Start punishing the child"
+    ],
+    "answer": "Go to meet him yourself if possible",
+    "desc": "Proactively engaging with guardians shows responsibility and concern for the student’s well-being."
+  },
+  {
+    "q": "To maintain interest among students in class, a teacher should",
+    "pool": [
+      "make maximum use of teaching instructional facilities",
+      "discuss",
+      "Ask question intermittently",
+      "All the above"
+    ],
+    "answer": "All the above",
+    "desc": "A combination of teaching tools, discussion, and questioning keeps students engaged."
+  },
+  {
+    "q": "A teacher asks the questions in the class to",
+    "pool": [
+      "keep students busy",
+      "Maintain discipline",
+      "Attract student’s attention",
+      "Teach"
+    ],
+    "answer": "Attract student’s attention",
+    "desc": "Questioning helps direct student focus and ensures active participation."
+  },
+  {
+    "q": "To keep a check on the habit of absenteeism among students",
+    "pool": [
+      "The principal and parents should get worried",
+      "the officials should put noise against absentee students on the notice board.",
+      "the teachers should take it as a serious problem",
+      "they should be given less priority in the classroom in relation to regular students."
+    ],
+    "answer": "the teachers should take it as a serious problem",
+    "desc": "Teachers play a key role in addressing absenteeism by identifying causes and taking corrective steps."
+  },
+  {
+    "q": "When the students try to solve the questions in some different way not taught by the teacher from prescribed books then these students should be",
+    "pool": [
+      "always discouraged to consult some other books on the subject",
+      "always encouraged to consult other books on the subject.",
+      "Suggested to seek permission of their respective class teachers before referring to other books.",
+      "No action required."
+    ],
+    "answer": "always encouraged to consult other books on the subject.",
+    "desc": "Encouraging independent exploration fosters deeper learning and critical thinking."
+  },
+  {
+    "q": "Students who ask questions in the class should be",
+    "pool": [
+      "advised to meet the teacher after the class.",
+      "encouraged to participate in the discussion in the class.",
+      "encouraged to continue asking question.",
+      "encouraged to search answers independently"
+    ],
+    "answer": "encouraged to continue asking question.",
+    "desc": "Active questioning should be promoted as it enhances engagement and understanding."
+  },
+  {
+    "q": "In order to modify the undesirable behaviour of a student, the most effective method is",
+    "pool": [
+      "to punish the student",
+      "to bring it to the notice of parents.",
+      "to find out the reasons for the undesirable behaviour and provide remedies.",
+      "all the above"
+    ],
+    "answer": "to find out the reasons for the undesirable behaviour and provide remedies.",
+    "desc": "Understanding the root cause of misbehavior enables meaningful and lasting behavioral improvements."
+  },
+  {
+    "q": "A majority of classroom tasks initiated by teachers in traditional classroom are usually",
+    "pool": [
+      "Low-level cognitive process",
+      "High-order cognitive process",
+      "Affective process",
+      "Both (a) and (b)"
+    ],
+    "answer": "Both (a) and (b)",
+    "desc": "Traditional teaching often focuses on low-level cognitive tasks, though high-order ones may occasionally appear."
+  },
+  {
+    "q": "In totality, the teacher helps students the most in which of the following way?",
+    "pool": [
+      "Integrated development of the child",
+      "physical growth of the child",
+      "for socio- cultural",
+      "Development of the child"
+    ],
+    "answer": "Integrated development of the child",
+    "desc": "Teachers influence the cognitive, emotional, social, and moral development of students."
+  },
+  {
+    "q": "If students are not able to follow, the teacher in the class should",
+    "pool": [
+      "give them prompt reply.",
+      "Illustrated with suitable reply.",
+      "make the contents easier.",
+      "all the above"
+    ],
+    "answer": "Illustrated with suitable reply.",
+    "desc": "Clarifying with illustrations enhances comprehension and makes learning accessible."
+  },
+  {
+    "q": "If the students are not taking interest in our teaching then you will",
+    "pool": [
+      "Ignore them",
+      "Leave the class",
+      "Ask them to pay attention",
+      "Review the teaching method"
+    ],
+    "answer": "Review the teaching method",
+    "desc": "A lack of student interest often points to the need for adapting instructional methods."
+  },
+  {
+    "q": "What quality the students like the most in a teacher?",
+    "pool": [
+      "Idealist philosophy",
+      "compassion",
+      "Discipline",
+      "Entertaining"
+    ],
+    "answer": "compassion",
+    "desc": "Students value compassion, as it fosters a supportive and inclusive classroom environment."
+  },
+  {
+    "q": "Research has shown that the most frequent symptom of nervous instability among teachers is",
+    "pool": [
+      "Digestive upsets",
+      "Explosive behaviour",
+      "Fatigue",
+      "Worry"
+    ],
+    "answer": "Explosive behaviour",
+    "desc": "Emotional outbursts are often observed in teachers under persistent stress or instability."
+  },
+
+
+  {
+    "q": "Which one of the following is appropriate with respect to teacher – student relationship?",
+    "pool": [
+      "very informal and intimate",
+      "Limited to classroom only",
+      "cordial and respectful",
+      "indifferent"
+    ],
+    "answer": "cordial and respectful",
+    "desc": "A balanced teacher-student relationship is respectful and friendly, promoting a productive learning environment."
+  },
+  {
+    "q": "In a lively class room situation, there is likely to be",
+    "pool": [
+      "Occasional roars of laughter",
+      "Complete silence",
+      "Frequent teacher-students dialogue",
+      "Loud discussion among students"
+    ],
+    "answer": "Frequent teacher-students dialogue",
+    "desc": "Active and regular interaction between teacher and students defines a lively and engaged classroom."
+  },
+  {
+    "q": "For maintaining an effective discipline in the class, the teacher should",
+    "pool": [
+      "Allow students to do what they like.",
+      "Deal with students strictly.",
+      "Give the students some problems to solve.",
+      "Deal with them politely and firmly"
+    ],
+    "answer": "Deal with them politely and firmly",
+    "desc": "Maintaining discipline requires a firm yet respectful approach to ensure order and mutual understanding."
+  },
+  {
+    "q": "Those teachers are popular among students who",
+    "pool": [
+      "Develop intimacy with them.",
+      "Help them solve their problem.",
+      "Award god grades.",
+      "Take classes for extra tuition fee."
+    ],
+    "answer": "Help them solve their problem.",
+    "desc": "Teachers who assist students in solving problems are seen as supportive and approachable."
+  },
+  {
+    "q": "The essence of an effective classroom environment is",
+    "pool": [
+      "A variety of teaching instructional facilities.",
+      "Lively students-teacher interaction.",
+      "pin-drop silence",
+      "strict discipline"
+    ],
+    "answer": "Lively students-teacher interaction.",
+    "desc": "Meaningful engagement and interaction form the core of an effective classroom environment."
+  },
+  {
+    "q": "On the first day of his class, if a teacher is asked by the students to introduce himself, he should",
+    "pool": [
+      "Ask them to meet after the class.",
+      "Tell them about him in brief.",
+      "Ignore the demand and start teaching.",
+      "Scold the student for this unwanted demand."
+    ],
+    "answer": "Tell them about him in brief.",
+    "desc": "A brief self-introduction fosters rapport and sets a welcoming tone for the class."
+  },
+  {
+    "q": "Under ordinary conditions, an individual’s IQ is supposed to remain the same throughout life, or at least throughout the age limits covered by the scale. This property is known as",
+    "pool": [
+      "Constancy of IQ",
+      "Deviation IQ",
+      "Both of them",
+      "None of the above"
+    ],
+    "answer": "Constancy of IQ",
+    "desc": "IQ constancy implies that intelligence remains relatively stable across time within the age span measured."
+  },
+  {
+    "q": "______ is the term used for IQ found out by using Wechsler’s test.",
+    "pool": [
+      "Constant IQ",
+      "Deviation IQ",
+      "Standard IQ",
+      "None of these"
+    ],
+    "answer": "Deviation IQ",
+    "desc": "Wechsler introduced Deviation IQ, which compares an individual's IQ to the average IQ of their age group."
+  },
+  {
+    "q": "A _____ is one who on standardised tests fails to attain an IQ or a mental age.",
+    "pool": [
+      "Subnormal person",
+      "Very superior person",
+      "Normal person",
+      "None of the above"
+    ],
+    "answer": "Subnormal person",
+    "desc": "A subnormal person refers to someone scoring significantly below average on standardized IQ tests."
+  },
+  {
+    "q": "Intelligence tests as used in our schools and colleges are",
+    "pool": [
+      "Mental ability tests",
+      "Arithmetical",
+      "Scholastic aptitude test",
+      "All of the above"
+    ],
+    "answer": "Scholastic aptitude test",
+    "desc": "These tests are designed to measure a student’s potential to succeed in an academic setting."
+  },
+  {
+    "q": "“It is alarming to contemplate what an extensive use of answer sheets could do to the intellectual character of a nation.” Who is/are the speaker(s)?",
+    "pool": [
+      "Spearman",
+      "Wechsler",
+      "Hebb and Piaget",
+      "J.P. Guilford"
+    ],
+    "answer": "J.P. Guilford",
+    "desc": "Guilford criticized the overuse of standardized testing for limiting creativity and intellectual diversity."
+  },
+  {
+    "q": "The degree to which intelligence tests are related to academic success depend upon the subject matter.",
+    "pool": [
+      "True",
+      "False",
+      "Partially true",
+      "The truth is yet to be established"
+    ],
+    "answer": "True",
+    "desc": "The predictive value of intelligence tests varies depending on the academic domain."
+  },
+  {
+    "q": "A disobedient or delinquent student may not necessarily be low in intelligence even if the test speaks of it.",
+    "pool": [
+      "False",
+      "True",
+      "Partially true",
+      "The truth is yet to be established"
+    ],
+    "answer": "True",
+    "desc": "Behavioral issues do not directly correlate with low intelligence; other factors may be involved."
+  },
+  {
+    "q": "“Creativity is the capacity of a person to produce compositions, products or ideas which are essentially new or novel and previously unknown to the producer”. Who is the speaker?",
+    "pool": [
+      "Wilson",
+      "Torrance",
+      "Drevdahl",
+      "None of the above"
+    ],
+    "answer": "Drevdahl",
+    "desc": "Drevdahl’s definition of creativity emphasizes originality and innovation in personal output."
+  },
+
+
+  {
+    "q": "Process of creativity is similar to the steps in the scientific method with a creative person using the steps more often or more effectively than others.",
+    "pool": [
+      "Wilson, Guilford and Christensen",
+      "Torrance",
+      "Drevdahl",
+      "Spearson"
+    ],
+    "answer": "Torrance",
+    "desc": "Torrance emphasized that creativity mirrors the scientific process through frequent and effective use of its steps."
+  },
+  {
+    "q": "According to Wallas (1926), creative process involves a period of preparation, incubation, illumination and",
+    "pool": [
+      "Tolerance",
+      "Learning",
+      "Verification",
+      "All of these"
+    ],
+    "answer": "Verification",
+    "desc": "Wallas outlined the four stages of creativity: preparation, incubation, illumination, and verification."
+  },
+  {
+    "q": "One of the oldest and most widely used intelligence tests is the ______ which was developed primarily for testing children individually, but it has been extended for use with adults.",
+    "pool": [
+      "Wechsler intelligence scale",
+      "Stanford-Binet intelligence test",
+      "Aptitude tests",
+      "Scholastic tests"
+    ],
+    "answer": "Stanford-Binet intelligence test",
+    "desc": "The Stanford–Binet test, initially for children, is now adapted for adults and remains widely used."
+  },
+  {
+    "q": "The concepts of mental age and intelligence quotient grew out of",
+    "pool": [
+      "Stanford-Binet scale",
+      "Wechsler scale",
+      "Validity coefficients",
+      "None of the above"
+    ],
+    "answer": "Stanford-Binet scale",
+    "desc": "The Stanford–Binet test introduced the concepts of mental age and IQ."
+  },
+  {
+    "q": "The _______ may be used with adults or children: the items are classified as verbal or performance, depending upon whether the subject must use words to indicate his answer.",
+    "pool": [
+      "Stanford-Binet scale",
+      "Wechsler intelligence scale",
+      "Aptitude tests",
+      "Scholastic tests"
+    ],
+    "answer": "Wechsler intelligence scale",
+    "desc": "Wechsler's scale includes both verbal and performance components, suitable for all age groups."
+  },
+  {
+    "q": "Postnatal growth of _______ undoubtedly is related to physical developments of the brain after birth, as well as to experiential factors.",
+    "pool": [
+      "Sexual organs",
+      "Attitude",
+      "Intelligence",
+      "Motives"
+    ],
+    "answer": "Intelligence",
+    "desc": "Postnatal brain development and experiences influence the growth of intelligence."
+  },
+  {
+    "q": "The _______ test items stress the importance of many answers. Such factors as originality and flexibility are also scored by evaluating the quality and direction of responses.",
+    "pool": [
+      "Intelligence",
+      "Creativity",
+      "Psychological",
+      "None of these"
+    ],
+    "answer": "Creativity",
+    "desc": "Creativity tests evaluate multiple answers based on originality and flexibility."
+  },
+  {
+    "q": "Most socially healthy people belong to _____ group.",
+    "pool": [
+      "High creativity – high intelligence",
+      "Low creativity – low intelligence",
+      "High Creativity – low intelligence",
+      "Low creativity – high intelligence"
+    ],
+    "answer": "High creativity – high intelligence",
+    "desc": "The combination of high intelligence and creativity correlates with stronger social functioning."
+  },
+  {
+    "q": "In the _______ low intelligence group people tend to exhibit disruptive behavior in the classroom.",
+    "pool": [
+      "Low creativity",
+      "High creativity",
+      "Both of them",
+      "None of them"
+    ],
+    "answer": "High creativity",
+    "desc": "High creativity combined with low intelligence may lead to classroom disruption due to mismatch in capabilities and expression."
+  },
+  {
+    "q": "_______ is the name given to the theoretical position that intelligence is composed of a single, unitary or general (G) factor.",
+    "pool": [
+      "Group factor theory",
+      "G – factor theory",
+      "Three dimensional theory",
+      "None of the above"
+    ],
+    "answer": "G – factor theory",
+    "desc": "G-factor theory proposes a single general intelligence influencing all cognitive abilities."
+  },
+  {
+    "q": "The basic idea of _____ is to compute correlation coefficients among the various subjects one has decided to include in an intelligence test.",
+    "pool": [
+      "Group factors",
+      "Factor analysis",
+      "Cubical model",
+      "General factor"
+    ],
+    "answer": "Factor analysis",
+    "desc": "Factor analysis identifies the underlying structure of cognitive abilities by analyzing inter-correlations."
+  },
+  {
+    "q": "_______ proposed by T.L. Kelly maintain(s) that there are moderate number of distinct primary factors, of about equal importance, which together make up intelligence.",
+    "pool": [
+      "Three dimensional theory",
+      "Group factor theory",
+      "G – factor theory",
+      "Process oriented theories"
+    ],
+    "answer": "Group factor theory",
+    "desc": "Kelly’s group factor theory suggests that multiple equally important primary abilities constitute intelligence."
+  },
+
+
+  {
+    "q": "The teacher’s role is shifting from ‘sage on the stage’ to ‘guide on the side’. Technology integration helps this process when",
+    "pool": [
+      "systems store more data and administer tests individually to students",
+      "students actively search for and explore answers instead of receiving standard inputs",
+      "easy retrieval of large quantities of stored data is used to facilitate preparation of notes",
+      "assessment of students' online inputs is done quickly without supervision at any time"
+    ],
+    "answer": "students actively search for and explore answers instead of receiving standard inputs",
+    "desc": "When students explore and search for answers, it supports active learning and reflects the teacher’s role as a facilitator."
+  },
+  {
+    "q": "One of the following quality is not expected of a good teacher",
+    "pool": [
+      "communicating freely with students",
+      "teaching without using any audio-visual aids",
+      "acquiring knowledge about student’s background",
+      "sharing warmth, enthusiasm and caring"
+    ],
+    "answer": "teaching without using any audio-visual aids",
+    "desc": "Audio-visual aids are important tools that enhance learning; avoiding them limits engagement."
+  },
+  {
+    "q": "Motivation is an important factor in language learning. For example in class VI, …………... may be done.",
+    "pool": [
+      "memorization and use of necessary vocabulary",
+      "systematic analysis and use of structures",
+      "use of visual devices and game like exercises",
+      "use of the mother tongue as the medium"
+    ],
+    "answer": "use of visual devices and game like exercises",
+    "desc": "Game-like exercises and visuals motivate young learners and make language learning engaging."
+  },
+  {
+    "q": "Which of the following aids help a student to hear the correct pronunciation and get the latest news and develop his/her comprehension ability?",
+    "pool": [
+      "Chalk-board",
+      "Text-books",
+      "Radio",
+      "Flash cards"
+    ],
+    "answer": "Radio",
+    "desc": "Radio helps improve listening, pronunciation, and comprehension through real-time audio content."
+  },
+  {
+    "q": "A teacher, Amrita, uses various tasks such as creating charts, graphs, drawing, gathering information and presenting them through pair or group work. This differentiated instruction",
+    "pool": [
+      "is a way of demonstrating her own knowledge",
+      "only helps the bright learners",
+      "is the best way to prepare students for an assessment",
+      "helps learners with multiple intelligences to perform well and learn better"
+    ],
+    "answer": "helps learners with multiple intelligences to perform well and learn better",
+    "desc": "Differentiated instruction supports different learning styles, encouraging success across varied intelligences."
+  },
+  {
+    "q": "Out of the given statements, which one is not correct about children?",
+    "pool": [
+      "Children are not passive but active explorers of their surrounding",
+      "There is a scientific investigator in every child",
+      "Children receive knowledge in the passive form",
+      "Children are more of problem solvers and less of problem creators"
+    ],
+    "answer": "Children receive knowledge in the passive form",
+    "desc": "Children actively construct knowledge; they are not passive recipients."
+  },
+  {
+    "q": "A student is asked to sum up the steps in the process of problem-solving. Out of the given statements, choose which one is not a step related to problem-solving.",
+    "pool": [
+      "Problem should be identified",
+      "The problem should be broken down into smaller units",
+      "Thinking out the possible strategies or solutions",
+      "Outcomes are to be verified"
+    ],
+    "answer": "The problem should be broken down into smaller units",
+    "desc": "Breaking a problem into smaller units is more analytical than procedural in classic problem-solving models."
+  },
+  {
+    "q": "Which of the following is correct for the statement: \"A problem statement has enough of clear hints\"?",
+    "pool": [
+      "Problem-solving approach",
+      "Identification of the problem",
+      "Assessment of the problem",
+      "Anticipation to the solution of the problem"
+    ],
+    "answer": "Problem-solving approach",
+    "desc": "A well-structured problem with clear hints supports the use of a problem-solving approach."
+  },
+  {
+    "q": "'Self-regulation' of learners refers to",
+    "pool": [
+      "creating regulations for student behaviour",
+      "rules and regulations made by the student body",
+      "self-discipline and control",
+      "their ability to monitor their own learning"
+    ],
+    "answer": "their ability to monitor their own learning",
+    "desc": "Self-regulation includes planning, monitoring, and evaluating one's own learning process."
+  },
+  {
+    "q": "Science and art exhibitions, music and dance shows and bringing out school magazines, are meant to",
+    "pool": [
+      "train students for various professions",
+      "establish a name for the school",
+      "satisfy the parents",
+      "provide a creative channel for learners"
+    ],
+    "answer": "provide a creative channel for learners",
+    "desc": "Such activities encourage creative expression and holistic development of learners."
+  },
+  {
+    "q": "Teaching method called the Dalton Plan is mentioned in Pedagogical Literature, as a successful experiment. It was concerned with",
+    "pool": [
+      "Abolition of the classroom teaching and encouraging children to learn according to their own speed in fulfilling the given assignment",
+      "An open school system, allowing students to learn for themselves from surrounding situations and people, through their own initiative",
+      "A play way technique for development of physical and artistic skills, through manipulation",
+      "Education through co-curricular and extra-curricular activities within the school boundaries with indirect supervision and observation by teachers"
+    ],
+    "answer": "An open school system, allowing students to learn for themselves from surrounding situations and people, through their own initiative",
+    "desc": "The Dalton Plan emphasizes freedom, responsibility, and learning at one's own pace and initiative."
+  },
+  {
+    "q": "Which one of the following is the best method of teaching?",
+    "pool": [
+      "Lecture method",
+      "Discussion method",
+      "Demonstration method",
+      "Question–Answer method"
+    ],
+    "answer": "Demonstration method",
+    "desc": "Demonstration method is effective as it visually presents the process, enhancing understanding."
+  },
+
+  {
+    "q": "The best method of teaching is to",
+    "pool": [
+      "Impart Information",
+      "Ask students to read books",
+      "Suggest good reference material",
+      "Initiate a discussion and participate in it"
+    ],
+    "answer": "Initiate a discussion and participate in it",
+    "desc": "Active participation through discussion enhances engagement and deeper understanding."
+  },
+  {
+    "q": "Maximum participation of student during teaching is possible through",
+    "pool": [
+      "Lecture method",
+      "Demonstration method",
+      "Inductive method",
+      "Textbook method"
+    ],
+    "answer": "Demonstration method",
+    "desc": "Demonstrations provide visual, hands-on learning, encouraging student interaction."
+  },
+  {
+    "q": "Techniques used by a teacher to teach include:\n(i) Lecture\n(ii) Interacting lecture\n(iii) Group work\n(iv) Self Study\nSelect the correct answer from the codes given below:",
+    "pool": [
+      "(ii),(iii),(iv)",
+      "(i),(ii),(iv)",
+      "(i),(ii),(iii)",
+      "(i),(ii),(iii),(iv)"
+    ],
+    "answer": "(i),(ii),(iii)",
+    "desc": "Lecture, interactive lecture, and group work are direct teaching techniques; self-study is learner-driven."
+  },
+  {
+    "q": "The best way for providing value education is through",
+    "pool": [
+      "Discussion on scriptural texts",
+      "Lectures/discourse on values",
+      "Seminars/symposia on values",
+      "mentoring/reflective sessions on values"
+    ],
+    "answer": "mentoring/reflective sessions on values",
+    "desc": "Mentoring encourages personal growth and internalization of values through reflection and dialogue."
+  },
+  {
+    "q": "Which set of learner characteristic may be considered helpful in designing effective teaching-learning systems?\n(I) Prior experience of learners in respect of the subject\n(II) Interpersonal relationship of learner’s family friends\n(III) Ability of the learners in respect of the subject\n(IV) Student Language Background\n(V) Interest of students in following the prescribed dress code\n(VI) Motivational-orientation of the students",
+    "pool": [
+      "I, II, III and IV",
+      "I, III, IV and VI",
+      "II, III, IV, and V",
+      "III, IV, V and VI"
+    ],
+    "answer": "I, III, IV and VI",
+    "desc": "Prior experience, ability, language background, and motivation are crucial to tailoring instruction effectively."
+  },
+  {
+    "q": "Select the alternative which consists of positive factors contributing to effectiveness of teaching\nList of factors:\n(i) Teacher’s knowledge of the subject.\n(ii) Teacher’s socio-economic background\n(iii) Communication skill of the teacher\n(iv) Teacher’s ability to please the students\n(v) Teacher personal contact with students\n(vi) Teacher’s competence in managing and monitoring the classroom transactions.",
+    "pool": [
+      "(ii),(iii),(iv)",
+      "(iii),(iv), (vi)",
+      "(ii),(iv),(v)",
+      "(i),(iii),(vi)"
+    ],
+    "answer": "(i),(iii),(vi)",
+    "desc": "Subject knowledge, communication skill, and classroom management are essential to effective teaching."
+  },
+  {
+    "q": "At lower classes, play–way method of teaching is based on",
+    "pool": [
+      "Psychological principles of development and growth",
+      "Sociological principles of teaching",
+      "Theory of physical education programs",
+      "Principles of methods of teaching"
+    ],
+    "answer": "Psychological principles of development and growth",
+    "desc": "Play-way method aligns with children's natural learning tendencies and psychological development."
+  },
+  {
+    "q": "Which of the following is a teacher-related factor effecting learning?",
+    "pool": [
+      "proper seating arrangement",
+      "Availability of teaching-learning resources",
+      "Nature of the content of learning experience",
+      "Master over the subject-matter"
+    ],
+    "answer": "Availability of teaching-learning resources",
+    "desc": "Resources provided by the teacher support learning by facilitating better comprehension and engagement."
+  }
+]
