@@ -1,0 +1,176 @@
+[
+  {
+    "q": "Who was the first Governor-General of India?",
+    "pool": ["Lord Dalhousie", "Lord Auckland", "Lord Metcalfe", "Lord William Bentinck", "Lord Ellenborough"],
+    "answer": "Lord William Bentinck",
+    "desc": "The Charter Act of 1833 made Lord William Bentinck the first Governor-General of India."
+  },
+  {
+    "q": "Which act made Lord William Bentinck the first Governor-General of India?",
+    "pool": ["Regulating Act, 1773", "Pitt's India Act, 1784", "Charter Act, 1813", "Charter Act, 1833", "Government of India Act, 1858"],
+    "answer": "Charter Act, 1833",
+    "desc": "The Charter Act of 1833 changed the title from Governor-General of Bengal to Governor-General of India."
+  },
+  {
+    "q": "Which social evil was prohibited in 1829 during Bentinck’s tenure?",
+    "pool": ["Child marriage", "Sati", "Dowry", "Female infanticide", "Polygamy"],
+    "answer": "Sati",
+    "desc": "The practice of Sati was banned by Lord William Bentinck in 1829."
+  },
+  {
+    "q": "Under whose recommendation was English made the medium of higher education?",
+    "pool": ["Ishwar Chandra Vidyasagar", "Raja Ram Mohan Roy", "Charles Napier", "Thomas Macaulay", "William Jones"],
+    "answer": "Thomas Macaulay",
+    "desc": "English was made the medium of higher education on the recommendations of Thomas Macaulay."
+  },
+  {
+    "q": "Who is known as the liberator of the press in India?",
+    "pool": ["Lord Dalhousie", "Lord Hardinge", "Lord Ellenborough", "Lord Metcalfe", "Lord William Bentinck"],
+    "answer": "Lord Metcalfe",
+    "desc": "Lord Metcalfe is called the liberator of the press for removing restrictions on the press in 1835."
+  },
+  {
+    "q": "Which Governor-General was associated with the disastrous First Afghan War?",
+    "pool": ["Lord Ellenborough", "Lord Auckland", "Lord Hardinge", "Lord Dalhousie", "Lord Canning"],
+    "answer": "Lord Auckland",
+    "desc": "Lord Auckland led the British into the First Afghan War (1838–42), which ended disastrously."
+  },
+  {
+    "q": "Who ended the First Afghan War?",
+    "pool": ["Lord Hardinge", "Lord Auckland", "Lord Ellenborough", "Lord Dalhousie", "Lord Metcalfe"],
+    "answer": "Lord Ellenborough",
+    "desc": "Lord Ellenborough ended the disastrous First Afghan War during his tenure."
+  },
+  {
+    "q": "Which Governor-General oversaw the annexation of Sind?",
+    "pool": ["Lord Metcalfe", "Lord Ellenborough", "Lord Hardinge", "Lord Bentinck", "Lord Dalhousie"],
+    "answer": "Lord Ellenborough",
+    "desc": "The annexation of Sind was carried out by Charles Napier under Lord Ellenborough’s term."
+  },
+  {
+    "q": "Which war was fought during Lord Hardinge's term?",
+    "pool": ["Second Afghan War", "First Anglo-Sikh War", "Second Anglo-Sikh War", "Anglo-Maratha War", "Opium War"],
+    "answer": "First Anglo-Sikh War",
+    "desc": "The First Anglo-Sikh War (1845–46) occurred under Lord Hardinge."
+  },
+  {
+    "q": "What treaty concluded the First Anglo-Sikh War?",
+    "pool": ["Treaty of Buxar", "Treaty of Lahore", "Treaty of Amritsar", "Treaty of Allahabad", "Treaty of Gandamak"],
+    "answer": "Treaty of Lahore",
+    "desc": "The Treaty of Lahore in 1846 ended the First Anglo-Sikh War."
+  },
+  {
+    "q": "Which Governor-General introduced the Doctrine of Lapse?",
+    "pool": ["Lord Dalhousie", "Lord Bentinck", "Lord Auckland", "Lord Ellenborough", "Lord Hardinge"],
+    "answer": "Lord Dalhousie",
+    "desc": "Lord Dalhousie used the Doctrine of Lapse to annex several princely states."
+  },
+  {
+    "q": "Which of the following states was annexed in 1848 under Doctrine of Lapse?",
+    "pool": ["Jhansi", "Satara", "Nagpur", "Awadh", "Udaipur"],
+    "answer": "Satara",
+    "desc": "Satara was the first state annexed under the Doctrine of Lapse in 1848."
+  },
+  {
+    "q": "Which state was annexed in 1856 due to maladministration?",
+    "pool": ["Jhansi", "Satara", "Awadh", "Baghat", "Nagpur"],
+    "answer": "Awadh",
+    "desc": "Awadh was annexed in 1856 by Lord Dalhousie on grounds of maladministration."
+  },
+  {
+    "q": "When was the first railway line in India laid?",
+    "pool": ["1843", "1848", "1850", "1853", "1856"],
+    "answer": "1853",
+    "desc": "The first railway line was laid between Bombay and Thane in 1853."
+  },
+  {
+    "q": "Which cities were connected by the first telegraph line in India?",
+    "pool": ["Calcutta and Bombay", "Calcutta and Agra", "Bombay and Madras", "Delhi and Agra", "Madras and Calcutta"],
+    "answer": "Calcutta and Agra",
+    "desc": "The telegraph line between Calcutta and Agra was introduced under Dalhousie."
+  },
+  {
+    "q": "When was the first Indian postage stamp issued?",
+    "pool": ["1850", "1851", "1853", "1854", "1855"],
+    "answer": "1854",
+    "desc": "The first Indian postage stamp was issued in Karachi in 1854."
+  },
+  {
+    "q": "Who was the driving force behind the Widow Remarriage Act of 1856?",
+    "pool": ["Raja Ram Mohan Roy", "Ishwar Chandra Vidyasagar", "Lord Dalhousie", "Bentinck", "Macaulay"],
+    "answer": "Ishwar Chandra Vidyasagar",
+    "desc": "Ishwar Chandra Vidyasagar was instrumental in the passing of the Widow Remarriage Act of 1856."
+  },
+  {
+    "q": "Which act introduced competitive exams for Civil Services in India?",
+    "pool": ["Charter Act 1813", "Charter Act 1833", "Charter Act 1853", "Indian Councils Act 1861", "Regulating Act 1773"],
+    "answer": "Charter Act 1853",
+    "desc": "The Charter Act of 1853 introduced competitive examinations for recruitment into the civil services."
+  },
+  {
+    "q": "Which Governor-General initiated the Grand Trunk Road development?",
+    "pool": ["Lord Ellenborough", "Lord Dalhousie", "Lord Hardinge", "Lord Metcalfe", "Lord Canning"],
+    "answer": "Lord Dalhousie",
+    "desc": "Lord Dalhousie started the development of the Grand Trunk Road and Public Works Department."
+  },
+  {
+    "q": "Which summer capital of British India was established by Lord Dalhousie?",
+    "pool": ["Mussoorie", "Simla", "Darjeeling", "Nainital", "Ooty"],
+    "answer": "Simla",
+    "desc": "Lord Dalhousie made Shimla (Simla) the summer capital of British India."
+  },
+  {
+    "q": "Which city saw the issue of the first Indian postage stamp?",
+    "pool": ["Delhi", "Calcutta", "Bombay", "Karachi", "Madras"],
+    "answer": "Karachi",
+    "desc": "The first Indian postage stamp was issued in Karachi in 1854."
+  },
+  {
+    "q": "Which institution was started by Dalhousie for technical education?",
+    "pool": ["IIT Bombay", "IIT Roorkee", "Engineering College at Roorkee", "College of Engineering Pune", "BITS Pilani"],
+    "answer": "Engineering College at Roorkee",
+    "desc": "Lord Dalhousie started the Engineering College at Roorkee, one of India’s first technical institutions."
+  },
+  {
+    "q": "Which port cities were developed under Lord Dalhousie?",
+    "pool": ["Surat, Goa, Chennai", "Calcutta, Bombay, Karachi", "Madras, Cochin, Calcutta", "Bombay, Kochi, Vizag", "Karachi, Surat, Goa"],
+    "answer": "Calcutta, Bombay, Karachi",
+    "desc": "Lord Dalhousie developed major ports like Calcutta, Bombay, and Karachi."
+  },
+  {
+    "q": "What did Lord Bentinck do to suppress crime?",
+    "pool": ["Created new police force", "Eliminated Thugs", "Formed special courts", "Enforced martial law", "Promoted vigilante groups"],
+    "answer": "Eliminated Thugs",
+    "desc": "Lord Bentinck eliminated the Thugs, a criminal group, in the 1830s."
+  },
+  {
+    "q": "What practice did Bentinck try to suppress besides sati?",
+    "pool": ["Child marriage", "Dowry", "Female infanticide", "Slavery", "Bonded labor"],
+    "answer": "Female infanticide",
+    "desc": "Bentinck also took steps to suppress female infanticide and child sacrifice."
+  },
+  {
+    "q": "Which Governor-General gave preference to English-educated Indians in employment?",
+    "pool": ["Lord Bentinck", "Lord Hardinge", "Lord Dalhousie", "Lord Metcalfe", "Lord Ellenborough"],
+    "answer": "Lord Hardinge",
+    "desc": "Lord Hardinge preferred employing English-educated Indians during his administration."
+  },
+  {
+    "q": "Which war was fought under Lord Ellenborough in 1843?",
+    "pool": ["War with Gwalior", "First Anglo-Sikh War", "Second Afghan War", "Third Maratha War", "Opium War"],
+    "answer": "War with Gwalior",
+    "desc": "Lord Ellenborough fought the war with Gwalior in 1843."
+  },
+  {
+    "q": "Who annexed Jhansi under Doctrine of Lapse?",
+    "pool": ["Lord Bentinck", "Lord Canning", "Lord Dalhousie", "Lord Metcalfe", "Lord Auckland"],
+    "answer": "Lord Dalhousie",
+    "desc": "Jhansi was annexed by Lord Dalhousie in 1853 under the Doctrine of Lapse."
+  },
+  {
+    "q": "Who annexed Nagpur under the Doctrine of Lapse?",
+    "pool": ["Lord Ellenborough", "Lord Hardinge", "Lord Dalhousie", "Lord Bentinck", "Lord Metcalfe"],
+    "answer": "Lord Dalhousie",
+    "desc": "Nagpur was annexed in 1854 under the Doctrine of Lapse by Lord Dalhousie."
+  }
+]

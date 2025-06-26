@@ -1,0 +1,91 @@
+[
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Dr. B.R. Ambedkar", "Rabindranath Tagore"],
+    "answer": "Mahatma Gandhi",
+    "image": "../images/famouspersonindia/Mahatma Gandhi.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Dr. B.R. Ambedkar", "Rabindranath Tagore"],
+    "answer": "Jawaharlal Nehru",
+    "image": "../images/famouspersonindia/Jawaharlal Nehru.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Dr. B.R. Ambedkar", "Rabindranath Tagore"],
+    "answer": "Sardar Vallabhbhai Patel",
+    "image": "../images/famouspersonindia/Sardar Vallabhbhai Patel.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Dr. B.R. Ambedkar", "Rabindranath Tagore"],
+    "answer": "Dr. B.R. Ambedkar",
+    "image": "../images/famouspersonindia/Dr. B.R. Ambedkar.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Dr. B.R. Ambedkar", "Rabindranath Tagore"],
+    "answer": "Rabindranath Tagore",
+    "image": "../images/famouspersonindia/Rabindranath Tagore.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["APJ Abdul Kalam", "Homi J. Bhabha", "Dhirubhai Ambani", "Vikram Sarabhai", "A.R. Rahman"],
+    "answer": "APJ Abdul Kalam",
+    "image": "../images/famouspersonindia/APJ Abdul Kalam.png"
+  },
+  
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Lata Mangeshkar", "Asha Bhosle", "Geeta Dutt", "Shamshad Begum", "M.S. Subbulakshmi"],
+    "answer": "Lata Mangeshkar",
+    "image": "../images/famouspersonindia/Lata Mangeshkar.png"
+  },
+ 
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Ratan Tata", "Vikram Sarabhai", "Homi J. Bhabha", "Dhirubhai Ambani", "J.R. Tata"],
+    "answer": "Ratan Tata",
+    "image": "../images/famouspersonindia/Ratan Tata.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Indira Gandhi", "Vijaya Lakshmi Pandit", "Sucheta Kripalani", "Amrit Kaur", "Sushila Nayar"],
+    "answer": "Indira Gandhi",
+    "image": "../images/famouspersonindia/Indira Gandhi.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Dhirubhai Ambani", "Ratan Tata", "Ghanshyam Das Birla", "Walchand Hirachand", "Kasturbhai Lalbhai"],
+    "answer": "Dhirubhai Ambani",
+    "image": "../images/famouspersonindia/Dhirubhai Ambani.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Mother Teresa", "Florence Nightingale", "Helen Keller", "Teresa Hsu", "Clara Barton"],
+    "answer": "Mother Teresa",
+    "image": "../images/famouspersonindia/Mother Teresa.png"
+  },
+  
+  
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Vikram Sarabhai", "APJ Abdul Kalam", "Homi J. Bhabha", "C.V. Raman", "Jagadish Chandra Bose"],
+    "answer": "Vikram Sarabhai",
+    "image": "../images/famouspersonindia/Vikram Sarabhai.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Vikram Sarabhai", "APJ Abdul Kalam", "Homi J. Bhabha", "C.V. Raman", "Jagadish Chandra Bose"],
+    "answer": "Homi J. Bhabha",
+    "image": "../images/famouspersonindia/Homi J. Bhabha.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Vikram Sarabhai", "APJ Abdul Kalam", "Homi J. Bhabha", "C.V. Raman", "Jagadish Chandra Bose"],
+    "answer": "Homi J. Bhabha",
+    "image": "../images/famouspersonindia/C.V. Raman.png"
+  }
+  
+]

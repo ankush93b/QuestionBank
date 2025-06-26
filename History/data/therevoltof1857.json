@@ -1,0 +1,541 @@
+[
+  {
+    "q": "When did the Revolt of 1857 begin?",
+    "pool": ["8th May", "9th May", "10th May", "11th May", "12th May"],
+    "answer": "10th May",
+    "desc": "The revolt began on 10th May 1857 in Meerut by Indian sepoys against British rule."
+  },
+  {
+    "q": "Where did the Revolt of 1857 start?",
+    "pool": ["Delhi", "Lucknow", "Meerut", "Kanpur", "Jhansi"],
+    "answer": "Meerut",
+    "desc": "The initial uprising took place in Meerut, where Indian sepoys rebelled against the British."
+  },
+  {
+    "q": "Which British policy is considered a major political cause of the Revolt of 1857?",
+    "pool": ["Pitt's India Act", "Doctrine of Lapse", "Subsidiary Alliance", "Permanent Settlement", "Divide and Rule"],
+    "answer": "Doctrine of Lapse",
+    "desc": "The Doctrine of Lapse allowed the British to annex states without a male heir, angering Indian rulers."
+  },
+  {
+    "q": "Which economic policy hurt Indian artisans and peasants before the revolt?",
+    "pool": ["Famine tax", "Land revenue hike", "Discriminatory Tariff Policy", "Trade embargo", "Free trade policy"],
+    "answer": "Discriminatory Tariff Policy",
+    "desc": "The British imposed tariffs that favored British goods and harmed Indian artisans and peasants."
+  },
+  {
+    "q": "What rank was the highest an Indian soldier could achieve in the British army?",
+    "pool": ["Captain", "Lieutenant", "Major", "Subedar", "Colonel"],
+    "answer": "Subedar",
+    "desc": "Indian soldiers were not allowed to rise above the rank of Subedar, leading to dissatisfaction."
+  },
+  {
+    "q": "What was a major military grievance of Indian sepoys?",
+    "pool": [
+      "No holidays",
+      "Low salary and racial insults",
+      "Excessive training hours",
+      "Promotion delay",
+      "Lack of food supplies"
+    ],
+    "answer": "Low salary and racial insults",
+    "desc": "Indian soldiers were poorly paid and often subjected to racial discrimination by British officers."
+  },
+  {
+    "q": "What specific event sparked the Revolt of 1857?",
+    "pool": [
+      "Hanging of Mangal Pandey",
+      "Introduction of the Enfield rifle",
+      "Annexation of Awadh",
+      "Attack on Lucknow",
+      "Death of Rani Lakshmibai"
+    ],
+    "answer": "Introduction of the Enfield rifle",
+    "desc": "The use of animal fat-greased cartridges in the Enfield rifle offended religious sentiments, triggering revolt."
+  },
+  {
+    "q": "What material in the Enfield rifle cartridges offended the sepoys?",
+    "pool": ["Leather", "Goat skin", "Pig and cow fat", "Silk thread", "Sheep wool"],
+    "answer": "Pig and cow fat",
+    "desc": "Cartridges were greased with pig and cow fat, offending both Hindu and Muslim soldiers."
+  },
+  {
+    "q": "Which class suffered due to destruction of traditional handicrafts before 1857?",
+    "pool": ["British officers", "Merchants", "Artisans", "Zamindars", "Lawyers"],
+    "answer": "Artisans",
+    "desc": "Artisans lost their livelihood due to British imports and destruction of local industries."
+  },
+  {
+    "q": "Which of the following was NOT a cause of the 1857 Revolt?",
+    "pool": [
+      "Heavy taxation",
+      "Widow remarriage reform",
+      "Enfield rifle introduction",
+      "British land policies",
+      "Racial discrimination in the army"
+    ],
+    "answer": "Widow remarriage reform",
+    "desc": "Though reforms like widow remarriage upset conservatives, they were not direct economic or military causes."
+  },
+  {
+    "q": "Which group among these had grievances due to eviction and heavy land taxes?",
+    "pool": ["Missionaries", "Peasants", "Merchants", "British officials", "Nawabs"],
+    "answer": "Peasants",
+    "desc": "Peasants were overburdened by land revenue policies, leading to unrest and support for the revolt."
+  },
+  {
+    "q": "Which social reform by the British was seen as interference in Indian culture?",
+    "pool": [
+      "Doctrine of Lapse",
+      "Abolition of sati",
+      "Division of Bengal",
+      "Subsidiary Alliance",
+      "Trade liberalization"
+    ],
+    "answer": "Abolition of sati",
+    "desc": "Social reforms like abolishing sati were seen by some Indians as an attack on their traditions."
+  },
+  {
+    "q": "Who among the following were *not* directly affected by discriminatory army policies?",
+    "pool": ["Sepoys", "British officers", "Subedars", "Indian soldiers", "Native regiments"],
+    "answer": "British officers",
+    "desc": "British officers benefited from the discriminatory policies that suppressed Indian soldiers."
+  },
+  {
+    "q": "Which reform was promoted by British missionaries and seen as cultural interference?",
+    "pool": [
+      "Railway introduction",
+      "Widow remarriage",
+      "New coinage system",
+      "Land revenue collection",
+      "Introduction of stamps"
+    ],
+    "answer": "Widow remarriage",
+    "desc": "Christian missionaries promoted reforms like widow remarriage, which angered conservative Indians."
+  },
+  {
+    "q": "What was one major consequence of the 1857 Revolt?",
+    "pool": [
+      "Abolition of English education",
+      "Formation of Indian National Congress",
+      "End of Mughal Empire",
+      "Grant of independence to India",
+      "Partition of Bengal"
+    ],
+    "answer": "End of Mughal Empire",
+    "desc": "After the revolt, the British formally ended the Mughal Empire and took direct control over India."
+  },
+
+
+  {
+    "q": "Who led the revolt in Delhi during 1857?",
+    "pool": ["Rani Lakshmi Bai", "Bahadur Shah II", "Liaquat Ali", "Nana Saheb", "Hazrat Mahal"],
+    "answer": "Bahadur Shah II",
+    "desc": "Bahadur Shah II was declared the symbolic leader of the revolt in Delhi."
+  },
+  {
+    "q": "Who was the British suppressor of the revolt in Delhi?",
+    "pool": ["John Nicholson", "Sir Hugh Rose", "James Neill", "Campbell", "Vincent Eyer"],
+    "answer": "John Nicholson",
+    "desc": "John Nicholson led British forces to suppress the revolt in Delhi."
+  },
+  {
+    "q": "Which leader was associated with the revolt in Banaras?",
+    "pool": ["Khan Bahadur Khan", "Veer Kunwar Singh", "Liaquat Ali", "Azimullah Khan", "Bahadur Shah II"],
+    "answer": "Liaquat Ali",
+    "desc": "Liaquat Ali led the revolt against British forces in Banaras."
+  },
+  {
+    "q": "Who suppressed the revolt in Banaras?",
+    "pool": ["Colin Campbell", "Sir Hugh Rose", "James Neill", "Vincent Eyer", "John Nicholson"],
+    "answer": "James Neill",
+    "desc": "James Neill was responsible for suppressing the revolt in Banaras."
+  },
+  {
+    "q": "Nana Saheb was a prominent leader of the revolt in which city?",
+    "pool": ["Lucknow", "Kanpur", "Delhi", "Jhansi", "Awadh"],
+    "answer": "Kanpur",
+    "desc": "Nana Saheb led the revolt in Kanpur along with Tantia Tope and Azimullah Khan."
+  },
+  {
+    "q": "Who were the British commanders who suppressed the revolt in Kanpur?",
+    "pool": ["Campbell and Havelock", "James Neill and Havelock", "Sir Hugh Rose and Eyer", "Campbell and Rose", "Hudson and Nicholson"],
+    "answer": "Campbell and Havelock",
+    "desc": "Campbell and Havelock led the British forces to suppress the revolt in Kanpur."
+  },
+  {
+    "q": "Who was the female leader of the revolt in Lucknow?",
+    "pool": ["Rani Lakshmi Bai", "Hazrat Mahal", "Annie Besant", "Begum Rokeya", "Sarojini Naidu"],
+    "answer": "Hazrat Mahal",
+    "desc": "Hazrat Mahal (Begum of Awadh) led the revolt in Lucknow against British authority."
+  },
+  {
+    "q": "Which British officers helped suppress the revolt in Lucknow?",
+    "pool": ["James Neill, Rose, and Campbell", "Campbell, Havelock, and Eyer", "Havelock, James Neill, and Campbell", "Sir Hugh Rose, Vincent Eyer, and Nicholson", "Hudson, Havelock, and Campbell"],
+    "answer": "Havelock, James Neill, and Campbell",
+    "desc": "All three officers played key roles in defeating the rebels in Lucknow."
+  },
+  {
+    "q": "Which female warrior led the revolt in Jhansi?",
+    "pool": ["Hazrat Mahal", "Begum Rokeya", "Rani Lakshmi Bai", "Annie Besant", "Rani Durgavati"],
+    "answer": "Rani Lakshmi Bai",
+    "desc": "Rani Lakshmi Bai was one of the most iconic leaders of the 1857 revolt from Jhansi."
+  },
+  {
+    "q": "Who led the British suppression in Jhansi?",
+    "pool": ["James Neill", "Sir Hugh Rose", "Colin Campbell", "Vincent Eyer", "Hudson"],
+    "answer": "Sir Hugh Rose",
+    "desc": "Sir Hugh Rose led the British assault on Jhansi and defeated Rani Lakshmi Bai's forces."
+  },
+  {
+    "q": "Khan Bahadur Khan led the 1857 revolt in which city?",
+    "pool": ["Delhi", "Bareilly", "Kanpur", "Lucknow", "Banaras"],
+    "answer": "Bareilly",
+    "desc": "Khan Bahadur Khan was the leader of the revolt in Bareilly."
+  },
+  {
+    "q": "Who led the suppression of the revolt in Bareilly?",
+    "pool": ["Sir Colin Campbell", "James Neill", "Sir Hugh Rose", "John Nicholson", "William Taylor"],
+    "answer": "Sir Colin Campbell",
+    "desc": "Sir Colin Campbell led British forces against rebels in Bareilly."
+  },
+  {
+    "q": "Which leader led the revolt in Awadh (Bihar)?",
+    "pool": ["Nana Saheb", "Hazrat Mahal", "Khan Bahadur Khan", "Veer Kunwar Singh", "Liaquat Ali"],
+    "answer": "Veer Kunwar Singh",
+    "desc": "Veer Kunwar Singh was a veteran leader who led the revolt in Bihar (part of Awadh region)."
+  },
+  {
+    "q": "Who was one of the British officers that suppressed the revolt in Awadh (Bihar)?",
+    "pool": ["James Neill", "William Taylor", "Colin Campbell", "Hugh Rose", "Hudson"],
+    "answer": "William Taylor",
+    "desc": "William Taylor was involved in suppressing the rebellion in Bihar."
+  },
+  {
+    "q": "Which two British officers were responsible for crushing the rebellion in Awadh (Bihar)?",
+    "pool": ["Campbell and Havelock", "William Taylor and Vincent Eyer", "James Neill and Hudson", "Colin Campbell and Rose", "Nicholson and Eyer"],
+    "answer": "William Taylor and Vincent Eyer",
+    "desc": "Both William Taylor and Vincent Eyer led suppression efforts in Bihar against Veer Kunwar Singh."
+  },
+
+
+  {
+    "q": "Which of the following rulers supported the British during the Revolt of 1857?",
+    "pool": ["Rani Lakshmi Bai", "Nana Saheb", "Rana of Nepal", "Bahadur Shah II", "Hazrat Mahal"],
+    "answer": "Rana of Nepal",
+    "desc": "The Rana of Nepal provided military and political support to the British during the revolt."
+  },
+  {
+    "q": "The Holkar of which princely state supported the British during the 1857 revolt?",
+    "pool": ["Gwalior", "Hyderabad", "Indore", "Patiala", "Kashmir"],
+    "answer": "Indore",
+    "desc": "The Holkar of Indore sided with the British, contributing to the failure of the revolt."
+  },
+  {
+    "q": "Which of the following was a key reason for the failure of the 1857 revolt?",
+    "pool": [
+      "Foreign invasion",
+      "Strong unity among rebels",
+      "Efficient leadership of rebels",
+      "Lack of efficient leadership",
+      "Support from all Indian rulers"
+    ],
+    "answer": "Lack of efficient leadership",
+    "desc": "The revolt lacked centralized and coordinated leadership, weakening its effectiveness."
+  },
+  {
+    "q": "Which ruler of Hyderabad remained loyal to the British during the 1857 revolt?",
+    "pool": ["Scindia", "Nizam", "Holkar", "Rana", "Raja of Jodhpur"],
+    "answer": "Nizam",
+    "desc": "The Nizam of Hyderabad did not join the revolt and instead supported the British rule."
+  },
+  {
+    "q": "Which of these princely states did NOT support the 1857 rebellion?",
+    "pool": ["Patiala", "Jhansi", "Kanpur", "Lucknow", "Delhi"],
+    "answer": "Patiala",
+    "desc": "The ruler of Patiala remained loyal to the British, which weakened the revolt’s reach."
+  },
+
+
+  {
+    "q": "Which Act transferred the control of Indian administration to the British Crown?",
+    "pool": [
+      "Charter Act, 1833",
+      "Indian Councils Act, 1861",
+      "Government of India Act, 1858",
+      "Regulating Act, 1773",
+      "Pitt's India Act, 1784"
+    ],
+    "answer": "Government of India Act, 1858",
+    "desc": "The Government of India Act, 1858 marked the end of Company rule and transferred power to the British Crown."
+  },
+  {
+    "q": "What major institutional reform took place in the army after the Revolt of 1857?",
+    "pool": [
+      "Indianisation of officer ranks",
+      "Reorganisation of the army",
+      "Creation of a separate regiment for Indians",
+      "Abolition of cantonments",
+      "Use of mercenaries"
+    ],
+    "answer": "Reorganisation of the army",
+    "desc": "The British reorganised the army to reduce dependence on Indian soldiers and prevent future mutinies."
+  },
+  {
+    "q": "What policy did the British adopt after the 1857 revolt to prevent unity among Indians?",
+    "pool": [
+      "Policy of Retrenchment",
+      "Divide and Rule",
+      "Policy of Appeasement",
+      "Doctrine of Lapse",
+      "Policy of Annexation"
+    ],
+    "answer": "Divide and Rule",
+    "desc": "The British encouraged communal, caste, and regional divisions through their ‘Divide and Rule’ policy."
+  },
+  {
+    "q": "Which year did the British Crown assume direct control over India?",
+    "pool": ["1857", "1858", "1860", "1877", "1885"],
+    "answer": "1858",
+    "desc": "In 1858, the British Crown took control of Indian governance from the East India Company."
+  },
+  {
+    "q": "What was abolished by the Government of India Act, 1858?",
+    "pool": [
+      "The post of Viceroy",
+      "The Mughal dynasty",
+      "Rule of East India Company",
+      "Indian Army",
+      "British Parliament in India"
+    ],
+    "answer": "Rule of East India Company",
+    "desc": "The East India Company was dissolved and its powers transferred to the Crown."
+  },
+  {
+    "q": "What was one major administrative impact of the 1857 revolt?",
+    "pool": [
+      "Introduction of federalism",
+      "Democratic elections",
+      "Direct rule by the British Crown",
+      "Empowerment of local bodies",
+      "Merger of princely states"
+    ],
+    "answer": "Direct rule by the British Crown",
+    "desc": "Post-revolt, governance shifted from the Company to direct Crown administration."
+  },
+  {
+    "q": "Why did the British reorganise the army after 1857?",
+    "pool": [
+      "To increase Indian officers",
+      "To reduce military expenditure",
+      "To prevent future revolts",
+      "To increase technological power",
+      "To build a navy"
+    ],
+    "answer": "To prevent future revolts",
+    "desc": "Army reorganisation aimed to reduce reliance on Indian troops and suppress rebellion risks."
+  },
+  {
+    "q": "The policy of 'Divide and Rule' mainly targeted which groups?",
+    "pool": [
+      "East India Company officers",
+      "European traders",
+      "Indian religious and social groups",
+      "British Parliament",
+      "Indian princes"
+    ],
+    "answer": "Indian religious and social groups",
+    "desc": "The policy aimed to create divisions among Indian communities to prevent united opposition."
+  },
+  {
+    "q": "Which of the following was NOT an impact of the 1857 revolt?",
+    "pool": [
+      "Transfer of power to the Crown",
+      "Policy of Divide and Rule",
+      "Reorganisation of the army",
+      "Formation of the Indian National Congress",
+      "End of Company rule"
+    ],
+    "answer": "Formation of the Indian National Congress",
+    "desc": "The INC was founded in 1885, much later than the revolt of 1857."
+  },
+  {
+    "q": "Which administrative body was dissolved after the Revolt of 1857?",
+    "pool": [
+      "British Crown",
+      "East India Company",
+      "Board of Revenue",
+      "Privy Council",
+      "Indian Civil Services"
+    ],
+    "answer": "East India Company",
+    "desc": "The East India Company was dissolved following the Government of India Act, 1858."
+  },
+
+
+  
+  {
+    "q": "Who was the first soldier to revolt in 1857?",
+    "pool": ["Rani Laxmi Bai", "Mangal Pandey", "Tantia Tope", "Bahadur Shah Zafar", "Nana Saheb"],
+    "answer": "Mangal Pandey",
+    "desc": "Mangal Pandey is known for firing the first shot in the revolt at Barrackpore."
+  },
+  
+  {
+    "q": "Who was declared the symbolic leader of the Revolt of 1857?",
+    "pool": ["Tantia Tope", "Bahadur Shah Zafar", "Nana Saheb", "Mangal Pandey", "Rani Laxmi Bai"],
+    "answer": "Bahadur Shah Zafar",
+    "desc": "The rebels declared the last Mughal emperor Bahadur Shah Zafar as their leader."
+  },
+  
+  {
+    "q": "Which queen fought bravely in the revolt of 1857 from Jhansi?",
+    "pool": ["Queen Victoria", "Rani Durgavati", "Rani Avantibai", "Rani Laxmi Bai", "Razia Sultana"],
+    "answer": "Rani Laxmi Bai",
+    "desc": "Rani Laxmi Bai of Jhansi was a key female leader in the revolt, known for her bravery."
+  },
+  {
+    "q": "Who led the revolt in Kanpur?",
+    "pool": ["Bahadur Shah Zafar", "Mangal Pandey", "Nana Saheb", "Rani Laxmi Bai", "Begum Hazrat Mahal"],
+    "answer": "Nana Saheb",
+    "desc": "Nana Saheb led the revolt in Kanpur and declared independence from British rule."
+  },
+  {
+    "q": "Which British officer was killed by sepoys in Barrackpore?",
+    "pool": ["General Havelock", "Colonel Wheeler", "Captain Smith", "Lieutenant Baugh", "Major Hudson"],
+    "answer": "Lieutenant Baugh",
+    "desc": "Lieutenant Baugh was shot by Mangal Pandey during the Barrackpore incident."
+  },
+  {
+    "q": "Which ruler led the revolt from Lucknow?",
+    "pool": ["Nana Saheb", "Tantia Tope", "Begum Hazrat Mahal", "Rani Laxmi Bai", "Mangal Pandey"],
+    "answer": "Begum Hazrat Mahal",
+    "desc": "Begum Hazrat Mahal led the revolt in Lucknow after her husband was exiled."
+  },
+  {
+    "q": "Which military unit started the revolt in Meerut?",
+    "pool": ["34th Bengal Native Infantry", "19th Native Infantry", "3rd Cavalry", "1st Punjab Regiment", "8th Madras Infantry"],
+    "answer": "3rd Cavalry",
+    "desc": "The 3rd Cavalry at Meerut refused to use greased cartridges, sparking the revolt."
+  },
+  {
+    "q": "Who was the Governor-General of India during the 1857 revolt?",
+    "pool": ["Lord Canning", "Lord Dalhousie", "Lord Ripon", "Lord Curzon", "Lord Mountbatten"],
+    "answer": "Lord Canning",
+    "desc": "Lord Canning was the Governor-General and later became the first Viceroy of India."
+  },
+  {
+    "q": "Which act ended the rule of the East India Company?",
+    "pool": ["Charter Act 1833", "Regulating Act", "Act of 1858", "Indian Councils Act", "Government of India Act 1919"],
+    "answer": "Act of 1858",
+    "desc": "The Government of India Act 1858 transferred rule from the Company to the British Crown."
+  },
+  {
+    "q": "What title did the British give to Bahadur Shah Zafar after the revolt?",
+    "pool": ["Governor", "Exile", "King of Delhi", "Prisoner", "None"],
+    "answer": "Prisoner",
+    "desc": "Bahadur Shah Zafar was captured, tried, and exiled to Rangoon as a prisoner."
+  },
+  {
+    "q": "Where was Bahadur Shah Zafar exiled after the revolt?",
+    "pool": ["Andaman", "South Africa", "Burma (Rangoon)", "Sri Lanka", "Nepal"],
+    "answer": "Burma (Rangoon)",
+    "desc": "He was exiled to Rangoon (now in Myanmar), where he died in 1862."
+  },
+  {
+    "q": "Which leader is associated with the phrase 'Khoob ladi mardani'?",
+    "pool": ["Begum Hazrat Mahal", "Tantia Tope", "Rani Laxmi Bai", "Nana Saheb", "Chand Bibi"],
+    "answer": "Rani Laxmi Bai",
+    "desc": "Rani Laxmi Bai is remembered with the line 'Khoob ladi mardani, Jhansi wali Rani thi.'"
+  },
+  {
+    "q": "Which city did the British recapture first during the revolt?",
+    "pool": ["Kanpur", "Delhi", "Meerut", "Jhansi", "Lucknow"],
+    "answer": "Delhi",
+    "desc": "Delhi was the first major city recaptured by the British in September 1857."
+  },
+  {
+    "q": "Tantia Tope was a close associate of which leader?",
+    "pool": ["Nana Saheb", "Mangal Pandey", "Bahadur Shah", "Rani Laxmi Bai", "Begum Hazrat Mahal"],
+    "answer": "Nana Saheb",
+    "desc": "Tantia Tope was a general in Nana Saheb’s army and fought many battles against the British."
+  },
+  {
+    "q": "Which community's sentiments were hurt by the greased cartridges?",
+    "pool": ["Christians", "Jains", "Buddhists", "Hindus and Muslims", "Sikhs"],
+    "answer": "Hindus and Muslims",
+    "desc": "The use of cow and pig fat offended both Hindu and Muslim religious beliefs."
+  },
+  {
+    "q": "What was the revolt of 1857 also called?",
+    "pool": ["Second War of Independence", "First War of Independence", "Civil War", "World War", "Company Rebellion"],
+    "answer": "First War of Independence",
+    "desc": "The revolt is regarded by many historians as the First War of Indian Independence."
+  },
+  {
+    "q": "Who captured Rani Laxmi Bai's fort in Jhansi?",
+    "pool": ["General Havelock", "Sir Hugh Rose", "Lord Canning", "Colonel Wheeler", "Lord Dalhousie"],
+    "answer": "Sir Hugh Rose",
+    "desc": "Sir Hugh Rose led the British attack on Jhansi and defeated Rani Laxmi Bai."
+  },
+  {
+    "q": "Which Indian sepoy attacked British officers at Barrackpore?",
+    "pool": ["Tantia Tope", "Mangal Pandey", "Nana Saheb", "Bahadur Shah", "Rani Laxmi Bai"],
+    "answer": "Mangal Pandey",
+    "desc": "Mangal Pandey's actions at Barrackpore are seen as the spark of the revolt."
+  },
+  {
+    "q": "Which social reformer did not support the revolt?",
+    "pool": ["Raja Ram Mohan Roy", "Ishwar Chandra Vidyasagar", "Swami Vivekananda", "Brahmo Samaj", "None"],
+    "answer": "Brahmo Samaj",
+    "desc": "The Brahmo Samaj considered the revolt backward-looking and did not support it."
+  },
+  {
+    "q": "What was the result of the Revolt of 1857?",
+    "pool": ["India gained independence", "British rule ended", "British Crown took control", "Mughal rule restored", "Nothing happened"],
+    "answer": "British Crown took control",
+    "desc": "The British government took direct control of India after suppressing the revolt."
+  },
+  {
+    "q": "Who among the following was hanged for the revolt?",
+    "pool": ["Nana Saheb", "Tantia Tope", "Bahadur Shah", "Lord Canning", "Sir Hugh Rose"],
+    "answer": "Tantia Tope",
+    "desc": "Tantia Tope was captured and executed by the British in 1859."
+  },
+  {
+    "q": "Who was the last Mughal emperor of India?",
+    "pool": ["Akbar", "Shah Jahan", "Aurangzeb", "Bahadur Shah Zafar", "Humayun"],
+    "answer": "Bahadur Shah Zafar",
+    "desc": "Bahadur Shah Zafar was the last Mughal emperor and a symbolic figure in the revolt."
+  },
+  {
+    "q": "Which city was the main center of Rani Laxmi Bai’s resistance?",
+    "pool": ["Delhi", "Jhansi", "Kanpur", "Lucknow", "Bareilly"],
+    "answer": "Jhansi",
+    "desc": "Jhansi was the stronghold of Rani Laxmi Bai during the revolt."
+  },
+  {
+    "q": "Who supported the British during the revolt?",
+    "pool": ["Hyderabad Nizam", "Bahadur Shah", "Rani Laxmi Bai", "Tantia Tope", "Begum Hazrat Mahal"],
+    "answer": "Hyderabad Nizam",
+    "desc": "The Nizam of Hyderabad remained loyal to the British during the revolt."
+  },
+  {
+    "q": "Which place saw a massacre of British civilians by Indian rebels?",
+    "pool": ["Delhi", "Lucknow", "Kanpur", "Meerut", "Patna"],
+    "answer": "Kanpur",
+    "desc": "Kanpur witnessed the Bibighar massacre where British women and children were killed."
+  },
+  {
+    "q": "What did the British call the 1857 revolt?",
+    "pool": ["War of Independence", "Mutiny", "Civil War", "Revolution", "Uprising"],
+    "answer": "Mutiny",
+    "desc": "The British called it the Sepoy Mutiny, minimizing its nationalist nature."
+  },
+  {
+    "q": "Who called the revolt of 1857 as 'The First War of Indian Independence'?",
+    "pool": ["Jawaharlal Nehru", "R.C. Majumdar", "Vinayak Damodar Savarkar", "Bal Gangadhar Tilak", "Subhas Bose"],
+    "answer": "Vinayak Damodar Savarkar",
+    "desc": "V.D. Savarkar described the revolt as the First War of Indian Independence."
+  }
+]

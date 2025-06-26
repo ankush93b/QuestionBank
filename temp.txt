@@ -6,9 +6,9 @@
   },
 
 {
-    "q": "This is the logo of which Indian company?",
+    "q": "This is the picture of which Indian personality?",
     "pool": [pool of 5 options],
     "answer": "any one option",
-	"image": "../images/logosindia/Answer.png"
+	"image": "../images/famouspersonindia/Answer.png"
     
   }

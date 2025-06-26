@@ -1,0 +1,182 @@
+[
+  {
+    "q": "When was the Interim Government formed in India?",
+    "pool": ["15th August, 1947", "2nd September, 1946", "9th December, 1946", "3rd June, 1947", "16th August, 1946"],
+    "answer": "2nd September, 1946",
+    "desc": "The Interim Government was formed on 2nd September 1946 as per the Cabinet Mission's proposals."
+  },
+  {
+    "q": "Who headed the Interim Government formed in 1946?",
+    "pool": ["Mahatma Gandhi", "Sardar Patel", "Jawaharlal Nehru", "Dr. Rajendra Prasad", "Lord Mountbatten"],
+    "answer": "Jawaharlal Nehru",
+    "desc": "Jawaharlal Nehru was the head of the Interim Government formed in 1946."
+  },
+  {
+    "q": "Which political party initially refused to join the Interim Government?",
+    "pool": ["Congress", "Muslim League", "Hindu Mahasabha", "Communist Party", "Justice Party"],
+    "answer": "Muslim League",
+    "desc": "The Muslim League initially refused to join the Interim Government."
+  },
+  {
+    "q": "On which date did Prime Minister Attlee announce the British withdrawal from India?",
+    "pool": ["2nd September, 1946", "9th December, 1946", "3rd June, 1947", "20th February, 1947", "15th August, 1947"],
+    "answer": "20th February, 1947",
+    "desc": "Prime Minister Attlee announced on 20th February 1947 that the British would withdraw by 30th June 1948."
+  },
+  {
+    "q": "When did the Constituent Assembly first meet?",
+    "pool": ["2nd September, 1946", "9th December, 1946", "3rd June, 1947", "15th August, 1947", "27th March, 1947"],
+    "answer": "9th December, 1946",
+    "desc": "The Constituent Assembly first met on 9th December 1946."
+  },
+  {
+    "q": "Who was elected President of the Constituent Assembly?",
+    "pool": ["Jawaharlal Nehru", "Sardar Patel", "Dr. Rajendra Prasad", "Maulana Azad", "B.R. Ambedkar"],
+    "answer": "Dr. Rajendra Prasad",
+    "desc": "Dr. Rajendra Prasad was elected as the President of the Constituent Assembly."
+  },
+  {
+    "q": "When was the Direct Action Resolution passed by the Muslim League?",
+    "pool": ["16th August, 1946", "9th December, 1946", "3rd June, 1947", "15th August, 1947", "20th February, 1947"],
+    "answer": "16th August, 1946",
+    "desc": "The Muslim League passed the Direct Action Resolution on 16th August 1946."
+  },
+  {
+    "q": "What was the reason behind Jinnah’s withdrawal from the Cabinet Mission Plan?",
+    "pool": ["Failure of Round Table Conference", "Partition of Bengal", "Success of Congress in Constituent Assembly voting", "Formation of Interim Government", "Quit India Movement"],
+    "answer": "Success of Congress in Constituent Assembly voting",
+    "desc": "Jinnah withdrew his acceptance to the Cabinet Mission Plan due to the Congress’s success in the Constituent Assembly elections."
+  },
+  {
+    "q": "What major outcome followed the Direct Action Resolution?",
+    "pool": ["Creation of Pakistan", "Partition of India", "Communal riots", "Civil Disobedience", "Formation of Constituent Assembly"],
+    "answer": "Communal riots",
+    "desc": "The Direct Action Resolution led to widespread communal riots."
+  },
+  {
+    "q": "When did Jinnah celebrate Pakistan Day?",
+    "pool": ["16th August, 1946", "15th August, 1947", "27th March, 1947", "9th December, 1946", "3rd June, 1947"],
+    "answer": "27th March, 1947",
+    "desc": "Jinnah celebrated Pakistan Day on 27th March 1947."
+  },
+  {
+    "q": "Which plan is also known as the 3rd June Plan?",
+    "pool": ["Cabinet Mission Plan", "Wavell Plan", "Mountbatten Plan", "Cripps Mission", "Nehru Report"],
+    "answer": "Mountbatten Plan",
+    "desc": "The Mountbatten Plan, also called the 3rd June Plan, outlined the partition of India."
+  },
+  {
+    "q": "Who formulated the 3rd June Plan?",
+    "pool": ["Lord Wavell", "Lord Irwin", "Lord Mountbatten", "Winston Churchill", "Clement Attlee"],
+    "answer": "Lord Mountbatten",
+    "desc": "Lord Mountbatten formulated the plan for partition known as the 3rd June Plan."
+  },
+  {
+    "q": "Which two provinces were to be partitioned as per Mountbatten Plan?",
+    "pool": ["Assam and Bengal", "Bengal and Punjab", "Punjab and Sind", "Bombay and Madras", "NWFP and Bengal"],
+    "answer": "Bengal and Punjab",
+    "desc": "The Mountbatten Plan proposed partitioning Bengal and Punjab."
+  },
+  {
+    "q": "Who was to head the Boundary Commission during partition?",
+    "pool": ["Mountbatten", "Sir Cripps", "Radcliffe", "Nehru", "Rajagopalachari"],
+    "answer": "Radcliffe",
+    "desc": "The Boundary Commission was headed by Radcliffe."
+  },
+  {
+    "q": "Which act was implemented on 15th August, 1947?",
+    "pool": ["Government of India Act, 1935", "Indian Independence Act, 1947", "Cabinet Mission Plan", "Mountbatten Plan", "Act of 1909"],
+    "answer": "Indian Independence Act, 1947",
+    "desc": "The Indian Independence Act came into effect on 15th August 1947."
+  },
+  {
+    "q": "What did the Indian Independence Act abolish?",
+    "pool": ["Muslim League", "Princely States", "British Parliament's Sovereignty", "Indian National Congress", "British Monarchy"],
+    "answer": "British Parliament's Sovereignty",
+    "desc": "The Indian Independence Act abolished the sovereignty of the British Parliament over India."
+  },
+  {
+    "q": "Which two dominions were created by the Indian Independence Act?",
+    "pool": ["India and Bangladesh", "India and Burma", "India and Sri Lanka", "India and Pakistan", "India and Afghanistan"],
+    "answer": "India and Pakistan",
+    "desc": "India and Pakistan were created as two separate dominions by the Indian Independence Act."
+  },
+  {
+    "q": "Who was the first Home Minister of Independent India?",
+    "pool": ["Jawaharlal Nehru", "Rajendra Prasad", "Mahatma Gandhi", "Sardar Vallabhbhai Patel", "B.R. Ambedkar"],
+    "answer": "Sardar Vallabhbhai Patel",
+    "desc": "Sardar Vallabhbhai Patel served as the first Home Minister of Independent India."
+  },
+  {
+    "q": "By when did Sardar Patel integrate all princely states?",
+    "pool": ["27th March, 1947", "15th August, 1947", "9th December, 1946", "20th February, 1947", "2nd October, 1947"],
+    "answer": "15th August, 1947",
+    "desc": "By 15th August 1947, Sardar Patel had integrated all princely states."
+  },
+  {
+    "q": "Which princely states acceded later to the Indian Federation?",
+    "pool": ["Punjab, Bengal, Assam", "Kashmir, Hyderabad, Junagarh", "Bihar, UP, MP", "Goa, Kerala, Tamil Nadu", "Sind, Baluchistan, NWFP"],
+    "answer": "Kashmir, Hyderabad, Junagarh",
+    "desc": "Kashmir, Hyderabad, Junagarh, along with Goa and Pondicherry, joined India later."
+  },
+  {
+    "q": "Which European power retained control over Goa until later?",
+    "pool": ["British", "Dutch", "French", "Portuguese", "Spanish"],
+    "answer": "Portuguese",
+    "desc": "Goa was under Portuguese control until it was later integrated into India."
+  },
+  {
+    "q": "Who controlled Pondicherry before it joined India?",
+    "pool": ["British", "Dutch", "French", "Portuguese", "Germans"],
+    "answer": "French",
+    "desc": "Pondicherry was under French control before it joined the Indian Federation."
+  },
+  {
+    "q": "Which regions comprised Pakistan after partition?",
+    "pool": ["Punjab and Bengal", "Sind, NWFP, British Baluchistan, West Punjab, East Bengal", "Assam and Bengal", "Sind and Kashmir", "Punjab and Gujarat"],
+    "answer": "Sind, NWFP, British Baluchistan, West Punjab, East Bengal",
+    "desc": "These regions formed Pakistan as per the Indian Independence Act."
+  },
+  {
+    "q": "Which district in Assam had a referendum for joining Pakistan?",
+    "pool": ["Golaghat", "Dibrugarh", "Sylhet", "Tinsukia", "Nagaon"],
+    "answer": "Sylhet",
+    "desc": "Sylhet district in Assam had a referendum as per the Mountbatten Plan."
+  },
+  {
+    "q": "Referendum was held in which province besides Sylhet?",
+    "pool": ["Bengal", "NWFP", "Punjab", "Hyderabad", "Sind"],
+    "answer": "NWFP",
+    "desc": "Referendum was held in NWFP to decide if it would join India or Pakistan."
+  },
+  {
+    "q": "Which state had a delayed accession due to Pakistani invasion?",
+    "pool": ["Junagarh", "Hyderabad", "Goa", "Kashmir", "Manipur"],
+    "answer": "Kashmir",
+    "desc": "Kashmir acceded to India after a Pakistani tribal invasion in October 1947."
+  },
+  {
+    "q": "The Cabinet Mission Plan aimed to form which of the following?",
+    "pool": ["Partition of India", "Constituent Assembly", "Separate Pakistan", "British Raj", "Dominion Status"],
+    "answer": "Constituent Assembly",
+    "desc": "Cabinet Mission Plan proposed the formation of a Constituent Assembly."
+  },
+  {
+    "q": "Which organization condemned both the British and the Congress in 1946?",
+    "pool": ["Indian National Congress", "Hindu Mahasabha", "Muslim League", "Forward Bloc", "Revolutionary Party"],
+    "answer": "Muslim League",
+    "desc": "Muslim League condemned both in its Direct Action Resolution."
+  },
+  {
+    "q": "Which state was under Portuguese rule till 1961?",
+    "pool": ["Hyderabad", "Goa", "Pondicherry", "Junagarh", "Nagaland"],
+    "answer": "Goa",
+    "desc": "Goa remained under Portuguese control until it was annexed in 1961."
+  },
+  {
+    "q": "Which year saw both the Interim Government and Direct Action Resolution?",
+    "pool": ["1945", "1946", "1947", "1948", "1944"],
+    "answer": "1946",
+    "desc": "Both events occurred in 1946 — Interim Government formation and Direct Action."
+  }
+]

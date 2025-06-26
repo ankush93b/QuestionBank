@@ -1,0 +1,698 @@
+[
+  {
+    "q": "Who was the last Governor-General and the first Viceroy of India?",
+    "pool": ["Lord Canning", "Lord Elgin", "Lord Mayo", "Lord Lawrence", "Lord Northbrooke"],
+    "answer": "Lord Canning",
+    "desc": "Lord Canning was the last Governor-General and became the first Viceroy of India after the Act of 1858."
+  },
+  {
+    "q": "Which policy was withdrawn by Lord Canning?",
+    "pool": ["Subsidiary Alliance", "Doctrine of Lapse", "Permanent Settlement", "Divide and Rule", "Forward Policy"],
+    "answer": "Doctrine of Lapse",
+    "desc": "Lord Canning officially withdrew the Doctrine of Lapse."
+  },
+  {
+    "q": "Who was the Viceroy during the Revolt of 1857?",
+    "pool": ["Lord Elgin", "Lord Lawrence", "Lord Canning", "Lord Mayo", "Lord Lytton"],
+    "answer": "Lord Canning",
+    "desc": "The Revolt of 1857, also called the First War of Independence, took place during Lord Canning's tenure."
+  },
+  {
+    "q": "Which act ended the rule of the East India Company?",
+    "pool": ["Charter Act 1833", "Act of 1857", "Government of India Act 1858", "Indian Councils Act 1861", "Regulating Act 1773"],
+    "answer": "Government of India Act 1858",
+    "desc": "The Government of India Act 1858 transferred rule from the East India Company to the British Crown."
+  },
+  {
+    "q": "Which three universities were established in 1857?",
+    "pool": ["Delhi, Bombay, Calcutta", "Calcutta, Bombay, Madras", "Bombay, Agra, Madras", "Madras, Pune, Calcutta", "Patna, Bombay, Calcutta"],
+    "answer": "Calcutta, Bombay, Madras",
+    "desc": "The Universities of Calcutta, Bombay, and Madras were established in 1857 under Lord Canning."
+  },
+  {
+    "q": "When was the Indian Penal Code passed?",
+    "pool": ["1857", "1858", "1860", "1861", "1862"],
+    "answer": "1860",
+    "desc": "The Indian Penal Code (IPC) was passed in 1860 during Lord Canning's tenure."
+  },
+  {
+    "q": "Which movement took place during Lord Elgin’s tenure?",
+    "pool": ["Swadeshi Movement", "Wahabi Movement", "Kuka Movement", "Non-Cooperation Movement", "Khilafat Movement"],
+    "answer": "Wahabi Movement",
+    "desc": "The Wahabi Movement was active during Lord Elgin’s tenure."
+  },
+  {
+    "q": "Who established the High Courts in Bombay, Madras, and Calcutta?",
+    "pool": ["Lord Canning", "Lord Mayo", "Lord Lawrence", "Lord Elgin", "Lord Northbrooke"],
+    "answer": "Lord Lawrence",
+    "desc": "The High Courts at Bombay, Madras, and Calcutta were established in 1865 during Lord Lawrence’s rule."
+  },
+  {
+    "q": "Under whose viceroyalty was telegraphic communication established with Europe?",
+    "pool": ["Lord Mayo", "Lord Elgin", "Lord Canning", "Lord Lawrence", "Lord Northbrooke"],
+    "answer": "Lord Lawrence",
+    "desc": "Lord Lawrence established telegraphic communication between India and Europe."
+  },
+  {
+    "q": "Who created the Indian Forest Department?",
+    "pool": ["Lord Mayo", "Lord Northbrooke", "Lord Canning", "Lord Lawrence", "Lord Lytton"],
+    "answer": "Lord Lawrence",
+    "desc": "Lord Lawrence established the Indian Forest Department to regulate forest resources."
+  },
+  {
+    "q": "When was the first Indian census held?",
+    "pool": ["1857", "1861", "1871", "1881", "1891"],
+    "answer": "1871",
+    "desc": "The first census in Indian history was held in 1871 under Lord Mayo."
+  },
+  {
+    "q": "Who organized the Statistical Survey of India?",
+    "pool": ["Lord Mayo", "Lord Lytton", "Lord Northbrooke", "Lord Canning", "Lord Elgin"],
+    "answer": "Lord Mayo",
+    "desc": "Lord Mayo initiated the Statistical Survey of India."
+  },
+  {
+    "q": "Which viceroy started financial decentralization in India?",
+    "pool": ["Lord Lawrence", "Lord Canning", "Lord Mayo", "Lord Lytton", "Lord Elgin"],
+    "answer": "Lord Mayo",
+    "desc": "Lord Mayo began financial decentralization by delegating financial authority to provinces."
+  },
+  {
+    "q": "Which department was established by Lord Mayo for economic affairs?",
+    "pool": ["Department of Railways", "Department of Forests", "Department of Revenue", "Department of Agriculture and Commerce", "Department of Education"],
+    "answer": "Department of Agriculture and Commerce",
+    "desc": "Lord Mayo established the Department of Agriculture and Commerce."
+  },
+  {
+    "q": "Where was Mayo College established?",
+    "pool": ["Ajmer", "Jaipur", "Rajkot", "Kathiawar", "Udaipur"],
+    "answer": "Ajmer",
+    "desc": "Mayo College for Indian princes was established in Ajmer under Lord Mayo."
+  },
+  {
+    "q": "Which college for Indian princes was set up in Kathiawar?",
+    "pool": ["Rajkot College", "Mayo College", "Fergusson College", "Islamia College", "Bombay College"],
+    "answer": "Rajkot College",
+    "desc": "Rajkot College at Kathiawar was established by Lord Mayo."
+  },
+  {
+    "q": "Who was the only Viceroy of India to be murdered while in office?",
+    "pool": ["Lord Mayo", "Lord Lytton", "Lord Lawrence", "Lord Canning", "Lord Elgin"],
+    "answer": "Lord Mayo",
+    "desc": "Lord Mayo was assassinated by a Pathan convict in the Andaman Islands in 1872."
+  },
+  {
+    "q": "Which rebellion occurred in Punjab during Lord Northbrooke’s tenure?",
+    "pool": ["Wahabi Rebellion", "Santhal Rebellion", "Kuka Rebellion", "Sepoy Mutiny", "Bhakti Movement"],
+    "answer": "Kuka Rebellion",
+    "desc": "The Kuka Rebellion took place in Punjab during the time of Lord Northbrooke."
+  },
+  {
+    "q": "Which viceroy ruled during the famine in Bihar?",
+    "pool": ["Lord Mayo", "Lord Canning", "Lord Northbrooke", "Lord Lawrence", "Lord Elgin"],
+    "answer": "Lord Northbrooke",
+    "desc": "A severe famine hit Bihar during the tenure of Lord Northbrooke."
+  },
+  {
+    "q": "Who is referred to as the ‘Viceroy of Reverse Character’?",
+    "pool": ["Lord Canning", "Lord Lytton", "Lord Mayo", "Lord Lawrence", "Lord Elgin"],
+    "answer": "Lord Lytton",
+    "desc": "Lord Lytton earned the nickname ‘Viceroy of Reverse Character’ for his controversial policies."
+  },
+  {
+    "q": "Which act gave Queen Victoria the title ‘Empress of India’?",
+    "pool": ["Act of 1858", "Royal Titles Act 1876", "Indian Councils Act 1861", "Charter Act 1853", "Arms Act 1878"],
+    "answer": "Royal Titles Act 1876",
+    "desc": "The Royal Titles Act of 1876 declared Queen Victoria the Empress of India."
+  },
+  {
+    "q": "In which event was Queen Victoria proclaimed Empress of India?",
+    "pool": ["Delhi Durbar 1877", "Golden Jubilee 1887", "Coronation 1837", "Indian Exhibition 1851", "Viceroy Council 1861"],
+    "answer": "Delhi Durbar 1877",
+    "desc": "Queen Victoria’s title as Empress of India was proclaimed during the Delhi Durbar in 1877."
+  },
+  {
+    "q": "Which act, also known as the ‘Gagging Act’, was passed in 1878?",
+    "pool": ["Arms Act", "Indian Press Act", "Vernacular Press Act", "Sedition Act", "Newspapers Regulation Act"],
+    "answer": "Vernacular Press Act",
+    "desc": "The Vernacular Press Act of 1878 restricted the freedom of Indian language newspapers."
+  },
+  {
+    "q": "What did the Arms Act of 1878 mandate?",
+    "pool": ["Prohibited Indians from carrying arms", "Tax on arms imports", "Arms for British only", "License for arms possession", "Confiscation of native weapons"],
+    "answer": "License for arms possession",
+    "desc": "The Arms Act required Indians to obtain licenses to carry arms, unlike Europeans."
+  },
+  {
+    "q": "During which viceroy's rule was the Delhi Durbar of 1877 held?",
+    "pool": ["Lord Canning", "Lord Mayo", "Lord Lytton", "Lord Elgin", "Lord Northbrooke"],
+    "answer": "Lord Lytton",
+    "desc": "The Delhi Durbar of 1877, where Queen Victoria was proclaimed Empress, was held under Lord Lytton."
+  },
+  {
+    "q": "Which Viceroy passed both the Vernacular Press Act and Arms Act?",
+    "pool": ["Lord Lytton", "Lord Canning", "Lord Lawrence", "Lord Mayo", "Lord Elgin"],
+    "answer": "Lord Lytton",
+    "desc": "Both the Vernacular Press Act and Arms Act were passed in 1878 during Lord Lytton's rule."
+  },
+  {
+    "q": "Which Viceroy introduced measures to promote education for Indian princes?",
+    "pool": ["Lord Mayo", "Lord Canning", "Lord Lawrence", "Lord Elgin", "Lord Northbrooke"],
+    "answer": "Lord Mayo",
+    "desc": "Lord Mayo established institutions like Mayo College and Rajkot College for educating Indian princes."
+  },
+  {
+    "q": "Which Viceroy started India's first comprehensive statistical survey?",
+    "pool": ["Lord Northbrooke", "Lord Canning", "Lord Mayo", "Lord Elgin", "Lord Lawrence"],
+    "answer": "Lord Mayo",
+    "desc": "Lord Mayo launched the first systematic Statistical Survey of India."
+  },
+  {
+    "q": "In which year did Lord Mayo get assassinated?",
+    "pool": ["1870", "1871", "1872", "1873", "1874"],
+    "answer": "1872",
+    "desc": "Lord Mayo was assassinated in the Andaman Islands in 1872."
+  },
+
+
+  {
+    "q": "Who is known as the founding father of local self-governance in India?",
+    "pool": ["Lord Ripon", "Lord Curzon", "Lord Lansdowne", "Lord Dufferin", "Lord Elgin II"],
+    "answer": "Lord Ripon",
+    "desc": "Lord Ripon introduced Local Self-Government in 1882 and is considered its founding father in India."
+  },
+  {
+    "q": "Which Factory Act prohibited child labour under age 7?",
+    "pool": ["Factory Act 1881", "Factory Act 1891", "Child Labour Act 1885", "Factories Regulation Act 1870", "Labour Protection Act 1884"],
+    "answer": "Factory Act 1881",
+    "desc": "The Factory Act of 1881, passed under Lord Ripon, prohibited child labour under the age of 7."
+  },
+  {
+    "q": "In which year was local self-government introduced in India?",
+    "pool": ["1881", "1882", "1884", "1880", "1883"],
+    "answer": "1882",
+    "desc": "Lord Ripon introduced local self-government in 1882, laying the foundation for decentralised administration."
+  },
+  {
+    "q": "Which act was repealed by Lord Ripon in 1882?",
+    "pool": ["Ilbert Bill", "Arms Act", "Factory Act", "Vernacular Press Act", "Indian Councils Act"],
+    "answer": "Vernacular Press Act",
+    "desc": "The Vernacular Press Act, which restricted press freedom, was repealed by Lord Ripon in 1882."
+  },
+  {
+    "q": "What was the main objective of the Hunter Commission appointed in 1882?",
+    "pool": ["Revenue reform", "Civil service reform", "Primary and secondary education", "University education", "Local governance"],
+    "answer": "Primary and secondary education",
+    "desc": "The Hunter Commission was appointed in 1882 to improve primary and secondary education in India."
+  },
+  {
+    "q": "What did the Ilbert Bill of 1883 propose?",
+    "pool": ["Ban on child marriage", "Granting voting rights", "Abolition of sati", "Indian magistrates trying Europeans", "Reform in land revenue"],
+    "answer": "Indian magistrates trying Europeans",
+    "desc": "The Ilbert Bill proposed allowing Indian judges to try European offenders, sparking widespread controversy."
+  },
+  {
+    "q": "During whose tenure was the Indian National Congress founded?",
+    "pool": ["Lord Ripon", "Lord Dufferin", "Lord Lansdowne", "Lord Curzon", "Lord Elgin II"],
+    "answer": "Lord Dufferin",
+    "desc": "The Indian National Congress was founded in 1885 during Lord Dufferin’s viceroyalty."
+  },
+  {
+    "q": "Which war took place during Lord Dufferin’s tenure?",
+    "pool": ["First Burmese War", "Second Afghan War", "Third Burmese War", "First Anglo-Sikh War", "Second Opium War"],
+    "answer": "Third Burmese War",
+    "desc": "The Third Burmese War (1885–86) occurred during Lord Dufferin's time, resulting in British annexation of Burma."
+  },
+  {
+    "q": "Which Factory Act granted weekly holidays and working hour regulations for women and children?",
+    "pool": ["Factory Act 1881", "Factory Act 1891", "Labour Welfare Act 1890", "Work Regulation Act 1887", "Child Labour Act 1893"],
+    "answer": "Factory Act 1891",
+    "desc": "The Factory Act of 1891, passed under Lord Lansdowne, regulated working hours and granted weekly holidays."
+  },
+  {
+    "q": "Under which viceroy was the Indian Civil Services divided into three categories?",
+    "pool": ["Lord Curzon", "Lord Lansdowne", "Lord Ripon", "Lord Dufferin", "Lord Elgin II"],
+    "answer": "Lord Lansdowne",
+    "desc": "Lord Lansdowne reorganized civil services into Imperial, Provincial, and Subordinate Services."
+  },
+  {
+    "q": "Which act passed in 1892 gave Indians representation in legislative councils?",
+    "pool": ["Indian Councils Act 1861", "Government of India Act 1858", "Charter Act 1853", "Indian Councils Act 1892", "Reform Act 1890"],
+    "answer": "Indian Councils Act 1892",
+    "desc": "The Indian Councils Act of 1892 allowed limited Indian representation in legislative councils."
+  },
+  {
+    "q": "What was the Durand Line established in 1893?",
+    "pool": ["Border with Nepal", "Border with Bhutan", "Line between India and Afghanistan", "Partition line of Bengal", "Border with Burma"],
+    "answer": "Line between India and Afghanistan",
+    "desc": "The Durand Line, demarcated by the Durand Commission in 1893, marked the boundary between British India and Afghanistan."
+  },
+  {
+    "q": "Which two modern countries does the Durand Line now separate?",
+    "pool": ["India and Nepal", "India and Pakistan", "Pakistan and Afghanistan", "India and Bangladesh", "India and Bhutan"],
+    "answer": "Pakistan and Afghanistan",
+    "desc": "The Durand Line today forms the border between Pakistan and Afghanistan."
+  },
+  {
+    "q": "Which viceroy faced the great famine of 1896–1897?",
+    "pool": ["Lord Ripon", "Lord Elgin II", "Lord Dufferin", "Lord Lansdowne", "Lord Curzon"],
+    "answer": "Lord Elgin II",
+    "desc": "The great famine of 1896–97 occurred under the viceroyalty of Lord Elgin II."
+  },
+  {
+    "q": "Which commission was set up in response to the famine of 1896–1897?",
+    "pool": ["Ripon Commission", "Lyall Commission", "Elgin Commission", "Curzon Commission", "Agricultural Commission"],
+    "answer": "Lyall Commission",
+    "desc": "The Lyall Commission was established to investigate causes of the 1896–97 famine."
+  },
+  {
+    "q": "Which viceroy initiated reforms in Indian universities?",
+    "pool": ["Lord Ripon", "Lord Dufferin", "Lord Curzon", "Lord Lansdowne", "Lord Elgin II"],
+    "answer": "Lord Curzon",
+    "desc": "Lord Curzon appointed the Raleigh Commission in 1902, leading to the Indian Universities Act of 1904."
+  },
+  {
+    "q": "Who passed the Indian Universities Act of 1904?",
+    "pool": ["Lord Ripon", "Lord Lansdowne", "Lord Curzon", "Lord Dufferin", "Lord Elgin II"],
+    "answer": "Lord Curzon",
+    "desc": "The Indian Universities Act of 1904, passed under Lord Curzon, aimed to regulate and improve university education."
+  },
+  {
+    "q": "Which act aimed at preserving ancient monuments in India?",
+    "pool": ["Indian Heritage Act", "Cultural Preservation Act", "Archaeological Sites Act", "Ancient Monuments Preservation Act 1904", "Antiquities Act"],
+    "answer": "Ancient Monuments Preservation Act 1904",
+    "desc": "Lord Curzon passed the Ancient Monuments Preservation Act in 1904, laying the foundation for the Archaeological Survey of India."
+  },
+  {
+    "q": "What institution was founded at Pusa in Delhi under Lord Curzon?",
+    "pool": ["Medical College", "Law College", "Engineering College", "Agricultural Research Institute", "Civil Services Institute"],
+    "answer": "Agricultural Research Institute",
+    "desc": "The Agricultural Research Institute at Pusa was established by Lord Curzon for agricultural advancement."
+  },
+  {
+    "q": "Which major event in Bengal's history occurred in 1905?",
+    "pool": ["Swadeshi Movement", "Bengal Renaissance", "Partition of Bengal", "Formation of Bengal Presidency", "Bengal Famine"],
+    "answer": "Partition of Bengal",
+    "desc": "Lord Curzon partitioned Bengal in 1905, which triggered massive protests and the Swadeshi Movement."
+  },
+  {
+    "q": "What was the main aim of the Raleigh Commission of 1902?",
+    "pool": ["Famine relief", "University reforms", "Forest management", "Administrative division", "Political repression"],
+    "answer": "University reforms",
+    "desc": "The Raleigh Commission was set up to suggest reforms for Indian universities, leading to the 1904 Act."
+  },
+  {
+    "q": "Which viceroy’s reforms led to the foundation of the Archaeological Survey of India?",
+    "pool": ["Lord Ripon", "Lord Curzon", "Lord Lansdowne", "Lord Dufferin", "Lord Elgin II"],
+    "answer": "Lord Curzon",
+    "desc": "Lord Curzon’s Ancient Monuments Preservation Act led to the establishment of the Archaeological Survey of India."
+  },
+  {
+    "q": "Which viceroy's rule saw the division of civil services into different branches?",
+    "pool": ["Lord Ripon", "Lord Lansdowne", "Lord Curzon", "Lord Dufferin", "Lord Elgin II"],
+    "answer": "Lord Lansdowne",
+    "desc": "Lord Lansdowne divided civil services into Imperial, Provincial, and Subordinate categories."
+  },
+  {
+    "q": "Who presided over India during the Third Burmese War?",
+    "pool": ["Lord Ripon", "Lord Lansdowne", "Lord Curzon", "Lord Dufferin", "Lord Elgin II"],
+    "answer": "Lord Dufferin",
+    "desc": "The Third Burmese War (1885–86) occurred under the viceroyalty of Lord Dufferin."
+  },
+  {
+    "q": "Which viceroy is associated with the Ilbert Bill controversy?",
+    "pool": ["Lord Lansdowne", "Lord Curzon", "Lord Ripon", "Lord Elgin II", "Lord Dufferin"],
+    "answer": "Lord Ripon",
+    "desc": "The Ilbert Bill, which caused significant opposition from Europeans, was introduced under Lord Ripon."
+  },
+  {
+    "q": "Who repealed the repressive Vernacular Press Act?",
+    "pool": ["Lord Curzon", "Lord Lansdowne", "Lord Ripon", "Lord Elgin II", "Lord Dufferin"],
+    "answer": "Lord Ripon",
+    "desc": "Lord Ripon repealed the Vernacular Press Act in 1882, restoring press freedom for Indian-language newspapers."
+  },
+  {
+    "q": "During whose tenure was the Indian National Congress formed?",
+    "pool": ["Lord Ripon", "Lord Lansdowne", "Lord Curzon", "Lord Dufferin", "Lord Elgin II"],
+    "answer": "Lord Dufferin",
+    "desc": "The Indian National Congress was formed in 1885 while Lord Dufferin was Viceroy."
+  },
+  {
+    "q": "Which viceroy is associated with both famine and tribal uprisings?",
+    "pool": ["Lord Lansdowne", "Lord Ripon", "Lord Curzon", "Lord Elgin II", "Lord Dufferin"],
+    "answer": "Lord Elgin II",
+    "desc": "Lord Elgin II witnessed both the great famine and southern tribal uprisings during his rule."
+  },
+
+
+  {
+    "q": "Who was the Viceroy of India during the foundation of the Muslim League?",
+    "pool": ["Lord Curzon", "Lord Minto", "Lord Chelmsford", "Lord Irwin", "Lord Hardinge"],
+    "answer": "Lord Minto",
+    "desc": "The All-India Muslim League was founded in 1906 during the tenure of Lord Minto."
+  },
+  {
+    "q": "In which year did the Swadeshi Movement start?",
+    "pool": ["1903", "1904", "1905", "1906", "1907"],
+    "answer": "1905",
+    "desc": "The Swadeshi Movement began in 1905 as a reaction to the partition of Bengal."
+  },
+  {
+    "q": "Which Congress session led to a split between moderates and extremists?",
+    "pool": ["Surat", "Calcutta", "Lahore", "Bombay", "Madras"],
+    "answer": "Surat",
+    "desc": "The Surat Session of Congress in 1907 witnessed a split between moderates and extremists."
+  },
+  {
+    "q": "Which reform is associated with Lord Minto?",
+    "pool": ["Montford Reforms", "Morley-Minto Reforms", "Nehru Report", "Indian Councils Act 1861", "Charter Act 1833"],
+    "answer": "Morley-Minto Reforms",
+    "desc": "The Morley-Minto Reforms of 1909 expanded the legislative councils and introduced separate electorates for Muslims."
+  },
+  {
+    "q": "Who was the Viceroy when the capital of India was shifted from Calcutta to Delhi?",
+    "pool": ["Lord Minto", "Lord Hardinge", "Lord Chelmsford", "Lord Reading", "Lord Irwin"],
+    "answer": "Lord Hardinge",
+    "desc": "In 1911, under Lord Hardinge, the capital was shifted from Calcutta to Delhi."
+  },
+  {
+    "q": "Which event led to the cancellation of the Partition of Bengal?",
+    "pool": ["Simon Commission", "Delhi Durbar", "Morley-Minto Reforms", "Jallianwala Bagh Massacre", "Swadeshi Movement"],
+    "answer": "Delhi Durbar",
+    "desc": "The Delhi Durbar of 1911 marked the annulment of the 1905 Partition of Bengal."
+  },
+  {
+    "q": "Who founded the Hindu Mahasabha in 1915?",
+    "pool": ["B.G. Tilak", "Vinayak Damodar Savarkar", "Lala Lajpat Rai", "Madan Mohan Malaviya", "Annie Besant"],
+    "answer": "Madan Mohan Malaviya",
+    "desc": "The Hindu Mahasabha was founded in 1915 by Pandit Madan Mohan Malaviya."
+  },
+  {
+    "q": "Which ashram did Gandhi establish in 1916?",
+    "pool": ["Sabarmati Ashram", "Sevagram Ashram", "Wardha Ashram", "Phoenix Settlement", "Tolstoy Farm"],
+    "answer": "Sabarmati Ashram",
+    "desc": "Gandhi established the Sabarmati Ashram in Ahmedabad in 1916."
+  },
+  {
+    "q": "Which was Gandhi's first Satyagraha in India?",
+    "pool": ["Ahmedabad Mill Strike", "Champaran", "Kheda", "Salt Satyagraha", "Bardoli"],
+    "answer": "Champaran",
+    "desc": "Champaran Satyagraha in 1917 was Gandhi’s first major civil disobedience in India."
+  },
+  {
+    "q": "Which act was passed in March 1919 that caused widespread anger in India?",
+    "pool": ["Rowlatt Act", "Government of India Act", "Indian Councils Act", "Ilbert Bill", "Salt Act"],
+    "answer": "Rowlatt Act",
+    "desc": "The Rowlatt Act allowed detention without trial and led to nationwide protests."
+  },
+  {
+    "q": "When did the Jallianwala Bagh massacre take place?",
+    "pool": ["1918", "1919", "1920", "1921", "1922"],
+    "answer": "1919",
+    "desc": "The Jallianwala Bagh massacre happened on 13th April 1919 in Amritsar."
+  },
+  {
+    "q": "Which movement began as a protest against British support to the disintegration of the Ottoman Empire?",
+    "pool": ["Swadeshi Movement", "Khilafat Movement", "Non-Cooperation", "Civil Disobedience", "Quit India Movement"],
+    "answer": "Khilafat Movement",
+    "desc": "The Khilafat Movement (1919–20) protested against British actions in the Ottoman Empire."
+  },
+  {
+    "q": "Who was the Viceroy during the Non-Cooperation Movement?",
+    "pool": ["Lord Reading", "Lord Irwin", "Lord Chelmsford", "Lord Hardinge", "Lord Curzon"],
+    "answer": "Lord Chelmsford",
+    "desc": "Lord Chelmsford was Viceroy when the Non-Cooperation Movement started in 1920."
+  },
+  {
+    "q": "Where was the Women’s University founded in 1916?",
+    "pool": ["Delhi", "Poona", "Bombay", "Calcutta", "Madras"],
+    "answer": "Poona",
+    "desc": "India's first Women’s University was founded in Poona in 1916."
+  },
+  {
+    "q": "Which Viceroy repealed the Rowlatt Act?",
+    "pool": ["Lord Reading", "Lord Irwin", "Lord Chelmsford", "Lord Hardinge", "Lord Mountbatten"],
+    "answer": "Lord Reading",
+    "desc": "The Rowlatt Act was repealed during Lord Reading's tenure (1921–26)."
+  },
+  {
+    "q": "What major incident in 1922 led Gandhi to call off the Non-Cooperation Movement?",
+    "pool": ["Jallianwala Bagh", "Dandi March", "Simon Commission", "Chauri-Chaura", "Kakori Train Robbery"],
+    "answer": "Chauri-Chaura",
+    "desc": "The Chauri-Chaura incident involved violence that led Gandhi to suspend the Non-Cooperation Movement."
+  },
+  {
+    "q": "Which organization was founded in 1925?",
+    "pool": ["Hindu Mahasabha", "Congress Socialist Party", "Rashtriya Swayamsevak Sangh", "Muslim League", "Swaraj Party"],
+    "answer": "Rashtriya Swayamsevak Sangh",
+    "desc": "RSS was founded in 1925 as a right-wing Hindu nationalist organization."
+  },
+  {
+    "q": "Which rebellion occurred in 1921 in Kerala involving Muslim peasants?",
+    "pool": ["Sepoy Mutiny", "Khilafat Rebellion", "Moplah Rebellion", "Bardoli Satyagraha", "Indigo Revolt"],
+    "answer": "Moplah Rebellion",
+    "desc": "The Moplah Rebellion in 1921 involved Muslim tenants rising against landlords in Kerala."
+  },
+  {
+    "q": "When did the Kakori Train Robbery take place?",
+    "pool": ["1923", "1924", "1925", "1926", "1927"],
+    "answer": "1925",
+    "desc": "The Kakori Train Robbery was conducted by revolutionaries on 1st August 1925."
+  },
+  {
+    "q": "Which Viceroy faced the Communal Riots of 1923-25?",
+    "pool": ["Lord Irwin", "Lord Reading", "Lord Chelmsford", "Lord Hardinge", "Lord Mountbatten"],
+    "answer": "Lord Reading",
+    "desc": "Communal riots during 1923–25 occurred under Lord Reading's tenure."
+  },
+  {
+    "q": "Who was the Viceroy when the Simon Commission came to India?",
+    "pool": ["Lord Chelmsford", "Lord Irwin", "Lord Minto", "Lord Reading", "Lord Linlithgow"],
+    "answer": "Lord Irwin",
+    "desc": "The Simon Commission arrived in 1927 during Lord Irwin’s rule."
+  },
+  {
+    "q": "What significant event did Gandhi start on 12th March 1930?",
+    "pool": ["Non-Cooperation", "Civil Disobedience", "Dandi March", "Quit India", "Champaran Satyagraha"],
+    "answer": "Dandi March",
+    "desc": "The Dandi March began on 12th March 1930 as part of the Civil Disobedience Movement."
+  },
+  {
+    "q": "What movement was launched following the Dandi March?",
+    "pool": ["Swadeshi", "Non-Cooperation", "Khilafat", "Civil Disobedience", "Quit India"],
+    "answer": "Civil Disobedience",
+    "desc": "The Civil Disobedience Movement was launched in 1930 following the Salt March."
+  },
+  {
+    "q": "Where was the First Round Table Conference held?",
+    "pool": ["Delhi", "Bombay", "London", "Calcutta", "Poona"],
+    "answer": "London",
+    "desc": "The First Round Table Conference was held in London in 1930."
+  },
+  {
+    "q": "What was the Gandhi-Irwin Pact?",
+    "pool": ["A peace agreement with Britain", "Withdrawal of Salt Law", "End of Non-Cooperation", "Gandhi’s participation in Round Table Conference", "A land reform act"],
+    "answer": "Gandhi’s participation in Round Table Conference",
+    "desc": "The Gandhi-Irwin Pact allowed Gandhi to attend the Second Round Table Conference."
+  },
+  {
+    "q": "In which session of Congress was the Poorna Swaraj Declaration made?",
+    "pool": ["Surat", "Calcutta", "Lahore", "Nagpur", "Bombay"],
+    "answer": "Lahore",
+    "desc": "In the Lahore Session of 1929, Congress declared Poorna Swaraj (complete independence) as its goal."
+  },
+  {
+    "q": "Who was the Viceroy during the Dandi March?",
+    "pool": ["Lord Irwin", "Lord Reading", "Lord Chelmsford", "Lord Wavell", "Lord Mountbatten"],
+    "answer": "Lord Irwin",
+    "desc": "The Dandi March occurred under the rule of Lord Irwin in 1930."
+  },
+  {
+    "q": "Which year saw the formation of the Swaraj Party?",
+    "pool": ["1921", "1922", "1923", "1924", "1925"],
+    "answer": "1923",
+    "desc": "The Swaraj Party was formed in 1923 by Motilal Nehru and C.R. Das."
+  },
+  {
+    "q": "Who returned to India in 1915 and became a key figure in the independence movement?",
+    "pool": ["Subhas Chandra Bose", "Bal Gangadhar Tilak", "Mahatma Gandhi", "Jawaharlal Nehru", "Dadabhai Naoroji"],
+    "answer": "Mahatma Gandhi",
+    "desc": "Mahatma Gandhi returned to India from South Africa in 1915."
+  },
+
+
+  {
+    "q": "During whose tenure did the Second Round Table Conference take place?",
+    "pool": ["Lord Irwin", "Lord Reading", "Lord Willingdon", "Lord Linlithgow", "Lord Wavell"],
+    "answer": "Lord Willingdon",
+    "desc": "The Second Round Table Conference was held in 1931 during Lord Willingdon's tenure."
+  },
+  {
+    "q": "When was the Government of India Act passed?",
+    "pool": ["1933", "1934", "1935", "1936", "1937"],
+    "answer": "1935",
+    "desc": "The Government of India Act was passed in 1935, introducing provincial autonomy and federal structure."
+  },
+  {
+    "q": "What was the main issue with the Communal Award of 1932?",
+    "pool": ["Creation of Pakistan", "Separate electorates for Muslims only", "Separate electorates for Dalits", "New provincial boundaries", "Suppression of Congress"],
+    "answer": "Separate electorates for Dalits",
+    "desc": "The Communal Award of 1932 proposed separate electorates for Dalits, which Gandhi opposed through a fast."
+  },
+  {
+    "q": "Who protested against the Communal Award by going on an epic fast?",
+    "pool": ["Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Mahatma Gandhi", "Subhas Chandra Bose", "Sardar Patel"],
+    "answer": "Mahatma Gandhi",
+    "desc": "Gandhi went on a fast to oppose separate electorates for Dalits under the Communal Award."
+  },
+  {
+    "q": "Which Viceroy oversaw the Third Round Table Conference?",
+    "pool": ["Lord Willingdon", "Lord Irwin", "Lord Linlithgow", "Lord Wavell", "Lord Mountbatten"],
+    "answer": "Lord Willingdon",
+    "desc": "The Third Round Table Conference took place in 1932 under Lord Willingdon's rule."
+  },
+  {
+    "q": "Which Viceroy witnessed the resignation of Congress Ministries?",
+    "pool": ["Lord Linlithgow", "Lord Willingdon", "Lord Wavell", "Lord Mountbatten", "Lord Irwin"],
+    "answer": "Lord Linlithgow",
+    "desc": "Congress Ministries resigned in 1939 during Lord Linlithgow's tenure as Viceroy."
+  },
+  {
+    "q": "What day did the Muslim League celebrate after Congress ministries resigned?",
+    "pool": ["Independence Day", "Pakistan Day", "Deliverance Day", "Victory Day", "Republic Day"],
+    "answer": "Deliverance Day",
+    "desc": "The Muslim League celebrated Congress resignations in 1939 as Deliverance Day."
+  },
+  {
+    "q": "What was the Lahore Resolution of 1940?",
+    "pool": ["Demand for civil rights", "Demand for Dominion status", "Demand for Pakistan", "Condemnation of British rule", "Rejection of Round Table outcomes"],
+    "answer": "Demand for Pakistan",
+    "desc": "The Lahore Resolution passed in 1940 called for a separate nation for Muslims—later Pakistan."
+  },
+  {
+    "q": "Who proposed the Two-Nation Theory?",
+    "pool": ["Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Subhas Chandra Bose", "Muhammad Ali Jinnah", "Maulana Azad"],
+    "answer": "Muhammad Ali Jinnah",
+    "desc": "Jinnah put forward the Two-Nation Theory during the Lahore Session of 1940."
+  },
+  {
+    "q": "Which global event began during Lord Linlithgow's tenure?",
+    "pool": ["World War I", "World War II", "American Revolution", "Russian Revolution", "Cold War"],
+    "answer": "World War II",
+    "desc": "World War II began in 1939 during the viceroyalty of Lord Linlithgow."
+  },
+  {
+    "q": "Which mission was sent by the British to negotiate with Indian leaders in 1942?",
+    "pool": ["Simon Commission", "Cripps Mission", "Cabinet Mission", "Round Table Mission", "Mountbatten Mission"],
+    "answer": "Cripps Mission",
+    "desc": "The Cripps Mission was sent in 1942 to negotiate terms with Indian leaders during WWII."
+  },
+  {
+    "q": "When was the Quit India Movement launched?",
+    "pool": ["1939", "1940", "1941", "1942", "1943"],
+    "answer": "1942",
+    "desc": "The Quit India Movement was launched by the INC on 8th August 1942."
+  },
+  {
+    "q": "Who was the Viceroy when the Quit India Movement started?",
+    "pool": ["Lord Willingdon", "Lord Linlithgow", "Lord Wavell", "Lord Irwin", "Lord Mountbatten"],
+    "answer": "Lord Linlithgow",
+    "desc": "Lord Linlithgow was the Viceroy when the Quit India Movement began in 1942."
+  },
+  {
+    "q": "Which mission proposed a three-tier federal structure in 1946?",
+    "pool": ["Cripps Mission", "Simon Commission", "Cabinet Mission", "Mountbatten Plan", "Round Table Conference"],
+    "answer": "Cabinet Mission",
+    "desc": "The Cabinet Mission Plan of 1946 proposed a three-tier federal structure for India."
+  },
+  {
+    "q": "Which Viceroy arranged the Shimla Conference in 1945?",
+    "pool": ["Lord Linlithgow", "Lord Willingdon", "Lord Wavell", "Lord Irwin", "Lord Mountbatten"],
+    "answer": "Lord Wavell",
+    "desc": "Lord Wavell arranged the Shimla Conference in 1945, which ended in failure."
+  },
+  {
+    "q": "What was the purpose of the Shimla Conference?",
+    "pool": ["Decide Partition", "Draft Constitution", "Form interim govt", "Negotiate with Muslim League", "Resolve Hindu-Muslim conflict"],
+    "answer": "Negotiate with Muslim League",
+    "desc": "The Shimla Conference attempted to bring the Congress and the Muslim League to an agreement."
+  },
+  {
+    "q": "When was the first meeting of the Constituent Assembly held?",
+    "pool": ["26th January 1950", "15th August 1947", "9th December 1946", "16th May 1946", "25th June 1945"],
+    "answer": "9th December 1946",
+    "desc": "The first meeting of the Constituent Assembly was held on 9th December 1946."
+  },
+  {
+    "q": "Under whom was the interim government formed in 1946?",
+    "pool": ["Rajendra Prasad", "Sardar Patel", "Mahatma Gandhi", "C. Rajagopalachari", "Jawaharlal Nehru"],
+    "answer": "Jawaharlal Nehru",
+    "desc": "Jawaharlal Nehru headed the interim government formed in 1946."
+  },
+  {
+    "q": "Who was the last Viceroy of British India?",
+    "pool": ["Lord Linlithgow", "Lord Wavell", "Lord Mountbatten", "C. Rajagopalachari", "Lord Reading"],
+    "answer": "Lord Mountbatten",
+    "desc": "Lord Mountbatten was the last British Viceroy and the first Governor-General of free India."
+  },
+  {
+    "q": "What was the Mountbatten Plan also known as?",
+    "pool": ["3rd Round Table Plan", "Shimla Agreement", "3rd June Plan", "Cabinet Proposal", "Cripps Report"],
+    "answer": "3rd June Plan",
+    "desc": "The Mountbatten Plan for the partition of India was announced on 3rd June 1947."
+  },
+  {
+    "q": "Who succeeded Lord Mountbatten as the Governor-General of India?",
+    "pool": ["Jawaharlal Nehru", "Sardar Patel", "C. Rajagopalachari", "Dr. B.R. Ambedkar", "Maulana Azad"],
+    "answer": "C. Rajagopalachari",
+    "desc": "C. Rajagopalachari was the first and last Indian Governor-General after Mountbatten."
+  },
+  {
+    "q": "When was the Indian Independence Act passed by the British Parliament?",
+    "pool": ["15th August 1947", "3rd June 1947", "9th December 1946", "4th July 1947", "16th May 1946"],
+    "answer": "4th July 1947",
+    "desc": "The Indian Independence Act was passed on 4th July 1947 by the British Parliament."
+  },
+  {
+    "q": "When did India become independent?",
+    "pool": ["26th January 1950", "4th July 1947", "3rd June 1947", "15th August 1947", "9th December 1946"],
+    "answer": "15th August 1947",
+    "desc": "India became independent on 15th August 1947 following the Indian Independence Act."
+  },
+  {
+    "q": "Who was the first Governor-General of independent India?",
+    "pool": ["Jawaharlal Nehru", "Sardar Patel", "Dr. B.R. Ambedkar", "Lord Mountbatten", "C. Rajagopalachari"],
+    "answer": "Lord Mountbatten",
+    "desc": "Lord Mountbatten served as the first Governor-General of free India."
+  },
+  {
+    "q": "Which Viceroy was responsible for overseeing India’s transition to independence?",
+    "pool": ["Lord Linlithgow", "Lord Irwin", "Lord Mountbatten", "Lord Wavell", "Lord Reading"],
+    "answer": "Lord Mountbatten",
+    "desc": "Lord Mountbatten managed the process of partition and India’s independence in 1947."
+  },
+  {
+    "q": "What did the Cabinet Mission aim to achieve?",
+    "pool": ["Immediate independence", "Partition", "Constitution formation", "Unite Congress and League", "Withdraw British troops"],
+    "answer": "Constitution formation",
+    "desc": "The Cabinet Mission sought to set up a Constitution-making body and a federal government."
+  },
+  {
+    "q": "Which Viceroy convened the Constituent Assembly?",
+    "pool": ["Lord Wavell", "Lord Mountbatten", "Lord Willingdon", "Lord Linlithgow", "Lord Reading"],
+    "answer": "Lord Wavell",
+    "desc": "Lord Wavell oversaw the convening of the Constituent Assembly and the interim government."
+  },
+  {
+    "q": "When was the Shimla Conference held?",
+    "pool": ["1942", "1943", "1944", "1945", "1946"],
+    "answer": "1945",
+    "desc": "The Shimla Conference was held on 25th June 1945 to negotiate terms between INC and the Muslim League."
+  },
+  {
+    "q": "What was the main outcome of the Shimla Conference?",
+    "pool": ["Formation of Pakistan", "Formation of Constitution", "Failure of talks", "Partition of Bengal", "Quit India Movement"],
+    "answer": "Failure of talks",
+    "desc": "The Shimla Conference failed due to disagreements between Congress and the Muslim League."
+  }
+]

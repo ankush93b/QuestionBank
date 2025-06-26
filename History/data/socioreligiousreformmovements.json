@@ -1,0 +1,378 @@
+[
+  {
+    "q": "Who founded the Brahmo Samaj in Calcutta in 1828?",
+    "pool": ["Raja Ram Mohan Roy", "Keshab Chandra Sen", "Henry Louis Vivian Derozio", "Atmaram Pandurang", "Syed Ahmed Khan"],
+    "answer": "Raja Ram Mohan Roy",
+    "desc": "Raja Ram Mohan Roy founded the Brahmo Samaj in 1828 in Calcutta to promote monotheism and oppose idolatry, superstition, and sati."
+  },
+  {
+    "q": "What did Brahmo Samaj primarily oppose?",
+    "pool": ["British rule", "Sanskrit education", "Idolatry and sati", "Industrialization", "Communalism"],
+    "answer": "Idolatry and sati",
+    "desc": "Brahmo Samaj propagated monotheism and opposed sacrifices, idolatry, superstition, and the practice of sati."
+  },
+  {
+    "q": "Who led the Young Bengal Movement (1826-31)?",
+    "pool": ["Debendranath Tagore", "Raja Ram Mohan Roy", "Henry Louis Vivian Derozio", "Dadoba Pandurang", "Baba Ram Singh"],
+    "answer": "Henry Louis Vivian Derozio",
+    "desc": "Henry Louis Vivian Derozio was the leader of the Young Bengal Movement, which promoted truth, freedom, and rational thinking."
+  },
+  {
+    "q": "Which movement emphasized truth, freedom, and right?",
+    "pool": ["Brahmo Samaj", "Young Bengal Movement", "Wahabi Movement", "Arya Samaj", "Ramakrishna Mission"],
+    "answer": "Young Bengal Movement",
+    "desc": "The Young Bengal Movement, led by Derozio, opposed social vices and believed in truth, freedom, and rights."
+  },
+  {
+    "q": "Who founded the Tattvabodhini Sabha in 1839?",
+    "pool": ["Keshab Chandra Sen", "Raja Ram Mohan Roy", "Debendranath Tagore", "Atmaram Pandurang", "Dadoba Pandurang"],
+    "answer": "Debendranath Tagore",
+    "desc": "Debendranath Tagore founded the Tattvabodhini Sabha to propagate Brahmo Samaj ideas."
+  },
+  {
+    "q": "Which journal was brought out by the Tattvabodhini Sabha?",
+    "pool": ["Samvad Kaumudi", "Mirat-ul-Akbar", "Tattvabodhini Patrika", "Rast Goftar", "Jnanarasan"],
+    "answer": "Tattvabodhini Patrika",
+    "desc": "Debendranath Tagore brought out the Tattvabodhini Patrika through the Tattvabodhini Sabha."
+  },
+  {
+    "q": "Who established the Dharma Sabha in 1820?",
+    "pool": ["Raja Ram Mohan Roy", "Syed Ahmed", "Radhakant Deb", "Henry Derozio", "Dadoba Pandurang"],
+    "answer": "Radhakant Deb",
+    "desc": "Radhakant Deb founded the Dharma Sabha to counter Brahmo Samaj and promote orthodoxy."
+  },
+  {
+    "q": "Which movement was started by Syed Ahmed of Rai Bareilly in 1820?",
+    "pool": ["Arya Samaj", "Wahabi Movement", "Brahmo Samaj", "Young Bengal Movement", "Ramakrishna Mission"],
+    "answer": "Wahabi Movement",
+    "desc": "Syed Ahmed of Rai Bareilly led the Wahabi Movement, emphasizing Islamic reform based on the teachings of Waliullah."
+  },
+  {
+    "q": "What was the main idea of the Wahabi Movement?",
+    "pool": ["Promotion of Christianity", "Social reforms among Hindus", "Unity of God and caste abolition", "Teachings of Waliullah", "Anti-colonial education"],
+    "answer": "Teachings of Waliullah",
+    "desc": "The Wahabi Movement stressed individual conscience in religion and popularized Waliullah’s teachings."
+  },
+  {
+    "q": "Who were the leaders of the Namdhari or Kuka Movement (1841-71)?",
+    "pool": ["Debendranath Tagore and Rajaram Mohan Roy", "Syed Ahmed and Waliullah", "Bhai Balak Singh and Baba Ram Singh", "Atmaram Pandurang and K.C. Sen", "Dadoba Pandurang and Gopal Hari Deshmukh"],
+    "answer": "Bhai Balak Singh and Baba Ram Singh",
+    "desc": "The Namdhari Movement was led by Bhai Balak Singh and Baba Ram Singh for political and social reforms among Sikhs."
+  },
+  {
+    "q": "The Namdhari Movement focused on reforms in which community?",
+    "pool": ["Hindu", "Christian", "Muslim", "Sikh", "Parsi"],
+    "answer": "Sikh",
+    "desc": "The Namdhari (Kuka) Movement aimed at reforming Sikh society both politically and socially."
+  },
+  {
+    "q": "Which movement was started by Dadoba Pandurang in 1849?",
+    "pool": ["Prarthana Samaj", "Arya Samaj", "Ramakrishna Mission", "Paramhans Mandali", "Brahmo Samaj"],
+    "answer": "Paramhans Mandali",
+    "desc": "Dadoba Pandurang founded the Paramhans Mandali which emphasized the unity of God and fought caste-based discrimination."
+  },
+  {
+    "q": "The Paramhans Mandali was against which social evil?",
+    "pool": ["Sati", "Child marriage", "Caste rules", "Dowry", "Untouchability"],
+    "answer": "Caste rules",
+    "desc": "The Paramhans Mandali opposed caste discrimination and emphasized spiritual unity."
+  },
+  {
+    "q": "Who founded the Rahnumai Mazdayasan Sabha in 1851?",
+    "pool": ["Atmaram Pandurang", "Keshab Chandra Sen", "S.S. Bengalee and Dadabhai Naoroji", "Dadoba Pandurang", "Raja Ram Mohan Roy"],
+    "answer": "S.S. Bengalee and Dadabhai Naoroji",
+    "desc": "Rahnumai Mazdayasan Sabha was founded by S.S. Bengalee and Dadabhai Naoroji to uplift Parsis."
+  },
+  {
+    "q": "What was the aim of Rahnumai Mazdayasan Sabha?",
+    "pool": ["Revival of Hindu rituals", "Reform of Sikh customs", "Improvement of Parsi condition", "Christian missionary work", "Muslim education"],
+    "answer": "Improvement of Parsi condition",
+    "desc": "The Sabha aimed to improve social conditions of Parsis and restore purity to Zoroastrianism."
+  },
+  {
+    "q": "Which journal was associated with Rahnumai Mazdayasan Sabha?",
+    "pool": ["Tattvabodhini Patrika", "Rast Goftar", "Indian Mirror", "Jnanarasan", "Samvad Kaumudi"],
+    "answer": "Rast Goftar",
+    "desc": "The Sabha published the journal 'Rast Goftar' to promote reformist ideas among Parsis."
+  },
+  {
+    "q": "Who founded the Prarthana Samaj in Bombay in 1867?",
+    "pool": ["Dadabhai Naoroji", "Raja Ram Mohan Roy", "Atmaram Pandurang", "Syed Ahmed", "K.C. Sen"],
+    "answer": "Atmaram Pandurang",
+    "desc": "Atmaram Pandurang founded the Prarthana Samaj in Bombay to promote monotheism and social reform."
+  },
+  {
+    "q": "What were the key reforms promoted by Prarthana Samaj?",
+    "pool": ["British education only", "Aristocratic privileges", "Monotheism and upliftment of women", "Economic reforms only", "Scientific farming"],
+    "answer": "Monotheism and upliftment of women",
+    "desc": "Prarthana Samaj supported monotheism, upliftment of women, and abolition of caste discrimination."
+  },
+  {
+    "q": "Which reformist founded the Indian Reform Association in 1870?",
+    "pool": ["Raja Ram Mohan Roy", "Dadabhai Naoroji", "Keshab Chandra Sen", "Syed Ahmed", "Atmaram Pandurang"],
+    "answer": "Keshab Chandra Sen",
+    "desc": "Keshab Chandra Sen founded the Indian Reform Association advocating for women and inter-caste marriage."
+  },
+  {
+    "q": "Which social practice did the Indian Reform Association oppose?",
+    "pool": ["Western education", "Monotheism", "Child marriage", "Modern technology", "Factory labour"],
+    "answer": "Child marriage",
+    "desc": "The Indian Reform Association opposed child marriage and promoted women’s rights and inter-caste marriage."
+  },
+  {
+    "q": "Which movement had its roots in Zoroastrian religion?",
+    "pool": ["Brahmo Samaj", "Paramhans Mandali", "Rahnumai Mazdayasan Sabha", "Dharma Sabha", "Young Bengal"],
+    "answer": "Rahnumai Mazdayasan Sabha",
+    "desc": "This movement aimed at reforming the Zoroastrian community, especially the Parsis."
+  },
+  {
+    "q": "Which movement eventually led to the founding of Adi Brahmo Samaj?",
+    "pool": ["Dharma Sabha", "Tattvabodhini Sabha", "Prarthana Samaj", "Paramhans Mandali", "Indian Reform Association"],
+    "answer": "Tattvabodhini Sabha",
+    "desc": "The Tattvabodhini Sabha's ideas eventually led to the formation of the Adi Brahmo Samaj."
+  },
+  {
+    "q": "Which reformer is regarded as the first modern nationalist poet?",
+    "pool": ["Raja Ram Mohan Roy", "K.C. Sen", "Henry Louis Vivian Derozio", "Atmaram Pandurang", "S.S. Bengalee"],
+    "answer": "Henry Louis Vivian Derozio",
+    "desc": "Derozio is considered the first modern nationalist poet of India, known for his progressive views."
+  },
+
+
+  {
+    "q": "Who founded the Arya Samaj in 1875?",
+    "pool": ["MG Ranade", "Dayanand Saraswati", "Syed Ahmed Khan", "Vivekananda", "Behramji Malabari"],
+    "answer": "Dayanand Saraswati",
+    "desc": "Dayanand Saraswati, originally named Mulshankar, founded the Arya Samaj in 1875 in Bombay."
+  },
+  {
+    "q": "What was the slogan given by Arya Samaj?",
+    "pool": ["Unity in Diversity", "Back to Islam", "Go Back to the Vedas", "Faith and Knowledge", "Truth Prevails"],
+    "answer": "Go Back to the Vedas",
+    "desc": "Arya Samaj promoted the revivalist slogan 'Go Back to the Vedas' and opposed idol worship and caste supremacy."
+  },
+  {
+    "q": "Which movement was started by Syed Ahmed Khan?",
+    "pool": ["Arya Samaj", "Theosophical Society", "Aligarh Movement", "Seva Sadan", "Ramakrishna Mission"],
+    "answer": "Aligarh Movement",
+    "desc": "Syed Ahmed Khan initiated the Aligarh Movement to promote modern education among Muslims."
+  },
+  {
+    "q": "What was the journal started by Syed Ahmed Khan?",
+    "pool": ["Tahzib-al-Akhlaq", "Vedanta", "Back to the Vedas", "Young India", "Kesari"],
+    "answer": "Tahzib-al-Akhlaq",
+    "desc": "Syed Ahmed Khan published 'Tahzib-al-Akhlaq' to promote social and religious reform among Muslims."
+  },
+  {
+    "q": "Which institution grew out of the Aligarh Movement?",
+    "pool": ["Banaras Hindu University", "Fergusson College", "Aligarh Muslim University", "Nalanda University", "Delhi University"],
+    "answer": "Aligarh Muslim University",
+    "desc": "The Aligarh Movement led to the establishment of the Mohammedan Anglo-Oriental College, which became Aligarh Muslim University."
+  },
+  {
+    "q": "Who founded Theosophical Society in India?",
+    "pool": ["Syed Ahmed Khan", "Dayanand Saraswati", "Madam HP Blavatsky", "Vivekananda", "Shiv Narain Agnihotri"],
+    "answer": "Madam HP Blavatsky",
+    "desc": "The Theosophical Society, founded by Madam HP Blavatsky and later joined by Col HS Olcott, drew inspiration from Indian philosophy."
+  },
+  {
+    "q": "The Theosophical Society was later shifted to which place in India?",
+    "pool": ["Belur", "Bombay", "Adayar", "Lahore", "Pune"],
+    "answer": "Adayar",
+    "desc": "The Theosophical Society initially based in New York was later shifted to Adayar, India."
+  },
+  {
+    "q": "Which philosophical system inspired the Theosophical Society?",
+    "pool": ["Islam", "Christianity", "Vedanta", "Jainism", "Atheism"],
+    "answer": "Vedanta",
+    "desc": "The Theosophical Society was inspired by the Vedanta philosophy and Indian spiritual thought."
+  },
+  {
+    "q": "Who were among the founders of Deccan Education Society?",
+    "pool": ["MG Ranade", "VG Chiplinkar", "GG Agarkar", "All of the above", "None of the above"],
+    "answer": "All of the above",
+    "desc": "MG Ranade, VG Chiplinkar, and GG Agarkar co-founded the Deccan Education Society in Pune."
+  },
+  {
+    "q": "What institution was established by the Deccan Education Society in 1885?",
+    "pool": ["St. Stephen’s College", "Fergusson College", "Presidency College", "Wilson College", "Aligarh Muslim University"],
+    "answer": "Fergusson College",
+    "desc": "Fergusson College was established in Pune in 1885 by the Deccan Education Society to promote education and culture."
+  },
+  {
+    "q": "Seva Sadan was founded by whom?",
+    "pool": ["Shiv Narain Agnihotri", "MG Ranade", "Behramji M Malabari", "Vivekananda", "HP Blavatsky"],
+    "answer": "Behramji M Malabari",
+    "desc": "Behramji M Malabari founded Seva Sadan in Bombay in 1885 to improve women’s rights and oppose child marriage."
+  },
+  {
+    "q": "What social issue did Seva Sadan address?",
+    "pool": ["Widowhood", "Casteism", "Slavery", "Unemployment", "Illiteracy"],
+    "answer": "Widowhood",
+    "desc": "Seva Sadan worked to abolish child marriages and support widows in India."
+  },
+  {
+    "q": "Who founded Deva Samaj in 1887?",
+    "pool": ["Shiv Narain Agnihotri", "Syed Ahmed Khan", "MG Ranade", "Vivekananda", "Behramji M Malabari"],
+    "answer": "Shiv Narain Agnihotri",
+    "desc": "Deva Samaj was founded in Lahore in 1887 by Shiv Narain Agnihotri to promote ethical conduct and social reform."
+  },
+  {
+    "q": "Which of the following was promoted by Deva Samaj?",
+    "pool": ["Bribery", "Caste system", "Gambling", "Code of conduct", "Untouchability"],
+    "answer": "Code of conduct",
+    "desc": "Deva Samaj promoted ethical conduct, opposing bribery and gambling."
+  },
+  {
+    "q": "Who founded the Madras Hindu Association in 1892?",
+    "pool": ["Vivekananda", "Syed Ahmed Khan", "Veeresalingam Pantulu", "MG Ranade", "Shiv Narain Agnihotri"],
+    "answer": "Veeresalingam Pantulu",
+    "desc": "Veeresalingam Pantulu founded the Madras Hindu Association to promote social reform and oppose the Devadasi system."
+  },
+  {
+    "q": "Which system did Madras Hindu Association oppose?",
+    "pool": ["Zamindari", "Caste", "Devadasi", "Untouchability", "Sati"],
+    "answer": "Devadasi",
+    "desc": "The Madras Hindu Association opposed the exploitative Devadasi system as part of its social reform efforts."
+  },
+  {
+    "q": "Who founded the Ramakrishna Mission in 1897?",
+    "pool": ["Veeresalingam Pantulu", "Vivekananda", "Syed Ahmed Khan", "HP Blavatsky", "MG Ranade"],
+    "answer": "Vivekananda",
+    "desc": "Vivekananda, originally named Narendranath Dutta, founded the Ramakrishna Mission to promote spiritual and social service."
+  },
+  {
+    "q": "Which of the following was a key focus of Ramakrishna Mission?",
+    "pool": ["Widow remarriage", "Rural economy", "Reviving Hinduism", "Industrial growth", "Colonial expansion"],
+    "answer": "Reviving Hinduism",
+    "desc": "The Ramakrishna Mission aimed to revive Hinduism and remove social evils like caste discrimination."
+  },
+  {
+    "q": "Where was the Ramakrishna Mission established?",
+    "pool": ["Bombay", "Belur", "Pune", "Lahore", "Delhi"],
+    "answer": "Belur",
+    "desc": "The Ramakrishna Mission was established in Belur, West Bengal, by Vivekananda in 1897."
+  },
+  {
+    "q": "What is the original name of Dayanand Saraswati?",
+    "pool": ["Narendranath Dutta", "Mulshankar", "Pantulu", "Syed Ahmed", "Ranade"],
+    "answer": "Mulshankar",
+    "desc": "Dayanand Saraswati was born as Mulshankar before founding the Arya Samaj."
+  },
+  {
+    "q": "Who among the following opposed idol worship strongly?",
+    "pool": ["Ramakrishna Mission", "Arya Samaj", "Theosophical Society", "Aligarh Movement", "Seva Sadan"],
+    "answer": "Arya Samaj",
+    "desc": "Arya Samaj denounced idol worship and called for returning to Vedic principles."
+  },
+  {
+    "q": "Which reform movement emphasized equality in religion?",
+    "pool": ["Arya Samaj", "Aligarh Movement", "Deva Samaj", "Ramakrishna Mission", "Theosophical Society"],
+    "answer": "Aligarh Movement",
+    "desc": "The Aligarh Movement emphasized equality in religion and secular education."
+  },
+  {
+    "q": "Which journal advocated modern Islamic education?",
+    "pool": ["Tahzib-al-Akhlaq", "Vedanta", "Young India", "Kesari", "Sudharak"],
+    "answer": "Tahzib-al-Akhlaq",
+    "desc": "Syed Ahmed Khan's journal 'Tahzib-al-Akhlaq' was a platform for modern Islamic social reform."
+  },
+  {
+    "q": "Who among these was a key social reformer and editor?",
+    "pool": ["Veeresalingam Pantulu", "Behramji Malabari", "Shiv Narain Agnihotri", "Col HS Olcott", "VG Chiplinkar"],
+    "answer": "Behramji Malabari",
+    "desc": "Behramji Malabari was a prominent reformer and editor who founded Seva Sadan."
+  },
+  {
+    "q": "What was one goal of Theosophical Society?",
+    "pool": ["Religious uniformity", "Transmigration of souls", "Devadasi promotion", "Industrial reform", "Widow remarriage"],
+    "answer": "Transmigration of souls",
+    "desc": "The Theosophical Society believed in the transmigration of souls and ancient Indian wisdom."
+  },
+  {
+    "q": "Which reformer was originally named Narendranath Dutta?",
+    "pool": ["Syed Ahmed Khan", "Vivekananda", "Dayanand Saraswati", "Shiv Narain Agnihotri", "Veeresalingam Pantulu"],
+    "answer": "Vivekananda",
+    "desc": "Vivekananda was born Narendranath Dutta before founding the Ramakrishna Mission."
+  },
+  {
+    "q": "In which year was Fergusson College established?",
+    "pool": ["1875", "1884", "1885", "1892", "1897"],
+    "answer": "1885",
+    "desc": "Fergusson College was established in 1885 by the Deccan Education Society in Pune."
+  },
+  {
+    "q": "Which movement was focused on social purity and opposing the Devadasi system?",
+    "pool": ["Arya Samaj", "Madras Hindu Association", "Deva Samaj", "Seva Sadan", "Ramakrishna Mission"],
+    "answer": "Madras Hindu Association",
+    "desc": "The Madras Hindu Association campaigned for social purity and against the Devadasi system."
+  },
+  {
+    "q": "Who co-founded the Theosophical Society along with Blavatsky?",
+    "pool": ["MG Ranade", "Col HS Olcott", "Behramji Malabari", "Vivekananda", "Pantulu"],
+    "answer": "Col HS Olcott",
+    "desc": "Col HS Olcott joined HP Blavatsky in establishing the Theosophical Society."
+  },
+
+
+  {
+    "q": "Who founded the Servants of Indian Society in 1905?",
+    "pool": ["NM Joshi", "Gopal Krishna Gokhale", "Annie Besant", "Sarala Devi Chaudhrani", "MG Ranade"],
+    "answer": "Gopal Krishna Gokhale",
+    "desc": "Gopal Krishna Gokhale founded the Servants of Indian Society in 1905 to promote social welfare."
+  },
+  {
+    "q": "What was the main focus of the Servants of Indian Society?",
+    "pool": ["Women's rights", "Famine relief", "Caste abolition", "Education reform", "Religious harmony"],
+    "answer": "Famine relief",
+    "desc": "The Servants of Indian Society focused on famine relief and improving tribal conditions."
+  },
+  {
+    "q": "Which organization was founded by Sarla Devi Chaudhrani in 1910?",
+    "pool": ["Servants of Indian Society", "Bharat Stri Mahamandal", "Women's Indian Association", "Social Service League", "Arya Mahila Samaj"],
+    "answer": "Bharat Stri Mahamandal",
+    "desc": "Sarla Devi Chaudhrani founded the Bharat Stri Mahamandal in Calcutta in 1910."
+  },
+  {
+    "q": "What was the main aim of Bharat Stri Mahamandal?",
+    "pool": ["Political rights", "Emancipation of Dalits", "Women's education and emancipation", "Rural development", "Widow remarriage"],
+    "answer": "Women's education and emancipation",
+    "desc": "The Bharat Stri Mahamandal aimed to promote women's education and their emancipation."
+  },
+  {
+    "q": "Who founded the Social Service League in 1911?",
+    "pool": ["Annie Besant", "Sarala Devi Chaudhrani", "Gopal Krishna Gokhale", "NM Joshi", "Dayanand Saraswati"],
+    "answer": "NM Joshi",
+    "desc": "NM Joshi founded the Social Service League in 1911 to improve conditions for the masses."
+  },
+  {
+    "q": "What was the main goal of the Social Service League?",
+    "pool": ["Political independence", "Improving tribal health", "Women's upliftment", "Improving the condition of the masses", "Literacy campaigns"],
+    "answer": "Improving the condition of the masses",
+    "desc": "The Social Service League aimed at improving the living conditions of the general population."
+  },
+  {
+    "q": "Which organization was founded by Annie Besant in 1917?",
+    "pool": ["Bharat Stri Mahamandal", "Social Service League", "Servants of Indian Society", "Women's Indian Association", "Theosophical Society"],
+    "answer": "Women's Indian Association",
+    "desc": "Annie Besant founded the Women's Indian Association in Madras in 1917 to support women's rights."
+  },
+  {
+    "q": "Where was the Women's Indian Association founded?",
+    "pool": ["Calcutta", "Bombay", "Pune", "Madras", "Delhi"],
+    "answer": "Madras",
+    "desc": "The Women's Indian Association was established in Madras in 1917."
+  },
+  {
+    "q": "What was the key idea behind the Women's Indian Association?",
+    "pool": ["Economic growth", "Upliftment of Indian women", "Education for men", "Tribal welfare", "Famine relief"],
+    "answer": "Upliftment of Indian women",
+    "desc": "The Women's Indian Association worked toward uplifting Indian women socially and politically."
+  },
+  {
+    "q": "In which year was the Social Service League founded?",
+    "pool": ["1905", "1910", "1911", "1917", "1920"],
+    "answer": "1911",
+    "desc": "The Social Service League was founded in 1911 by NM Joshi."
+  }
+]

@@ -1,0 +1,1384 @@
+[
+  {
+    "q": "Who founded the Indian National Congress in 1885?",
+    "pool": ["Bal Gangadhar Tilak", "Mahatma Gandhi", "AO Hume", "Dadabhai Naoroji", "Gopal Krishna Gokhale"],
+    "answer": "AO Hume",
+    "desc": "AO Hume, a retired British civil servant, founded the Indian National Congress in 1885."
+  },
+  {
+    "q": "Where was the first session of the Indian National Congress held?",
+    "pool": ["Calcutta", "Madras", "Bombay", "Delhi", "Pune"],
+    "answer": "Bombay",
+    "desc": "The first INC session was held in Bombay in 1885."
+  },
+  {
+    "q": "Who presided over the first session of the Indian National Congress?",
+    "pool": ["Gopal Krishna Gokhale", "Dadabhai Naoroji", "W.C. Bannerjee", "Surendranath Bannerjee", "Anand Mohan Bose"],
+    "answer": "W.C. Bannerjee",
+    "desc": "W.C. Bannerjee was the president of the first INC session in 1885."
+  },
+  {
+    "q": "How many delegates attended the first session of INC in 1885?",
+    "pool": ["54", "62", "72", "80", "85"],
+    "answer": "72",
+    "desc": "72 delegates from all over India attended the first session of the INC."
+  },
+  {
+    "q": "Which of the following best describes the first two decades of the INC?",
+    "pool": ["Extremist politics", "Violent uprisings", "Moderate demands", "Non-cooperation", "Civil disobedience"],
+    "answer": "Moderate demands",
+    "desc": "The early INC was dominated by moderate leaders with faith in British justice."
+  },
+  {
+    "q": "Which leader is NOT considered a moderate?",
+    "pool": ["Dadabhai Naoroji", "Badruddin Tyabji", "Gopal Krishna Gokhale", "Lala Lajpat Rai", "Surendranath Banerjee"],
+    "answer": "Lala Lajpat Rai",
+    "desc": "Lala Lajpat Rai was part of the extremist faction, unlike the early moderates."
+  },
+  {
+    "q": "Who announced the Partition of Bengal?",
+    "pool": ["Lord Minto", "Lord Ripon", "Lord Curzon", "Lord Canning", "Lord Dufferin"],
+    "answer": "Lord Curzon",
+    "desc": "Lord Curzon announced the partition of Bengal in 1905."
+  },
+  {
+    "q": "When was the Partition of Bengal officially announced?",
+    "pool": ["16th October 1905", "1st January 1905", "10th August 1905", "2nd October 1905", "15th August 1905"],
+    "answer": "16th October 1905",
+    "desc": "The Partition of Bengal was officially announced on 16th October 1905."
+  },
+  {
+    "q": "What new region was created from Bengal during the 1905 partition?",
+    "pool": ["West Bengal", "East Bengal and Assam", "Tripura", "Odisha", "Punjab"],
+    "answer": "East Bengal and Assam",
+    "desc": "East Bengal and Assam were created by partitioning the old Bengal province."
+  },
+  {
+    "q": "What movement originated from the anti-partition movement of Bengal?",
+    "pool": ["Civil Disobedience Movement", "Quit India Movement", "Swadeshi Movement", "Non-Cooperation Movement", "Khilafat Movement"],
+    "answer": "Swadeshi Movement",
+    "desc": "The Swadeshi Movement emerged in response to the partition of Bengal."
+  },
+  {
+    "q": "Which leaders were prominently associated with the Swadeshi Movement?",
+    "pool": ["Gandhi, Nehru, Patel", "Lal, Bal, Pal, Aurobindo Ghosh", "Tilak, Gokhale, Nehru", "Tagore, Subhas, Azad", "Jinnah, Aga Khan, Patel"],
+    "answer": "Lal, Bal, Pal, Aurobindo Ghosh",
+    "desc": "Lala Lajpat Rai, Bal Gangadhar Tilak, Bipin Chandra Pal, and Aurobindo Ghosh led the Swadeshi Movement."
+  },
+  {
+    "q": "Which INC session first adopted the Swadeshi call?",
+    "pool": ["Surat Session, 1907", "Calcutta Session, 1906", "Banaras Session, 1905", "Bombay Session, 1885", "Lucknow Session, 1916"],
+    "answer": "Banaras Session, 1905",
+    "desc": "The Banaras Session of INC in 1905, presided by GK Gokhale, adopted the Swadeshi call."
+  },
+  {
+    "q": "Who presided over the INC Banaras Session of 1905?",
+    "pool": ["Dadabhai Naoroji", "W.C. Bannerjee", "Gopal Krishna Gokhale", "Surendranath Bannerjee", "Lala Lajpat Rai"],
+    "answer": "Gopal Krishna Gokhale",
+    "desc": "Gopal Krishna Gokhale presided over the Banaras Session of the INC in 1905."
+  },
+  {
+    "q": "When was the Muslim League formed?",
+    "pool": ["1905", "1906", "1907", "1909", "1916"],
+    "answer": "1906",
+    "desc": "The All-India Muslim League was formed in 1906."
+  },
+  {
+    "q": "Who was *not* among the founders of the Muslim League?",
+    "pool": ["Aga Khan", "Nawab Salimullah", "Gopal Krishna Gokhale", "Nawab Mohsin-ul-Mulk", "None of the above"],
+    "answer": "Gopal Krishna Gokhale",
+    "desc": "Gopal Krishna Gokhale was a moderate leader of the INC, not a founder of the Muslim League."
+  },
+  {
+    "q": "What was one of the key demands of the Muslim League?",
+    "pool": ["End of partition", "Complete independence", "Special safeguards for Muslims", "Boycott of British goods", "Universal adult franchise"],
+    "answer": "Special safeguards for Muslims",
+    "desc": "The Muslim League demanded special safeguards for Muslims, including a separate electorate."
+  },
+  {
+    "q": "Which movement did the Muslim League oppose?",
+    "pool": ["Khilafat Movement", "Non-Cooperation Movement", "Swadeshi Movement", "Civil Disobedience", "Salt Satyagraha"],
+    "answer": "Swadeshi Movement",
+    "desc": "The Muslim League opposed the Swadeshi Movement, which was tied to Hindu nationalist sentiment."
+  },
+  {
+    "q": "What was the Muslim League's stance on the Partition of Bengal?",
+    "pool": ["Opposed it strongly", "Ignored it", "Supported it", "Demanded reversal", "Did not comment"],
+    "answer": "Supported it",
+    "desc": "The Muslim League supported the Partition of Bengal, unlike the INC."
+  },
+  {
+    "q": "Which of the following INC leaders was a key moderate voice?",
+    "pool": ["Bal Gangadhar Tilak", "Aurobindo Ghosh", "Dadabhai Naoroji", "Lala Lajpat Rai", "Bhagat Singh"],
+    "answer": "Dadabhai Naoroji",
+    "desc": "Dadabhai Naoroji was one of the foremost moderate leaders of the Indian National Congress."
+  },
+  {
+    "q": "Which of these sessions was associated with the Swadeshi call?",
+    "pool": ["Banaras Session 1905", "Calcutta Session 1906", "Surat Session 1907", "Bombay Session 1885", "Lucknow Session 1916"],
+    "answer": "Banaras Session 1905",
+    "desc": "The Swadeshi movement was officially adopted at the Banaras Session of the INC in 1905."
+  },
+
+
+  {
+    "q": "In which session did the INC adopt 'Swaraj' as its goal?",
+    "pool": ["Surat Session 1907", "Banaras Session 1905", "Calcutta Session 1906", "Lucknow Session 1916", "Bombay Session 1885"],
+    "answer": "Calcutta Session 1906",
+    "desc": "The Calcutta Session of 1906, under Dadabhai Naoroji, adopted Swaraj as the goal."
+  },
+  {
+    "q": "Who led the INC during the Calcutta Session of 1906?",
+    "pool": ["Gopal Krishna Gokhale", "Bal Gangadhar Tilak", "Dadabhai Naoroji", "W.C. Bannerjee", "Surendranath Bannerjee"],
+    "answer": "Dadabhai Naoroji",
+    "desc": "Dadabhai Naoroji was the leader of INC during the 1906 Calcutta Session."
+  },
+  {
+    "q": "What does the term 'Swaraj' mean?",
+    "pool": ["Universal suffrage", "Civil disobedience", "Home Rule", "Self-government", "Economic independence"],
+    "answer": "Self-government",
+    "desc": "'Swaraj' translates to self-government and was the INC’s goal in 1906."
+  },
+  {
+    "q": "At which session did the INC split into Moderates and Extremists?",
+    "pool": ["Calcutta 1906", "Surat 1907", "Lucknow 1916", "Bombay 1885", "Madras 1908"],
+    "answer": "Surat 1907",
+    "desc": "The Surat Session of 1907 saw the split between Moderates and Extremists in the INC."
+  },
+  {
+    "q": "Who were the leaders of the Extremist faction during the INC split?",
+    "pool": ["Tilak, Patel, Gokhale", "Lal, Bal, Pal", "Gokhale, Naoroji, Tagore", "Gandhi, Nehru, Patel", "None of the above"],
+    "answer": "Lal, Bal, Pal",
+    "desc": "The Extremists were led by Lala Lajpat Rai, Bal Gangadhar Tilak, and Bipin Chandra Pal."
+  },
+  {
+    "q": "Who led the Moderates during the Surat Session split?",
+    "pool": ["Dadabhai Naoroji", "Gopal Krishna Gokhale", "W.C. Bannerjee", "Surendranath Bannerjee", "R. C. Dutt"],
+    "answer": "Gopal Krishna Gokhale",
+    "desc": "Gopal Krishna Gokhale led the Moderates during the 1907 INC split at Surat."
+  },
+  {
+    "q": "What was the main reason for the split at the Surat Session?",
+    "pool": ["Religious issues", "Leadership disputes", "Swadeshi Movement", "Language policy", "Voting rights"],
+    "answer": "Swadeshi Movement",
+    "desc": "The nature and direction of the Swadeshi Movement caused the rift at Surat."
+  },
+  {
+    "q": "Which reforms introduced a separate electorate for Muslims?",
+    "pool": ["Morley-Minto Reforms", "Montagu-Chelmsford Reforms", "Nehru Report", "Rowlatt Act", "Indian Councils Act"],
+    "answer": "Morley-Minto Reforms",
+    "desc": "The 1909 Morley-Minto Reforms introduced separate electorates for Muslims."
+  },
+  {
+    "q": "In which year were the Morley-Minto Reforms passed?",
+    "pool": ["1905", "1907", "1909", "1911", "1916"],
+    "answer": "1909",
+    "desc": "The reforms were enacted in 1909 to increase Indian participation in governance."
+  },
+  {
+    "q": "Which British official is known as the 'Father of Communal Electorate'?",
+    "pool": ["Lord Curzon", "Lord Morley", "Lord Ripon", "Lord Minto", "Lord Chelmsford"],
+    "answer": "Lord Minto",
+    "desc": "Lord Minto was called the Father of Communal Electorate for supporting separate electorates."
+  },
+  {
+    "q": "Where was the Ghadar Party headquartered?",
+    "pool": ["London", "New York", "Poona", "Delhi", "San Francisco"],
+    "answer": "San Francisco",
+    "desc": "The Ghadar Party was headquartered in San Francisco, USA."
+  },
+  {
+    "q": "Who was NOT a founder of the Ghadar Party?",
+    "pool": ["Lala Hardayal", "Taraknath Das", "Sohan Singh Bhakna", "Bal Gangadhar Tilak", "None of the above"],
+    "answer": "Bal Gangadhar Tilak",
+    "desc": "Tilak was not associated with Ghadar Party; it was founded by Hardayal, Das, and Bhakna."
+  },
+  {
+    "q": "When was the Ghadar newspaper first published?",
+    "pool": ["1st January 1913", "15th August 1913", "1st November 1913", "26th January 1913", "5th October 1913"],
+    "answer": "1st November 1913",
+    "desc": "The first issue of the Ghadar newspaper was published on 1st November 1913."
+  },
+  {
+    "q": "What historical event did the Ghadar newspaper commemorate?",
+    "pool": ["Partition of Bengal", "1857 Revolt", "Formation of INC", "Swadeshi Movement", "Salt Satyagraha"],
+    "answer": "1857 Revolt",
+    "desc": "The Ghadar paper was launched to honor the spirit of the 1857 Revolt."
+  },
+  {
+    "q": "When did Tilak launch the Home Rule Movement?",
+    "pool": ["1909", "1915", "April 1916", "September 1916", "1917"],
+    "answer": "April 1916",
+    "desc": "Tilak launched the Home Rule Movement in April 1916 at Poona."
+  },
+  {
+    "q": "Where did Tilak start his Home Rule League?",
+    "pool": ["Delhi", "Adyar", "Calcutta", "Poona", "Ahmedabad"],
+    "answer": "Poona",
+    "desc": "Tilak's Home Rule League was based in Poona."
+  },
+  {
+    "q": "Who co-founded the Home Rule Movement along with Tilak?",
+    "pool": ["Sohan Singh Bhakna", "Gopal Krishna Gokhale", "Annie Besant", "Lala Hardayal", "Jawaharlal Nehru"],
+    "answer": "Annie Besant",
+    "desc": "Annie Besant, along with Tilak, led the Home Rule Movement."
+  },
+  {
+    "q": "Where was Annie Besant’s Home Rule League headquartered?",
+    "pool": ["Poona", "Calcutta", "Bombay", "Adyar", "Delhi"],
+    "answer": "Adyar",
+    "desc": "Annie Besant's Home Rule League operated from Adyar, near Madras."
+  },
+  {
+    "q": "Who raised the slogan 'Swaraj is my birth right and I shall have it'?",
+    "pool": ["Mahatma Gandhi", "Subhas Bose", "Bipin Chandra Pal", "Bal Gangadhar Tilak", "Annie Besant"],
+    "answer": "Bal Gangadhar Tilak",
+    "desc": "Tilak gave this iconic slogan during the Home Rule Movement."
+  },
+  {
+    "q": "What was the aim of the Home Rule Movement?",
+    "pool": ["Complete independence", "Muslim autonomy", "Self-government within British Empire", "Separate electorate", "Social reform"],
+    "answer": "Self-government within British Empire",
+    "desc": "The movement aimed at achieving self-rule within the British Empire."
+  },
+  {
+    "q": "Which two parties came together in the Lucknow Pact of 1916?",
+    "pool": ["INC and British", "Muslim League and Congress", "Ghadar Party and INC", "Home Rule and Muslim League", "None of the above"],
+    "answer": "Muslim League and Congress",
+    "desc": "The Lucknow Pact was a collaboration between the INC and Muslim League."
+  },
+  {
+    "q": "Which global event influenced the Lucknow Pact?",
+    "pool": ["World War I", "Partition of Bengal", "American Revolution", "Sepoy Mutiny", "French Revolution"],
+    "answer": "World War I",
+    "desc": "World War I and British-Turkish conflict led to Muslim distrust and the pact."
+  },
+  {
+    "q": "What status did both INC and Muslim League demand in the Lucknow Pact?",
+    "pool": ["Complete independence", "Dominion status", "Home rule", "Republic", "Swaraj"],
+    "answer": "Dominion status",
+    "desc": "Both parties demanded dominion status for India in the Lucknow Pact."
+  },
+  {
+    "q": "Which key concession did INC give in the Lucknow Pact?",
+    "pool": ["Universal suffrage", "Reservation for Dalits", "Separate electorate for Muslims", "End to partition", "Abolition of salt tax"],
+    "answer": "Separate electorate for Muslims",
+    "desc": "INC agreed to separate electorates for Muslims in the Lucknow Pact."
+  },
+  {
+    "q": "Who was the first president of the Muslim League?",
+    "pool": ["Mohammad Ali Jinnah", "Aga Khan", "Syed Ahmed Khan", "Sultan of Delhi", "Liaquat Ali Khan"],
+    "answer": "Aga Khan",
+    "desc": "Aga Khan was the first president of the Muslim League formed in 1906."
+  },
+  {
+    "q": "Which year marked the Lucknow Pact?",
+    "pool": ["1914", "1915", "1916", "1917", "1918"],
+    "answer": "1916",
+    "desc": "The INC and Muslim League agreed upon the Lucknow Pact in 1916."
+  },
+  {
+    "q": "Who among the following was NOT a Home Rule Movement leader?",
+    "pool": ["Tilak", "Annie Besant", "Subramania Iyer", "Mahatma Gandhi", "None of the above"],
+    "answer": "Mahatma Gandhi",
+    "desc": "Gandhi was not directly involved in the Home Rule Movement."
+  },
+  {
+    "q": "Which movement introduced political awakening in Indian diaspora abroad?",
+    "pool": ["Ghadar Movement", "Home Rule Movement", "Non-Cooperation Movement", "Civil Disobedience Movement", "Swadeshi Movement"],
+    "answer": "Ghadar Movement",
+    "desc": "The Ghadar Movement united Indians abroad for India's freedom."
+  },
+
+
+  {
+    "q": "What was the purpose of the August Declaration of 1917?",
+    "pool": [
+      "To grant full independence to India",
+      "To partition Bengal",
+      "To increase Indian participation in administration",
+      "To suppress Indian revolutionaries",
+      "To establish separate electorates"
+    ],
+    "answer": "To increase Indian participation in administration",
+    "desc": "The August Declaration aimed at progressively increasing Indian involvement in governance."
+  },
+  {
+    "q": "Which reforms were based on the August Declaration?",
+    "pool": [
+      "Rowlatt Act",
+      "Montague-Chelmsford Reforms",
+      "Nehru Report",
+      "Poona Pact",
+      "Minto-Morley Reforms"
+    ],
+    "answer": "Montague-Chelmsford Reforms",
+    "desc": "The 1919 Montague-Chelmsford Reforms were framed based on the August Declaration."
+  },
+  {
+    "q": "In which year was the August Declaration announced?",
+    "pool": ["1916", "1917", "1918", "1919", "1920"],
+    "answer": "1917",
+    "desc": "The British announced the August Declaration in 1917."
+  },
+  {
+    "q": "What did the Rowlatt Act of 1919 allow the British government to do?",
+    "pool": [
+      "Introduce a constitution",
+      "Grant dominion status",
+      "Arrest and detain without trial",
+      "Start elections",
+      "Abolish Zamindari system"
+    ],
+    "answer": "Arrest and detain without trial",
+    "desc": "The Rowlatt Act allowed arrest and imprisonment without trial, sparking major protests."
+  },
+  {
+    "q": "Which civil right was suspended under the Rowlatt Act?",
+    "pool": [
+      "Right to education",
+      "Freedom of religion",
+      "Right to property",
+      "Habeas Corpus",
+      "Right to vote"
+    ],
+    "answer": "Habeas Corpus",
+    "desc": "The Rowlatt Act suspended Habeas Corpus, a fundamental legal protection."
+  },
+  {
+    "q": "Which movement was launched by Gandhiji in response to the Rowlatt Act?",
+    "pool": [
+      "Civil Disobedience Movement",
+      "Non-Cooperation Movement",
+      "Salt Satyagraha",
+      "Rowlatt Satyagraha",
+      "Quit India Movement"
+    ],
+    "answer": "Rowlatt Satyagraha",
+    "desc": "Gandhiji launched the Rowlatt Satyagraha in 1919 as a nationwide protest."
+  },
+  {
+    "q": "What was significant about the Rowlatt Satyagraha?",
+    "pool": [
+      "It was a local protest",
+      "It was led by Nehru",
+      "It was the first all-India agitation by Gandhiji",
+      "It supported the British rule",
+      "It demanded a new constitution"
+    ],
+    "answer": "It was the first all-India agitation by Gandhiji",
+    "desc": "Rowlatt Satyagraha marked Gandhiji’s first countrywide political movement."
+  },
+  {
+    "q": "When did the Jallianwala Bagh Massacre occur?",
+    "pool": ["10th April 1919", "13th April 1919", "15th March 1919", "18th March 1919", "20th April 1919"],
+    "answer": "13th April 1919",
+    "desc": "The massacre took place on 13th April 1919 in Amritsar."
+  },
+  {
+    "q": "Who was responsible for the Jallianwala Bagh firing?",
+    "pool": ["Michael O’Dwyer", "General Dyer", "Lord Curzon", "Lord Chelmsford", "Lord Minto"],
+    "answer": "General Dyer",
+    "desc": "General Dyer ordered open fire on the crowd in Jallianwala Bagh."
+  },
+  {
+    "q": "Who was the Lt. Governor of Punjab during the Jallianwala Bagh massacre?",
+    "pool": [
+      "General Dyer",
+      "Michael O'Dwyer",
+      "Lord Hardinge",
+      "Lord Irwin",
+      "Lord Chelmsford"
+    ],
+    "answer": "Michael O'Dwyer",
+    "desc": "Michael O'Dwyer was the Lt. Governor of Punjab during the massacre."
+  },
+  {
+    "q": "Which two leaders' arrest led to the protest in Jallianwala Bagh?",
+    "pool": [
+      "Lala Lajpat Rai and Tilak",
+      "Mahatma Gandhi and Nehru",
+      "Dr Saifuddin Kitchlew and Dr Satya Pal",
+      "Bhagat Singh and Rajguru",
+      "Subhas Bose and Jinnah"
+    ],
+    "answer": "Dr Saifuddin Kitchlew and Dr Satya Pal",
+    "desc": "The arrest of these two leaders triggered the gathering at Jallianwala Bagh."
+  },
+  {
+    "q": "Which commission was appointed to investigate the Jallianwala Bagh massacre?",
+    "pool": [
+      "Simon Commission",
+      "Nehru Commission",
+      "Hunter Commission",
+      "Hilton Young Commission",
+      "Cabinet Mission"
+    ],
+    "answer": "Hunter Commission",
+    "desc": "The British appointed the Hunter Commission to investigate the incident."
+  },
+  {
+    "q": "Who returned his knighthood in protest of the Jallianwala Bagh massacre?",
+    "pool": [
+      "Mahatma Gandhi",
+      "Sardar Patel",
+      "Rabindranath Tagore",
+      "Jawaharlal Nehru",
+      "Bal Gangadhar Tilak"
+    ],
+    "answer": "Rabindranath Tagore",
+    "desc": "Rabindranath Tagore renounced his knighthood as a mark of protest."
+  },
+  {
+    "q": "Who assassinated Michael O'Dwyer in 1940?",
+    "pool": [
+      "Bhagat Singh",
+      "Udham Singh",
+      "Chandrasekhar Azad",
+      "Lala Lajpat Rai",
+      "Sukhdev Thapar"
+    ],
+    "answer": "Udham Singh",
+    "desc": "Sardar Udham Singh assassinated Michael O'Dwyer in London in 1940."
+  },
+  {
+    "q": "Where was Michael O'Dwyer killed?",
+    "pool": ["India House", "Jallianwala Bagh", "Caxton Hall", "Buckingham Palace", "Red Fort"],
+    "answer": "Caxton Hall",
+    "desc": "Udham Singh killed O'Dwyer at Caxton Hall in London."
+  },
+  {
+    "q": "Why were Indian Muslims upset after World War I?",
+    "pool": [
+      "Partition of India",
+      "Formation of INC",
+      "Treatment of Turkey by the British",
+      "Gandhiji’s policies",
+      "High taxes"
+    ],
+    "answer": "Treatment of Turkey by the British",
+    "desc": "The harsh treatment of Turkey post-WWI hurt Muslim sentiments in India."
+  },
+  {
+    "q": "Who led the Khilafat Movement?",
+    "pool": [
+      "Jinnah brothers",
+      "Ali brothers",
+      "Tagore and Nehru",
+      "Gandhi and Patel",
+      "Tilak and Besant"
+    ],
+    "answer": "Ali brothers",
+    "desc": "The Khilafat Movement was led by Mohd Ali and Shaukat Ali."
+  },
+  {
+    "q": "Which movement was jointly led by the Khilafat leaders and the Congress?",
+    "pool": [
+      "Quit India Movement",
+      "Khilafat Movement",
+      "Non-Cooperation Movement",
+      "Civil Disobedience Movement",
+      "Rowlatt Satyagraha"
+    ],
+    "answer": "Khilafat Movement",
+    "desc": "The Khilafat Movement was jointly led with the Congress to support the Caliph."
+  },
+  {
+    "q": "In which year was the Non-Cooperation Movement launched?",
+    "pool": ["1917", "1919", "1920", "1921", "1922"],
+    "answer": "1920",
+    "desc": "The Non-Cooperation Movement began in 1920 following the Khilafat and Jallianwala incidents."
+  },
+  {
+    "q": "At which session was the Non-Cooperation resolution passed?",
+    "pool": [
+      "Calcutta 1920",
+      "Nagpur 1921",
+      "Lahore 1929",
+      "Bombay 1922",
+      "Lucknow 1916"
+    ],
+    "answer": "Calcutta 1920",
+    "desc": "The Calcutta Session in 1920 passed the Non-Cooperation resolution."
+  },
+  {
+    "q": "Which was the first mass political movement led by Gandhiji?",
+    "pool": [
+      "Salt Satyagraha",
+      "Khilafat Movement",
+      "Rowlatt Satyagraha",
+      "Non-Cooperation Movement",
+      "Quit India Movement"
+    ],
+    "answer": "Non-Cooperation Movement",
+    "desc": "The Non-Cooperation Movement was Gandhi’s first mass political initiative."
+  },
+  {
+    "q": "Which of the following was NOT part of the Non-Cooperation programme?",
+    "pool": [
+      "Resigning from government posts",
+      "Boycott of foreign goods",
+      "Participation in British elections",
+      "Refusal to attend durbars",
+      "Boycott of British courts"
+    ],
+    "answer": "Participation in British elections",
+    "desc": "The movement called for non-participation in British institutions, including elections."
+  },
+  {
+    "q": "Which professions were particularly asked to boycott under Non-Cooperation?",
+    "pool": [
+      "Teachers",
+      "Engineers",
+      "Farmers",
+      "Lawyers",
+      "Doctors"
+    ],
+    "answer": "Lawyers",
+    "desc": "Lawyers were encouraged to boycott British courts under this movement."
+  },
+  {
+    "q": "What was the public’s expected action toward military recruitment under the movement?",
+    "pool": [
+      "Support enlistment",
+      "Join military training",
+      "Boycott recruitment",
+      "Protest British victories",
+      "Promote defense industries"
+    ],
+    "answer": "Boycott recruitment",
+    "desc": "Gandhiji called on people to refuse recruitment in British forces."
+  },
+  {
+    "q": "What kind of goods did the Non-Cooperation Movement promote boycotting?",
+    "pool": [
+      "Handicrafts",
+      "Indian-made goods",
+      "Foreign goods",
+      "Agricultural produce",
+      "Religious items"
+    ],
+    "answer": "Foreign goods",
+    "desc": "The movement urged people to boycott all foreign-manufactured goods."
+  },
+  {
+    "q": "Which treaty post-WWI triggered the Khilafat Movement?",
+    "pool": [
+      "Treaty of Paris",
+      "Treaty of Versailles",
+      "Treaty of Sèvres",
+      "Treaty of Brest-Litovsk",
+      "Treaty of Tordesillas"
+    ],
+    "answer": "Treaty of Sèvres",
+    "desc": "The Treaty of Sèvres diminished Turkish sovereignty, prompting the Khilafat Movement."
+  },
+  {
+    "q": "Which movement marks the beginning of mass politics under Gandhiji’s leadership?",
+    "pool": [
+      "Salt Satyagraha",
+      "Khilafat Movement",
+      "Non-Cooperation Movement",
+      "Rowlatt Satyagraha",
+      "Civil Disobedience"
+    ],
+    "answer": "Non-Cooperation Movement",
+    "desc": "It was Gandhiji’s first large-scale political movement mobilizing masses."
+  },
+
+
+  {
+    "q": "What incident led Gandhiji to withdraw the Non-Cooperation Movement?",
+    "pool": [
+      "Jallianwala Bagh Massacre",
+      "Chauri-Chaura Incident",
+      "Simon Commission",
+      "Rowlatt Act",
+      "Lahore Conspiracy"
+    ],
+    "answer": "Chauri-Chaura Incident",
+    "desc": "The violent Chauri-Chaura incident on 5th February 1922 led Gandhiji to suspend the Non-Cooperation Movement."
+  },
+  {
+    "q": "When did the Chauri-Chaura incident take place?",
+    "pool": [
+      "13th April 1919",
+      "5th February 1922",
+      "12th March 1930",
+      "26th January 1930",
+      "19th December 1929"
+    ],
+    "answer": "5th February 1922",
+    "desc": "The Chauri-Chaura incident occurred on 5th February 1922."
+  },
+  {
+    "q": "Where did the Chauri-Chaura incident occur?",
+    "pool": [
+      "Allahabad",
+      "Gorakhpur",
+      "Amritsar",
+      "Lahore",
+      "Calcutta"
+    ],
+    "answer": "Gorakhpur",
+    "desc": "Chauri-Chaura is located near Gorakhpur in Uttar Pradesh."
+  },
+  {
+    "q": "How many policemen were killed in the Chauri-Chaura incident?",
+    "pool": ["10", "15", "18", "22", "25"],
+    "answer": "22",
+    "desc": "A mob set fire to a police station, killing 22 policemen during the incident."
+  },
+  {
+    "q": "On which date did Gandhiji withdraw the Non-Cooperation Movement?",
+    "pool": [
+      "5th February 1922",
+      "12th February 1922",
+      "26th January 1930",
+      "31st December 1929",
+      "2nd October 1922"
+    ],
+    "answer": "12th February 1922",
+    "desc": "The movement was officially withdrawn by Gandhiji on 12th February 1922."
+  },
+  {
+    "q": "Who were called 'Pro-changers' in the Indian freedom movement?",
+    "pool": [
+      "Those who supported British rule",
+      "Those who joined the military",
+      "Those who wanted to end council boycott",
+      "Those who protested against Khilafat",
+      "Those who opposed the Congress"
+    ],
+    "answer": "Those who wanted to end council boycott",
+    "desc": "Pro-changers supported entering legislative councils to fight the British from within."
+  },
+  {
+    "q": "Who among the following was NOT a founding member of the Swaraj Party?",
+    "pool": [
+      "Motilal Nehru",
+      "C.R. Das",
+      "N.C. Kelkar",
+      "Sardar Patel",
+      "None of the above"
+    ],
+    "answer": "Sardar Patel",
+    "desc": "Sardar Patel was not associated with the Swaraj Party at its formation."
+  },
+  {
+    "q": "Who became the first President of the Swaraj Party?",
+    "pool": [
+      "Motilal Nehru",
+      "C.R. Das",
+      "N.C. Kelkar",
+      "Jawaharlal Nehru",
+      "Bal Gangadhar Tilak"
+    ],
+    "answer": "C.R. Das",
+    "desc": "C.R. Das served as the first president of the Swaraj Party."
+  },
+  {
+    "q": "What was the purpose of the Swaraj Party formed in 1923?",
+    "pool": [
+      "To support Non-Cooperation Movement",
+      "To boycott foreign goods",
+      "To enter legislative councils",
+      "To promote Khilafat Movement",
+      "To protest against Partition of Bengal"
+    ],
+    "answer": "To enter legislative councils",
+    "desc": "The Swaraj Party aimed to expose British rule from within the councils."
+  },
+  {
+    "q": "What was the Simon Commission formed to review?",
+    "pool": [
+      "Status of Indian princely states",
+      "Partition of Bengal",
+      "Political situation and introduce reforms",
+      "Working of Indian universities",
+      "Khilafat issue"
+    ],
+    "answer": "Political situation and introduce reforms",
+    "desc": "Simon Commission was established to assess Indian governance and suggest reforms."
+  },
+  {
+    "q": "Why was the Simon Commission opposed by Indians?",
+    "pool": [
+      "It supported Hindu-Muslim division",
+      "It proposed Partition",
+      "It had no Indian members",
+      "It banned INC",
+      "It reduced salaries of officers"
+    ],
+    "answer": "It had no Indian members",
+    "desc": "The Commission was boycotted because it had no Indian representatives."
+  },
+  {
+    "q": "What was the popular slogan raised against the Simon Commission?",
+    "pool": [
+      "British Quit India",
+      "Jai Hind",
+      "Simon Go Back",
+      "No Tax, No Rule",
+      "Bharat Mata Ki Jai"
+    ],
+    "answer": "Simon Go Back",
+    "desc": "Protesters chanted 'Simon Go Back' across the country."
+  },
+  {
+    "q": "Who was severely injured during a Simon Commission protest in Lahore?",
+    "pool": [
+      "C.R. Das",
+      "Lala Lajpat Rai",
+      "Motilal Nehru",
+      "Subhas Chandra Bose",
+      "Bal Gangadhar Tilak"
+    ],
+    "answer": "Lala Lajpat Rai",
+    "desc": "Lala Lajpat Rai was brutally lathi-charged and later died of his injuries."
+  },
+  {
+    "q": "Who chaired the committee that drafted the Nehru Report?",
+    "pool": [
+      "Jawaharlal Nehru",
+      "Motilal Nehru",
+      "Gandhiji",
+      "Sardar Patel",
+      "Rajendra Prasad"
+    ],
+    "answer": "Motilal Nehru",
+    "desc": "The Nehru Report was prepared under the chairmanship of Motilal Nehru."
+  },
+  {
+    "q": "Why was the Nehru Report prepared?",
+    "pool": [
+      "To oppose the British Raj",
+      "To boycott the Simon Commission",
+      "To present a constitution for India",
+      "To protest Jallianwala Bagh",
+      "To demand dominion status"
+    ],
+    "answer": "To present a constitution for India",
+    "desc": "The report aimed to define constitutional principles for a free India."
+  },
+  {
+    "q": "In which year was the Nehru Report published?",
+    "pool": ["1925", "1926", "1927", "1928", "1929"],
+    "answer": "1928",
+    "desc": "The Nehru Report was formulated and submitted in 1928."
+  },
+  {
+    "q": "When was Poorna Swaraj declared as the goal of the Congress?",
+    "pool": [
+      "1922",
+      "1925",
+      "1928",
+      "1929",
+      "1931"
+    ],
+    "answer": "1929",
+    "desc": "Poorna Swaraj was declared at the Lahore Session of the INC in 1929."
+  },
+  {
+    "q": "Who was the President of the INC during the Lahore Session of 1929?",
+    "pool": [
+      "C.R. Das",
+      "Gandhiji",
+      "Motilal Nehru",
+      "Jawaharlal Nehru",
+      "Sardar Patel"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "desc": "Jawaharlal Nehru presided over the 1929 Lahore Session."
+  },
+  {
+    "q": "What was the significance of 26th January 1930?",
+    "pool": [
+      "Gandhiji launched Dandi March",
+      "British declared emergency",
+      "First Independence Day was celebrated",
+      "Swaraj Party formed",
+      "Partition of India"
+    ],
+    "answer": "First Independence Day was celebrated",
+    "desc": "Congress observed 26th January 1930 as India’s first Independence Day."
+  },
+  {
+    "q": "Which flag was adopted during the Lahore Session of 1929?",
+    "pool": [
+      "Red flag",
+      "Blue flag",
+      "British Union Jack",
+      "Tri-colour flag",
+      "Saffron-only flag"
+    ],
+    "answer": "Tri-colour flag",
+    "desc": "The Indian National Congress adopted the tri-colour flag on 31st December 1929."
+  },
+  {
+    "q": "On which date was the tri-colour flag unfurled by the Congress in 1929?",
+    "pool": [
+      "15th August 1947",
+      "5th February 1922",
+      "31st December 1929",
+      "12th March 1930",
+      "26th January 1930"
+    ],
+    "answer": "31st December 1929",
+    "desc": "The tri-colour was officially unfurled by INC on the night of 31st December 1929."
+  },
+  {
+    "q": "Why was 26th January later chosen as the Republic Day of India?",
+    "pool": [
+      "It was Nehru’s birthday",
+      "It marked end of British rule",
+      "It was the date of Poorna Swaraj celebration",
+      "It was when Constitution was adopted",
+      "It was the date of Dandi March"
+    ],
+    "answer": "It was the date of Poorna Swaraj celebration",
+    "desc": "26th January commemorated the original declaration of Poorna Swaraj."
+  },
+  {
+    "q": "What did the Lahore Session of Congress in 1929 declare as its ultimate goal?",
+    "pool": [
+      "Dominion status",
+      "Separate electorates",
+      "Poorna Swaraj",
+      "Communal representation",
+      "Support for World War"
+    ],
+    "answer": "Poorna Swaraj",
+    "desc": "The Lahore Session of 1929 declared complete independence as the goal."
+  },
+  {
+    "q": "Which session of INC declared 26th January as Independence Day?",
+    "pool": [
+      "Calcutta Session 1920",
+      "Allahabad Session 1921",
+      "Lahore Session 1929",
+      "Bombay Session 1934",
+      "Karachi Session 1931"
+    ],
+    "answer": "Lahore Session 1929",
+    "desc": "INC at its Lahore Session under Jawaharlal Nehru fixed 26th Jan 1930 for celebrating Independence Day."
+  },
+
+
+  {
+    "q": "What was the Dandi March also known as?",
+    "pool": ["Civil Disobedience March", "Salt Satyagraha", "Quit India Movement", "Non-Cooperation Movement", "Swadeshi Movement"],
+    "answer": "Salt Satyagraha",
+    "desc": "The Dandi March was popularly known as the Salt Satyagraha."
+  },
+  {
+    "q": "When did Gandhiji start the Dandi March?",
+    "pool": ["5th March 1931", "12th March 1930", "26th January 1930", "2nd October 1930", "15th August 1930"],
+    "answer": "12th March 1930",
+    "desc": "Gandhiji began the historic Dandi March on 12th March 1930 from Sabarmati Ashram."
+  },
+  {
+    "q": "From which place did Gandhiji begin the Dandi March?",
+    "pool": ["Wardha", "Ahmedabad", "Sabarmati Ashram", "Delhi", "Bombay"],
+    "answer": "Sabarmati Ashram",
+    "desc": "The march began from Sabarmati Ashram, located near Ahmedabad."
+  },
+  {
+    "q": "What was the main purpose of the Dandi March?",
+    "pool": ["To oppose British taxation", "To demand Poorna Swaraj", "To break the Salt Law", "To join Round Table Conference", "To protest Simon Commission"],
+    "answer": "To break the Salt Law",
+    "desc": "Gandhiji launched the march to break the British monopoly on salt."
+  },
+  {
+    "q": "What symbolic act did Gandhiji perform at Dandi?",
+    "pool": ["Burned foreign clothes", "Hoisted the national flag", "Picked a handful of salt", "Declared independence", "Delivered a speech"],
+    "answer": "Picked a handful of salt",
+    "desc": "He picked a handful of salt to mark the beginning of Civil Disobedience Movement."
+  },
+  {
+    "q": "What major movement was inaugurated by the Dandi March?",
+    "pool": ["Non-Cooperation Movement", "Quit India Movement", "Civil Disobedience Movement", "Khilafat Movement", "Swadeshi Movement"],
+    "answer": "Civil Disobedience Movement",
+    "desc": "The Civil Disobedience Movement began with the Salt Satyagraha at Dandi."
+  },
+  {
+    "q": "Which group showed unprecedented participation in the Civil Disobedience Movement?",
+    "pool": ["Farmers", "Tribal leaders", "Women", "Teachers", "Police officers"],
+    "answer": "Women",
+    "desc": "Women participated in large numbers in the Civil Disobedience Movement."
+  },
+  {
+    "q": "Which soldiers refused to fire on people at Peshawar during the movement?",
+    "pool": ["Bengal Regiment", "Garhwal soldiers", "Punjab Rifles", "Rajputana Rifles", "Gorkha soldiers"],
+    "answer": "Garhwal soldiers",
+    "desc": "Garhwal soldiers showed defiance by refusing to shoot protestors in Peshawar."
+  },
+  {
+    "q": "When was the First Round Table Conference held?",
+    "pool": ["1929", "1930", "1931", "1932", "1933"],
+    "answer": "1930",
+    "desc": "The First Round Table Conference was held in London in 1930."
+  },
+  {
+    "q": "Where was the First Round Table Conference held?",
+    "pool": ["Delhi", "Bombay", "Kolkata", "London", "Pune"],
+    "answer": "London",
+    "desc": "It was held in London starting from 12th November 1930."
+  },
+  {
+    "q": "What was the main topic of discussion in the First Round Table Conference?",
+    "pool": ["Partition of India", "Salt Law", "Simon Commission", "Independence", "Education reforms"],
+    "answer": "Simon Commission",
+    "desc": "The conference was convened to discuss the findings of the Simon Commission."
+  },
+  {
+    "q": "Which major Indian political party did NOT attend the First Round Table Conference?",
+    "pool": ["Muslim League", "Hindu Mahasabha", "Indian National Congress", "Justice Party", "Swaraj Party"],
+    "answer": "Indian National Congress",
+    "desc": "The Congress boycotted the First Round Table Conference, leading to its failure."
+  },
+  {
+    "q": "Which pact marked the end of the first phase of the Civil Disobedience Movement?",
+    "pool": ["Delhi Pact", "Poona Pact", "Gandhi-Irwin Pact", "Lucknow Pact", "Lahore Pact"],
+    "answer": "Gandhi-Irwin Pact",
+    "desc": "The Gandhi-Irwin Pact led to the suspension of the Civil Disobedience Movement."
+  },
+  {
+    "q": "When was the Gandhi-Irwin Pact signed?",
+    "pool": ["12th March 1930", "5th March 1931", "31st December 1929", "13th April 1919", "26th January 1930"],
+    "answer": "5th March 1931",
+    "desc": "The pact was signed between Gandhiji and Lord Irwin on 5th March 1931."
+  },
+  {
+    "q": "Who represented the British government in the Gandhi-Irwin Pact?",
+    "pool": ["Lord Mountbatten", "Lord Linlithgow", "Lord Irwin", "Winston Churchill", "Lord Curzon"],
+    "answer": "Lord Irwin",
+    "desc": "Lord Irwin, the Viceroy of India, represented the British in the agreement."
+  },
+  {
+    "q": "What did the INC agree to under the Gandhi-Irwin Pact?",
+    "pool": ["Join Civil Disobedience", "End Round Table Talks", "Join Second Round Table Conference", "Support Simon Commission", "Boycott salt law"],
+    "answer": "Join Second Round Table Conference",
+    "desc": "INC agreed to join the Second Round Table Conference after the pact."
+  },
+  {
+    "q": "What concession did the British give regarding the Salt Law in the Gandhi-Irwin Pact?",
+    "pool": ["Abolished salt tax", "Allowed salt production by villagers", "Started free salt distribution", "Opened salt factories", "Imported cheaper salt"],
+    "answer": "Allowed salt production by villagers",
+    "desc": "Villagers were allowed to make salt for personal use under the pact."
+  },
+  {
+    "q": "Which session of Congress endorsed the Gandhi-Irwin Pact?",
+    "pool": ["Calcutta Session 1920", "Karachi Session 1931", "Lahore Session 1929", "Madras Session 1927", "Bombay Session 1934"],
+    "answer": "Karachi Session 1931",
+    "desc": "The 1931 Karachi Session of Congress approved the Gandhi-Irwin Pact."
+  },
+  {
+    "q": "What was one result of the Gandhi-Irwin Pact related to prisoners?",
+    "pool": ["Execution of leaders", "Imprisonment of Congress workers", "Release of political prisoners", "Trial of protestors", "Increase in arrests"],
+    "answer": "Release of political prisoners",
+    "desc": "The pact led to the release of political prisoners not charged with violence."
+  },
+  {
+    "q": "Which movement followed immediately after the Dandi March?",
+    "pool": ["Non-Cooperation", "Quit India", "Civil Disobedience", "Swadeshi", "Home Rule"],
+    "answer": "Civil Disobedience",
+    "desc": "The Civil Disobedience Movement was launched with the Salt Satyagraha."
+  },
+  {
+    "q": "What was the INC's stance on the First Round Table Conference?",
+    "pool": ["Actively participated", "Sent observers only", "Boycotted it", "Led the conference", "Joined after agreement"],
+    "answer": "Boycotted it",
+    "desc": "The Indian National Congress boycotted the First Round Table Conference."
+  },
+  {
+    "q": "Which two parties participated in the First Round Table Conference?",
+    "pool": ["INC and Muslim League", "Hindu Mahasabha and Muslim League", "Congress and Justice Party", "Swaraj Party and INC", "None participated"],
+    "answer": "Hindu Mahasabha and Muslim League",
+    "desc": "These two organizations took part in the conference despite INC’s absence."
+  },
+  {
+    "q": "Which act of defiance marked the beginning of the Salt Satyagraha?",
+    "pool": ["Spinning khadi", "Marching to Sabarmati", "Picking up salt at Dandi", "Burning British clothes", "Boycotting British schools"],
+    "answer": "Picking up salt at Dandi",
+    "desc": "Gandhiji picked up salt from the shore at Dandi to launch the movement."
+  },
+  {
+    "q": "What was the main goal of the Salt Satyagraha?",
+    "pool": ["End partition", "Promote Khilafat", "Challenge British monopoly on salt", "Join council politics", "Demand separate electorates"],
+    "answer": "Challenge British monopoly on salt",
+    "desc": "The movement aimed to oppose the unjust British salt monopoly and tax."
+  },
+  {
+    "q": "Which year saw the signing of the Gandhi-Irwin Pact?",
+    "pool": ["1928", "1929", "1930", "1931", "1932"],
+    "answer": "1931",
+    "desc": "The Gandhi-Irwin Pact was concluded in the year 1931."
+  },
+
+
+  {
+    "q": "Who represented the Indian National Congress in the Second Round Table Conference?",
+    "pool": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Sardar Patel", "Gandhiji", "CR Das"],
+    "answer": "Gandhiji",
+    "desc": "Mahatma Gandhi represented the INC in the Second Round Table Conference held in London."
+  },
+  {
+    "q": "Who was the British Prime Minister during the Second Round Table Conference?",
+    "pool": ["Winston Churchill", "Lord Irwin", "Ramsay McDonald", "Lord Mountbatten", "Lord Linlithgow"],
+    "answer": "Ramsay McDonald",
+    "desc": "Ramsay McDonald was the British Prime Minister during the 1931 conference."
+  },
+  {
+    "q": "Why did the Second Round Table Conference fail?",
+    "pool": [
+      "Absence of INC", 
+      "Lack of British participation", 
+      "Disagreement over communal representation", 
+      "Economic issues", 
+      "Revolutionary threats"
+    ],
+    "answer": "Disagreement over communal representation",
+    "desc": "Gandhiji and Ramsay McDonald disagreed on communal representation and British refusal of freedom."
+  },
+  {
+    "q": "What was the Communal Award?",
+    "pool": [
+      "British promise of independence", 
+      "Division of provinces", 
+      "Proposal for communal representation", 
+      "Economic reform", 
+      "Educational reform"
+    ],
+    "answer": "Proposal for communal representation",
+    "desc": "The Communal Award announced communal representation for Muslims, Sikhs, and depressed classes."
+  },
+  {
+    "q": "Who announced the Communal Award in 1932?",
+    "pool": ["Gandhiji", "Lord Irwin", "Ramsay McDonald", "Winston Churchill", "Lord Curzon"],
+    "answer": "Ramsay McDonald",
+    "desc": "Ramsay McDonald announced the Communal Award on 16th August 1932."
+  },
+  {
+    "q": "What policy did the Communal Award reflect?",
+    "pool": [
+      "Dominion status", 
+      "Divide and rule", 
+      "National unity", 
+      "Communist policy", 
+      "Economic development"
+    ],
+    "answer": "Divide and rule",
+    "desc": "The Award was criticized for promoting the British policy of divide and rule."
+  },
+  {
+    "q": "Which communities were given separate representation in the Communal Award?",
+    "pool": ["Only Muslims", "Only Sikhs", "Only depressed classes", "Muslims, Sikhs and depressed classes", "Only Hindus"],
+    "answer": "Muslims, Sikhs and depressed classes",
+    "desc": "The Award proposed separate electorates for Muslims, Sikhs, and the depressed classes."
+  },
+  {
+    "q": "Where did Gandhiji start his fast unto death in 1932?",
+    "pool": ["Sabarmati", "Yervada Jail, Pune", "Andaman Jail", "London", "Delhi"],
+    "answer": "Yervada Jail, Pune",
+    "desc": "Gandhiji protested the Communal Award by fasting in Yervada Jail, Pune."
+  },
+  {
+    "q": "What was the result of Gandhiji’s fast unto death?",
+    "pool": [
+      "He was released", 
+      "The award was enforced", 
+      "Poona Pact was signed", 
+      "British withdrew", 
+      "India got independence"
+    ],
+    "answer": "Poona Pact was signed",
+    "desc": "To end his fast, Gandhiji and Ambedkar signed the Poona Pact."
+  },
+  {
+    "q": "What was agreed upon in the Poona Pact?",
+    "pool": [
+      "Separate electorates for depressed classes", 
+      "Increased seats with joint electorates", 
+      "No reservation", 
+      "Dominion status", 
+      "Partition of India"
+    ],
+    "answer": "Increased seats with joint electorates",
+    "desc": "The depressed classes got increased reserved seats, but in a joint electorate with other castes."
+  },
+  {
+    "q": "Who were the key signatories of the Poona Pact?",
+    "pool": [
+      "Gandhiji and Nehru", 
+      "Gandhiji and CR Das", 
+      "Gandhiji and Ambedkar", 
+      "Ambedkar and Jinnah", 
+      "Patel and Ambedkar"
+    ],
+    "answer": "Gandhiji and Ambedkar",
+    "desc": "The pact was signed between Mahatma Gandhi and Dr. B.R. Ambedkar."
+  },
+  {
+    "q": "When was the Poona Pact signed?",
+    "pool": ["16th August 1932", "25th September 1932", "26th January 1930", "5th March 1931", "15th August 1947"],
+    "answer": "25th September 1932",
+    "desc": "The Poona Pact was signed on 25th September 1932 to resolve the separate electorate issue."
+  },
+  {
+    "q": "Why did the Third Round Table Conference prove fruitless?",
+    "pool": [
+      "British did not attend", 
+      "Muslim League opposed it", 
+      "Gandhi withdrew", 
+      "Most national leaders were in prison", 
+      "No clear agenda"
+    ],
+    "answer": "Most national leaders were in prison",
+    "desc": "The conference failed due to the absence of key Indian leaders who were jailed."
+  },
+  {
+    "q": "Who suggested the idea of Pakistan in 1930?",
+    "pool": ["Jinnah", "Iqbal", "Gandhiji", "Ambedkar", "Sir Syed Ahmed Khan"],
+    "answer": "Iqbal",
+    "desc": "In 1930, Allama Iqbal proposed creating Muslim states in north-western India."
+  },
+  {
+    "q": "What regions did Iqbal suggest for forming Muslim states in 1930?",
+    "pool": [
+      "Punjab and Bengal", 
+      "Bihar and Orissa", 
+      "North-West Provinces and Kashmir", 
+      "Hyderabad and Mysore", 
+      "Assam and Gujarat"
+    ],
+    "answer": "North-West Provinces and Kashmir",
+    "desc": "Iqbal proposed that the North-West provinces and Kashmir be made Muslim states within a federation."
+  },
+
+
+  {
+    "q": "When was the Pakistan Resolution passed by the Muslim League?",
+    "pool": ["1933", "1935", "1940", "1942", "1947"],
+    "answer": "1940",
+    "desc": "The Muslim League passed the Pakistan Resolution in its Lahore Session in 1940."
+  },
+  {
+    "q": "Who moved the Pakistan Resolution in 1940?",
+    "pool": ["Jinnah", "Sikandar Hayat Khan", "Fazlul Haq", "Liaquat Ali Khan", "Khaliquzzamah"],
+    "answer": "Fazlul Haq",
+    "desc": "Fazlul Haq moved the Pakistan Resolution at the Lahore Session of the Muslim League in 1940."
+  },
+  {
+    "q": "Who drafted the Pakistan Resolution?",
+    "pool": ["Jinnah", "Fazlul Haq", "Sikandar Hayat Khan", "Khaliquzzamah", "Liaquat Ali Khan"],
+    "answer": "Sikandar Hayat Khan",
+    "desc": "Sikandar Hayat Khan drafted the Pakistan Resolution passed in 1940."
+  },
+  {
+    "q": "Who seconded the Pakistan Resolution?",
+    "pool": ["Liaquat Ali Khan", "Fazlul Haq", "Jinnah", "Khaliquzzamah", "Sikandar Hayat Khan"],
+    "answer": "Khaliquzzamah",
+    "desc": "Khaliquzzamah seconded the Pakistan Resolution in 1940."
+  },
+  {
+    "q": "What slogan did the Muslim League adopt in its Karachi Session in 1943?",
+    "pool": ["Pakistan Zindabad", "Divide and Quit", "Quit India", "Do or Die", "Partition Now"],
+    "answer": "Divide and Quit",
+    "desc": "In December 1943, the Muslim League adopted the slogan 'Divide and Quit' at its Karachi Session."
+  },
+  {
+    "q": "When was the August Offer made?",
+    "pool": ["1939", "1940", "1941", "1942", "1943"],
+    "answer": "1940",
+    "desc": "The August Offer was made on 8th August 1940 by the British Government."
+  },
+  {
+    "q": "Which of these was NOT a part of the August Offer?",
+    "pool": [
+      "Dominion status in future",
+      "Immediate independence",
+      "Post-war body for Constitution",
+      "Expanded Executive Council",
+      "Weightage to minorities"
+    ],
+    "answer": "Immediate independence",
+    "desc": "The August Offer did not promise immediate independence but dominion status in the unspecified future."
+  },
+  {
+    "q": "Which political party rejected the August Offer?",
+    "pool": ["Muslim League", "Congress", "Hindu Mahasabha", "Forward Bloc", "Communist Party"],
+    "answer": "Congress",
+    "desc": "The Indian National Congress rejected the August Offer of 1940."
+  },
+  {
+    "q": "Who accepted the August Offer?",
+    "pool": ["Congress", "Muslim League", "Gandhi", "Subhas Bose", "Revolutionary Party"],
+    "answer": "Muslim League",
+    "desc": "The Muslim League accepted the August Offer of 1940."
+  },
+  {
+    "q": "Who was sent by the British Government in 1942 as part of a mission?",
+    "pool": ["Lord Wavell", "Lord Linlithgow", "Sir Stafford Cripps", "Lord Mountbatten", "Winston Churchill"],
+    "answer": "Sir Stafford Cripps",
+    "desc": "Sir Stafford Cripps was sent to India in 1942 by the British to gain Indian cooperation during WWII."
+  },
+  {
+    "q": "What did Cripps offer to India in 1942?",
+    "pool": ["Independence", "Dominion status after war", "Immediate elections", "Partition", "Separate electorates"],
+    "answer": "Dominion status after war",
+    "desc": "The Cripps Mission proposed dominion status to India after World War II."
+  },
+  {
+    "q": "How did Gandhiji describe the Cripps Mission offer?",
+    "pool": [
+      "A final solution",
+      "A betrayal",
+      "A fair deal",
+      "A post-dated cheque on a crashing bank",
+      "An acceptable compromise"
+    ],
+    "answer": "A post-dated cheque on a crashing bank",
+    "desc": "Gandhi called the Cripps offer 'a post-dated cheque on a crashing bank'."
+  },
+  {
+    "q": "What was another name for the Quit India Movement?",
+    "pool": ["Divide and Quit", "Wardha Proposal", "Dandi March", "Non-Cooperation", "Civil Disobedience"],
+    "answer": "Wardha Proposal",
+    "desc": "The Quit India Movement was also known as the Wardha Proposal."
+  },
+  {
+    "q": "When was the Quit India Resolution passed?",
+    "pool": ["August 1940", "August 1941", "August 1942", "August 1943", "August 1944"],
+    "answer": "August 1942",
+    "desc": "The Quit India Resolution was passed on 8th August 1942 at Bombay."
+  },
+  {
+    "q": "What slogan did Gandhiji give during the Quit India Movement?",
+    "pool": ["Do or Die", "Divide and Quit", "Quit India", "Freedom Now", "Victory or Death"],
+    "answer": "Do or Die",
+    "desc": "Gandhiji gave the slogan 'Do or Die' during the Quit India Movement."
+  },
+  {
+    "q": "Where was Gandhiji kept after his arrest in 1942?",
+    "pool": [
+      "Yerwada Jail",
+      "Aga Khan Palace",
+      "Ahmedabad Ashram",
+      "Andaman Jail",
+      "Sabarmati Ashram"
+    ],
+    "answer": "Aga Khan Palace",
+    "desc": "Gandhiji was detained at the Aga Khan Palace in Pune after his arrest during the Quit India Movement."
+  },
+  {
+    "q": "Which party was banned on 9th August 1942?",
+    "pool": ["Muslim League", "Congress", "Hindu Mahasabha", "RSS", "Communist Party"],
+    "answer": "Congress",
+    "desc": "The Indian National Congress was banned by the British Government on 9th August 1942."
+  },
+  {
+    "q": "How was the Quit India Movement described?",
+    "pool": [
+      "A peaceful march",
+      "A political compromise",
+      "Leaderless Revolt",
+      "Militant uprising",
+      "Royal commission report"
+    ],
+    "answer": "Leaderless Revolt",
+    "desc": "The Quit India Movement was often termed a 'Leaderless Revolt' as most leaders were arrested early."
+  },
+  {
+    "q": "Which event directly preceded the Quit India Movement?",
+    "pool": ["Cripps Mission", "Cabinet Mission", "Dandi March", "Round Table Conference", "Partition of Bengal"],
+    "answer": "Cripps Mission",
+    "desc": "The failure of the Cripps Mission led to the launch of the Quit India Movement in 1942."
+  },
+  {
+    "q": "What happened to the Quit India Movement eventually?",
+    "pool": ["It succeeded", "It was ongoing till 1947", "It was crushed by the government", "It became violent", "It led to independence"],
+    "answer": "It was crushed by the government",
+    "desc": "The Quit India Movement was eventually suppressed by the British Government using military force."
+  },
+
+
+  {
+    "q": "Where did Subhash Chandra Bose set up the Indian League after escaping in 1941?",
+    "pool": ["Tokyo", "Berlin", "Singapore", "Rangoon", "Moscow"],
+    "answer": "Berlin",
+    "desc": "After escaping from India in 1941, Subhash Chandra Bose set up the Indian League in Berlin."
+  },
+  {
+    "q": "In which year did Subhash Chandra Bose join the INA in Singapore?",
+    "pool": ["1941", "1942", "1943", "1944", "1945"],
+    "answer": "1943",
+    "desc": "Subhash Chandra Bose joined the Indian National Army (INA) in July 1943 at Singapore."
+  },
+  {
+    "q": "Who handed over the leadership of the INA to Subhash Chandra Bose?",
+    "pool": ["Sardar Patel", "Mahatma Gandhi", "Ras Bihari Bose", "Liaquat Ali Khan", "Maulana Azad"],
+    "answer": "Ras Bihari Bose",
+    "desc": "Ras Bihari Bose handed over the leadership of the Indian National Army (INA) to Subhash Chandra Bose."
+  },
+  {
+    "q": "How many fighting brigades were there in the INA?",
+    "pool": ["Two", "Three", "Four", "Five", "Six"],
+    "answer": "Three",
+    "desc": "The INA had three main fighting brigades named after Gandhi, Azad, and Nehru."
+  },
+  {
+    "q": "What was the name of the exclusive women's force in the INA?",
+    "pool": [
+      "Bharat Mata Battalion",
+      "Indira Regiment",
+      "Rani of Jhansi Brigade",
+      "Durga Vahini",
+      "Lakshmi Battalion"
+    ],
+    "answer": "Rani of Jhansi Brigade",
+    "desc": "The Rani of Jhansi Brigade was the women's wing of the INA, composed exclusively of women fighters."
+  },
+  {
+    "q": "Where were the headquarters of the INA located?",
+    "pool": ["Delhi and Bombay", "Singapore and Rangoon", "Calcutta and Karachi", "Tokyo and Berlin", "Colombo and Bangkok"],
+    "answer": "Singapore and Rangoon",
+    "desc": "The Indian National Army had its headquarters in Singapore and Rangoon."
+  },
+  {
+    "q": "Which British leaders were part of the Cabinet Mission Plan of 1946?",
+    "pool": [
+      "Mountbatten, Wavell, Cripps",
+      "Lawrence, Cripps, Alexander",
+      "Churchill, Atlee, Wavell",
+      "Pethick Lawrence, Nehru, Cripps",
+      "Jinnah, Cripps, Alexander"
+    ],
+    "answer": "Lawrence, Cripps, Alexander",
+    "desc": "The Cabinet Mission of 1946 included Pethick Lawrence, Stafford Cripps, and A.V. Alexander."
+  },
+  {
+    "q": "Who was the Viceroy of India during the Cabinet Mission Plan?",
+    "pool": ["Lord Mountbatten", "Lord Linlithgow", "Lord Wavell", "Lord Curzon", "Lord Irwin"],
+    "answer": "Lord Wavell",
+    "desc": "Lord Wavell was the Viceroy of India when the Cabinet Mission visited in 1946."
+  },
+  {
+    "q": "Which demand was rejected by the Cabinet Mission Plan?",
+    "pool": [
+      "Constituent Assembly",
+      "Partition of Bengal",
+      "Separate electorate",
+      "Full-fledged Pakistan",
+      "Dominion status"
+    ],
+    "answer": "Full-fledged Pakistan",
+    "desc": "The Cabinet Mission Plan rejected the Muslim League's demand for a full-fledged Pakistan."
+  },
+  {
+    "q": "When did the Muslim League accept the Cabinet Mission Plan?",
+    "pool": ["May 1946", "6th June 1946", "15th August 1946", "January 1946", "12th July 1946"],
+    "answer": "6th June 1946",
+    "desc": "The Muslim League accepted the Cabinet Mission Plan on 6th June 1946."
+  }
+]
