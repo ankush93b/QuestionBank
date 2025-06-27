@@ -1,0 +1,122 @@
+[
+  {
+    "q": "Which famous person was cremated at Raj Ghat?",
+    "pool": ["Jawaharlal Nehru", "Mahatma Gandhi", "Indira Gandhi", "Rajiv Gandhi", "KR Narayana"],
+    "answer": "Mahatma Gandhi",
+    "desc": "Raj Ghat is the cremation site of Mahatma Gandhi, the Father of the Nation."
+  },
+  {
+    "q": "Lal Bahadur Shastri was cremated at which ghat?",
+    "pool": ["Raj Ghat", "Vijay Ghat", "Veer Bhumi", "Shakti Sthal", "Abhay Ghat"],
+    "answer": "Vijay Ghat",
+    "desc": "Vijay Ghat is the memorial for Lal Bahadur Shastri, India’s second Prime Minister."
+  },
+  {
+    "q": "Which crematorium is associated with Ch Charan Singh?",
+    "pool": ["Kisan Ghat", "Raj Ghat", "Shakti Sthal", "Shanti Van", "Veer Bhumi"],
+    "answer": "Kisan Ghat",
+    "desc": "Kisan Ghat is the cremation site of Ch Charan Singh, a leader who championed farmers’ rights."
+  },
+  {
+    "q": "Where was Rajiv Gandhi cremated?",
+    "pool": ["Vijay Ghat", "Veer Bhumi", "Ekta Sthal", "Karma Bhumi", "Samata Sthal"],
+    "answer": "Veer Bhumi",
+    "desc": "Veer Bhumi is the cremation site of Rajiv Gandhi, India’s youngest Prime Minister."
+  },
+  {
+    "q": "Which leaders were cremated at Ekta Sthal?",
+    "pool": ["Chandra Shekhar", "Giani Zail Singh", "Indira Gandhi", "Both A and B", "None"],
+    "answer": "Both A and B",
+    "desc": "Ekta Sthal is the cremation ground for both Giani Zail Singh and Chandra Shekhar."
+  },
+  {
+    "q": "Where was KR Narayana cremated?",
+    "pool": ["Uday Bhoomi", "Raj Ghat", "Karma Bhumi", "Samata Sthal", "Abhay Ghat"],
+    "answer": "Uday Bhoomi",
+    "desc": "Uday Bhoomi is the cremation site of KR Narayana, India's first Dalit President."
+  },
+  {
+    "q": "Jawaharlal Nehru was cremated at which place?",
+    "pool": ["Shanti Van", "Karma Bhumi", "Raj Ghat", "Shakti Sthal", "Veer Bhumi"],
+    "answer": "Shanti Van",
+    "desc": "Shanti Van is the memorial for Jawaharlal Nehru, India’s first Prime Minister."
+  },
+  {
+    "q": "Which crematorium is associated with Indira Gandhi?",
+    "pool": ["Shakti Sthal", "Shanti Van", "Ekta Sthal", "Veer Bhumi", "Abhay Ghat"],
+    "answer": "Shakti Sthal",
+    "desc": "Shakti Sthal is the cremation site of Indira Gandhi, India’s first female Prime Minister."
+  },
+  {
+    "q": "Abhay Ghat is the cremation place of which leader?",
+    "pool": ["Morarji Desai", "Lal Bahadur Shastri", "Charan Singh", "Chandra Shekhar", "Rajiv Gandhi"],
+    "answer": "Morarji Desai",
+    "desc": "Abhay Ghat is dedicated to Morarji Desai, India’s first non-Congress Prime Minister."
+  },
+  {
+    "q": "Jagjivan Ram was cremated at which ghat?",
+    "pool": ["Samata Sthal", "Abhay Ghat", "Shakti Sthal", "Vijay Ghat", "Kisan Ghat"],
+    "answer": "Samata Sthal",
+    "desc": "Samata Sthal is the memorial site for Jagjivan Ram, a prominent Dalit leader."
+  },
+  {
+    "q": "Which leader was cremated at Karma Bhumi?",
+    "pool": ["Dr Shankar Dayal Sharma", "Rajiv Gandhi", "KR Narayana", "Lal Bahadur Shastri", "Charan Singh"],
+    "answer": "Dr Shankar Dayal Sharma",
+    "desc": "Karma Bhumi is the cremation site of Dr Shankar Dayal Sharma, former President of India."
+  },
+  {
+    "q": "Dr Rajendra Prasad was cremated at which crematorium?",
+    "pool": ["Mahaprayana Ghat", "Shakti Sthal", "Raj Ghat", "Samata Sthal", "Uday Bhoomi"],
+    "answer": "Mahaprayana Ghat",
+    "desc": "Mahaprayana Ghat is the cremation site of Dr Rajendra Prasad, India’s first President."
+  },
+  {
+    "q": "Which cremation site is associated with both Giani Zail Singh and Chandra Shekhar?",
+    "pool": ["Ekta Sthal", "Raj Ghat", "Veer Bhumi", "Karma Bhumi", "Mahaprayana Ghat"],
+    "answer": "Ekta Sthal",
+    "desc": "Ekta Sthal is the memorial ground for both Giani Zail Singh and Chandra Shekhar."
+  },
+  {
+    "q": "Which cremation ghat is named 'Kisan Ghat'?",
+    "pool": ["For a Prime Minister", "For a President", "For a scientist", "For a military leader", "For a poet"],
+    "answer": "For a Prime Minister",
+    "desc": "Kisan Ghat commemorates Ch Charan Singh, a Prime Minister and farmer's advocate."
+  },
+  {
+    "q": "Which cremation site is dedicated to Indira Gandhi?",
+    "pool": ["Shakti Sthal", "Veer Bhumi", "Shanti Van", "Raj Ghat", "Kisan Ghat"],
+    "answer": "Shakti Sthal",
+    "desc": "Shakti Sthal memorializes Indira Gandhi for her strength and leadership."
+  },
+  {
+    "q": "Which leader cremated at Veer Bhumi was assassinated in 1991?",
+    "pool": ["Rajiv Gandhi", "Indira Gandhi", "Jawaharlal Nehru", "Lal Bahadur Shastri", "Charan Singh"],
+    "answer": "Rajiv Gandhi",
+    "desc": "Rajiv Gandhi, assassinated in 1991, was cremated at Veer Bhumi."
+  },
+  {
+    "q": "Who among the following was cremated at Abhay Ghat?",
+    "pool": ["Morarji Desai", "Jagjivan Ram", "Shankar Dayal Sharma", "KR Narayana", "Rajiv Gandhi"],
+    "answer": "Morarji Desai",
+    "desc": "Abhay Ghat is the final resting place of Morarji Desai."
+  },
+  {
+    "q": "Which cremation site is not associated with any Prime Minister?",
+    "pool": ["Uday Bhoomi", "Raj Ghat", "Vijay Ghat", "Abhay Ghat", "Veer Bhumi"],
+    "answer": "Uday Bhoomi",
+    "desc": "Uday Bhoomi is associated with KR Narayana, who was President, not PM."
+  },
+  {
+    "q": "Which ghat is associated with the first President of India?",
+    "pool": ["Raj Ghat", "Mahaprayana Ghat", "Shanti Van", "Ekta Sthal", "Veer Bhumi"],
+    "answer": "Mahaprayana Ghat",
+    "desc": "Mahaprayana Ghat is the cremation place of Dr Rajendra Prasad."
+  },
+  {
+    "q": "Who was cremated at Samata Sthal?",
+    "pool": ["Jagjivan Ram", "Mahatma Gandhi", "Rajiv Gandhi", "Ch Charan Singh", "KR Narayana"],
+    "answer": "Jagjivan Ram",
+    "desc": "Samata Sthal commemorates Jagjivan Ram, a champion of social equality."
+  }
+]

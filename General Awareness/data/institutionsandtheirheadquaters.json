@@ -1,0 +1,176 @@
+[
+  {
+    "q": "Where is the headquarters of the Anthropological Survey of India?",
+    "pool": ["New Delhi", "Kolkata", "Mumbai", "Chennai", "Hyderabad"],
+    "answer": "Kolkata",
+    "desc": "The Anthropological Survey of India, established in 1945, is headquartered in Kolkata."
+  },
+  {
+    "q": "In which year was the Archaeological Survey of India established?",
+    "pool": ["1947", "1861", "1885", "1901", "1950"],
+    "answer": "1861",
+    "desc": "The Archaeological Survey of India was established in 1861 to oversee archaeological research and conservation."
+  },
+  {
+    "q": "Who founded the Asiatic Society in 1784?",
+    "pool": ["Lord Curzon", "Sir William Jones", "Max Müller", "Warren Hastings", "Herbert Risley"],
+    "answer": "Sir William Jones",
+    "desc": "Sir William Jones founded the Asiatic Society in Kolkata in 1784."
+  },
+  {
+    "q": "Where is the headquarters of the Indira Gandhi National Centre for Arts?",
+    "pool": ["Kolkata", "New Delhi", "Mumbai", "Chennai", "Hyderabad"],
+    "answer": "New Delhi",
+    "desc": "The Indira Gandhi National Centre for Arts, established in 1985, is based in New Delhi."
+  },
+  {
+    "q": "Which cultural institution was founded in 1954 and is known as the National Academy of Fine Arts?",
+    "pool": ["Sahitya Akademi", "Lalit Kala Akademi", "Sangeet Natak Akademi", "National School of Drama", "Science City"],
+    "answer": "Lalit Kala Akademi",
+    "desc": "Lalit Kala Akademi, founded in 1954 in New Delhi, is the National Academy of Fine Arts."
+  },
+  {
+    "q": "What is the headquarters of the National Archives of India?",
+    "pool": ["New Delhi", "Kolkata", "Hyderabad", "Mumbai", "Chennai"],
+    "answer": "New Delhi",
+    "desc": "The National Archives of India, established in 1981, is headquartered in New Delhi."
+  },
+  {
+    "q": "When was the National School of Drama established?",
+    "pool": ["1959", "1965", "1971", "1954", "1980"],
+    "answer": "1959",
+    "desc": "The National School of Drama was founded in 1959 in New Delhi."
+  },
+  {
+    "q": "In which year was the Sahitya Academy established?",
+    "pool": ["1947", "1954", "1953", "1955", "1960"],
+    "answer": "1954",
+    "desc": "The Sahitya Academy, which promotes literature, was established in 1954 in New Delhi."
+  },
+  {
+    "q": "Where is the Sangeet Natak Academy headquartered?",
+    "pool": ["Kolkata", "Mumbai", "New Delhi", "Lucknow", "Chennai"],
+    "answer": "New Delhi",
+    "desc": "The Sangeet Natak Academy, founded in 1953, is based in New Delhi."
+  },
+  {
+    "q": "Where is the Library of Tibetan Works and Archives located?",
+    "pool": ["Leh", "Kolkata", "New Delhi", "Dharamshala", "Nalanda"],
+    "answer": "Dharamshala",
+    "desc": "The Library of Tibetan Works and Archives is located in Dharamshala, Himachal Pradesh."
+  },
+  {
+    "q": "In which city is Science City located?",
+    "pool": ["Delhi", "Kolkata", "Bangalore", "Hyderabad", "Chandigarh"],
+    "answer": "Kolkata",
+    "desc": "Science City is a prominent science museum located in Kolkata."
+  },
+  {
+    "q": "Where is the Victoria Memorial Hall located?",
+    "pool": ["Mumbai", "New Delhi", "Kolkata", "Hyderabad", "Chennai"],
+    "answer": "Kolkata",
+    "desc": "The Victoria Memorial Hall, a museum and tourist attraction, is located in Kolkata."
+  },
+  {
+    "q": "What is the location of Birla Industrial and Tech Museum?",
+    "pool": ["Kolkata", "New Delhi", "Bhopal", "Ahmedabad", "Jaipur"],
+    "answer": "Kolkata",
+    "desc": "Birla Industrial and Tech Museum is based in Kolkata."
+  },
+  {
+    "q": "Where is the Central Institute of Buddhist Studies located?",
+    "pool": ["Sarnath", "Kolkata", "New Delhi", "Leh", "Dharamshala"],
+    "answer": "Leh",
+    "desc": "The Central Institute of Buddhist Studies is located in Leh, Ladakh."
+  },
+  {
+    "q": "Where can the Nava Nalanda Mahavihara be found?",
+    "pool": ["Nalanda", "Kolkata", "New Delhi", "Pune", "Leh"],
+    "answer": "Nalanda",
+    "desc": "The Nava Nalanda Mahavihara is located in Nalanda, Bihar."
+  },
+  {
+    "q": "Which city hosts the National Gallery of Modern Art?",
+    "pool": ["Mumbai", "Chennai", "Bangalore", "New Delhi", "Hyderabad"],
+    "answer": "New Delhi",
+    "desc": "The National Gallery of Modern Art is headquartered in New Delhi."
+  },
+  {
+    "q": "Which academy was established in 1953?",
+    "pool": ["Lalit Kala Akademi", "Sangeet Natak Academy", "Sahitya Academy", "National School of Drama", "Science City"],
+    "answer": "Sangeet Natak Academy",
+    "desc": "The Sangeet Natak Academy, focused on music and drama, was established in 1953."
+  },
+  {
+    "q": "Which institution was founded by Sir William Jones?",
+    "pool": ["Sahitya Academy", "Asiatic Society", "National Archives", "Library of Tibetan Works", "Birla Museum"],
+    "answer": "Asiatic Society",
+    "desc": "Sir William Jones founded the Asiatic Society in 1784 in Kolkata."
+  },
+  {
+    "q": "Where is the Indira Gandhi National Centre for Arts located?",
+    "pool": ["Mumbai", "New Delhi", "Kolkata", "Bangalore", "Chennai"],
+    "answer": "New Delhi",
+    "desc": "The Indira Gandhi National Centre for Arts is based in New Delhi."
+  },
+  {
+    "q": "What is the main focus of the Sahitya Academy?",
+    "pool": ["Performing arts", "Visual arts", "Architecture", "Literature", "Science"],
+    "answer": "Literature",
+    "desc": "The Sahitya Academy promotes Indian literature in various languages."
+  },
+  {
+    "q": "Which cultural institution is located in Dharamshala?",
+    "pool": ["Library of Tibetan Works", "Science City", "Victoria Memorial", "Nava Nalanda", "Lalit Kala Akademi"],
+    "answer": "Library of Tibetan Works",
+    "desc": "The Library of Tibetan Works and Archives is located in Dharamshala."
+  },
+  {
+    "q": "Which museum in Kolkata is related to science and technology?",
+    "pool": ["Victoria Memorial", "Asiatic Society", "Birla Industrial and Tech Museum", "Lalit Kala Akademi", "Science City"],
+    "answer": "Birla Industrial and Tech Museum",
+    "desc": "Birla Industrial and Tech Museum in Kolkata focuses on science and technology."
+  },
+  {
+    "q": "Which institution was established in 1985?",
+    "pool": ["Science City", "Lalit Kala Akademi", "Indira Gandhi National Centre for Arts", "Library of Tibetan Works", "Asiatic Society"],
+    "answer": "Indira Gandhi National Centre for Arts",
+    "desc": "The Indira Gandhi National Centre for Arts was established in 1985 in New Delhi."
+  },
+  {
+    "q": "Which is the oldest cultural institution in the list?",
+    "pool": ["Asiatic Society", "Sahitya Academy", "National Archives", "National School of Drama", "Birla Museum"],
+    "answer": "Asiatic Society",
+    "desc": "Founded in 1784, the Asiatic Society is the oldest among the listed institutions."
+  },
+  {
+    "q": "Which institution focuses on Buddhist studies and is located in Leh?",
+    "pool": ["Asiatic Society", "Library of Tibetan Works", "Central Institute of Buddhist Studies", "Nava Nalanda", "Birla Museum"],
+    "answer": "Central Institute of Buddhist Studies",
+    "desc": "The Central Institute of Buddhist Studies is located in Leh and focuses on Buddhist education."
+  },
+  {
+    "q": "What is the focus of the Lalit Kala Akademi?",
+    "pool": ["Literature", "Music", "Science", "Visual Arts", "Architecture"],
+    "answer": "Visual Arts",
+    "desc": "Lalit Kala Akademi promotes the visual arts, including painting and sculpture."
+  },
+  {
+    "q": "Which academy is referred to as the National Academy of Music, Dance and Drama?",
+    "pool": ["Sangeet Natak Academy", "Sahitya Academy", "Lalit Kala Akademi", "National School of Drama", "Birla Museum"],
+    "answer": "Sangeet Natak Academy",
+    "desc": "The Sangeet Natak Academy is India's national academy for music, dance and drama."
+  },
+  {
+    "q": "What is the function of the National School of Drama?",
+    "pool": ["Science education", "Tibetan research", "Fine arts training", "Theatre education", "Literary work"],
+    "answer": "Theatre education",
+    "desc": "The National School of Drama provides professional training in theatre and acting."
+  },
+  {
+    "q": "Which institution is located in Nalanda and linked to ancient learning?",
+    "pool": ["Library of Tibetan Works", "Nava Nalanda Mahavihara", "National School of Drama", "Lalit Kala Akademi", "Victoria Memorial"],
+    "answer": "Nava Nalanda Mahavihara",
+    "desc": "Nava Nalanda Mahavihara is a modern institution in Nalanda continuing the legacy of ancient Buddhist education."
+  }
+]

@@ -1,0 +1,484 @@
+[
+  {
+    "q": "Which dance is associated with Andhra Pradesh?",
+    "pool": ["Garba", "Kuchipudi", "Kathakali", "Bihu", "Ghoomar"],
+    "answer": "Kuchipudi",
+    "desc": "Kuchipudi is a classical dance form originating from Andhra Pradesh, known for its graceful movements and expressive storytelling."
+  },
+  {
+    "q": "What is a folk dance of Assam?",
+    "pool": ["Bihu", "Garbha", "Lavani", "Odissi", "Giddha"],
+    "answer": "Bihu",
+    "desc": "Bihu is a traditional folk dance of Assam, performed during the Bihu festival to celebrate the agricultural cycle."
+  },
+  {
+    "q": "Which dance is from Bihar?",
+    "pool": ["Jata-Jatin", "Garba", "Kathak", "Bhangra", "Yakshagana"],
+    "answer": "Jata-Jatin",
+    "desc": "Jata-Jatin is a folk dance from Bihar, reflecting the rural life and culture of the region."
+  },
+  {
+    "q": "What dance is popular in Gujarat?",
+    "pool": ["Garba", "Bihu", "Odissi", "Lavani", "Kuchipudi"],
+    "answer": "Garba",
+    "desc": "Garba is a vibrant folk dance from Gujarat, performed during the Navratri festival with rhythmic clapping and circular movements."
+  },
+  {
+    "q": "Which dance is associated with Haryana?",
+    "pool": ["Jhumar", "Bhangra", "Garba", "Kathakali", "Odissi"],
+    "answer": "Jhumar",
+    "desc": "Jhumar is a traditional dance from Haryana, often performed by farmers to celebrate harvests."
+  },
+  {
+    "q": "What is a folk dance of Himachal Pradesh?",
+    "pool": ["Nati", "Lavani", "Bihu", "Garba", "Yakshagana"],
+    "answer": "Nati",
+    "desc": "Nati is a popular folk dance of Himachal Pradesh, characterized by group performances in a circular formation."
+  },
+  {
+    "q": "Which dance originates from Jammu and Kashmir?",
+    "pool": ["Rouf", "Kathak", "Bhangra", "Odissi", "Garba"],
+    "answer": "Rouf",
+    "desc": "Rouf is a traditional dance from Jammu and Kashmir, typically performed by women during festivals."
+  },
+  {
+    "q": "What dance is associated with Karnataka?",
+    "pool": ["Yakshagana", "Lavani", "Bihu", "Jhumar", "Garba"],
+    "answer": "Yakshagana",
+    "desc": "Yakshagana is a traditional theater form from Karnataka, combining dance, music, and dialogue."
+  },
+  {
+    "q": "Which dance is from Kerala?",
+    "pool": ["Kathakali", "Odissi", "Garba", "Bhangra", "Nati"],
+    "answer": "Kathakali",
+    "desc": "Kathakali is a classical dance-drama from Kerala, known for its elaborate costumes and facial expressions."
+  },
+  {
+    "q": "What is a folk dance of Maharashtra?",
+    "pool": ["Lavani", "Bihu", "Kuchipudi", "Yakshagana", "Garba"],
+    "answer": "Lavani",
+    "desc": "Lavani is a popular folk dance from Maharashtra, known for its energetic movements and lively music."
+  },
+  {
+    "q": "Which dance is associated with Odisha?",
+    "pool": ["Odissi", "Bhangra", "Garba", "Kathakali", "Jhumar"],
+    "answer": "Odissi",
+    "desc": "Odissi is a classical dance form from Odisha, renowned for its intricate footwork and expressive gestures."
+  },
+  {
+    "q": "What dance is from Paschim Banga (West Bengal)?",
+    "pool": ["Kathi", "Lavani", "Bihu", "Garba", "Odissi"],
+    "answer": "Kathi",
+    "desc": "Kathi is a folk dance from West Bengal, often performed with masks and depicting mythological stories."
+  },
+  {
+    "q": "Which dance is popular in Punjab?",
+    "pool": ["Bhangra", "Kathakali", "Garba", "Yakshagana", "Nati"],
+    "answer": "Bhangra",
+    "desc": "Bhangra is a lively folk dance from Punjab, traditionally performed during the harvest festival of Baisakhi."
+  },
+  {
+    "q": "What is a folk dance of Rajasthan?",
+    "pool": ["Ghoomar", "Bihu", "Odissi", "Lavani", "Kuchipudi"],
+    "answer": "Ghoomar",
+    "desc": "Ghoomar is a traditional folk dance from Rajasthan, performed by women in colorful attire with twirling movements."
+  },
+  {
+    "q": "Which dance is associated with Tamil Nadu?",
+    "pool": ["Bharatanatyam", "Garba", "Kathakali", "Bhangra", "Nati"],
+    "answer": "Bharatanatyam",
+    "desc": "Bharatanatyam is a classical dance form from Tamil Nadu, known for its precision and spiritual themes."
+  },
+  {
+    "q": "What dance is from Uttar Pradesh?",
+    "pool": ["Nautanki", "Lavani", "Bihu", "Yakshagana", "Garba"],
+    "answer": "Nautanki",
+    "desc": "Nautanki is a folk theater form from Uttar Pradesh, combining dance and drama."
+  },
+  {
+    "q": "Which dance is popular in Uttarakhand?",
+    "pool": ["Garhwali", "Kathakali", "Odissi", "Bhangra", "Jhumar"],
+    "answer": "Garhwali",
+    "desc": "Garhwali is a traditional dance from Uttarakhand, reflecting the region's cultural heritage."
+  },
+  {
+    "q": "Which of these is not a dance from Andhra Pradesh?",
+    "pool": ["Ottam Thedal", "Garba", "Veedhi Natakam", "Ghantamardala", "Kuchipudi"],
+    "answer": "Garba",
+    "desc": "Garba is a dance from Gujarat, not Andhra Pradesh, where dances like Kuchipudi are popular."
+  },
+  {
+    "q": "What is a common dance in Assam besides Bihu?",
+    "pool": ["Khel Gopal", "Lavani", "Kathakali", "Bhangra", "Garba"],
+    "answer": "Khel Gopal",
+    "desc": "Khel Gopal is a folk dance from Assam, often performed during festive occasions."
+  },
+  {
+    "q": "Which dance is not from Bihar?",
+    "pool": ["Jata-Jatin", "Bidesia", "Garba", "Sama-Chakwa", "Jhumra"],
+    "answer": "Garba",
+    "desc": "Garba is a dance from Gujarat, while Jata-Jatin and others are from Bihar."
+  },
+  {
+    "q": "What dance is associated with Haryana besides Jhumar?",
+    "pool": ["Phag", "Odissi", "Lavani", "Kuchipudi", "Bihu"],
+    "answer": "Phag",
+    "desc": "Phag is a folk dance from Haryana, performed during the Holi festival."
+  },
+  {
+    "q": "Which dance is not from Himachal Pradesh?",
+    "pool": ["Nati", "Dangi", "Garba", "Dhaman", "Chapreri"],
+    "answer": "Garba",
+    "desc": "Garba is a Gujarat dance, while Nati and others are from Himachal Pradesh."
+  },
+  {
+    "q": "What is a dance from Jammu and Kashmir besides Rouf?",
+    "pool": [ "Hikat", "Lavani", "Bhangra", "Kathakali", "Odissi"],
+    "answer": "Hikat",
+    "desc": "Hikat is a traditional dance from Jammu and Kashmir, often performed in rural areas."
+  },
+  {
+    "q": "Which dance is not from Karnataka?",
+    "pool": ["Yakshagana", "Karga", "Garba", "Huttari", "Suggi"],
+    "answer": "Garba",
+    "desc": "Garba is a Gujarat dance, while Yakshagana and others are from Karnataka."
+  },
+  {
+    "q": "What dance is associated with Kerala besides Kathakali?",
+    "pool": ["Ottam Thulal", "Odissi", "Bihu", "Garba", "Jhumar"],
+    "answer": "Ottam Thulal",
+    "desc": "Ottam Thulal is a dance-drama form from Kerala, known for its narrative style."
+  },
+  {
+    "q": "Which dance is not from Maharashtra?",
+    "pool": ["Lavani", "Garba", "Koli", "Lezim", "Gafa"],
+    "answer": "Garba",
+    "desc": "Garba is a Gujarat dance, while Lavani and others are from Maharashtra."
+  },
+  {
+    "q": "What is a dance from Odisha besides Odissi?",
+    "pool": ["Chhau", "Lavani", "Bihu", "Kathakali", "Garba"],
+    "answer": "Chhau",
+    "desc": "Chhau is a traditional dance from Odisha, often depicting martial arts and mythology."
+  },
+  {
+    "q": "Which dance is not from Paschim Banga?",
+    "pool": ["Kathi", "Jatra", "Garba", "Baul", "Mahal"],
+    "answer": "Garba",
+    "desc": "Garba is a Gujarat dance, while Kathi and others are from West Bengal."
+  },
+  {
+    "q": "What dance is associated with Punjab besides Bhangra?",
+    "pool": ["Giddha", "Odissi", "Lavani", "Kuchipudi", "Bihu"],
+    "answer": "Giddha",
+    "desc": "Giddha is a folk dance from Punjab, performed by women during celebrations."
+  },
+  {
+    "q": "Which dance is not from Rajasthan?",
+    "pool": ["Ghoomar", "Chakri", "Garba", "Jhulan Leela", "Suisini"],
+    "answer": "Garba",
+    "desc": "Garba is a Gujarat dance, while Ghoomar and others are from Rajasthan."
+  },
+  {
+    "q": "What is a dance from Tamil Nadu besides Bharatanatyam?",
+    "pool": ["Kumi", "Lavani", "Bihu", "Kathakali", "Garba"],
+    "answer": "Kumi",
+    "desc": "Kumi is a traditional dance from Tamil Nadu, often performed in temples."
+  },
+  {
+    "q": "Which dance is not from Uttar Pradesh?",
+    "pool": ["Nautanki", "Garba", "Rasila", "Chhapper", "Jaita"],
+    "answer": "Garba",
+    "desc": "Garba is a Gujarat dance, while Nautanki and others are from Uttar Pradesh."
+  },
+  {
+    "q": "What dance is associated with Uttarakhand besides Garhwali?",
+    "pool": ["Kumauni", "Odissi", "Lavani", "Kuchipudi", "Bihu"],
+    "answer": "Kumauni",
+    "desc": "Kumauni is a folk dance from Uttarakhand, reflecting the region's cultural traditions."
+  },
+  {
+    "q": "Which dance is a classical form from Andhra Pradesh?",
+    "pool": ["Kuchipudi", "Bihu", "Garba", "Lavani", "Jhumar"],
+    "answer": "Kuchipudi",
+    "desc": "Kuchipudi is a classical dance from Andhra Pradesh, distinct from its folk dances."
+  },
+  {
+    "q": "What dance is performed during Navratri in Gujarat?",
+    "pool": ["Garba", "Odissi", "Kathakali", "Bhangra", "Nati"],
+    "answer": "Garba",
+    "desc": "Garba is a traditional dance performed in Gujarat during the Navratri festival."
+  },
+  {
+    "q": "Which dance is known for its elaborate costumes in Kerala?",
+    "pool": ["Kathakali", "Bihu", "Garba", "Yakshagana", "Lavani"],
+    "answer": "Kathakali",
+    "desc": "Kathakali is famous for its elaborate costumes and makeup, used to portray characters."
+  },
+  {
+    "q": "What dance is a harvest celebration in Punjab?",
+    "pool": ["Bhangra", "Odissi", "Kuchipudi", "Garba", "Nati"],
+    "answer": "Bhangra",
+    "desc": "Bhangra is a harvest dance from Punjab, celebrating the Baisakhi festival."
+  },
+  {
+    "q": "Which dance is a theater form from Karnataka?",
+    "pool": ["Yakshagana", "Lavani", "Bihu", "Garba", "Jhumar"],
+    "answer": "Yakshagana",
+    "desc": "Yakshagana is a theater form from Karnataka, blending dance and drama."
+  },
+  {
+    "q": "What dance is known for its twirling movements in Rajasthan?",
+    "pool": ["Ghoomar", "Odissi", "Kathakali", "Bhangra", "Nati"],
+    "answer": "Ghoomar",
+    "desc": "Ghoomar is characterized by its twirling movements, performed by women in Rajasthan."
+  },
+  {
+    "q": "Which dance is a classical form from Odisha?",
+    "pool": ["Odissi", "Bihu", "Garba", "Lavani", "Jhumar"],
+    "answer": "Odissi",
+    "desc": "Odissi is a classical dance from Odisha, known for its sculptural poses."
+  },
+  {
+    "q": "What dance is associated with Holi in Haryana?",
+    "pool": ["Phag", "Kuchipudi", "Garba", "Kathakali", "Bihu"],
+    "answer": "Phag",
+    "desc": "Phag is a dance from Haryana, traditionally performed during the Holi festival."
+  },
+  {
+    "q": "Which dance is a mask dance from West Bengal?",
+    "pool": ["Kathi", "Lavani", "Bhangra", "Garba", "Nati"],
+    "answer": "Kathi",
+    "desc": "Kathi is a mask dance from West Bengal, often depicting mythological tales."
+  },
+  {
+    "q": "What dance is known for its energetic beats in Maharashtra?",
+    "pool": ["Lavani", "Odissi", "Kuchipudi", "Garba", "Jhumar"],
+    "answer": "Lavani",
+    "desc": "Lavani is known for its energetic beats and vibrant performances in Maharashtra."
+  },
+  {
+    "q": "Which dance is a group performance in Himachal Pradesh?",
+    "pool": ["Nati", "Bihu", "Garba", "Kathakali", "Yakshagana"],
+    "answer": "Nati",
+    "desc": "Nati is a group dance from Himachal Pradesh, performed in a circular pattern."
+  },
+  {
+    "q": "What dance is associated with temple rituals in Tamil Nadu?",
+    "pool": ["Bharatanatyam", "Lavani", "Bhangra", "Garba", "Nati"],
+    "answer": "Bharatanatyam",
+    "desc": "Bharatanatyam is a classical dance from Tamil Nadu, often performed in temples."
+  },
+  {
+    "q": "Which dance is a narrative form from Uttar Pradesh?",
+    "pool": ["Nautanki", "Odissi", "Kuchipudi", "Garba", "Jhumar"],
+    "answer": "Nautanki",
+    "desc": "Nautanki is a narrative folk theater form from Uttar Pradesh."
+  },
+  {
+    "q": "What dance is performed by women in Punjab?",
+    "pool": ["Giddha", "Kathakali", "Garba", "Yakshagana", "Lavani"],
+    "answer": "Giddha",
+    "desc": "Giddha is a women’s folk dance from Punjab, performed during celebrations."
+  },
+  {
+    "q": "Which dance is a circular dance from Assam?",
+    "pool": ["Bihu", "Odissi", "Kuchipudi", "Garba", "Nati"],
+    "answer": "Bihu",
+    "desc": "Bihu involves circular group dances, celebrating the agricultural cycle in Assam."
+  },
+  {
+    "q": "What dance is known for its dramatic expressions in Kerala?",
+    "pool": ["Kathakali", "Bhangra", "Garba", "Lavani", "Jhumar"],
+    "answer": "Kathakali",
+    "desc": "Kathakali is known for its dramatic facial expressions and storytelling in Kerala."
+  },
+  {
+    "q": "Which dance is a folk form from Uttarakhand?",
+    "pool": ["Garhwali", "Odissi", "Kuchipudi", "Garba", "Nati"],
+    "answer": "Garhwali",
+    "desc": "Garhwali is a folk dance from Uttarakhand, reflecting local traditions."
+  },
+
+
+  {
+    "q": "Which folk dance is associated with the state of Punjab?",
+    "pool": ["Bihu", "Garba", "Ghoomar", "Bhangra", "Lavani"],
+    "answer": "Bhangra",
+    "desc": "Bhangra is a vibrant folk dance from Punjab, originally performed during the harvest festival of Baisakhi."
+  },
+  {
+    "q": "Garba is a traditional folk dance of which Indian state?",
+    "pool": ["Maharashtra", "Gujarat", "Rajasthan", "Punjab", "Kerala"],
+    "answer": "Gujarat",
+    "desc": "Garba is a famous dance from Gujarat, performed during Navratri."
+  },
+  {
+    "q": "Which state is known for the folk dance 'Bihu'?",
+    "pool": ["Assam", "Manipur", "Tripura", "West Bengal", "Jharkhand"],
+    "answer": "Assam",
+    "desc": "Bihu is performed in Assam during the Bihu festival to celebrate the Assamese New Year."
+  },
+  {
+    "q": "Ghoomar is a traditional dance form from which Indian state?",
+    "pool": ["Haryana", "Madhya Pradesh", "Rajasthan", "Gujarat", "Uttar Pradesh"],
+    "answer": "Rajasthan",
+    "desc": "Ghoomar is a graceful dance performed by women in Rajasthan."
+  },
+  {
+    "q": "Which folk dance form is famous in Maharashtra?",
+    "pool": ["Bhangra", "Garba", "Lavani", "Kalbeliya", "Yakshagana"],
+    "answer": "Lavani",
+    "desc": "Lavani is a traditional dance form known for its powerful rhythm and sensuous movements, popular in Maharashtra."
+  },
+  {
+    "q": "Yakshagana is a folk dance form from which Indian state?",
+    "pool": ["Karnataka", "Tamil Nadu", "Kerala", "Odisha", "Andhra Pradesh"],
+    "answer": "Karnataka",
+    "desc": "Yakshagana is a dance-drama form from Karnataka that combines dance, music, dialogue, and costumes."
+  },
+  {
+    "q": "Rouf is a traditional folk dance from which region?",
+    "pool": ["Punjab", "Assam", "Kashmir", "Nagaland", "Jharkhand"],
+    "answer": "Kashmir",
+    "desc": "Rouf is a beautiful dance performed by Kashmiri women during festivals like Eid and springtime."
+  },
+  {
+    "q": "Which folk dance form is performed during Onam in Kerala?",
+    "pool": ["Kummi", "Thirayattam", "Kaikottikali", "Oppana", "Bihu"],
+    "answer": "Kaikottikali",
+    "desc": "Kaikottikali, also called Thiruvathirakali, is a popular group dance by women during Onam in Kerala."
+  },
+  {
+    "q": "Dollu Kunitha is a drum dance from which Indian state?",
+    "pool": ["Kerala", "Karnataka", "Andhra Pradesh", "Maharashtra", "Tamil Nadu"],
+    "answer": "Karnataka",
+    "desc": "Dollu Kunitha is a vigorous drum dance performed by men in Karnataka."
+  },
+  {
+    "q": "What is the famous folk dance of Manipur?",
+    "pool": ["Thang Ta", "Cheraw", "Lezim", "Rouf", "Dalkhai"],
+    "answer": "Thang Ta",
+    "desc": "Thang Ta is a Manipuri martial dance involving swords and shields."
+  },
+  {
+    "q": "Which Indian state is associated with the 'Chhau' dance?",
+    "pool": ["West Bengal", "Jharkhand", "Odisha", "All of the above", "Assam"],
+    "answer": "All of the above",
+    "desc": "Chhau is a tribal martial dance practiced in West Bengal, Jharkhand, and Odisha."
+  },
+  {
+    "q": "Which folk dance is known as the 'Bamboo Dance' of Mizoram?",
+    "pool": ["Rouf", "Thang Ta", "Cheraw", "Nati", "Bhangra"],
+    "answer": "Cheraw",
+    "desc": "Cheraw is a traditional bamboo dance performed by the Mizo people."
+  },
+  {
+    "q": "Kummi is a popular folk dance of which state?",
+    "pool": ["Kerala", "Tamil Nadu", "Karnataka", "Odisha", "Maharashtra"],
+    "answer": "Tamil Nadu",
+    "desc": "Kummi is a traditional dance performed by women in Tamil Nadu."
+  },
+  {
+    "q": "Nati is a folk dance from which region?",
+    "pool": ["Himachal Pradesh", "Uttarakhand", "Punjab", "Jammu & Kashmir", "Haryana"],
+    "answer": "Himachal Pradesh",
+    "desc": "Nati is one of the most popular folk dances of Himachal Pradesh."
+  },
+  {
+    "q": "Which folk dance is traditionally performed by the Kalbeliya tribe?",
+    "pool": ["Lavani", "Garba", "Kalbeliya", "Bihu", "Yakshagana"],
+    "answer": "Kalbeliya",
+    "desc": "Kalbeliya is a sensuous dance performed by women of the Kalbeliya tribe in Rajasthan."
+  },
+  {
+    "q": "The Oppana dance is associated with which community?",
+    "pool": ["Tamil", "Kashmiri", "Malayali Muslims", "Gujarati", "Nagaland Tribes"],
+    "answer": "Malayali Muslims",
+    "desc": "Oppana is a traditional dance form of the Muslim community in Kerala."
+  },
+  {
+    "q": "Hojagiri is a folk dance of which Indian state?",
+    "pool": ["Tripura", "Manipur", "Assam", "Sikkim", "Nagaland"],
+    "answer": "Tripura",
+    "desc": "Hojagiri is a popular dance of the Reang tribe in Tripura."
+  },
+  {
+    "q": "Which folk dance is associated with the harvest festival in Haryana?",
+    "pool": ["Jhumar", "Bhangra", "Giddha", "Phag", "Garba"],
+    "answer": "Phag",
+    "desc": "Phag is a seasonal dance of Haryana performed during the Holi and harvest season."
+  },
+  {
+    "q": "Lezim is a popular folk dance in which Indian state?",
+    "pool": ["Punjab", "Gujarat", "Kerala", "Maharashtra", "Karnataka"],
+    "answer": "Maharashtra",
+    "desc": "Lezim is an energetic group dance involving a musical instrument called 'Lezim' in Maharashtra."
+  },
+  {
+    "q": "Jhijhiya dance is performed in which state of India?",
+    "pool": ["Bihar", "Uttar Pradesh", "Rajasthan", "Assam", "Chhattisgarh"],
+    "answer": "Bihar",
+    "desc": "Jhijhiya is a devotional folk dance performed during Dussehra in Bihar."
+  },
+  {
+    "q": "Which tribal dance is famous in the Bastar region of Chhattisgarh?",
+    "pool": ["Dandari", "Gaur Maria", "Karma", "Dhamaal", "Giddha"],
+    "answer": "Gaur Maria",
+    "desc": "Gaur Maria is a tribal dance of the Maria community in Bastar, Chhattisgarh."
+  },
+  {
+    "q": "Which is a popular folk dance of Uttarakhand?",
+    "pool": ["Chholiya", "Nati", "Rouf", "Lavani", "Kaikottikali"],
+    "answer": "Chholiya",
+    "desc": "Chholiya is a sword dance performed during marriage ceremonies in Uttarakhand."
+  },
+  {
+    "q": "Which dance is famous among the tribal communities in Jharkhand?",
+    "pool": ["Karma", "Rouf", "Bhangra", "Garba", "Lavani"],
+    "answer": "Karma",
+    "desc": "Karma is a tribal dance performed during the Karma festival in Jharkhand."
+  },
+  {
+    "q": "Which is a traditional dance of Goa performed during festivals?",
+    "pool": ["Fugdi", "Ghoomar", "Yakshagana", "Kummi", "Kalbeliya"],
+    "answer": "Fugdi",
+    "desc": "Fugdi is a folk dance performed by Goan women during Ganesh Chaturthi and other festivals."
+  },
+  {
+    "q": "Which is a classical tribal martial dance from Nagaland?",
+    "pool": ["Cheraw", "Chang Lo", "Hojagiri", "Nati", "Karma"],
+    "answer": "Chang Lo",
+    "desc": "Chang Lo is performed by the Chang tribe of Nagaland, often to celebrate victories."
+  },
+  {
+    "q": "Giddha is the female counterpart of which male folk dance?",
+    "pool": ["Lavani", "Bhangra", "Nati", "Garba", "Yakshagana"],
+    "answer": "Bhangra",
+    "desc": "Giddha is a Punjabi folk dance performed by women and is the female counterpart of Bhangra."
+  },
+  {
+    "q": "Veeragase is a traditional folk dance of which Indian state?",
+    "pool": ["Tamil Nadu", "Andhra Pradesh", "Karnataka", "Kerala", "Maharashtra"],
+    "answer": "Karnataka",
+    "desc": "Veeragase is a vigorous dance based on Hindu mythology performed in Karnataka."
+  },
+  {
+    "q": "Which dance form is popular in West Bengal during the harvest season?",
+    "pool": ["Dalkhai", "Bihu", "Tusu", "Chhau", "Ghoomar"],
+    "answer": "Tusu",
+    "desc": "Tusu is a traditional tribal folk dance performed during Makar Sankranti in West Bengal."
+  },
+  {
+    "q": "Padayani is a folk dance of which Indian state?",
+    "pool": ["Tamil Nadu", "Odisha", "Kerala", "Karnataka", "Goa"],
+    "answer": "Kerala",
+    "desc": "Padayani is a ritual dance performed in Kerala temples, combining dance, music, and theater."
+  },
+  {
+    "q": "What is the famous folk dance of the Santhal tribe?",
+    "pool": ["Garba", "Chhau", "Santhali", "Ghoomar", "Lavani"],
+    "answer": "Santhali",
+    "desc": "Santhali dance is performed by the Santhal tribe in Jharkhand, Bihar, Odisha, and West Bengal."
+  }
+]

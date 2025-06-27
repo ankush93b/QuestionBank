@@ -1,0 +1,578 @@
+[
+  {
+    "q": "What is the official currency of Japan?",
+    "pool": ["Yen", "Won", "Dollar", "Euro", "Pound"],
+    "answer": "Yen",
+    "desc": "The Yen is the official currency of Japan, abbreviated with the symbol ¥."
+  },
+  {
+    "q": "Which country uses the Euro as its official currency?",
+    "pool": ["Brazil", "Germany", "India", "Japan", "Canada"],
+    "answer": "Germany",
+    "desc": "Germany, as a member of the European Union, uses the Euro (€) as its official currency."
+  },
+  {
+    "q": "The currency 'Rand' is used by which African country?",
+    "pool": ["Nigeria", "South Africa", "Kenya", "Ghana", "Egypt"],
+    "answer": "South Africa",
+    "desc": "The Rand (ZAR) is the official currency of South Africa."
+  },
+  {
+    "q": "What is the currency of Brazil?",
+    "pool": ["Peso", "Real", "Dollar", "Rupee", "Bolivar"],
+    "answer": "Real",
+    "desc": "The Brazilian Real (BRL) is the official currency of Brazil."
+  },
+  {
+    "q": "Which country uses the Won as its currency?",
+    "pool": ["South Korea", "China", "Vietnam", "Thailand", "Malaysia"],
+    "answer": "South Korea",
+    "desc": "The South Korean Won (KRW) is the official currency of South Korea."
+  },
+  {
+    "q": "What is the official currency of Russia?",
+    "pool": ["Ruble", "Dollar", "Euro", "Yen", "Pound"],
+    "answer": "Ruble",
+    "desc": "The Russian Ruble (RUB) is the official currency of Russia."
+  },
+  {
+    "q": "Which country's currency is the Dollar, abbreviated as USD?",
+    "pool": ["Australia", "Canada", "United States", "New Zealand", "Singapore"],
+    "answer": "United States",
+    "desc": "The United States Dollar (USD) is the official currency of the United States."
+  },
+  {
+    "q": "What is the currency of India?",
+    "pool": ["Rupee", "Rial", "Dirham", "Taka", "Baht"],
+    "answer": "Rupee",
+    "desc": "The Indian Rupee (INR) is the official currency of India, symbolized by ₹."
+  },
+  {
+    "q": "Which country uses the Pound Sterling as its currency?",
+    "pool": ["Ireland", "United Kingdom", "France", "Germany", "Italy"],
+    "answer": "United Kingdom",
+    "desc": "The Pound Sterling (GBP) is the official currency of the United Kingdom."
+  },
+  {
+    "q": "What is the official currency of China?",
+    "pool": ["Yuan", "Yen", "Won", "Ringgit", "Baht"],
+    "answer": "Yuan",
+    "desc": "The Chinese Yuan (CNY), also known as Renminbi, is the official currency of China."
+  },
+  {
+    "q": "Which country uses the Peso as its official currency?",
+    "pool": ["Spain", "Mexico", "Brazil", "Peru", "Chile"],
+    "answer": "Mexico",
+    "desc": "The Mexican Peso (MXN) is the official currency of Mexico."
+  },
+  {
+    "q": "What is the currency of Australia?",
+    "pool": ["Dollar", "Pound", "Euro", "Yen", "Franc"],
+    "answer": "Dollar",
+    "desc": "The Australian Dollar (AUD) is the official currency of Australia."
+  },
+  {
+    "q": "Which country uses the Swiss Franc as its currency?",
+    "pool": ["Sweden", "Switzerland", "Norway", "Denmark", "Austria"],
+    "answer": "Switzerland",
+    "desc": "The Swiss Franc (CHF) is the official currency of Switzerland."
+  },
+  {
+    "q": "What is the official currency of Canada?",
+    "pool": ["Dollar", "Pound", "Euro", "Peso", "Ruble"],
+    "answer": "Dollar",
+    "desc": "The Canadian Dollar (CAD) is the official currency of Canada."
+  },
+  {
+    "q": "Which country's currency is the Krona?",
+    "pool": ["Norway", "Sweden", "Finland", "Denmark", "Iceland"],
+    "answer": "Sweden",
+    "desc": "The Swedish Krona (SEK) is the official currency of Sweden."
+  },
+  {
+    "q": "What is the currency of Saudi Arabia?",
+    "pool": ["Rial", "Dinar", "Dirham", "Rupee", "Lira"],
+    "answer": "Rial",
+    "desc": "The Saudi Riyal (SAR) is the official currency of Saudi Arabia."
+  },
+  {
+    "q": "Which country uses the Dinar as its currency?",
+    "pool": ["Egypt", "Iraq", "Syria", "Lebanon", "Qatar"],
+    "answer": "Iraq",
+    "desc": "The Iraqi Dinar (IQD) is the official currency of Iraq."
+  },
+  {
+    "q": "What is the official currency of Thailand?",
+    "pool": ["Baht", "Ringgit", "Dong", "Rupee", "Yen"],
+    "answer": "Baht",
+    "desc": "The Thai Baht (THB) is the official currency of Thailand."
+  },
+  {
+    "q": "Which country uses the Ringgit as its currency?",
+    "pool": ["Indonesia", "Malaysia", "Singapore", "Philippines", "Brunei"],
+    "answer": "Malaysia",
+    "desc": "The Malaysian Ringgit (MYR) is the official currency of Malaysia."
+  },
+  {
+    "q": "What is the currency of New Zealand?",
+    "pool": ["Dollar", "Pound", "Euro", "Yen", "Franc"],
+    "answer": "Dollar",
+    "desc": "The New Zealand Dollar (NZD) is the official currency of New Zealand."
+  },
+  {
+    "q": "Which country uses the Dirham as its currency?",
+    "pool": ["Saudi Arabia", "United Arab Emirates", "Qatar", "Kuwait", "Bahrain"],
+    "answer": "United Arab Emirates",
+    "desc": "The United Arab Emirates Dirham (AED) is the official currency of the UAE."
+  },
+  {
+    "q": "What is the official currency of Singapore?",
+    "pool": ["Dollar", "Yen", "Won", "Ringgit", "Baht"],
+    "answer": "Dollar",
+    "desc": "The Singapore Dollar (SGD) is the official currency of Singapore."
+  },
+  {
+    "q": "Which country uses the Bolivar as its currency?",
+    "pool": ["Colombia", "Venezuela", "Peru", "Bolivia", "Chile"],
+    "answer": "Venezuela",
+    "desc": "The Venezuelan Bolívar (VES) is the official currency of Venezuela."
+  },
+  {
+    "q": "What is the currency of Nigeria?",
+    "pool": ["Naira", "Cedi", "Shilling", "Rand", "Dinar"],
+    "answer": "Naira",
+    "desc": "The Nigerian Naira (NGN) is the official currency of Nigeria."
+  },
+  {
+    "q": "Which country uses the Rupee as its currency, apart from India?",
+    "pool": ["Bangladesh", "Pakistan", "Nepal", "Sri Lanka", "Bhutan"],
+    "answer": "Pakistan",
+    "desc": "The Pakistani Rupee (PKR) is the official currency of Pakistan."
+  },
+  {
+    "q": "What is the official currency of Egypt?",
+    "pool": ["Pound", "Dinar", "Rial", "Dirham", "Lira"],
+    "answer": "Pound",
+    "desc": "The Egyptian Pound (EGP) is the official currency of Egypt."
+  },
+  {
+    "q": "Which country uses the Taka as its currency?",
+    "pool": ["India", "Bangladesh", "Nepal", "Bhutan", "Maldives"],
+    "answer": "Bangladesh",
+    "desc": "The Bangladeshi Taka (BDT) is the official currency of Bangladesh."
+  },
+  {
+    "q": "What is the currency of Turkey?",
+    "pool": ["Lira", "Dinar", "Rial", "Pound", "Euro"],
+    "answer": "Lira",
+    "desc": "The Turkish Lira (TRY) is the official currency of Turkey."
+  },
+  {
+    "q": "Which country uses the Krone as its currency?",
+    "pool": ["Sweden", "Norway", "Finland", "Denmark", "Iceland"],
+    "answer": "Norway",
+    "desc": "The Norwegian Krone (NOK) is the official currency of Norway."
+  },
+  {
+    "q": "What is the official currency of Argentina?",
+    "pool": ["Peso", "Real", "Dollar", "Bolivar", "Rupee"],
+    "answer": "Peso",
+    "desc": "The Argentine Peso (ARS) is the official currency of Argentina."
+  },
+  {
+    "q": "Which country uses the Zloty as its currency?",
+    "pool": ["Poland", "Czech Republic", "Slovakia", "Hungary", "Romania"],
+    "answer": "Poland",
+    "desc": "The Polish Zloty (PLN) is the official currency of Poland."
+  },
+  {
+    "q": "What is the currency of South Africa?",
+    "pool": ["Rand", "Naira", "Cedi", "Shilling", "Dinar"],
+    "answer": "Rand",
+    "desc": "The South African Rand (ZAR) is the official currency of South Africa."
+  },
+  {
+    "q": "Which country uses the Dong as its currency?",
+    "pool": ["Thailand", "Vietnam", "Laos", "Cambodia", "Myanmar"],
+    "answer": "Vietnam",
+    "desc": "The Vietnamese Dong (VND) is the official currency of Vietnam."
+  },
+  {
+    "q": "What is the official currency of Indonesia?",
+    "pool": ["Rupiah", "Ringgit", "Baht", "Dong", "Peso"],
+    "answer": "Rupiah",
+    "desc": "The Indonesian Rupiah (IDR) is the official currency of Indonesia."
+  },
+  {
+    "q": "Which country uses the Forint as its currency?",
+    "pool": ["Romania", "Hungary", "Poland", "Czech Republic", "Slovakia"],
+    "answer": "Hungary",
+    "desc": "The Hungarian Forint (HUF) is the official currency of Hungary."
+  },
+  {
+    "q": "What is the currency of the Philippines?",
+    "pool": ["Peso", "Dollar", "Rupee", "Baht", "Ringgit"],
+    "answer": "Peso",
+    "desc": "The Philippine Peso (PHP) is the official currency of the Philippines."
+  },
+  {
+    "q": "Which country uses the Koruna as its currency?",
+    "pool": ["Poland", "Czech Republic", "Slovakia", "Hungary", "Romania"],
+    "answer": "Czech Republic",
+    "desc": "The Czech Koruna (CZK) is the official currency of the Czech Republic."
+  },
+  {
+    "q": "What is the official currency of Chile?",
+    "pool": ["Peso", "Real", "Dollar", "Bolivar", "Rupee"],
+    "answer": "Peso",
+    "desc": "The Chilean Peso (CLP) is the official currency of Chile."
+  },
+  {
+    "q": "Which country uses the Cedi as its currency?",
+    "pool": ["Nigeria", "Ghana", "Kenya", "South Africa", "Egypt"],
+    "answer": "Ghana",
+    "desc": "The Ghanaian Cedi (GHS) is the official currency of Ghana."
+  },
+  {
+    "q": "What is the currency of Kuwait?",
+    "pool": ["Dinar", "Rial", "Dirham", "Pound", "Lira"],
+    "answer": "Dinar",
+    "desc": "The Kuwaiti Dinar (KWD) is the official currency of Kuwait."
+  },
+  {
+    "q": "Which country uses the Shilling as its currency?",
+    "pool": ["Nigeria", "Kenya", "Ghana", "South Africa", "Egypt"],
+    "answer": "Kenya",
+    "desc": "The Kenyan Shilling (KES) is the official currency of Kenya."
+  },
+  {
+    "q": "What is the official currency of Peru?",
+    "pool": ["Sol", "Peso", "Real", "Dollar", "Bolivar"],
+    "answer": "Sol",
+    "desc": "The Peruvian Sol (PEN) is the official currency of Peru."
+  },
+  {
+    "q": "Which country uses the Leu as its currency?",
+    "pool": ["Poland", "Romania", "Hungary", "Czech Republic", "Slovakia"],
+    "answer": "Romania",
+    "desc": "The Romanian Leu (RON) is the official currency of Romania."
+  },
+  {
+    "q": "What is the currency of Iceland?",
+    "pool": ["Krona", "Krone", "Euro", "Pound", "Dollar"],
+    "answer": "Krona",
+    "desc": "The Icelandic Krona (ISK) is the official currency of Iceland."
+  },
+  {
+    "q": "Which country uses the Riyal as its currency, apart from Saudi Arabia?",
+    "pool": ["United Arab Emirates", "Qatar", "Kuwait", "Bahrain", "Oman"],
+    "answer": "Qatar",
+    "desc": "The Qatari Riyal (QAR) is the official currency of Qatar."
+  },
+  {
+    "q": "What is the official currency of Colombia?",
+    "pool": ["Peso", "Real", "Dollar", "Bolivar", "Sol"],
+    "answer": "Peso",
+    "desc": "The Colombian Peso (COP) is the official currency of Colombia."
+  },
+  {
+    "q": "Which country uses the Hryvnia as its currency?",
+    "pool": ["Russia", "Ukraine", "Belarus", "Poland", "Lithuania"],
+    "answer": "Ukraine",
+    "desc": "The Ukrainian Hryvnia (UAH) is the official currency of Ukraine."
+  },
+  {
+    "q": "What is the currency of Malaysia?",
+    "pool": ["Ringgit", "Baht", "Dong", "Rupiah", "Peso"],
+    "answer": "Ringgit",
+    "desc": "The Malaysian Ringgit (MYR) is the official currency of Malaysia."
+  },
+  {
+    "q": "Which country uses the Tenge as its currency?",
+    "pool": ["Uzbekistan", "Kazakhstan", "Kyrgyzstan", "Turkmenistan", "Tajikistan"],
+    "answer": "Kazakhstan",
+    "desc": "The Kazakhstani Tenge (KZT) is the official currency of Kazakhstan."
+  },
+  {
+    "q": "What is the official currency of Morocco?",
+    "pool": ["Dirham", "Dinar", "Rial", "Pound", "Lira"],
+    "answer": "Dirham",
+    "desc": "The Moroccan Dirham (MAD) is the official currency of Morocco."
+  },
+  {
+    "q": "Which country uses the Kuna as its currency?",
+    "pool": ["Croatia", "Serbia", "Bosnia", "Montenegro", "Slovenia"],
+    "answer": "Croatia",
+    "desc": "The Croatian Kuna (HRK) is the official currency of Croatia."
+  },
+  {
+    "q": "What is the currency of Sri Lanka?",
+    "pool": ["Rupee", "Taka", "Rial", "Dirham", "Baht"],
+    "answer": "Rupee",
+    "desc": "The Sri Lankan Rupee (LKR) is the official currency of Sri Lanka."
+  },
+  {
+    "q": "Which country uses the Som as its currency?",
+    "pool": ["Uzbekistan", "Kyrgyzstan", "Kazakhstan", "Turkmenistan", "Tajikistan"],
+    "answer": "Kyrgyzstan",
+    "desc": "The Kyrgyzstani Som (KGS) is the official currency of Kyrgyzstan."
+  },
+  {
+    "q": "What is the official currency of Algeria?",
+    "pool": ["Dinar", "Dirham", "Rial", "Pound", "Lira"],
+    "answer": "Dinar",
+    "desc": "The Algerian Dinar (DZD) is the official currency of Algeria."
+  },
+  {
+    "q": "Which country uses the Manat as its currency?",
+    "pool": ["Uzbekistan", "Turkmenistan", "Kazakhstan", "Kyrgyzstan", "Tajikistan"],
+    "answer": "Turkmenistan",
+    "desc": "The Turkmenistani Manat (TMT) is the official currency of Turkmenistan."
+  },
+  {
+    "q": "What is the currency of Nepal?",
+    "pool": ["Rupee", "Taka", "Rial", "Dirham", "Baht"],
+    "answer": "Rupee",
+    "desc": "The Nepalese Rupee (NPR) is the official currency of Nepal."
+  },
+  {
+    "q": "Which country uses the Balboa as its currency?",
+    "pool": ["Costa Rica", "Panama", "Nicaragua", "Honduras", "El Salvador"],
+    "answer": "Panama",
+    "desc": "The Panamanian Balboa (PAB) is the official currency of Panama, alongside the US Dollar."
+  },
+  {
+    "q": "What is the official currency of Ethiopia?",
+    "pool": ["Birr", "Shilling", "Naira", "Cedi", "Rand"],
+    "answer": "Birr",
+    "desc": "The Ethiopian Birr (ETB) is the official currency of Ethiopia."
+  },
+  {
+    "q": "Which country uses the Cordoba as its currency?",
+    "pool": ["Costa Rica", "Nicaragua", "Panama", "Honduras", "El Salvador"],
+    "answer": "Nicaragua",
+    "desc": "The Nicaraguan Cordoba (NIO) is the official currency of Nicaragua."
+  },
+  {
+    "q": "What is the currency of Bahrain?",
+    "pool": ["Dinar", "Rial", "Dirham", "Pound", "Lira"],
+    "answer": "Dinar",
+    "desc": "The Bahraini Dinar (BHD) is the official currency of Bahrain."
+  },
+  {
+    "q": "Which country uses the Lempira as its currency?",
+    "pool": ["Costa Rica", "Honduras", "Nicaragua", "Panama", "El Salvador"],
+    "answer": "Honduras",
+    "desc": "The Honduran Lempira (HNL) is the official currency of Honduras."
+  },
+  {
+    "q": "What is the official currency of Oman?",
+    "pool": ["Rial", "Dinar", "Dirham", "Pound", "Lira"],
+    "answer": "Rial",
+    "desc": "The Omani Rial (OMR) is the official currency of Oman."
+  },
+  {
+    "q": "Which country uses the Tala as its currency?",
+    "pool": ["Fiji", "Samoa", "Tonga", "Vanuatu", "Solomon Islands"],
+    "answer": "Samoa",
+    "desc": "The Samoan Tala (WST) is the official currency of Samoa."
+  },
+  {
+    "q": "What is the currency of Bhutan?",
+    "pool": ["Ngultrum", "Rupee", "Taka", "Rial", "Dirham"],
+    "answer": "Ngultrum",
+    "desc": "The Bhutanese Ngultrum (BTN) is the official currency of Bhutan."
+  },
+  {
+    "q": "Which country uses the Quetzal as its currency?",
+    "pool": ["Costa Rica", "Guatemala", "Nicaragua", "Honduras", "El Salvador"],
+    "answer": "Guatemala",
+    "desc": "The Guatemalan Quetzal (GTQ) is the official currency of Guatemala."
+  },
+  {
+    "q": "What is the official currency of Jordan?",
+    "pool": ["Dinar", "Rial", "Dirham", "Pound", "Lira"],
+    "answer": "Dinar",
+    "desc": "The Jordanian Dinar (JOD) is the official currency of Jordan."
+  },
+  {
+    "q": "Which country uses the Pataca as its currency?",
+    "pool": ["Macau", "Hong Kong", "Taiwan", "Singapore", "Malaysia"],
+    "answer": "Macau",
+    "desc": "The Macanese Pataca (MOP) is the official currency of Macau."
+  },
+  {
+    "q": "What is the currency of Mongolia?",
+    "pool": ["Tugrik", "Tenge", "Som", "Manat", "Dram"],
+    "answer": "Tugrik",
+    "desc": "The Mongolian Tugrik (MNT) is the official currency of Mongolia."
+  },
+  {
+    "q": "Which country uses the Vatu as its currency?",
+    "pool": ["Fiji", "Vanuatu", "Samoa", "Tonga", "Solomon Islands"],
+    "answer": "Vanuatu",
+    "desc": "The Vanuatu Vatu (VUV) is the official currency of Vanuatu."
+  },
+  {
+    "q": "What is the official currency of Tunisia?",
+    "pool": ["Dinar", "Dirham", "Rial", "Pound", "Lira"],
+    "answer": "Dinar",
+    "desc": "The Tunisian Dinar (TND) is the official currency of Tunisia."
+  },
+  {
+    "q": "Which country uses the Guarani as its currency?",
+    "pool": ["Paraguay", "Uruguay", "Bolivia", "Peru", "Chile"],
+    "answer": "Paraguay",
+    "desc": "The Paraguayan Guarani (PYG) is the official currency of Paraguay."
+  },
+  {
+    "q": "What is the currency of Cambodia?",
+    "pool": ["Riel", "Baht", "Dong", "Rupiah", "Ringgit"],
+    "answer": "Riel",
+    "desc": "The Cambodian Riel (KHR) is the official currency of Cambodia."
+  },
+  {
+    "q": "Which country uses the Pa’anga as its currency?",
+    "pool": ["Fiji", "Samoa", "Tonga", "Vanuatu", "Solomon Islands"],
+    "answer": "Tonga",
+    "desc": "The Tongan Pa’anga (TOP) is the official currency of Tonga."
+  },
+  {
+    "q": "What is the official currency of Uruguay?",
+    "pool": ["Peso", "Real", "Dollar", "Bolivar", "Sol"],
+    "answer": "Peso",
+    "desc": "The Uruguayan Peso (UYU) is the official currency of Uruguay."
+  },
+  {
+    "q": "Which country uses the Rufiyaa as its currency?",
+    "pool": ["Maldives", "Sri Lanka", "Nepal", "Bhutan", "Bangladesh"],
+    "answer": "Maldives",
+    "desc": "The Maldivian Rufiyaa (MVR) is the official currency of the Maldives."
+  },
+  {
+    "q": "What is the currency of Armenia?",
+    "pool": ["Dram", "Tugrik", "Tenge", "Som", "Manat"],
+    "answer": "Dram",
+    "desc": "The Armenian Dram (AMD) is the official currency of Armenia."
+  },
+  {
+    "q": "Which country uses the Kwanza as its currency?",
+    "pool": ["Angola", "Zambia", "Mozambique", "Botswana", "Namibia"],
+    "answer": "Angola",
+    "desc": "The Angolan Kwanza (AOA) is the official currency of Angola."
+  },
+  {
+    "q": "What is the official currency of Costa Rica?",
+    "pool": ["Colon", "Peso", "Balboa", "Cordoba", "Quetzal"],
+    "answer": "Colon",
+    "desc": "The Costa Rican Colon (CRC) is the official currency of Costa Rica."
+  },
+  {
+    "q": "Which country uses the Kina as its currency?",
+    "pool": ["Fiji", "Papua New Guinea", "Samoa", "Tonga", "Vanuatu"],
+    "answer": "Papua New Guinea",
+    "desc": "The Papua New Guinean Kina (PGK) is the official currency of Papua New Guinea."
+  },
+  {
+    "q": "What is the currency of Serbia?",
+    "pool": ["Dinar", "Kuna", "Leu", "Forint", "Koruna"],
+    "answer": "Dinar",
+    "desc": "The Serbian Dinar (RSD) is the official currency of Serbia."
+  },
+  {
+    "q": "Which country uses the Lari as its currency?",
+    "pool": ["Armenia", "Georgia", "Azerbaijan", "Ukraine", "Belarus"],
+    "answer": "Georgia",
+    "desc": "The Georgian Lari (GEL) is the official currency of Georgia."
+  },
+  {
+    "q": "What is the official currency of Fiji?",
+    "pool": ["Dollar", "Tala", "Vatu", "Pa’anga", "Kina"],
+    "answer": "Dollar",
+    "desc": "The Fijian Dollar (FJD) is the official currency of Fiji."
+  },
+  {
+    "q": "Which country uses the Nakfa as its currency?",
+    "pool": ["Ethiopia", "Eritrea", "Somalia", "Sudan", "South Sudan"],
+    "answer": "Eritrea",
+    "desc": "The Eritrean Nakfa (ERN) is the official currency of Eritrea."
+  },
+  {
+    "q": "What is the currency of Jamaica?",
+    "pool": ["Dollar", "Peso", "Pound", "Shilling", "Cedi"],
+    "answer": "Dollar",
+    "desc": "The Jamaican Dollar (JMD) is the official currency of Jamaica."
+  },
+  {
+    "q": "Which country uses the Somoni as its currency?",
+    "pool": ["Uzbekistan", "Tajikistan", "Kazakhstan", "Kyrgyzstan", "Turkmenistan"],
+    "answer": "Tajikistan",
+    "desc": "The Tajikistani Somoni (TJS) is the official currency of Tajikistan."
+  },
+  {
+    "q": "What is the official currency of Brunei?",
+    "pool": ["Dollar", "Ringgit", "Baht", "Rupiah", "Peso"],
+    "answer": "Dollar",
+    "desc": "The Brunei Dollar (BND) is the official currency of Brunei."
+  },
+  {
+    "q": "Which country uses the Lilangeni as its currency?",
+    "pool": ["Swaziland", "Lesotho", "Botswana", "Namibia", "Zambia"],
+    "answer": "Swaziland",
+    "desc": "The Swazi Lilangeni (SZL) is the official currency of Eswatini (Swaziland)."
+  },
+  {
+    "q": "What is the currency of Botswana?",
+    "pool": ["Pula", "Rand", "Kwacha", "Lilangeni", "Birr"],
+    "answer": "Pula",
+    "desc": "The Botswana Pula (BWP) is the official currency of Botswana."
+  },
+  {
+    "q": "Which country uses the Dalasi as its currency?",
+    "pool": ["Ghana", "Gambia", "Nigeria", "Sierra Leone", "Liberia"],
+    "answer": "Gambia",
+    "desc": "The Gambian Dalasi (GMD) is the official currency of Gambia."
+  },
+  {
+    "q": "What is the official currency of Namibia?",
+    "pool": ["Dollar", "Rand", "Pula", "Kwacha", "Lilangeni"],
+    "answer": "Dollar",
+    "desc": "The Namibian Dollar (NAD) is the official currency of Namibia."
+  },
+  {
+    "q": "Which country uses the Ouguiya as its currency?",
+    "pool": ["Mali", "Mauritania", "Senegal", "Niger", "Burkina Faso"],
+    "answer": "Mauritania",
+    "desc": "The Mauritanian Ouguiya (MRU) is the official currency of Mauritania."
+  },
+  {
+    "q": "What is the currency of Zambia?",
+    "pool": ["Kwacha", "Pula", "Rand", "Lilangeni", "Birr"],
+    "answer": "Kwacha",
+    "desc": "The Zambian Kwacha (ZMW) is the official currency of Zambia."
+  },
+  {
+    "q": "Which country uses the Tögrög as its currency?",
+    "pool": ["Mongolia", "Kazakhstan", "Kyrgyzstan", "Uzbekistan", "Tajikistan"],
+    "answer": "Mongolia",
+    "desc": "The Mongolian Tögrög (MNT) is another name for the Tugrik, the official currency of Mongolia."
+  },
+  {
+    "q": "What is the official currency of Lesotho?",
+    "pool": ["Loti", "Rand", "Pula", "Kwacha", "Lilangeni"],
+    "answer": "Loti",
+    "desc": "The Lesotho Loti (LSL) is the official currency of Lesotho."
+  },
+  {
+    "q": "Which country uses the Ariary as its currency?",
+    "pool": ["Madagascar", "Mozambique", "Malawi", "Zambia", "Tanzania"],
+    "answer": "Madagascar",
+    "desc": "The Malagasy Ariary (MGA) is the official currency of Madagascar."
+  },
+  {
+    "q": "What is the currency of Mauritius?",
+    "pool": ["Rupee", "Taka", "Rial", "Dirham", "Baht"],
+    "answer": "Rupee",
+    "desc": "The Mauritian Rupee (MUR) is the official currency of Mauritius."
+  }
+]

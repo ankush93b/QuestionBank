@@ -1,0 +1,177 @@
+[
+  {
+    "q": "Who is known as Andhra Kesari?",
+    "pool": ["T Prakasham", "Jagjivan Ram", "Mahatma Gandhi", "C Rajagopalachari", "Chitranjan Das"],
+    "answer": "T Prakasham",
+    "desc": "T Prakasham is known as Andhra Kesari, a title recognizing his leadership in Andhra Pradesh."
+  },
+  {
+    "q": "Which personality is referred to as Babuji?",
+    "pool": ["Jagjivan Ram", "Mahatma Gandhi", "C Rajagopalachari", "Chitranjan Das", "Dadabhai Naoroji"],
+    "answer": "Jagjivan Ram",
+    "desc": "Jagjivan Ram is popularly known as Babuji, a respected leader and social reformer in India."
+  },
+  {
+    "q": "Who is known by the popular name Bapu?",
+    "pool": ["Mahatma Gandhi", "C Rajagopalachari", "Chitranjan Das", "Dadabhai Naoroji", "Lala Lajpat Rai"],
+    "answer": "Mahatma Gandhi",
+    "desc": "Mahatma Gandhi is affectionately called Bapu, symbolizing his fatherly role in India's freedom struggle."
+  },
+  {
+    "q": "Which personality is called CR?",
+    "pool": ["C Rajagopalachari", "Chitranjan Das", "Dadabhai Naoroji", "Lala Lajpat Rai", "Bal Gangadhar Tilak"],
+    "answer": "C Rajagopalachari",
+    "desc": "C Rajagopalachari, a key freedom fighter and India's first Indian Governor-General, is known as CR."
+  },
+  {
+    "q": "Who is known as Desh Bandhu?",
+    "pool": ["Chitranjan Das", "Dadabhai Naoroji", "Lala Lajpat Rai", "Bal Gangadhar Tilak", "Bipin Chandra Pal"],
+    "answer": "Chitranjan Das",
+    "desc": "Chitranjan Das is called Desh Bandhu, meaning 'Friend of the Nation,' for his contributions to India's freedom."
+  },
+  {
+    "q": "Which personality is referred to as Grand Old Man?",
+    "pool": ["Dadabhai Naoroji", "Lala Lajpat Rai", "Bal Gangadhar Tilak", "Bipin Chandra Pal", "MS Golwalkar"],
+    "answer": "Dadabhai Naoroji",
+    "desc": "Dadabhai Naoroji is known as the Grand Old Man for his pioneering role in India's political movement."
+  },
+  {
+    "q": "Who is not the part of the trio known as Lal, Bal, Pal?",
+    "pool": ["Lala Lajpat Rai", "Bal Gangadhar Tilak", "Bipin Chandra Pal", "MS Golwalkar"],
+    "answer": "MS Golwalkar",
+    "desc": "Lala Lajpat Rai, along with Bal Gangadhar Tilak and Bipin Chandra Pal, formed the famous Lal, Bal, Pal trio."
+  },
+  {
+    "q": "Which personality is known as Guruji?",
+    "pool": ["MS Golwalkar", "Rabindranath Tagore", "Vallabhbhai Patel", "Major Rajender Singh", "T Prakasham"],
+    "answer": "MS Golwalkar",
+    "desc": "MS Golwalkar is known as Guruji, a title reflecting his leadership in the RSS organization."
+  },
+  {
+    "q": "Who is referred to as Gurudev?",
+    "pool": ["Rabindranath Tagore", "Vallabhbhai Patel", "Major Rajender Singh", "Jagjivan Ram", "Mahatma Gandhi"],
+    "answer": "Rabindranath Tagore",
+    "desc": "Rabindranath Tagore is called Gurudev, honoring his contributions to literature and philosophy."
+  },
+  {
+    "q": "Which personality is known as Iron Man?",
+    "pool": ["Vallabhbhai Patel", "Major Rajender Singh", "T Prakasham", "Jagjivan Ram", "Chitranjan Das"],
+    "answer": "Vallabhbhai Patel",
+    "desc": "Vallabhbhai Patel is known as Iron Man for his strong leadership in unifying India."
+  },
+  {
+    "q": "Who is called Sparrow?",
+    "pool": ["Major Rajender Singh", "T Prakasham", "Jagjivan Ram", "Mahatma Gandhi", "C Rajagopalachari"],
+    "answer": "Major Rajender Singh",
+    "desc": "Major Rajender Singh is nicknamed Sparrow, likely due to his small stature and significant military role."
+  },
+  {
+    "q": "Which personality is known as JP?",
+    "pool": ["Jayaprakash Narayan", "Florence Nightingale", "Lala Lajpat Rai", "Napoleon", "Bal Gangadhar Tilak"],
+    "answer": "Jayaprakash Narayan",
+    "desc": "Jayaprakash Narayan is known as JP, a prominent leader in India's socialist and freedom movements."
+  },
+  {
+    "q": "Who is referred to as Lady with the Lamp?",
+    "pool": ["Mother Teresa", "Florence Nightingale", "Helen Keller", "Teresa Hsu", "Clara Barton"],
+    "answer": "Florence Nightingale",
+    "desc": "Florence Nightingale is called Lady with the Lamp for her nursing work during the Crimean War."
+  },
+  {
+    "q": "Which personality is known as Lion of the Punjab?",
+    "pool": ["Lala Lajpat Rai", "Napoleon", "Bal Gangadhar Tilak", "Pandit Madan Mohan Malaviya", "Subhash Chandra Bose"],
+    "answer": "Lala Lajpat Rai",
+    "desc": "Lala Lajpat Rai is known as Lion of the Punjab for his fierce nationalism and leadership."
+  },
+  {
+    "q": "Who is called Little Corporal?",
+    "pool": ["Napoleon", "Bal Gangadhar Tilak", "Pandit Madan Mohan Malaviya", "Subhash Chandra Bose", "Bismarck"],
+    "answer": "Napoleon",
+    "desc": "Napoleon is nicknamed Little Corporal due to his early military rank and stature."
+  },
+  {
+    "q": "Which personality is known as Lokmanya?",
+    "pool": ["Bal Gangadhar Tilak", "Pandit Madan Mohan Malaviya", "Subhash Chandra Bose", "Bismarck", "Indian soldier"],
+    "answer": "Bal Gangadhar Tilak",
+    "desc": "Bal Gangadhar Tilak is called Lokmanya, meaning 'accepted by the people,' for his popular leadership."
+  },
+  {
+    "q": "Who is referred to as Jawan?",
+    "pool": ["Indian soldier", "Pandit Madan Mohan Malaviya", "Subhash Chandra Bose", "Bismarck", "Subhash Chandra Bose"],
+    "answer": "Indian soldier",
+    "desc": "Jawan is a term used to refer to an Indian soldier, symbolizing the country's military personnel."
+  },
+  {
+    "q": "Which personality is known as Mahamanya?",
+    "pool": ["Pandit Madan Mohan Malaviya", "Subhash Chandra Bose", "Bismarck", "Subhash Chandra Bose", "Sarojini Naidu"],
+    "answer": "Pandit Madan Mohan Malaviya",
+    "desc": "Pandit Madan Mohan Malaviya is known as Mahamanya, honoring his great wisdom and contributions."
+  },
+  {
+    "q": "Who is called Man of Blood?",
+    "pool": ["Bismarck", "Subhash Chandra Bose", "Sarojini Naidu", "Jawaharlal Nehru", "Lal Bahadur Shastri"],
+    "answer": "Bismarck",
+    "desc": "Bismarck, the German statesman, is historically referred to as Man of Blood for his unification policies."
+  },
+  {
+    "q": "Which personality is known as Netaji?",
+    "pool": ["Subhash Chandra Bose", "Sarojini Naidu", "Jawaharlal Nehru", "Lal Bahadur Shastri", "Florence Nightingale"],
+    "answer": "Subhash Chandra Bose",
+    "desc": "Subhash Chandra Bose is called Netaji, a title meaning 'Respected Leader,' for his revolutionary role."
+  },
+  {
+    "q": "Who is referred to as Nightingale of India?",
+    "pool": ["Sarojini Naidu", "Jawaharlal Nehru", "Lal Bahadur Shastri", "Jayaprakash Narayan", "Lala Lajpat Rai"],
+    "answer": "Sarojini Naidu",
+    "desc": "Sarojini Naidu is known as Nightingale of India for her poetic contributions and eloquence."
+  },
+  {
+    "q": "Which personality is known as Pandit ji?",
+    "pool": ["Jawaharlal Nehru", "Lal Bahadur Shastri", "Jayaprakash Narayan", "Florence Nightingale", "Napoleon"],
+    "answer": "Jawaharlal Nehru",
+    "desc": "Jawaharlal Nehru is called Pandit ji, reflecting his scholarly background and leadership as India's first PM."
+  },
+  {
+    "q": "Who is called Shastri ji?",
+    "pool": ["Lal Bahadur Shastri", "Jayaprakash Narayan", "Florence Nightingale", "Lala Lajpat Rai", "Bal Gangadhar Tilak"],
+    "answer": "Lal Bahadur Shastri",
+    "desc": "Lal Bahadur Shastri is known as Shastri ji, a title honoring his simplicity and service as India's PM."
+  },
+  
+  {
+    "q": "Who is known for the popular name associated with the freedom fighter Bipin Chandra Pal?",
+    "pool": ["Lal, Bal, Pal", "Jawan", "Mahamanya", "Netaji", "Pandit ji"],
+    "answer": "Lal, Bal, Pal",
+    "desc": "Bipin Chandra Pal is part of the Lal, Bal, Pal trio, a significant group in India's freedom movement."
+  },
+  {
+    "q": "Which personality is linked to the title Man of Blood?",
+    "pool": ["Bismarck", "Napoleon", "Florence Nightingale", "Jayaprakash Narayan", "T Prakasham"],
+    "answer": "Bismarck",
+    "desc": "Bismarck earned the title Man of Blood due to his role in the unification of Germany through warfare."
+  },
+  {
+    "q": "Who is known as the Lady with the Lamp in the context of nursing history?",
+    "pool": ["Mother Teresa", "Florence Nightingale", "Helen Keller", "Teresa Hsu", "Clara Barton"],
+    "answer": "Florence Nightingale",
+    "desc": "Florence Nightingale is celebrated as Lady with the Lamp for her nursing innovations during the Crimean War."
+  },
+  {
+    "q": "Which personality is associated with the title Lion of the Punjab?",
+    "pool": ["Lala Lajpat Rai", "Bal Gangadhar Tilak", "Pandit Madan Mohan Malaviya", "Subhash Chandra Bose", "Dadabhai Naoroji"],
+    "answer": "Lala Lajpat Rai",
+    "desc": "Lala Lajpat Rai's fierce nationalism earned him the title Lion of the Punjab."
+  },
+  {
+    "q": "Who is referred to as Little Corporal in military history?",
+    "pool": ["Napoleon", "Major Rajender Singh", "Vallabhbhai Patel", "T Prakasham", "Jagjivan Ram"],
+    "answer": "Napoleon",
+    "desc": "Napoleon was called Little Corporal due to his early military rank and short stature."
+  },
+  {
+    "q": "Which personality is known as Lokmanya for his widespread acceptance?",
+    "pool": ["Bal Gangadhar Tilak", "Lala Lajpat Rai", "Pandit Madan Mohan Malaviya", "Subhash Chandra Bose", "Chitranjan Das"],
+    "answer": "Bal Gangadhar Tilak",
+    "desc": "Bal Gangadhar Tilak is known as Lokmanya, indicating his acceptance and leadership among the masses."
+  }
+]

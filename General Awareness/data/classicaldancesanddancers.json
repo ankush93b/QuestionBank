@@ -1,0 +1,364 @@
+[
+  {
+    "q": "Which dance form is Yamini Krishnamurti associated with?",
+    "pool": ["Kathak", "Odissi", "Bharatanatyam", "Mohiniattam", "Kuchipudi"],
+    "answer": "Bharatanatyam",
+    "desc": "Yamini Krishnamurti is a renowned Bharatanatyam dancer."
+  },
+  {
+    "q": "Who is a famous Kathak dancer from the list?",
+    "pool": ["Birju Maharaj", "CV Chandrasekhar", "Rukmini Devi", "Indrani Rahman", "TT Ram Kuti"],
+    "answer": "Birju Maharaj",
+    "desc": "Birju Maharaj is a legendary figure in the Kathak dance tradition."
+  },
+  {
+    "q": "Which dancer is associated with both Odissi and Mohiniattam?",
+    "pool": ["Kelucharan Mahapatra", "Sonal Mansingh", "Pankaj Charan Das", "Protiema Devi", "Gopi Krishna"],
+    "answer": "Sonal Mansingh",
+    "desc": "Sonal Mansingh is known for performing both Odissi and Mohiniattam."
+  },
+  {
+    "q": "Who is a prominent Kuchipudi dancer?",
+    "pool": ["Josyula Seetharamaiah", "Nirmala Mehta", "Durga Das", "Shambhu Maharaj", "Rukmini Devi"],
+    "answer": "Josyula Seetharamaiah",
+    "desc": "Josyula Seetharamaiah is a celebrated Kuchipudi dancer."
+  },
+  {
+    "q": "Which dance form is associated with CV Chandrasekhar?",
+    "pool": ["Kathakali", "Bharatanatyam", "Manipuri", "Mohiniattam", "Odissi"],
+    "answer": "Bharatanatyam",
+    "desc": "CV Chandrasekhar is a veteran Bharatanatyam dancer."
+  },
+  {
+    "q": "Who among the following is a Kathakali dancer?",
+    "pool": ["Namboodiripad", "Bharti Gupta", "Savit Mehta", "Indrani Rahman", "Damayanti Joshi"],
+    "answer": "Namboodiripad",
+    "desc": "Namboodiripad is noted for his contribution to Kathakali."
+  },
+  {
+    "q": "Which classical dancer is associated with Odissi?",
+    "pool": ["Dhebraprasad Das", "Sitara Devi", "Kutti Nayyar", "Bharti Gupta", "Rukmini Devi"],
+    "answer": "Dhebraprasad Das",
+    "desc": "Debaprasad Das was a pioneering figure in Odissi dance."
+  },
+  {
+    "q": "Which classical dance is Mrinalini Sarabhai associated with?",
+    "pool": ["Kathak", "Bharatanatyam", "Mohiniattam", "Odissi", "Manipuri"],
+    "answer": "Bharatanatyam",
+    "desc": "Mrinalini Sarabhai was a distinguished Bharatanatyam dancer."
+  },
+  {
+    "q": "Who is a known dancer of Mohiniattam?",
+    "pool": ["Madhvi Mudgal", "Shambhu Maharaj", "Javeri Sisters", "Josyula Seetharamaiah", "Damayanti Joshi"],
+    "answer": "Madhvi Mudgal",
+    "desc": "Madhvi Mudgal is known for her expertise in Mohiniattam."
+  },
+  {
+    "q": "Which dance form is Durga Das associated with?",
+    "pool": ["Kathak", "Kuchipudi", "Kathakali", "Odissi", "Bharatanatyam"],
+    "answer": "Kathak",
+    "desc": "Durga Das was a prominent figure in Kathak dance."
+  },
+  {
+    "q": "Which dance form does Vempatti Chinna Sathyam belong to?",
+    "pool": ["Kuchipudi", "Kathak", "Odissi", "Bharatanatyam", "Kathakali"],
+    "answer": "Kuchipudi",
+    "desc": "Vempatti Chinna Sathyam was a legendary Kuchipudi dancer."
+  },
+  {
+    "q": "Guru Bipin Sinha is associated with which dance form?",
+    "pool": ["Manipuri", "Kathak", "Mohiniattam", "Kuchipudi", "Odissi"],
+    "answer": "Manipuri",
+    "desc": "Guru Bipin Sinha is a well-known Manipuri dance exponent."
+  },
+  {
+    "q": "Which of the following dancers is associated with both Bharatanatyam and Mohiniattam?",
+    "pool": ["Sanjukta Panigrahi", "Protiema Devi", "Mrinalini Sarabhai", "Damayanti Joshi", "Priyambada Mohanty"],
+    "answer": "Mrinalini Sarabhai",
+    "desc": "Mrinalini Sarabhai trained in both Bharatanatyam and Mohiniattam."
+  },
+  {
+    "q": "Which dancer is NOT associated with Kathak?",
+    "pool": ["Kumudini Lakhia", "Sitara Devi", "Sambhu Maharaj", "Pankaj Charan Das", "Birju Maharaj"],
+    "answer": "Pankaj Charan Das",
+    "desc": "Pankaj Charan Das is associated with Odissi, not Kathak."
+  },
+  {
+    "q": "Which of the following is a classical dance of Kerala?",
+    "pool": ["Kathakali", "Kathak", "Bharatanatyam", "Odissi", "Kuchipudi"],
+    "answer": "Kathakali",
+    "desc": "Kathakali is a traditional classical dance form of Kerala."
+  },
+  {
+    "q": "Which classical dancer is associated with Kathakali and also has 'Guru' in his title?",
+    "pool": ["Guru Shankaran", "Guru Bipin Sinha", "Guru Nampoothiri", "Guru Kelucharan", "Guru Bharti"],
+    "answer": "Guru Shankaran",
+    "desc": "Guru Shankaran is recognized for his contribution to Kathakali."
+  },
+  {
+    "q": "Who is a well-known female dancer of Mohiniattam?",
+    "pool": ["Protiema Devi", "Gopi Krishna", "Sambhu Maharaj", "Nayana Jhaveri", "Shankar Kurup"],
+    "answer": "Protiema Devi",
+    "desc": "Protiema Devi is known for her work in Mohiniattam dance."
+  },
+  {
+    "q": "Which of these dancers is associated with Odissi dance?",
+    "pool": ["Priyambada Mohanty", "Savit Mehta", "TT Ram Kuti", "Damayanti Joshi", "Sitara Devi"],
+    "answer": "Priyambada Mohanty",
+    "desc": "Priyambada Mohanty is a prominent Odissi dancer."
+  },
+  {
+    "q": "Which dance form is Sanjukta Panigrahi mainly associated with?",
+    "pool": ["Odissi", "Kathak", "Kuchipudi", "Mohiniattam", "Manipuri"],
+    "answer": "Odissi",
+    "desc": "Sanjukta Panigrahi is regarded as a leading exponent of Odissi."
+  },
+  {
+    "q": "Which dancer listed is associated with Bharatanatyam but also listed under Mohiniattam?",
+    "pool": ["Sanjukta Panigrahi", "Rukmini Devi", "Padma Subramanyam", "Sonal Mansingh", "Yamini Krishnamurti"],
+    "answer": "Sonal Mansingh",
+    "desc": "Sonal Mansingh has performed both Bharatanatyam and Mohiniattam."
+  },
+  {
+    "q": "Which of these is NOT a dancer but a part of a listed name?",
+    "pool": ["KC Pannikar", "Kelucharan Mahapatra", "Shankar Kurup", "Madhvi Mudgal", "Indrani Rahman"],
+    "answer": "Shankar Kurup",
+    "desc": "Shankar Kurup is primarily known as a poet, not a dancer."
+  },
+  {
+    "q": "Who is a prominent Kathakali dancer from the list?",
+    "pool": ["Thottam Shankaran", "Durga Das", "Bharti Gupta", "Josyula Seetharamaiah", "Javeri Sisters"],
+    "answer": "Thottam Shankaran",
+    "desc": "Thottam Shankaran is associated with Kathakali dance."
+  },
+  {
+    "q": "Which dance form is Gopi Krishna known for?",
+    "pool": ["Kathak", "Odissi", "Mohiniattam", "Kuchipudi", "Kathakali"],
+    "answer": "Kathak",
+    "desc": "Gopi Krishna was a renowned Kathak dancer."
+  },
+  {
+    "q": "Which duo is known in Manipuri dance?",
+    "pool": ["Javeri Sisters", "Javeri Brothers", "Panigrahi Sisters", "Kurup Sisters", "Sinha Sisters"],
+    "answer": "Javeri Sisters",
+    "desc": "Javeri Sisters are known for their work in Manipuri dance."
+  },
+  {
+    "q": "Which dancer is associated with Kathak and is known as a female icon?",
+    "pool": ["Sitara Devi", "Padma Subramanyam", "Savit Mehta", "Nayana Jhaveri", "Indrani Rahman"],
+    "answer": "Sitara Devi",
+    "desc": "Sitara Devi was a famous female Kathak dancer."
+  },
+  {
+    "q": "Who is associated with both dance and scholarly contributions?",
+    "pool": ["Rukmini Devi", "Sonal Mansingh", "Protiema Devi", "Damayanti Joshi", "CV Chandrasekhar"],
+    "answer": "Rukmini Devi",
+    "desc": "Rukmini Devi was instrumental in reviving Bharatanatyam and founded Kalakshetra."
+  },
+  {
+    "q": "Which dancer is associated with Odissi and also known for choreographing?",
+    "pool": ["Pankaj Charan Das", "Gopi Krishna", "Sitara Devi", "Durga Das", "Savit Mehta"],
+    "answer": "Pankaj Charan Das",
+    "desc": "Pankaj Charan Das was a key figure in choreographing Odissi dance."
+  },
+  {
+    "q": "Which dancer is listed under both Bharatanatyam and Mohiniattam and also linked to social themes?",
+    "pool": ["Sonal Mansingh", "Mrinalini Sarabhai", "Padma Subramanyam", "Nirmala Mehta", "Damayanti Joshi"],
+    "answer": "Mrinalini Sarabhai",
+    "desc": "Mrinalini Sarabhai incorporated social themes into Bharatanatyam and Mohiniattam."
+  },
+  {
+    "q": "Who among these is associated with Kathak but not Bharatanatyam?",
+    "pool": ["Bharti Gupta", "Padma Subramanyam", "Rukmini Devi", "Leela Samson", "Yamini Krishnamurti"],
+    "answer": "Bharti Gupta",
+    "desc": "Bharti Gupta is associated with Kathak, not Bharatanatyam."
+  },
+  {
+    "q": "Which dancer is known for Manipuri and also has a name beginning with 'N'?",
+    "pool": ["Nayana Jhaveri", "Nirmala Mehta", "Namita Sinha", "Neelam Devi", "Nandita Panigrahi"],
+    "answer": "Nayana Jhaveri",
+    "desc": "Nayana Jhaveri is known for her work in Manipuri dance."
+  },
+
+
+  {
+    "q": "Which of the following is a classical dance form from Tamil Nadu?",
+    "pool": ["Kathak", "Bharatanatyam", "Odissi", "Kuchipudi", "Manipuri"],
+    "answer": "Bharatanatyam",
+    "desc": "Bharatanatyam originated in Tamil Nadu and is one of the oldest classical dance forms in India."
+  },
+  {
+    "q": "Kathak dance originated from which region of India?",
+    "pool": ["Odisha", "Kerala", "Uttar Pradesh", "Andhra Pradesh", "Punjab"],
+    "answer": "Uttar Pradesh",
+    "desc": "Kathak originated from the northern state of Uttar Pradesh."
+  },
+  {
+    "q": "Which classical dance form is known for its elaborate makeup and costumes?",
+    "pool": ["Odissi", "Kathak", "Mohiniattam", "Kathakali", "Kuchipudi"],
+    "answer": "Kathakali",
+    "desc": "Kathakali from Kerala is known for its colorful makeup, elaborate costumes, and face masks."
+  },
+  {
+    "q": "Odissi dance is traditionally associated with which state?",
+    "pool": ["Odisha", "Karnataka", "Gujarat", "West Bengal", "Madhya Pradesh"],
+    "answer": "Odisha",
+    "desc": "Odissi is the classical dance form of Odisha."
+  },
+  {
+    "q": "Kuchipudi dance originates from which Indian state?",
+    "pool": ["Tamil Nadu", "Andhra Pradesh", "Kerala", "Maharashtra", "Rajasthan"],
+    "answer": "Andhra Pradesh",
+    "desc": "Kuchipudi is a classical dance form from Andhra Pradesh."
+  },
+  {
+    "q": "Which classical dance form is traditionally performed by women and has graceful, feminine movements?",
+    "pool": ["Kathakali", "Mohiniattam", "Odissi", "Kathak", "Manipuri"],
+    "answer": "Mohiniattam",
+    "desc": "Mohiniattam is a graceful dance form performed by women, originating in Kerala."
+  },
+  {
+    "q": "Manipuri dance is associated with which Indian state?",
+    "pool": ["Manipur", "Tripura", "Assam", "Meghalaya", "Nagaland"],
+    "answer": "Manipur",
+    "desc": "Manipuri is the classical dance form of the state of Manipur."
+  },
+  {
+    "q": "Which dance form is known for storytelling through expressive hand gestures and facial expressions?",
+    "pool": ["Kathak", "Kuchipudi", "Odissi", "Kathakali", "All of the above"],
+    "answer": "All of the above",
+    "desc": "Many Indian classical dances emphasize storytelling through gestures and expressions."
+  },
+  {
+    "q": "Which classical dance form is closely related to temple rituals and devotional themes?",
+    "pool": ["Bharatanatyam", "Kathakali", "Kathak", "Odissi", "All of the above"],
+    "answer": "All of the above",
+    "desc": "All these dance forms have roots in religious and temple traditions."
+  },
+  {
+    "q": "In which classical dance form is the 'ghungroo' or ankle bells an essential part?",
+    "pool": ["Mohiniattam", "Odissi", "Kathak", "Manipuri", "Kathakali"],
+    "answer": "Kathak",
+    "desc": "Kathak dancers use ghungroos to emphasize footwork."
+  },
+  {
+    "q": "Which classical dance form uses the 'Chhau' style elements?",
+    "pool": ["Odissi", "Kathakali", "Bharatanatyam", "Chhau", "None of the above"],
+    "answer": "None of the above",
+    "desc": "Chhau is a separate dance form, not part of the eight recognized Indian classical dances."
+  },
+  {
+    "q": "Which classical dance form evolved from Devadasi traditions?",
+    "pool": ["Bharatanatyam", "Kathak", "Odissi", "Kuchipudi", "All of the above"],
+    "answer": "All of the above",
+    "desc": "Many Indian classical dances, especially Bharatanatyam, evolved from Devadasi temple rituals."
+  },
+  {
+    "q": "What is the classical dance form of Kerala that tells stories from epics using mudras and expressions?",
+    "pool": ["Mohiniattam", "Kathakali", "Kuchipudi", "Odissi", "Manipuri"],
+    "answer": "Kathakali",
+    "desc": "Kathakali narrates stories from epics like the Mahabharata using gestures and expressions."
+  },
+  {
+    "q": "Which dance is known for its circular movements and vibrant costumes, especially in the northeastern region?",
+    "pool": ["Manipuri", "Kathak", "Kuchipudi", "Mohiniattam", "Odissi"],
+    "answer": "Manipuri",
+    "desc": "Manipuri is characterized by gentle movements and traditional costumes."
+  },
+  {
+    "q": "Which classical dance form is performed as a solo recital and is deeply expressive?",
+    "pool": ["Kathakali", "Odissi", "Mohiniattam", "Chhau", "Kuchipudi"],
+    "answer": "Odissi",
+    "desc": "Odissi is a solo dance performance noted for its expressiveness."
+  },
+  {
+    "q": "Which classical dance form traditionally included both dance and drama?",
+    "pool": ["Kuchipudi", "Kathakali", "Odissi", "Manipuri", "Kathak"],
+    "answer": "Kuchipudi",
+    "desc": "Kuchipudi originated as a dance-drama tradition performed by male dancers."
+  },
+  {
+    "q": "Which of these dance forms is performed exclusively in a sitting posture during some segments?",
+    "pool": ["Kathakali", "Odissi", "Bharatanatyam", "Kathak", "Mohiniattam"],
+    "answer": "Odissi",
+    "desc": "Odissi includes tribhanga and chowk postures, with some sections performed while seated."
+  },
+  {
+    "q": "Which dance form typically uses face masks as part of the performance?",
+    "pool": ["Kathakali", "Kuchipudi", "Bharatanatyam", "Manipuri", "Kathak"],
+    "answer": "Kathakali",
+    "desc": "Kathakali uses expressive face masks and detailed facial makeup."
+  },
+  {
+    "q": "Which dance is known for its Lasya (graceful and feminine) element?",
+    "pool": ["Mohiniattam", "Kathakali", "Kathak", "Chhau", "Odissi"],
+    "answer": "Mohiniattam",
+    "desc": "Mohiniattam emphasizes feminine grace and softness."
+  },
+  {
+    "q": "Who is considered the father of modern Odissi dance?",
+    "pool": ["Pankaj Charan Das", "Birju Maharaj", "Vempatti Chinna Satyam", "Rukmini Devi", "Kelucharan Mohapatra"],
+    "answer": "Kelucharan Mohapatra",
+    "desc": "Kelucharan Mohapatra is known for reviving and popularizing Odissi dance."
+  },
+  {
+    "q": "Which classical dance form is typically performed during temple festivals in Kerala?",
+    "pool": ["Kuchipudi", "Kathak", "Odissi", "Kathakali", "Bharatanatyam"],
+    "answer": "Kathakali",
+    "desc": "Kathakali is commonly performed during religious festivals in Kerala temples."
+  },
+  {
+    "q": "The term 'Mudra' in classical dance refers to what?",
+    "pool": ["Facial expression", "Costume", "Hand gesture", "Rhythm", "Footwork"],
+    "answer": "Hand gesture",
+    "desc": "Mudras are symbolic hand gestures used to convey meaning in classical dance."
+  },
+  {
+    "q": "Which of the following dances is mainly performed by male artists?",
+    "pool": ["Kathak", "Mohiniattam", "Manipuri", "Kathakali", "Odissi"],
+    "answer": "Kathakali",
+    "desc": "Traditionally, Kathakali was performed exclusively by men."
+  },
+  {
+    "q": "Which classical dance form uses percussion instrument 'Mridangam' as its main accompaniment?",
+    "pool": ["Bharatanatyam", "Kathak", "Kathakali", "Odissi", "Kuchipudi"],
+    "answer": "Bharatanatyam",
+    "desc": "The Mridangam is a key instrument in Bharatanatyam performances."
+  },
+  {
+    "q": "The costume of which classical dance form includes white and gold sarees?",
+    "pool": ["Kathak", "Mohiniattam", "Manipuri", "Odissi", "Kuchipudi"],
+    "answer": "Mohiniattam",
+    "desc": "Mohiniattam dancers traditionally wear white sarees with golden borders."
+  },
+  {
+    "q": "Which classical dance involves acrobatic movements and is known for vigorous footwork?",
+    "pool": ["Kathak", "Odissi", "Bharatanatyam", "Chhau", "Manipuri"],
+    "answer": "Chhau",
+    "desc": "Chhau is a semi-classical dance involving martial arts-style acrobatics."
+  },
+  {
+    "q": "Which of these dance forms is most closely linked to Vaishnavism?",
+    "pool": ["Manipuri", "Kathak", "Odissi", "Kuchipudi", "All of the above"],
+    "answer": "All of the above",
+    "desc": "Many Indian classical dances are deeply influenced by Vaishnavite themes and stories."
+  },
+  {
+    "q": "Which dance style includes the 'Tribhanga' posture?",
+    "pool": ["Kathakali", "Kuchipudi", "Odissi", "Mohiniattam", "Bharatanatyam"],
+    "answer": "Odissi",
+    "desc": "Odissi is known for the Tribhanga posture, dividing the body into three bends."
+  },
+  {
+    "q": "Which classical dance form was revived and popularized by Rukmini Devi Arundale?",
+    "pool": ["Odissi", "Kuchipudi", "Mohiniattam", "Bharatanatyam", "Manipuri"],
+    "answer": "Bharatanatyam",
+    "desc": "Rukmini Devi Arundale played a key role in reviving Bharatanatyam."
+  },
+  {
+    "q": "Which of the following classical dances emphasizes storytelling through 'abhinaya'?",
+    "pool": ["Bharatanatyam", "Kathak", "Odissi", "Kuchipudi", "All of the above"],
+    "answer": "All of the above",
+    "desc": "Abhinaya or expression is essential to storytelling in all major Indian classical dance forms."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "q": "Who published the 'Bengal Gazette'?",
+    "pool": ["BG Tilak", "JA Hickey", "Firoz Shah Mehta", "Aurobindo Ghosh", "Sisir Kumar Ghosh"],
+    "answer": "JA Hickey",
+    "desc": "JA Hickey published the 'Bengal Gazette', the first newspaper in India."
+  },
+  {
+    "q": "'Kesari' was published by whom?",
+    "pool": ["BG Tilak", "Aurobindo Ghosh", "Jawaharlal Nehru", "Motilal Ghosh", "Lala Lajpat Rai"],
+    "answer": "BG Tilak",
+    "desc": "Bal Gangadhar Tilak was the founder of 'Kesari', a nationalist newspaper in Marathi."
+  },
+  {
+    "q": "Who was the publisher of 'Maratha'?",
+    "pool": ["BG Tilak", "JA Hickey", "Firoz Shah Mehta", "Swami Dayanand", "Rajendra Prasad"],
+    "answer": "BG Tilak",
+    "desc": "Tilak also published 'Maratha' in English to spread nationalistic ideas."
+  },
+  {
+    "q": "'Amrita Bazar Patrika' was published by which duo?",
+    "pool": ["Sisir Kumar Ghosh and Motilal Ghosh", "JA Hickey and Tilak", "Lala Lajpat Rai and Rajendra Prasad", "Aurobindo Ghosh and Firoz Shah Mehta", "Jawaharlal Nehru and BG Tilak"],
+    "answer": "Sisir Kumar Ghosh and Motilal Ghosh",
+    "desc": "The Ghosh brothers published 'Amrita Bazar Patrika', a key voice against British rule."
+  },
+  {
+    "q": "'Vande Mataram' journal was published by?",
+    "pool": ["Aurobindo Ghosh", "BG Tilak", "JA Hickey", "Sisir Kumar Ghosh", "Bankim Chandra Chatterji"],
+    "answer": "Aurobindo Ghosh",
+    "desc": "Aurobindo Ghosh used 'Vande Mataram' as a medium for revolutionary ideas."
+  },
+  {
+    "q": "Who published the 'Yugantar' journal?",
+    "pool": ["Bhupendranath Dutta and Barinder Kumar Ghosh", "Aurobindo Ghosh", "Lala Lajpat Rai", "Firoz Shah Mehta", "Jawaharlal Nehru"],
+    "answer": "Bhupendranath Dutta and Barinder Kumar Ghosh",
+    "desc": "'Yugantar' was a Bengali revolutionary newspaper published by these nationalist leaders."
+  },
+  {
+    "q": "Who is associated with the 'Bombay Chronicle'?",
+    "pool": ["Firoz Shah Mehta", "JA Hickey", "BG Tilak", "Aurobindo Ghosh", "Rajendra Prasad"],
+    "answer": "Firoz Shah Mehta",
+    "desc": "Firoz Shah Mehta was a prominent leader and founder of the 'Bombay Chronicle'."
+  },
+  {
+    "q": "Who wrote the book 'Ghulam Giri'?",
+    "pool": ["Jyotiba Phule", "B. Bhushan Bannerji", "Swami Dayanand", "Lala Lajpat Rai", "Bankim Chandra Chatterji"],
+    "answer": "Jyotiba Phule",
+    "desc": "Jyotiba Phule authored 'Ghulam Giri', advocating social reform and anti-caste ideologies."
+  },
+  {
+    "q": "Which author wrote 'Pather Panchali'?",
+    "pool": ["B. Bhushan Bannerji", "Bankim Chandra Chatterji", "Jawaharlal Nehru", "Swami Dayanand", "Lala Lajpat Rai"],
+    "answer": "B. Bhushan Bannerji",
+    "desc": "B. Bhushan Bannerji was the author of 'Pather Panchali', a celebrated Bengali novel."
+  },
+  {
+    "q": "Who authored 'Satyarth Prakash'?",
+    "pool": ["Swami Dayanand", "Lala Lajpat Rai", "Jyotiba Phule", "Rajendra Prasad", "Jawaharlal Nehru"],
+    "answer": "Swami Dayanand",
+    "desc": "'Satyarth Prakash' is a philosophical and religious text written by Swami Dayanand Saraswati."
+  },
+  {
+    "q": "Who is the author of 'Anand Math'?",
+    "pool": ["Bankim Chandra Chatterji", "BG Tilak", "Aurobindo Ghosh", "Lala Lajpat Rai", "Sisir Kumar Ghosh"],
+    "answer": "Bankim Chandra Chatterji",
+    "desc": "Bankim Chandra Chatterji wrote 'Anand Math', which includes the famous song 'Vande Mataram'."
+  },
+  {
+    "q": "'Unhappy India' was written by?",
+    "pool": ["Lala Lajpat Rai", "Jawaharlal Nehru", "Rajendra Prasad", "Swami Dayanand", "JA Hickey"],
+    "answer": "Lala Lajpat Rai",
+    "desc": "'Unhappy India' was written by Lala Lajpat Rai to criticize British policies."
+  },
+  {
+    "q": "Who is the author of 'India Divided'?",
+    "pool": ["Rajendra Prasad", "Jawaharlal Nehru", "Lala Lajpat Rai", "Bankim Chandra Chatterji", "Aurobindo Ghosh"],
+    "answer": "Rajendra Prasad",
+    "desc": "Rajendra Prasad wrote 'India Divided' to express his views against the partition of India."
+  },
+  {
+    "q": "Jawaharlal Nehru wrote which famous book?",
+    "pool": ["The Discovery of India", "India Divided", "Unhappy India", "Ghulam Giri", "Pather Panchali"],
+    "answer": "The Discovery of India",
+    "desc": "'The Discovery of India' is a widely read book by Jawaharlal Nehru, written during his imprisonment."
+  },
+  {
+    "q": "Which journal was published by Bhupendranath Dutta?",
+    "pool": ["Yugantar", "Kesari", "Bombay Chronicle", "Amrita Bazar Patrika", "Maratha"],
+    "answer": "Yugantar",
+    "desc": "Bhupendranath Dutta, brother of Swami Vivekananda, co-published the revolutionary journal 'Yugantar'."
+  },
+  {
+    "q": "Which two newspapers were published by BG Tilak?",
+    "pool": ["Kesari and Maratha", "Yugantar and Maratha", "Kesari and Bombay Chronicle", "Kesari and Vande Mataram", "Bengal Gazette and Maratha"],
+    "answer": "Kesari and Maratha",
+    "desc": "Tilak used 'Kesari' and 'Maratha' to voice strong opposition to British rule."
+  },
+  {
+    "q": "Who wrote a book containing 'Vande Mataram'?",
+    "pool": ["Bankim Chandra Chatterji", "BG Tilak", "Jawaharlal Nehru", "Swami Dayanand", "Lala Lajpat Rai"],
+    "answer": "Bankim Chandra Chatterji",
+    "desc": "The song 'Vande Mataram' is from the book 'Anand Math' by Bankim Chandra Chatterji."
+  },
+  {
+    "q": "Which author’s book inspired the Arya Samaj movement?",
+    "pool": ["Swami Dayanand", "Lala Lajpat Rai", "Jawaharlal Nehru", "BG Tilak", "Rajendra Prasad"],
+    "answer": "Swami Dayanand",
+    "desc": "'Satyarth Prakash' by Swami Dayanand was the foundational text of the Arya Samaj."
+  },
+  {
+    "q": "Who wrote a book against British imperialism titled 'Unhappy India'?",
+    "pool": ["Lala Lajpat Rai", "Jawaharlal Nehru", "Aurobindo Ghosh", "Rajendra Prasad", "BG Tilak"],
+    "answer": "Lala Lajpat Rai",
+    "desc": "'Unhappy India' critiques British policies and is authored by freedom fighter Lala Lajpat Rai."
+  },
+  {
+    "q": "Which leader wrote about his country's cultural heritage in prison?",
+    "pool": ["Jawaharlal Nehru", "Lala Lajpat Rai", "BG Tilak", "Aurobindo Ghosh", "Rajendra Prasad"],
+    "answer": "Jawaharlal Nehru",
+    "desc": "'The Discovery of India' was penned by Nehru during his incarceration in 1944."
+  }
+]

@@ -1,0 +1,358 @@
+[
+  {
+    "q": "Which of the following is a Carnatic vocalist?",
+    "pool": ["Shubha Mudgal", "Ustad Bade Ghulam Ali Khan", "MS Subbalakshmi", "Zahir-ud-din Dagar", "Girija Devi"],
+    "answer": "MS Subbalakshmi",
+    "desc": "MS Subbalakshmi was a renowned Carnatic classical vocalist from South India."
+  },
+  {
+    "q": "Ustad Rahim Fahim-ud-din Dagar is associated with which genre?",
+    "pool": ["Carnatic", "Thumri", "Dhrupad", "Ghazal", "Folk"],
+    "answer": "Dhrupad",
+    "desc": "Ustad Rahim Fahim-ud-din Dagar was a prominent exponent of the Dhrupad tradition."
+  },
+  {
+    "q": "Who among the following is a well-known Hindustani classical vocalist?",
+    "pool": ["Bombay Jaishri", "Sitarajam", "Shubha Mudgal", "Akhil Krishnan", "MD Ramanathan"],
+    "answer": "Shubha Mudgal",
+    "desc": "Shubha Mudgal is a noted Hindustani classical vocalist known for her powerful voice."
+  },
+  {
+    "q": "Which genre does Ustad Bade Ghulam Ali Khan belong to?",
+    "pool": ["Carnatic", "Dhrupad", "Folk", "Thumri", "Ghazal"],
+    "answer": "Thumri",
+    "desc": "Ustad Bade Ghulam Ali Khan was one of the greatest vocalists of the Thumri genre."
+  },
+  {
+    "q": "Who is a well-known Thumri singer from the list?",
+    "pool": ["ML Vasanthakumari", "Faiyyaz Khan", "Zahid-ud-din Dagar", "Poornima Chaudhary", "Mani Krishnaswamy"],
+    "answer": "Poornima Chaudhary",
+    "desc": "Poornima Chaudhary is listed as one of the prominent Thumri vocalists."
+  },
+  {
+    "q": "Which vocalist is associated with both Thumri and Hindustani music?",
+    "pool": ["Naina Devi", "Aryakudi Ramanujan Iyengar", "MD Ramanathan", "Zahir-ud-din Dagar", "Sitara Jam"],
+    "answer": "Naina Devi",
+    "desc": "Naina Devi is known for her contribution to both Hindustani classical and Thumri styles."
+  },
+  {
+    "q": "Who among the following is a Dhrupad artist?",
+    "pool": ["Uday Bhawalkar", "Faiyyaz Khan", "Girija Devi", "Mani Krishnaswamy", "Pandit Jasraj"],
+    "answer": "Uday Bhawalkar",
+    "desc": "Uday Bhawalkar is a well-known Dhrupad vocalist."
+  },
+  {
+    "q": "Who is a famous Carnatic vocalist listed here?",
+    "pool": ["Balamuralikrishna", "Zahir-ud-din Dagar", "Madhup Mudgal", "Wasif-ud-din Dagar", "Ustad Zawad Ali Khan"],
+    "answer": "Balamuralikrishna",
+    "desc": "Balamuralikrishna was a legendary Carnatic music vocalist and multi-instrumentalist."
+  },
+  {
+    "q": "Which genre is associated with Pt Ritwik Sanyal?",
+    "pool": ["Thumri", "Carnatic", "Ghazal", "Dhrupad", "Folk"],
+    "answer": "Dhrupad",
+    "desc": "Pt Ritwik Sanyal is an exponent of the Dhrupad style of classical music."
+  },
+  {
+    "q": "Girija Devi is a noted vocalist of which genre?",
+    "pool": ["Carnatic", "Thumri", "Dhrupad", "Bhajan", "Folk"],
+    "answer": "Hindustani",
+    "desc": "Girija Devi was a prominent Hindustani classical vocalist."
+  },
+  {
+    "q": "Which of these is not a Dhrupad vocalist?",
+    "pool": ["Zahir-ud-din Dagar", "Pt Abhay Narayan Mallick", "Ustad Mazhar Ali Khan", "Wasif-ud-din Dagar", "Bundecha Bandhu"],
+    "answer": "Ustad Mazhar Ali Khan",
+    "desc": "Ustad Mazhar Ali Khan is listed under Thumri, not Dhrupad."
+  },
+  {
+    "q": "Who is a famous duo in Dhrupad singing?",
+    "pool": ["Bundecha Bandhu", "Madhup & Mukul Mudgal", "Mani & Akhil Krishnan", "Mazhar & Zawad Ali Khan", "Faiyyaz & Mallikarjun"],
+    "answer": "Bundecha Bandhu",
+    "desc": "Bundecha Bandhu refers to the Dagarvani Dhrupad vocalists known for their duet performances."
+  },
+  {
+    "q": "Which of the following is a Hindustani vocalist pair?",
+    "pool": ["Bundecha Bandhu", "Zahir-ud-din & Wasif-ud-din Dagar", "Madhup Mudgal & Mukul Shivputra", "Mazhar Ali & Zawad Ali Khan", "Subbalakshmi & Balamuralikrishna"],
+    "answer": "Madhup Mudgal & Mukul Shivputra",
+    "desc": "Madhup Mudgal and Mukul Shivputra are both associated with Hindustani classical music."
+  },
+  {
+    "q": "Which genre does Bombay Jaishri belong to?",
+    "pool": ["Hindustani", "Dhrupad", "Carnatic", "Thumri", "Bhajan"],
+    "answer": "Carnatic",
+    "desc": "Bombay Jaishri is a contemporary Carnatic classical vocalist."
+  },
+  {
+    "q": "Faiyyaz Khan is known for his contributions to which musical style?",
+    "pool": ["Thumri", "Carnatic", "Hindustani", "Folk", "Ghazal"],
+    "answer": "Hindustani",
+    "desc": "Faiyyaz Khan was one of the great maestros of Hindustani classical music."
+  },
+  {
+    "q": "Who among the following is associated with Carnatic music?",
+    "pool": ["Sitarajam", "V Rajput", "Kumar Gandharva", "Shanti Heerananda", "Rita Ganguly"],
+    "answer": "Sitarajam",
+    "desc": "Sitarajam is mentioned as a Carnatic vocalist."
+  },
+  {
+    "q": "Which artist is part of the Dagar family in Dhrupad music?",
+    "pool": ["Zahir-ud-din Dagar", "Krishna Hangal", "Parveen Sultana", "Rita Ganguly", "Naina Devi"],
+    "answer": "Zahir-ud-din Dagar",
+    "desc": "Zahir-ud-din Dagar is a member of the famous Dagar family known for Dhrupad singing."
+  },
+  {
+    "q": "Who among the following is not a Carnatic vocalist?",
+    "pool": ["Akhil Krishnan", "MD Ramanathan", "GN Balasubramaniam", "Kumar Gandharva", "Mani Krishnaswamy"],
+    "answer": "Kumar Gandharva",
+    "desc": "Kumar Gandharva was a Hindustani classical vocalist."
+  },
+  {
+    "q": "Which of the following is a Thumri vocalist?",
+    "pool": ["Shanti Heerananda", "Pt Abhay Narayan Mallick", "V Rajput", "Mani Krishnaswamy", "Sitara Jam"],
+    "answer": "Shanti Heerananda",
+    "desc": "Shanti Heerananda is listed under Thumri vocalists."
+  },
+  {
+    "q": "Which of the following vocalists are associated with the Dhrupad genre?",
+    "pool": ["Parveen Sultana", "Zahir-ud-din Dagar", "Naina Devi", "Shubha Mudgal", "Faiyyaz Khan"],
+    "answer": "Zahir-ud-din Dagar",
+    "desc": "Zahir-ud-din Dagar was a renowned Dhrupad vocalist."
+  },
+  {
+    "q": "Which artist is known for singing in both Thumri and Bhajan styles?",
+    "pool": ["Naina Devi", "Girija Devi", "Zawad Ali Khan", "HK Raghavendra", "GN Balasubramaniam"],
+    "answer": "Naina Devi",
+    "desc": "Naina Devi was known for Thumri and devotional music like Bhajans."
+  },
+  {
+    "q": "Who is a female Hindustani classical singer mentioned in the list?",
+    "pool": ["Girija Devi", "Mani Krishnaswamy", "Sitara Jam", "ML Vasanthakumari", "Bombay Jaishri"],
+    "answer": "Girija Devi",
+    "desc": "Girija Devi was an iconic Hindustani classical vocalist."
+  },
+  {
+    "q": "Which of these vocalists is not associated with Hindustani music?",
+    "pool": ["Krishna Hangal", "Akhil Krishnan", "Parveen Sultana", "Pandit Jasraj", "Shubha Mudgal"],
+    "answer": "Akhil Krishnan",
+    "desc": "Akhil Krishnan is associated with Carnatic music, not Hindustani."
+  },
+  {
+    "q": "Who among the following is a noted Hindustani singer?",
+    "pool": ["Ustad Ghulam Mustafa Khan", "MD Ramanathan", "ML Vasanthakumari", "Sitarajam", "Aryakudi Ramanujan Iyengar"],
+    "answer": "Ustad Ghulam Mustafa Khan",
+    "desc": "Ustad Ghulam Mustafa Khan was a leading Hindustani classical vocalist."
+  },
+  {
+    "q": "Which of the following is a Thumri singer?",
+    "pool": ["Rita Ganguly", "Faiyyaz Khan", "Zahir-ud-din Dagar", "V Rajput", "HK Raghavendra"],
+    "answer": "Rita Ganguly",
+    "desc": "Rita Ganguly is recognized for her work in Thumri music."
+  },
+  {
+    "q": "Who among the following Carnatic vocalists is known for her divine voice?",
+    "pool": ["MS Subbalakshmi", "Poornima Chaudhary", "Naina Devi", "Girija Devi", "Zawad Ali Khan"],
+    "answer": "MS Subbalakshmi",
+    "desc": "MS Subbalakshmi is revered for her devotional Carnatic music performances."
+  },
+  {
+    "q": "Which genre is Kumar Gandharva associated with?",
+    "pool": ["Thumri", "Carnatic", "Hindustani", "Dhrupad", "Folk"],
+    "answer": "Hindustani",
+    "desc": "Kumar Gandharva was a creative genius in Hindustani classical music."
+  },
+  {
+    "q": "Who among the following has a famous Gwalior Gharana lineage?",
+    "pool": ["Pandit Jasraj", "Kumar Gandharva", "Uday Bhawalkar", "Zawad Ali Khan", "Sitarajam"],
+    "answer": "Kumar Gandharva",
+    "desc": "Kumar Gandharva belonged to the Gwalior Gharana of Hindustani music."
+  },
+  {
+    "q": "Who is a Hindustani classical singer known for spiritual themes?",
+    "pool": ["Faiyyaz Khan", "Aryakudi Ramanujan Iyengar", "GN Balasubramaniam", "Poornima Chaudhary", "Sitara Jam"],
+    "answer": "Faiyyaz Khan",
+    "desc": "Faiyyaz Khan was known for deeply spiritual and devotional Hindustani music."
+  },
+
+
+  {
+    "q": "Which instrument is Shiv Kumar Sharma associated with?",
+    "pool": ["Sitar", "Santoor", "Tabla", "Veena", "Sarangi"],
+    "answer": "Santoor",
+    "desc": "Shiv Kumar Sharma was a renowned player of the Santoor, a stringed instrument."
+  },
+  {
+    "q": "Who is a well-known sitar player among the following?",
+    "pool": ["Hari Prasad Chaurasia", "Zakir Hussain", "Ravi Shankar", "Bismillah Khan", "N Ramani"],
+    "answer": "Ravi Shankar",
+    "desc": "Ravi Shankar was a world-famous sitar maestro and composer."
+  },
+  {
+    "q": "Which instrument is Ustad Bismillah Khan associated with?",
+    "pool": ["Shehnai", "Flute", "Veena", "Tabla", "Pakhawaj"],
+    "answer": "Shehnai",
+    "desc": "Ustad Bismillah Khan is considered a legend in playing the Shehnai."
+  },
+  {
+    "q": "Which string instrument is associated with Amjad Ali Khan?",
+    "pool": ["Sitar", "Sarod", "Santoor", "Sarangi", "Violin"],
+    "answer": "Sarod",
+    "desc": "Amjad Ali Khan is a leading sarod maestro from India."
+  },
+  {
+    "q": "Who is a famous flautist mentioned in the list?",
+    "pool": ["Bismillah Khan", "TR Mahalingam", "Shiv Kumar Sharma", "Ravi Shankar", "Kishan Maharaj"],
+    "answer": "TR Mahalingam",
+    "desc": "TR Mahalingam is known for his mastery over the flute."
+  },
+  {
+    "q": "Which percussion instrument is Zakir Hussain famous for?",
+    "pool": ["Mridangam", "Pakhawaj", "Kanjira", "Tabla", "Nadaswaram"],
+    "answer": "Tabla",
+    "desc": "Zakir Hussain is an internationally acclaimed tabla virtuoso."
+  },
+  {
+    "q": "The instrument Mridangam is played by which of the following?",
+    "pool": ["TR Mahalingam", "Palghat Mani Iyer", "Pt Ayodhya Prasad", "Bismillah Khan", "Hari Prasad Chaurasia"],
+    "answer": "Palghat Mani Iyer",
+    "desc": "Palghat Mani Iyer was a legendary Mridangam player."
+  },
+  {
+    "q": "What type of instrument is the Been?",
+    "pool": ["Wind", "Percussion", "String", "Brass", "Reed"],
+    "answer": "String",
+    "desc": "Been is classified as a stringed instrument."
+  },
+  {
+    "q": "Who among the following is associated with the sarangi?",
+    "pool": ["Ustad Sultan Khan", "Vilayat Khan", "Kishan Maharaj", "Pannalal Ghosh", "Kumar Bose"],
+    "answer": "Ustad Sultan Khan",
+    "desc": "Ustad Sultan Khan was a legendary sarangi player."
+  },
+  {
+    "q": "Which artist is linked to the Kanjira?",
+    "pool": ["Shiv Kumar Sharma", "Pudukottai Dakshinamurthi Pillai", "N Ramani", "Bahadur Khan", "Ravi Shankar"],
+    "answer": "Pudukottai Dakshinamurthi Pillai",
+    "desc": "Pudukottai Dakshinamurthi Pillai was a famous Kanjira player."
+  },
+  {
+    "q": "The Nadaswaram is classified under which type of instrument?",
+    "pool": ["Wind", "String", "Percussion", "Reed", "Electronic"],
+    "answer": "Wind",
+    "desc": "Nadaswaram is a traditional wind instrument from South India."
+  },
+  {
+    "q": "Which of the following is a wind instrument?",
+    "pool": ["Sitar", "Violin", "Shehnai", "Mridangam", "Sarod"],
+    "answer": "Shehnai",
+    "desc": "Shehnai is a wind instrument often used in weddings and temples."
+  },
+  {
+    "q": "Who is a noted instrumentalist of the Pakhawaj?",
+    "pool": ["Pt Ayodhya Prasad", "Ustad Sultan Khan", "Zia Moin-ud-din Khan", "Pannalal Ghosh", "Asad Ali Khan"],
+    "answer": "Pt Ayodhya Prasad",
+    "desc": "Pt Ayodhya Prasad is listed as a Pakhawaj player."
+  },
+  {
+    "q": "Which instrument is used in classical South Indian music and played by N Ramani?",
+    "pool": ["Mridangam", "Flute", "Sitar", "Tabla", "Sarangi"],
+    "answer": "Flute",
+    "desc": "N Ramani is a famous South Indian classical flautist."
+  },
+  {
+    "q": "Which of these instruments is a percussion instrument?",
+    "pool": ["Sitar", "Flute", "Tabla", "Santoor", "Sarod"],
+    "answer": "Tabla",
+    "desc": "Tabla is a percussion instrument widely used in Indian classical music."
+  },
+  {
+    "q": "What kind of instrument is the Veena?",
+    "pool": ["Wind", "Percussion", "String", "Electronic", "Brass"],
+    "answer": "String",
+    "desc": "The Veena is a classical string instrument used in Indian music."
+  },
+  {
+    "q": "Which artist is associated with the violin?",
+    "pool": ["VG Jog", "Hari Prasad Chaurasia", "Sharan Rani", "Zakir Hussain", "Shiv Kumar Sharma"],
+    "answer": "VG Jog",
+    "desc": "VG Jog was a well-known violinist in Indian classical music."
+  },
+  {
+    "q": "Hari Prasad Chaurasia is a master of which instrument?",
+    "pool": ["Sitar", "Violin", "Flute", "Sarod", "Tabla"],
+    "answer": "Flute",
+    "desc": "Hari Prasad Chaurasia is globally known for his flute performances."
+  },
+  {
+    "q": "Which instrument is related to Zarin S Sharma?",
+    "pool": ["Sarod", "Sitar", "Tabla", "Mridangam", "Kanjira"],
+    "answer": "Sarod",
+    "desc": "Zarin S Sharma is listed under the Sarod players."
+  },
+  {
+    "q": "Which artist is famous for playing the Nadaswaram?",
+    "pool": ["Sheikh Chinna Moula", "TR Mahalingam", "Pt Ayodhya Prasad", "Latif Khan", "Bismillah Khan"],
+    "answer": "Sheikh Chinna Moula",
+    "desc": "Sheikh Chinna Moula is noted for his skill in playing the Nadaswaram."
+  },
+  {
+    "q": "Who is a well-known tabla player among the following?",
+    "pool": ["Zakir Hussain", "TR Mahalingam", "Bahadur Khan", "Asad Ali Khan", "Annapurna"],
+    "answer": "Zakir Hussain",
+    "desc": "Zakir Hussain is a globally renowned tabla maestro."
+  },
+  {
+    "q": "Which instrument is played by Annapurna?",
+    "pool": ["Surb Ahar", "Been", "Shehnai", "Flute", "Sarangi"],
+    "answer": "Surb Ahar",
+    "desc": "Annapurna is listed as a Surb Ahar instrumentalist."
+  },
+  {
+    "q": "Which string instrument is played by Asad Ali Khan?",
+    "pool": ["Sitar", "Been", "Santoor", "Violin", "Sarod"],
+    "answer": "Been",
+    "desc": "Asad Ali Khan was known for playing the Been (Rudra Veena)."
+  },
+  {
+    "q": "Who among the following is NOT associated with a string instrument?",
+    "pool": ["Bismillah Khan", "Ustad Sultan Khan", "Ravi Shankar", "Zarin S Sharma", "S Bala Chandran"],
+    "answer": "Bismillah Khan",
+    "desc": "Bismillah Khan played the Shehnai, a wind instrument."
+  },
+  {
+    "q": "Which artist is associated with the Sarod?",
+    "pool": ["Ali Akbar Khan", "Kumar Bose", "Hari Prasad Chaurasia", "Poornima Chaudhary", "Palghat Mani Iyer"],
+    "answer": "Ali Akbar Khan",
+    "desc": "Ali Akbar Khan was a world-renowned sarod virtuoso."
+  },
+  {
+    "q": "The instrument Pakhawaj belongs to which category?",
+    "pool": ["String", "Wind", "Percussion", "Electronic", "Brass"],
+    "answer": "Percussion",
+    "desc": "Pakhawaj is a percussion instrument, similar to the mridangam."
+  },
+  {
+    "q": "Who is a tabla player listed in the image?",
+    "pool": ["Kumar Bose", "N Ramani", "Asad Ali Khan", "Bahadur Khan", "Chowdiah"],
+    "answer": "Kumar Bose",
+    "desc": "Kumar Bose is a prominent tabla player."
+  },
+  {
+    "q": "Which of the following artists is associated with playing the Sitar?",
+    "pool": ["Mustaq Ali Khan", "VG Jog", "Zakir Hussain", "Sajjad Hussain", "T Chowdiah"],
+    "answer": "Mustaq Ali Khan",
+    "desc": "Mustaq Ali Khan is listed under sitar players."
+  },
+  {
+    "q": "Who among the following played the Mridangam?",
+    "pool": ["Karaikudi R Mani", "Latif Khan", "TR Mahalingam", "Bahadur Khan", "VG Jog"],
+    "answer": "Karaikudi R Mani",
+    "desc": "Karaikudi R Mani was a renowned Mridangam player."
+  },
+  {
+    "q": "Which instrument is associated with Kishan Maharaj?",
+    "pool": ["Tabla", "Flute", "Veena", "Sarangi", "Santoor"],
+    "answer": "Tabla",
+    "desc": "Kishan Maharaj was a maestro of the tabla."
+  }
+]

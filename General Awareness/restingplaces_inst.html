@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-922KV2R360"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-922KV2R360');
+    </script>
+
+    <meta charset="UTF-8">
+    <title>Resting Places</title>
+    <link rel="icon" href="../images/favicon_gen_aware.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <style>
+        body {
+    font-family: 'Montserrat', 'Segoe UI', Arial, sans-serif;
+    background: #fffcfa;
+    padding: 0;
+}
+.container {
+    max-width: 850px;
+    min-width: 700px;
+    
+    background: #fff3fa;
+    margin: 60px auto;
+    border-radius: 22px;
+    box-shadow: 0 8px 36px rgba(194, 89, 240, 0.16);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    position: relative;
+    border: 3px solid #e04e8b;
+}
+.home-icon {
+    position: absolute;
+    left: 60px;
+    top: 55px;
+    z-index: 10;
+    text-decoration: none;
+    color: #e04e8b;
+    transition: color 0.18s;
+}
+.home-icon:hover {
+    color: #ffb400;
+}
+.home-icon svg {
+    width: 36px;
+    height: 36px;
+    vertical-align: middle;
+}
+h1 {
+    margin-top: 0;
+    color: #eb2388;
+    text-align: center;
+    font-size: 2.5em;
+    letter-spacing: 2.5px;
+    text-shadow: 2px 4px 0 #fffbe2;
+    text-decoration: underline #fedd30 6px double;
+    text-underline-offset:8px;
+    font-family: 'Montserrat', 'Segoe UI', Arial, sans-serif;
+}
+h2 {
+    color: #2acfcf;
+    font-size: 1.6em;
+    margin-bottom: 38px;
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Montserrat', 'Segoe UI', Arial, sans-serif;
+    letter-spacing: 1px;
+}
+.instructions {
+    background-color: whitesmoke;
+    border-left: 13px solid #e04e8b;
+    border-right: 5px solid #2acfcf;
+    padding-top: 15px;
+    padding-left: 10px;
+    border-radius: 13px;
+    margin-bottom: 0px;
+    font-size: 1.0em;
+    line-height: 1.8em;
+    box-shadow: 0 2px 12px rgba(224, 78, 139, 0.07);
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+.instructions ul {
+    margin: 0;
+    padding-left: 32px;
+    padding-top: 6px;
+    padding-bottom: 10px;
+}
+.instructions li {
+    margin-bottom: 1px;
+    padding-left: 0;
+}
+.options {
+    margin-top: 22px;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+    justify-content: left;
+}
+.option-line {
+    display: flex;
+    align-items: center;
+    font-size: 1.0em;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #6a39a8;
+}
+.option-line input[type="checkbox"] {
+    margin-right: 16px;
+    accent-color: #fedd30;
+    width: 15px;
+    height: 15px;
+}
+.option-line input[type="checkbox"]:disabled + label {
+    color: #bbb8c3;
+    cursor: not-allowed;
+}
+.start-btn {
+    display: block;
+    width: 250px;
+    padding: 15px 0;
+    background-color: #fedd30;
+    color: rgb(83, 82, 82);
+    font-size: 1.33em;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 0 auto;
+    transition: background 0.2s, box-shadow 0.2s;
+    box-shadow: 0 2px 14px rgba(224, 78, 139, 0.13);
+    letter-spacing: 1.3px;
+    font-family: 'Montserrat', 'Segoe UI', Arial, sans-serif;
+}
+.start-btn:disabled {
+    background: #ffe48b;
+    cursor: not-allowed;
+}
+.start-btn:hover:not(:disabled) {
+    background: #2acfcf;
+    box-shadow: 0 5px 18px rgba(42, 207, 207, 0.15);
+}
+@media (max-width: 768px) {
+    .container {
+        width: 81vw;
+        max-width: 500px;
+        min-width: unset;
+        background: #fff3fa;
+        margin: 32px auto;
+        border-radius: 15px;
+        box-shadow: 0 7px 24px rgba(224, 78, 139, 0.14);
+        padding: 28px 7vw 26px 7vw;
+        position: relative;
+        margin-top: 54px;
+        border-width: 3px;
+    }
+    .home-icon-wrapper {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .home-icon {
+        position: static;
+        margin: 0 auto;
+        text-decoration: none;
+        color: #e04e8b;
+        transition: color 0.18s;
+        display: inline-block;
+    }
+    .home-icon svg {
+        width: 32px;
+        height: 32px;
+        vertical-align: middle;
+    }
+    h1 {
+        font-size: 1.7em;
+        text-shadow: none;
+        letter-spacing: 1.5px;
+        text-decoration-thickness: 2.6px;
+    }
+    h2 {
+        font-size: 1.15em;
+        margin-bottom: 25px;
+        text-align: center;
+        font-weight: 700;
+    }
+    .instructions {
+        background: linear-gradient(100deg, #ffe4fa 78%, #fedd30 100%);
+        border-left: 5px solid #e04e8b;
+        border-radius: 9px;
+        margin-bottom: 0px;
+        font-size: 1.03em;
+        line-height: 1.6em;
+        box-shadow: 0 2px 10px rgba(224, 78, 139, 0.07);
+        padding: 18px 14px;
+    }
+    .instructions ul {
+        padding-left: 20px;
+        padding-top: 8px;
+    }
+    .options {
+        margin-top: 18px;
+        margin-bottom: 34px;
+        gap: 10px;
+    }
+    .option-line {
+        font-size: 1.04em;
+    }
+    .option-line input[type="checkbox"] {
+        margin-right: 14px;
+        accent-color: #fedd30;
+        width: 16px;
+        height: 16px;
+    }
+    .start-btn {
+        width: 85vw;
+        max-width: 270px;
+        min-width: 150px;
+        padding: 16px 0;
+        font-size: 1.15em;
+    }
+}
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="home-icon-wrapper">
+            <a href="../index.html" class="home-icon" title="Home">
+                <svg viewBox="0 0 24 24" fill="none">
+                    <path d="M3 10.8L12 4l9 6.8M4 10v8a2 2 0 002 2h3m6 0h3a2 2 0 002-2v-8" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <rect x="9" y="14" width="6" height="6" rx="1.2" stroke="currentColor" stroke-width="2"/>
+                </svg>
+            </a>
+        </div>
+        <h1>General Awareness</h1>
+        <h2>Resting Places</h2>
+        <div class="instructions">
+           <b>About this practice:</b>
+            <ul>
+                <li>The practice duration is 5 minutes.</li>
+                <li>This practice contains questions related to the final resting places of famous persons.</li>
+                <li>Try to answer as many questions as possible before the time runs out.</li>
+                <li>You cannot skip any question or change your response once selected.</li>
+                <li>At any time, click Submit to end the practice.</li>
+                <li>See a summary at the end of the practice.</li>
+                <li>This practice will help to improve your overall general awareness about world.</li>
+            </ul>
+        </div>
+        <div class="options">
+            <div class="option-line">
+                <input type="checkbox" id="showAnswers">
+                <label for="showAnswers">I have read the above instructions.</label>
+            </div>
+            <div class="option-line">
+                <input type="checkbox" id="timedPractice" disabled>
+                <label for="timedPractice">Practice without time limit.</label>
+            </div>
+        </div>
+        <button class="start-btn" id="startPracticeBtn" disabled>Start Practice</button>
+    </div>
+    <script>
+        function getQueryParam(param) {
+            const params = new URLSearchParams(window.location.search);
+            return params.get(param);
+        }
+        const subject = getQueryParam('subject');
+        const topic = getQueryParam('topic');
+        const showAnswers = document.getElementById('showAnswers');
+        const timedPractice = document.getElementById('timedPractice');
+        const startBtn = document.getElementById('startPracticeBtn');
+        
+        showAnswers.addEventListener('change', function() {
+            startBtn.disabled = !this.checked;
+            timedPractice.disabled = !this.checked;
+            if (!this.checked) {
+                timedPractice.checked = false;
+            }
+        });
+
+        startBtn.addEventListener('click', function() {
+            if (showAnswers.checked) {
+                // Pass 'timed' param as 'false' if timedPractice is checked (practice without time limit)
+                // Otherwise 'timed' is 'true'
+                const timed = timedPractice.checked ? 'false' : 'true';
+                // Get current filename
+                let current = window.location.pathname.split('/').pop();
+                // Remove _inst just before .html
+                let newName = current.replace('_inst.html', '.html');
+                // Pass subject and topic from the URL (no hardcode!)
+                window.location.href = `${newName}?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(topic)}&timed=${timed}`;
+            }
+        });
+    </script>
+</body>
+</html>
