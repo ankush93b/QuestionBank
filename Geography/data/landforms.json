@@ -1,0 +1,242 @@
+[
+  {
+    "q": "What are the three major landforms found on Earth?",
+    "pool": [
+      "Mountains, Lakes, Oceans",
+      "Mountains, Plateaus, Plains",
+      "Volcanoes, Plateaus, Deserts",
+      "Rivers, Valleys, Deltas",
+      "Hills, Glaciers, Plateaus"
+    ],
+    "answer": "Mountains, Plateaus, Plains",
+    "desc": "The Earth's major landforms include mountains, plateaus, and plains."
+  },
+  {
+    "q": "What is an uplifted portion of the Earth's surface called?",
+    "pool": [
+      "Plateau",
+      "Plain",
+      "Mountain or Hill",
+      "Valley",
+      "Basin"
+    ],
+    "answer": "Mountain or Hill",
+    "desc": "An uplifted part of the Earth’s surface is referred to as a mountain or hill."
+  },
+  {
+    "q": "How are Fold Mountains formed?",
+    "pool": [
+      "Due to volcanic activity",
+      "Due to erosion by rivers",
+      "By folding of crustal rocks from compressive forces",
+      "By accumulation of sediments",
+      "By glacier movements"
+    ],
+    "answer": "By folding of crustal rocks from compressive forces",
+    "desc": "Fold mountains are created when crustal rocks fold due to compressive forces."
+  },
+  {
+    "q": "Which of the following is an example of Fold Mountains?",
+    "pool": [
+      "Nilgiris",
+      "Mauna Loa",
+      "Himalayas",
+      "Vosges",
+      "Rajmahal Hills"
+    ],
+    "answer": "Himalayas",
+    "desc": "The Himalayas in Asia are a classic example of fold mountains."
+  },
+  {
+    "q": "Which mountains are formed by raising or lowering of blocks of the Earth’s crust?",
+    "pool": [
+      "Fold Mountains",
+      "Volcanic Mountains",
+      "Residual Mountains",
+      "Block Mountains",
+      "Dissected Mountains"
+    ],
+    "answer": "Block Mountains",
+    "desc": "Block Mountains are formed when large blocks of the crust are uplifted or lowered."
+  },
+  {
+    "q": "Vosges and Black Forest are examples of which type of mountains?",
+    "pool": [
+      "Fold Mountains",
+      "Block Mountains",
+      "Volcanic Mountains",
+      "Residual Mountains",
+      "Glacial Mountains"
+    ],
+    "answer": "Block Mountains",
+    "desc": "Vosges in France and Black Forest in Germany are Block Mountains."
+  },
+  {
+    "q": "What type of mountain is formed by volcanic activity?",
+    "pool": [
+      "Residual Mountain",
+      "Block Mountain",
+      "Fold Mountain",
+      "Volcanic Mountain",
+      "Glacial Mountain"
+    ],
+    "answer": "Volcanic Mountain",
+    "desc": "Volcanic mountains form from matter thrown out during volcanic eruptions."
+  },
+  {
+    "q": "Which of the following is an example of a Volcanic Mountain?",
+    "pool": [
+      "Alps",
+      "Girnar",
+      "Mt Mauna Loa",
+      "Nilgiris",
+      "Black Forest"
+    ],
+    "answer": "Mt Mauna Loa",
+    "desc": "Mt Mauna Loa in Hawaii is an example of a volcanic mountain."
+  },
+  {
+    "q": "Which type of mountain is formed primarily by erosion over time?",
+    "pool": [
+      "Volcanic Mountain",
+      "Block Mountain",
+      "Residual Mountain",
+      "Fold Mountain",
+      "Deltaic Mountain"
+    ],
+    "answer": "Residual Mountain",
+    "desc": "Residual or dissected mountains are shaped by erosion over time."
+  },
+  {
+    "q": "Which of the following is a Residual Mountain?",
+    "pool": [
+      "Himalayas",
+      "Rajmahal Hills",
+      "Alps",
+      "Stromboli",
+      "Vosges"
+    ],
+    "answer": "Rajmahal Hills",
+    "desc": "Rajmahal Hills are examples of residual mountains in India."
+  },
+  {
+    "q": "What are Residual Mountains also called?",
+    "pool": [
+      "Volcanoes",
+      "Glaciers",
+      "Circum-denudation mountains",
+      "Young fold mountains",
+      "Block faulted mountains"
+    ],
+    "answer": "Circum-denudation mountains",
+    "desc": "Residual mountains are also referred to as mountains of circum-denudation."
+  },
+  {
+    "q": "Which type of landform is flat, elevated, and has steep sides?",
+    "pool": [
+      "Mountain",
+      "Plain",
+      "Valley",
+      "Plateau",
+      "Delta"
+    ],
+    "answer": "Plateau",
+    "desc": "Plateaus are flat elevated landforms with steep sides."
+  },
+  {
+    "q": "Which landform is described as a flat and low-lying area with little elevation difference?",
+    "pool": [
+      "Mountain",
+      "Plateau",
+      "Plain",
+      "Valley",
+      "Hill"
+    ],
+    "answer": "Plain",
+    "desc": "Plains are flat, low-lying land surfaces with minimal elevation variation."
+  },
+  {
+    "q": "Which type of mountain is also known as 'mountain of accumulation'?",
+    "pool": [
+      "Residual Mountain",
+      "Fold Mountain",
+      "Block Mountain",
+      "Volcanic Mountain",
+      "Glacial Mountain"
+    ],
+    "answer": "Volcanic Mountain",
+    "desc": "Volcanic mountains are known as mountains of accumulation due to the matter they accumulate during eruptions."
+  },
+  {
+    "q": "Where is Mt Popa, a volcanic mountain, located?",
+    "pool": [
+      "India",
+      "Japan",
+      "Myanmar",
+      "France",
+      "Italy"
+    ],
+    "answer": "Myanmar",
+    "desc": "Mt Popa is a volcanic mountain located in Myanmar."
+  },
+  {
+    "q": "Which of the following is a Block Mountain in Germany?",
+    "pool": [
+      "Vosges",
+      "Black Forest",
+      "Alps",
+      "Nilgiris",
+      "Etna"
+    ],
+    "answer": "Black Forest",
+    "desc": "The Black Forest in Germany is a well-known example of a Block Mountain."
+  },
+  {
+    "q": "What characterizes a plateau's top surface?",
+    "pool": [
+      "Sharp and narrow",
+      "Flat and smooth",
+      "Rough and table-like",
+      "Depressed and uneven",
+      "Sandy and wavy"
+    ],
+    "answer": "Rough and table-like",
+    "desc": "Plateaus have a flat, table-like surface which is often rough and uneven."
+  },
+  {
+    "q": "Which of the following mountains are found in the Mediterranean Sea region?",
+    "pool": [
+      "Stromboli",
+      "Krakatoa",
+      "Nilgiris",
+      "Fujiyama",
+      "Girnar"
+    ],
+    "answer": "Stromboli",
+    "desc": "Stromboli is a volcanic mountain located in the Mediterranean Sea region."
+  },
+  {
+    "q": "Which of the following is NOT a type of mountain?",
+    "pool": [
+      "Fold Mountain",
+      "Block Mountain",
+      "Volcanic Mountain",
+      "Tectonic Plateau",
+      "Residual Mountain"
+    ],
+    "answer": "Tectonic Plateau",
+    "desc": "Tectonic Plateau is a type of plateau, not a mountain."
+  },
+  {
+    "q": "Which of these is NOT a feature of plains?",
+    "pool": [
+      "Flat surface",
+      "High elevation",
+      "Low-lying land",
+      "Least elevation difference",
+      "Extensive area coverage"
+    ],
+    "answer": "High elevation",
+    "desc": "Plains are characterized by low elevation and flat terrain."
+  }
+]

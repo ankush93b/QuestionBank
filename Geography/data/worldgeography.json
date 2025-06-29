@@ -1,0 +1,1460 @@
+[
+  {
+    "q": "Which is the longest mountain range in the world?",
+    "pool": ["Andes", "Himalayas", "Rockies", "Alps", "Atlas"],
+    "answer": "Andes",
+    "desc": "The Andes in South America are the longest continental mountain range, stretching 7200 km."
+  },
+  {
+    "q": "Which mountain range is located in South Central Asia?",
+    "pool": ["Rockies", "Himalayas, Karakoram and Hindu Kush", "Alaska", "Atlas", "Great Dividing Range"],
+    "answer": "Himalayas, Karakoram and Hindu Kush",
+    "desc": "The Himalayas, Karakoram, and Hindu Kush ranges span South Central Asia and are known for their high peaks."
+  },
+  {
+    "q": "Where is the Great Dividing Range located?",
+    "pool": ["North America", "Europe", "East Australia", "South America", "India"],
+    "answer": "East Australia",
+    "desc": "The Great Dividing Range is a major mountain range in East Australia, extending 3600 km."
+  },
+  {
+    "q": "Which mountain range lies in North-West Africa?",
+    "pool": ["Caucasus", "Alps", "Atlas", "Rockies", "Western Ghats"],
+    "answer": "Atlas",
+    "desc": "The Atlas Mountains stretch across North-West Africa and have a length of about 1930 km."
+  },
+  {
+    "q": "Which mountain range is found in Western India?",
+    "pool": ["Western Ghats", "Alps", "Andes", "Rockies", "Caucasus"],
+    "answer": "Western Ghats",
+    "desc": "The Western Ghats run along the western coast of India and span about 1610 km."
+  },
+  {
+    "q": "Which mountain range is located in the USA?",
+    "pool": ["Rockies", "Alaska", "Andes", "Atlas", "Caucasus"],
+    "answer": "Alaska",
+    "desc": "The Alaska mountain range is located in the USA and is about 1130 km long."
+  },
+  {
+    "q": "Which is the highest mountain peak in the world?",
+    "pool": ["K2", "Mt Everest", "Dhaulagiri", "Annapurna", "Kilimanjaro"],
+    "answer": "Mt Everest",
+    "desc": "Mount Everest, located on the Nepal-Tibet border, is the highest peak in the world."
+  },
+  {
+    "q": "Where is K2 (Godwin Austin) located?",
+    "pool": ["Nepal", "India (PoK)", "Pakistan", "China", "Tibet"],
+    "answer": "India (PoK)",
+    "desc": "K2, also known as Godwin Austin, is located in the Pakistan-occupied region of India."
+  },
+  {
+    "q": "Which mountain peak is located in Tanzania?",
+    "pool": ["Aconcagua", "Gurla Mandhata", "Tirich Mir", "Kilimanjaro", "Cotopaxi"],
+    "answer": "Kilimanjaro",
+    "desc": "Mount Kilimanjaro is the highest mountain in Africa and is located in Tanzania."
+  },
+  {
+    "q": "Where is the mountain peak Cotopaxi located?",
+    "pool": ["Argentina", "Ecuador", "Tanzania", "India", "Nepal"],
+    "answer": "Ecuador",
+    "desc": "Cotopaxi is a famous volcanic mountain peak located in Ecuador."
+  },
+
+  {
+    "q": "What is the length of the Himalayas, Karakoram and Hindu Kush mountain range?",
+    "pool": ["5000 km", "7200 km", "4800 km", "3600 km", "1930 km"],
+    "answer": "5000 km",
+    "desc": "The Himalayas, Karakoram and Hindu Kush range stretches approximately 5000 km across South Central Asia."
+  },
+  {
+    "q": "Which mountain range is 4800 km long and located in North America?",
+    "pool": ["Rockies", "Andes", "Great Dividing Range", "Alps", "Atlas"],
+    "answer": "Rockies",
+    "desc": "The Rocky Mountains are located in North America and span a length of about 4800 km."
+  },
+  {
+    "q": "Which mountain range in Europe is 1200 km long?",
+    "pool": ["Alps", "Caucasus", "Atlas", "Western Ghats", "Rockies"],
+    "answer": "Caucasus",
+    "desc": "The Caucasus mountain range in Europe spans approximately 1200 km."
+  },
+  {
+    "q": "Which mountain range is the shortest among those listed in the image?",
+    "pool": ["Alps", "Western Ghats", "Atlas", "Caucasus", "Alaska"],
+    "answer": "Alps",
+    "desc": "The Alps, located in Europe, are the shortest among the listed ranges at 1050 km."
+  },
+  {
+    "q": "What is the location of the Dhaulagiri mountain peak?",
+    "pool": ["India", "Nepal", "Tibet", "Pakistan", "Ecuador"],
+    "answer": "Nepal",
+    "desc": "Dhaulagiri is one of the major mountain peaks located in Nepal."
+  },
+  {
+    "q": "Where is Annapurna located?",
+    "pool": ["India", "Nepal", "Pakistan", "China", "Argentina"],
+    "answer": "Nepal",
+    "desc": "Annapurna is a prominent mountain peak located in Nepal."
+  },
+  {
+    "q": "Which peak is situated in Tibet and is not Mt Everest?",
+    "pool": ["K2", "Annapurna", "Gurla Mandhata", "Tirich Mir", "Aconcagua"],
+    "answer": "Gurla Mandhata",
+    "desc": "Gurla Mandhata is a mountain peak located in Tibet, separate from Mt Everest."
+  },
+  {
+    "q": "In which country is Tirich Mir located?",
+    "pool": ["India", "Nepal", "Pakistan", "China", "Argentina"],
+    "answer": "Pakistan",
+    "desc": "Tirich Mir is the highest mountain in the Hindu Kush range and is located in Pakistan."
+  },
+  {
+    "q": "Where is Aconcagua, the highest mountain outside Asia, located?",
+    "pool": ["Ecuador", "Argentina", "Nepal", "Pakistan", "Tanzania"],
+    "answer": "Argentina",
+    "desc": "Aconcagua is the highest mountain outside of Asia and is located in Argentina."
+  },
+  {
+    "q": "Which peak is located in Africa?",
+    "pool": ["Cotopaxi", "Gurla Mandhata", "Annapurna", "Kilimanjaro", "Tirich Mir"],
+    "answer": "Kilimanjaro",
+    "desc": "Mount Kilimanjaro is located in Africa, specifically in Tanzania."
+  },
+  {
+    "q": "Which range includes Mt Everest?",
+    "pool": ["Himalayas", "Rockies", "Atlas", "Andes", "Caucasus"],
+    "answer": "Himalayas",
+    "desc": "Mt Everest is part of the Himalayan mountain range."
+  },
+  {
+    "q": "Which mountain peak lies in the Andes?",
+    "pool": ["Aconcagua", "Everest", "Dhaulagiri", "Tirich Mir", "Cotopaxi"],
+    "answer": "Aconcagua",
+    "desc": "Aconcagua is located in the Andes mountain range in Argentina."
+  },
+  {
+    "q": "Which peak is a volcano located in Ecuador?",
+    "pool": ["Cotopaxi", "Kilimanjaro", "Dhaulagiri", "K2", "Tirich Mir"],
+    "answer": "Cotopaxi",
+    "desc": "Cotopaxi is a famous stratovolcano and peak located in Ecuador."
+  },
+  {
+    "q": "Which mountain range is the longest in Africa?",
+    "pool": ["Atlas", "Western Ghats", "Himalayas", "Andes", "Rockies"],
+    "answer": "Atlas",
+    "desc": "The Atlas Mountains are the most prominent mountain range in North-West Africa."
+  },
+  {
+    "q": "Which range is located in both India and Nepal?",
+    "pool": ["Himalayas", "Western Ghats", "Atlas", "Rockies", "Andes"],
+    "answer": "Himalayas",
+    "desc": "The Himalayas span across Nepal and northern parts of India."
+  },
+  {
+    "q": "Which mountain range is found in Europe and includes famous ski resorts?",
+    "pool": ["Alps", "Atlas", "Himalayas", "Rockies", "Andes"],
+    "answer": "Alps",
+    "desc": "The Alps are located in Europe and are known for their popular ski destinations."
+  },
+  {
+    "q": "Which range lies along the western coast of India?",
+    "pool": ["Western Ghats", "Himalayas", "Caucasus", "Alps", "Atlas"],
+    "answer": "Western Ghats",
+    "desc": "The Western Ghats run parallel to the western coast of India."
+  },
+  {
+    "q": "Which mountain range has the peak K2?",
+    "pool": ["Karakoram", "Andes", "Alps", "Atlas", "Western Ghats"],
+    "answer": "Karakoram",
+    "desc": "K2 is part of the Karakoram range, located in the South Central Asian region."
+  },
+  {
+    "q": "Which mountain range is located entirely within the USA?",
+    "pool": ["Alaska", "Rockies", "Andes", "Alps", "Atlas"],
+    "answer": "Alaska",
+    "desc": "The Alaska mountain range is fully located within the United States."
+  },
+  {
+    "q": "Which peak lies on the Nepal-Tibet border?",
+    "pool": ["Everest", "K2", "Dhaulagiri", "Tirich Mir", "Annapurna"],
+    "answer": "Everest",
+    "desc": "Mt Everest is situated on the border between Nepal and Tibet (China)."
+  },
+
+
+  {
+    "q": "Where is the Tibetan Plateau located?",
+    "pool": [
+      "Between Himalayas and Kunlun Mountains",
+      "Southern India",
+      "South-West Asia",
+      "North America",
+      "Madagascar"
+    ],
+    "answer": "Between Himalayas and Kunlun Mountains",
+    "desc": "The Tibetan Plateau lies between the Himalayas and Kunlun Mountains, making it the highest and largest plateau."
+  },
+  {
+    "q": "Which plateau is located in Southern India?",
+    "pool": [
+      "Tibetan Plateau",
+      "Deccan Plateau",
+      "Arabian Plateau",
+      "Colorado Plateau",
+      "Plateau of Columbia"
+    ],
+    "answer": "Deccan Plateau",
+    "desc": "The Deccan Plateau covers most of Southern India and is known for its rich volcanic soil."
+  },
+  {
+    "q": "Where is the Arabian Plateau situated?",
+    "pool": [
+      "South-West Asia",
+      "North America",
+      "South America",
+      "Europe",
+      "Southern India"
+    ],
+    "answer": "South-West Asia",
+    "desc": "The Arabian Plateau is a vast plateau in South-West Asia covering most of the Arabian Peninsula."
+  },
+  {
+    "q": "Which plateau is located in Central-Eastern South America?",
+    "pool": [
+      "Plateau of Brazil",
+      "Tibetan Plateau",
+      "Colorado Plateau",
+      "Great Basin Plateau",
+      "Arabian Plateau"
+    ],
+    "answer": "Plateau of Brazil",
+    "desc": "The Plateau of Brazil covers a large part of central-eastern South America, especially Brazil."
+  },
+  {
+    "q": "Which country is home to the Plateau of Mexico?",
+    "pool": [
+      "Mexico",
+      "USA",
+      "Brazil",
+      "India",
+      "Argentina"
+    ],
+    "answer": "Mexico",
+    "desc": "The Plateau of Mexico is a highland region located in central Mexico."
+  },
+  {
+    "q": "The Plateau of Columbia is located in which country?",
+    "pool": [
+      "USA",
+      "Mexico",
+      "Colombia",
+      "Brazil",
+      "Canada"
+    ],
+    "answer": "USA",
+    "desc": "The Plateau of Columbia lies in the northwestern United States, including parts of Washington and Oregon."
+  },
+  {
+    "q": "Where is the Plateau of Madagascar found?",
+    "pool": [
+      "Madagascar",
+      "Africa",
+      "India",
+      "USA",
+      "South America"
+    ],
+    "answer": "Madagascar",
+    "desc": "The Plateau of Madagascar is located on the island nation of Madagascar off the southeast coast of Africa."
+  },
+  {
+    "q": "Which plateau lies in North-West North America?",
+    "pool": [
+      "Plateau of Alaska",
+      "Colorado Plateau",
+      "Deccan Plateau",
+      "Arabian Plateau",
+      "Plateau of Mexico"
+    ],
+    "answer": "Plateau of Alaska",
+    "desc": "The Plateau of Alaska is in the northwestern part of North America, mainly in the state of Alaska."
+  },
+  {
+    "q": "The Plateau of Bolivia is associated with which mountain range?",
+    "pool": [
+      "Andes Mountains",
+      "Himalayas",
+      "Rockies",
+      "Alps",
+      "Kunlun Mountains"
+    ],
+    "answer": "Andes Mountains",
+    "desc": "The Plateau of Bolivia, also known as the Altiplano, lies between the Andes Mountains."
+  },
+  {
+    "q": "Which plateau lies south of the Columbia Plateau in the USA?",
+    "pool": [
+      "Great Basin Plateau",
+      "Colorado Plateau",
+      "Arabian Plateau",
+      "Plateau of Brazil",
+      "Tibetan Plateau"
+    ],
+    "answer": "Great Basin Plateau",
+    "desc": "The Great Basin Plateau lies just south of the Columbia Plateau in the western United States."
+  },
+  {
+    "q": "Where is the Colorado Plateau located?",
+    "pool": [
+      "South of Great Basin Plateau, USA",
+      "South America",
+      "East Africa",
+      "Middle East",
+      "Southern India"
+    ],
+    "answer": "South of Great Basin Plateau, USA",
+    "desc": "The Colorado Plateau lies in the southwestern United States, just south of the Great Basin Plateau."
+  },
+  {
+    "q": "Which plateau is known as the 'Roof of the World'?",
+    "pool": [
+      "Tibetan Plateau",
+      "Deccan Plateau",
+      "Plateau of Bolivia",
+      "Colorado Plateau",
+      "Arabian Plateau"
+    ],
+    "answer": "Tibetan Plateau",
+    "desc": "Due to its high elevation and size, the Tibetan Plateau is often called the 'Roof of the World'."
+  },
+  {
+    "q": "Which of these plateaus is found in South America?",
+    "pool": [
+      "Plateau of Brazil",
+      "Plateau of Columbia",
+      "Tibetan Plateau",
+      "Deccan Plateau",
+      "Colorado Plateau"
+    ],
+    "answer": "Plateau of Brazil",
+    "desc": "The Plateau of Brazil covers a large portion of the central and eastern areas of Brazil in South America."
+  },
+  {
+    "q": "Which plateau lies in an island nation in the Indian Ocean?",
+    "pool": [
+      "Plateau of Madagascar",
+      "Tibetan Plateau",
+      "Colorado Plateau",
+      "Plateau of Mexico",
+      "Plateau of Alaska"
+    ],
+    "answer": "Plateau of Madagascar",
+    "desc": "The Plateau of Madagascar lies in the island nation of Madagascar, located in the Indian Ocean."
+  },
+  {
+    "q": "Which of these is not located in the USA?",
+    "pool": [
+      "Plateau of Columbia",
+      "Great Basin Plateau",
+      "Colorado Plateau",
+      "Deccan Plateau",
+      "Plateau of Alaska"
+    ],
+    "answer": "Deccan Plateau",
+    "desc": "The Deccan Plateau is located in southern India, not the United States."
+  },
+
+
+  {
+    "q": "Which local wind is known as the 'Snow Eater'?",
+    "pool": ["Fohn", "Chinook", "Blizzard", "Santa Ana", "Mistral"],
+    "answer": "Chinook",
+    "desc": "Chinook is a hot, dry wind in the Rockies and is also known as the 'Snow Eater'."
+  },
+  {
+    "q": "Fohn is a hot, dry wind found in which mountain range?",
+    "pool": ["Himalayas", "Alps", "Andes", "Rockies", "Urals"],
+    "answer": "Alps",
+    "desc": "Fohn is a local wind that blows in the Alps."
+  },
+  {
+    "q": "Which local wind blows in Egypt?",
+    "pool": ["Khamsin", "Sirocco", "Solano", "Harmattan", "Levanter"],
+    "answer": "Khamsin",
+    "desc": "Khamsin is a hot, dry wind that blows in Egypt."
+  },
+  {
+    "q": "Which wind is also known as 'Blood Rain'?",
+    "pool": ["Sirocco", "Solano", "Harmattan", "Fohn", "Blizzard"],
+    "answer": "Sirocco",
+    "desc": "Sirocco is a hot, moist wind from the Sahara to the Mediterranean and is also called Blood Rain."
+  },
+  {
+    "q": "The Solano wind blows towards which region?",
+    "pool": ["Siberia", "North America", "Iberian Peninsula", "New Zealand", "Andes"],
+    "answer": "Iberian Peninsula",
+    "desc": "Solano is a hot, moist wind that moves from the Sahara towards the Iberian Peninsula."
+  },
+  {
+    "q": "Which wind is also called the 'Guinea Doctor'?",
+    "pool": ["Mistral", "Harmattan", "Sirocco", "Bora", "Punas"],
+    "answer": "Harmattan",
+    "desc": "Harmattan is a dry, dusty wind from Western Africa and is known as the 'Guinea Doctor'."
+  },
+  {
+    "q": "Bora wind blows from Hungary to which country?",
+    "pool": ["France", "Spain", "Italy", "Germany", "Switzerland"],
+    "answer": "Italy",
+    "desc": "Bora is a cold, dry wind blowing from Hungary to the North of Italy near the Adriatic Sea."
+  },
+  {
+    "q": "Mistral is a cold wind that blows from where?",
+    "pool": ["Andes", "Russia", "France", "Spain", "Canada"],
+    "answer": "France",
+    "desc": "Mistral is a very cold wind that blows from the Alps over France."
+  },
+  {
+    "q": "Which wind blows down the western side of the Andes?",
+    "pool": ["Chinook", "Punas", "Norwester", "Santa Ana", "Fohn"],
+    "answer": "Punas",
+    "desc": "Punas is a cold, dry wind blowing down the western side of the Andes Mountains."
+  },
+  {
+    "q": "Which wind occurs in the tundra region?",
+    "pool": ["Khamsin", "Santa Ana", "Blizzard", "Sirocco", "Norwester"],
+    "answer": "Blizzard",
+    "desc": "Blizzard is a very cold wind found in the tundra region."
+  },
+  {
+    "q": "Purga is a cold wind found in which region?",
+    "pool": ["Spain", "France", "New Zealand", "Russian Tundra", "Italy"],
+    "answer": "Russian Tundra",
+    "desc": "Purga is a cold local wind in the Russian tundra."
+  },
+  {
+    "q": "Levanter is a cold wind that occurs in which country?",
+    "pool": ["Portugal", "Spain", "France", "Morocco", "Greece"],
+    "answer": "Spain",
+    "desc": "Levanter is a cold wind that blows in Spain."
+  },
+  {
+    "q": "In which country is the Norwester wind found?",
+    "pool": ["Australia", "USA", "New Zealand", "South Africa", "Canada"],
+    "answer": "New Zealand",
+    "desc": "Norwester is a hot wind found in New Zealand."
+  },
+  {
+    "q": "Santa Ana is a hot wind in which part of the USA?",
+    "pool": ["Texas", "California", "Nevada", "Florida", "Alaska"],
+    "answer": "South California",
+    "desc": "Santa Ana is a hot, dry wind found in South California in the USA."
+  },
+  {
+    "q": "Which local wind originates in the Sahara and moves toward the Mediterranean Sea?",
+    "pool": ["Harmattan", "Solano", "Sirocco", "Mistral", "Bora"],
+    "answer": "Sirocco",
+    "desc": "Sirocco is a hot, moist wind from the Sahara towards the Mediterranean."
+  },
+  {
+    "q": "Which local wind is cold and blows near the Adriatic Sea?",
+    "pool": ["Bora", "Khamsin", "Sirocco", "Solano", "Chinook"],
+    "answer": "Bora",
+    "desc": "Bora is a cold, dry wind blowing from Hungary to Northern Italy near the Adriatic Sea."
+  },
+  {
+    "q": "Which local wind blows from the interior of Western Africa?",
+    "pool": ["Solano", "Harmattan", "Bora", "Khamsin", "Fohn"],
+    "answer": "Harmattan",
+    "desc": "Harmattan is a hot, dry wind blowing outwards from the interior of Western Africa."
+  },
+  {
+    "q": "Which local wind is commonly experienced in the Alps region?",
+    "pool": ["Fohn", "Santa Ana", "Punas", "Levanter", "Chinook"],
+    "answer": "Fohn",
+    "desc": "Fohn is a hot, dry wind experienced in the Alps."
+  },
+  {
+    "q": "What is the nature of the Blizzard wind?",
+    "pool": ["Hot and dry", "Cold and dry", "Hot and moist", "Very cold", "Moist and cool"],
+    "answer": "Very cold",
+    "desc": "Blizzard refers to very cold winds in the tundra region."
+  },
+  {
+    "q": "Which wind affects the region of South California?",
+    "pool": ["Norwester", "Santa Ana", "Purga", "Blizzard", "Fohn"],
+    "answer": "Santa Ana",
+    "desc": "Santa Ana is a hot wind experienced in South California, USA."
+  },
+
+
+  {
+    "q": "Which river originates from Victoria Lake?",
+    "pool": ["Amazon", "Nile", "Congo", "Yangtze", "Mississippi"],
+    "answer": "Nile",
+    "desc": "The Nile River originates from Victoria Lake in Africa."
+  },
+  {
+    "q": "The Amazon River originates from which mountain range?",
+    "pool": ["Andes", "Baikal", "Kunlun", "Altai", "Himalayas"],
+    "answer": "Andes",
+    "desc": "The Amazon River begins in the Andes mountains in Peru."
+  },
+  {
+    "q": "Which river originates from the Tibetan Kiang Plateau?",
+    "pool": ["Yangtze", "Mekong", "Huang Ho", "Congo", "Amur"],
+    "answer": "Yangtze",
+    "desc": "The Yangtze River originates from the Tibetan Kiang Plateau."
+  },
+  {
+    "q": "Itaska Lake in the USA is the origin of which major river?",
+    "pool": ["Missouri", "Amazon", "Niger", "Mississippi", "Lena"],
+    "answer": "Mississippi",
+    "desc": "The Mississippi River originates from Itaska Lake in the USA."
+  },
+  {
+    "q": "Which river originates from the Tannu-Ola Mountains?",
+    "pool": ["Yenisei", "Ob", "Lena", "Amur", "Mekong"],
+    "answer": "Yenisei",
+    "desc": "Yenisei River originates from the Tannu-Ola Mountains in Russia."
+  },
+  {
+    "q": "The Kunlun Mountains are the source of which river?",
+    "pool": ["Huang Ho", "Yangtze", "Amazon", "Congo", "Missouri"],
+    "answer": "Huang Ho",
+    "desc": "Huang Ho (also called Yellow River) originates from the Kunlun Mountains."
+  },
+  {
+    "q": "The Ob River starts in which mountain range?",
+    "pool": ["Andes", "Altai Mountains", "Himalayas", "Tannu-Ola", "Baikal"],
+    "answer": "Altai Mountains",
+    "desc": "Ob River originates from the Altai Mountains in Russia."
+  },
+  {
+    "q": "Which two rivers are the origin of the Congo River?",
+    "pool": ["Lena and Amur", "Niger and Ob", "Luapula and Lualaba", "Yenisei and Ob", "Yangtze and Mekong"],
+    "answer": "Luapula and Lualaba",
+    "desc": "The Congo River originates from the Luapula and Lualaba Rivers."
+  },
+  {
+    "q": "Amur River originates from which country?",
+    "pool": ["India", "Nepal", "Russia", "China", "Brazil"],
+    "answer": "China",
+    "desc": "Amur River originates from North East China."
+  },
+  {
+    "q": "Which river has its origin in the Baikal Mountains?",
+    "pool": ["Yangtze", "Lena", "Missouri", "Congo", "Amazon"],
+    "answer": "Lena",
+    "desc": "Lena River originates from the Baikal Mountains in Russia."
+  },
+  {
+    "q": "The Mekong River originates in which region?",
+    "pool": ["Himalayas", "Altai Mountains", "Tibetan Highlands", "Baikal Mountains", "Andes"],
+    "answer": "Tibetan Highlands",
+    "desc": "Mekong River originates from the Tibetan Highlands."
+  },
+  {
+    "q": "The Niger River originates from which country?",
+    "pool": ["Nigeria", "Ghana", "Chad", "Guinea", "Mali"],
+    "answer": "Guinea",
+    "desc": "Niger River originates from the country of Guinea in West Africa."
+  },
+  {
+    "q": "Which of the following cyclones occurs in the China Sea?",
+    "pool": ["Tornadoes", "Hurricanes", "Typhoons", "Willy Willies", "Tropical Cyclones"],
+    "answer": "Typhoons",
+    "desc": "Typhoons are tropical storms that occur in the China Sea."
+  },
+  {
+    "q": "Cyclones in the Indian Ocean are generally called?",
+    "pool": ["Typhoons", "Hurricanes", "Willy Willies", "Tropical Cyclones", "Tornadoes"],
+    "answer": "Tropical Cyclones",
+    "desc": "Cyclones in the Indian Ocean are referred to as Tropical Cyclones."
+  },
+  {
+    "q": "Which type of cyclone occurs in the Caribbean Sea?",
+    "pool": ["Tornadoes", "Typhoons", "Hurricanes", "Willy Willies", "Monsoons"],
+    "answer": "Hurricanes",
+    "desc": "Hurricanes are the name for cyclones occurring in the Caribbean Sea."
+  },
+  {
+    "q": "Tornadoes are primarily experienced in which country?",
+    "pool": ["India", "Australia", "USA", "China", "Brazil"],
+    "answer": "USA",
+    "desc": "Tornadoes most frequently occur in the USA."
+  },
+  {
+    "q": "Willy Willies are cyclones found in which region?",
+    "pool": ["South Africa", "South America", "Northern Australia", "New Zealand", "Indonesia"],
+    "answer": "Northern Australia",
+    "desc": "Willy Willies are local names for tropical cyclones in Northern Australia."
+  },
+  {
+    "q": "Which river among the following does not originate in Asia?",
+    "pool": ["Mekong", "Yangtze", "Congo", "Huang Ho", "Ob"],
+    "answer": "Congo",
+    "desc": "Congo River originates in Africa from the Luapula and Lualaba rivers."
+  },
+  {
+    "q": "Missouri River is a tributary of which major river?",
+    "pool": ["Amazon", "Yangtze", "Mississippi", "Niger", "Congo"],
+    "answer": "Mississippi",
+    "desc": "The Missouri River is a major tributary of the Mississippi River."
+  },
+  {
+    "q": "Which river originates in North East China?",
+    "pool": ["Lena", "Amur", "Huang Ho", "Yenisei", "Ob"],
+    "answer": "Amur",
+    "desc": "Amur River originates from North East China."
+  },
+
+  {
+    "q": "Which canal connects the Pacific Ocean with the Caribbean Sea?",
+    "pool": ["Panama", "Suez", "Kiel", "Erie", "Corinth"],
+    "answer": "Panama",
+    "desc": "The Panama Canal connects the Pacific Ocean with the Caribbean Sea."
+  },
+  {
+    "q": "Which canal connects the Mediterranean Sea to the Red Sea?",
+    "pool": ["Kiel", "Erie", "Suez", "Panama", "Corinth"],
+    "answer": "Suez",
+    "desc": "The Suez Canal connects the Mediterranean Sea to the Red Sea."
+  },
+  {
+    "q": "The Erie Canal joins which two water bodies?",
+    "pool": ["Pacific Ocean and Caribbean Sea", "Atlantic Ocean and Great Lakes", "Red Sea and Arabian Sea", "Mediterranean and Black Sea", "Indian Ocean and Bay of Bengal"],
+    "answer": "Atlantic Ocean and Great Lakes",
+    "desc": "The Erie Canal connects the Atlantic Ocean with the Great Lakes."
+  },
+  {
+    "q": "Kiel Canal connects which two seas?",
+    "pool": ["Mediterranean and Red Sea", "North Sea and Baltic Sea", "Caribbean Sea and Pacific Ocean", "Bay of Bengal and Arabian Sea", "Java Sea and Indian Ocean"],
+    "answer": "North Sea and Baltic Sea",
+    "desc": "The Kiel Canal connects the North Sea to the Baltic Sea."
+  },
+  {
+    "q": "What is the deepest point of the Pacific Ocean?",
+    "pool": ["Java Trench", "Puerto Rico Trench", "Eurasian Basin", "Mariana Trench", "Tonga Trench"],
+    "answer": "Mariana Trench",
+    "desc": "The Mariana Trench is the deepest point in the Pacific Ocean."
+  },
+  {
+    "q": "Where is the Puerto Rico Trench located?",
+    "pool": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean", "Mediterranean Sea"],
+    "answer": "Atlantic Ocean",
+    "desc": "Puerto Rico Trench is the deepest point in the Atlantic Ocean."
+  },
+  {
+    "q": "Which trench is the deepest point in the Indian Ocean?",
+    "pool": ["Java Trench", "Mariana Trench", "Tonga Trench", "Eurasian Basin", "Puerto Rico Trench"],
+    "answer": "Java Trench",
+    "desc": "Java Trench is the deepest part of the Indian Ocean."
+  },
+  {
+    "q": "The Eurasian Basin is the deepest point in which ocean?",
+    "pool": ["Indian", "Pacific", "Arctic", "Atlantic", "Southern"],
+    "answer": "Arctic",
+    "desc": "Eurasian Basin is the deepest point in the Arctic Ocean."
+  },
+  {
+    "q": "Bab-el-Mandeb Strait joins which water bodies?",
+    "pool": ["Red Sea and Arabian Sea", "Red Sea and Arabian Gulf", "Red Sea and Arabian Peninsula", "Red Sea and Arabian Sea", "Red Sea and Arabian Ocean"],
+    "answer": "Red Sea and Arabian Sea",
+    "desc": "Bab-el-Mandeb joins the Red Sea with the Arabian Sea."
+  },
+  {
+    "q": "Which two land masses does the Bab-el-Mandeb Strait separate?",
+    "pool": ["Europe and Asia", "India and Sri Lanka", "Arabia and Africa", "Asia and Africa", "Europe and Africa"],
+    "answer": "Arabia and Africa",
+    "desc": "The Bab-el-Mandeb Strait separates the Arabian Peninsula and Africa."
+  },
+  {
+    "q": "Which strait connects the Arctic Ocean and the Bering Sea?",
+    "pool": ["Dover", "Florida", "Bering", "Gibraltar", "Palk"],
+    "answer": "Bering",
+    "desc": "The Bering Strait connects the Arctic Ocean and the Bering Sea."
+  },
+  {
+    "q": "Bering Strait lies between which two continents?",
+    "pool": ["Europe and Asia", "Asia and Africa", "Alaska and Asia", "North America and South America", "Asia and Australia"],
+    "answer": "Alaska and Asia",
+    "desc": "Bering Strait lies between Alaska (North America) and Asia."
+  },
+  {
+    "q": "Which strait connects the Black Sea and the Marmara Sea?",
+    "pool": ["Bosporus", "Sunda", "Gibraltar", "Malacca", "Florida"],
+    "answer": "Bosporus",
+    "desc": "The Bosporus Strait connects the Black Sea and the Marmara Sea."
+  },
+  {
+    "q": "Which strait connects the North Sea and Atlantic Ocean?",
+    "pool": ["Gibraltar", "Dover", "Bering", "Florida", "Palk"],
+    "answer": "Dover",
+    "desc": "Dover Strait connects the North Sea and the Atlantic Ocean."
+  },
+  {
+    "q": "Dover Strait separates which regions?",
+    "pool": ["India and Sri Lanka", "Arabia and Africa", "England and Europe", "Indonesia and India", "Spain and Morocco"],
+    "answer": "England and Europe",
+    "desc": "The Dover Strait separates England from mainland Europe."
+  },
+  {
+    "q": "Which strait connects the Gulf of Mexico and Atlantic Ocean?",
+    "pool": ["Sunda", "Florida", "Dover", "Malacca", "Palk"],
+    "answer": "Florida",
+    "desc": "The Florida Strait connects the Gulf of Mexico and the Atlantic Ocean."
+  },
+  {
+    "q": "Florida Strait lies between Florida and which island group?",
+    "pool": ["Philippines", "Sri Lanka", "Andaman Islands", "Bahamas", "Maldives"],
+    "answer": "Bahamas",
+    "desc": "Florida Strait lies between Florida and the Bahamas Islands."
+  },
+  {
+    "q": "Which strait joins the Mediterranean Sea and the Atlantic Ocean?",
+    "pool": ["Bosporus", "Gibraltar", "Dover", "Malacca", "Florida"],
+    "answer": "Gibraltar",
+    "desc": "The Strait of Gibraltar connects the Mediterranean Sea with the Atlantic Ocean."
+  },
+  {
+    "q": "Gibraltar Strait lies between which two landmasses?",
+    "pool": ["Spain and France", "Spain and Italy", "Spain and Africa", "India and Sri Lanka", "Asia and Europe"],
+    "answer": "Spain and Africa",
+    "desc": "Gibraltar Strait lies between Spain and Morocco (Africa)."
+  },
+  {
+    "q": "Malacca Strait connects the Java Sea and which other water body?",
+    "pool": ["Bay of Bengal", "Arabian Sea", "South China Sea", "Andaman Sea", "Sulu Sea"],
+    "answer": "Bay of Bengal",
+    "desc": "The Malacca Strait connects the Java Sea and the Bay of Bengal."
+  },
+  {
+    "q": "Malacca Strait lies between which two countries?",
+    "pool": ["India and Sri Lanka", "India and Indonesia", "Malaysia and Indonesia", "Sri Lanka and Myanmar", "India and Bangladesh"],
+    "answer": "India and Indonesia",
+    "desc": "Malacca Strait lies between India and Indonesia."
+  },
+  {
+    "q": "Palk Strait connects which two countries?",
+    "pool": ["India and Indonesia", "India and Sri Lanka", "India and Myanmar", "India and Maldives", "India and Bangladesh"],
+    "answer": "India and Sri Lanka",
+    "desc": "Palk Strait connects India with Sri Lanka."
+  },
+  {
+    "q": "Magellan Strait connects which two oceans?",
+    "pool": ["Atlantic and Arctic", "Pacific and Southern", "South Pacific and South Atlantic", "Indian and Pacific", "North Pacific and North Atlantic"],
+    "answer": "South Pacific and South Atlantic",
+    "desc": "Magellan Strait connects the South Pacific Ocean and the South Atlantic Ocean."
+  },
+  {
+    "q": "Which country is associated with the Magellan Strait?",
+    "pool": ["Chile", "Argentina", "Peru", "Indonesia", "Colombia"],
+    "answer": "Chile",
+    "desc": "The Magellan Strait is located in Chile."
+  },
+  {
+    "q": "Sunda Strait joins which two water bodies?",
+    "pool": ["Red Sea and Arabian Sea", "Bay of Bengal and Arabian Sea", "Java Sea and Indian Ocean", "South Pacific and Atlantic", "Gulf of Mexico and Atlantic Ocean"],
+    "answer": "Java Sea and Indian Ocean",
+    "desc": "Sunda Strait connects the Java Sea and the Indian Ocean."
+  },
+
+
+  {
+    "q": "Where is the Caspian Sea located?",
+    "pool": ["Africa", "Europe", "Asia", "North America", "Australia"],
+    "answer": "Asia",
+    "desc": "The Caspian Sea is located in Asia."
+  },
+  {
+    "q": "Lake Superior is shared by which two countries?",
+    "pool": ["USA and Mexico", "Canada and USA", "Russia and China", "France and Germany", "Canada and Greenland"],
+    "answer": "Canada and USA",
+    "desc": "Lake Superior is located between Canada and the USA."
+  },
+  {
+    "q": "In which continent is Lake Victoria situated?",
+    "pool": ["Asia", "Africa", "Europe", "Australia", "North America"],
+    "answer": "Africa",
+    "desc": "Lake Victoria is located in Africa."
+  },
+  {
+    "q": "Lake Huron is shared by which two countries?",
+    "pool": ["Canada and USA", "India and Pakistan", "China and Mongolia", "USA and Mexico", "Russia and Ukraine"],
+    "answer": "Canada and USA",
+    "desc": "Lake Huron is situated between Canada and the USA."
+  },
+  {
+    "q": "Which lake is located entirely within the United States?",
+    "pool": ["Victoria", "Tanganyika", "Michigan", "Superior", "Baikal"],
+    "answer": "Michigan",
+    "desc": "Lake Michigan is entirely within the USA."
+  },
+  {
+    "q": "Where is Lake Tanganyika located?",
+    "pool": ["Asia", "Africa", "South America", "Europe", "North America"],
+    "answer": "Africa",
+    "desc": "Lake Tanganyika is located in Africa."
+  },
+  {
+    "q": "In which country is Lake Baikal found?",
+    "pool": ["China", "USA", "Russia", "India", "Kazakhstan"],
+    "answer": "Russia",
+    "desc": "Lake Baikal is located in Russia."
+  },
+  {
+    "q": "Which of the following lakes is in Canada?",
+    "pool": ["Baikal", "Victoria", "Great Bear", "Tanganyika", "Aral"],
+    "answer": "Great Bear",
+    "desc": "Great Bear Lake is located in Canada."
+  },
+  {
+    "q": "Lake Aral is found in which country?",
+    "pool": ["Russia", "Uzbekistan", "Kazakhstan", "China", "India"],
+    "answer": "Kazakhstan",
+    "desc": "Lake Aral is located in Kazakhstan."
+  },
+  {
+    "q": "Which lake is located in Africa?",
+    "pool": ["Great Bear", "Great Slave", "Tanganyika", "Superior", "Baikal"],
+    "answer": "Tanganyika",
+    "desc": "Lake Tanganyika is located in Africa."
+  },
+  {
+    "q": "Which is the largest freshwater lake by volume in the world?",
+    "pool": ["Superior", "Tanganyika", "Baikal", "Victoria", "Michigan"],
+    "answer": "Baikal",
+    "desc": "Lake Baikal in Russia is the largest freshwater lake by volume."
+  },
+  {
+    "q": "Great Slave Lake is located in which country?",
+    "pool": ["USA", "Russia", "Kazakhstan", "Canada", "Norway"],
+    "answer": "Canada",
+    "desc": "Great Slave Lake is located in Canada."
+  },
+  {
+    "q": "Which two lakes are located entirely in Canada?",
+    "pool": ["Michigan and Superior", "Great Bear and Great Slave", "Baikal and Aral", "Tanganyika and Victoria", "Caspian and Aral"],
+    "answer": "Great Bear and Great Slave",
+    "desc": "Great Bear and Great Slave Lakes are both located in Canada."
+  },
+  {
+    "q": "Which lake is the largest in Africa by area?",
+    "pool": ["Tanganyika", "Victoria", "Baikal", "Huron", "Superior"],
+    "answer": "Victoria",
+    "desc": "Lake Victoria is the largest lake by area in Africa."
+  },
+  {
+    "q": "Which lake is not located in North America?",
+    "pool": ["Superior", "Great Slave", "Baikal", "Huron", "Michigan"],
+    "answer": "Baikal",
+    "desc": "Lake Baikal is located in Russia, not in North America."
+  },
+
+
+  {
+    "q": "Where is Angel Falls located?",
+    "pool": ["Peru", "Brazil", "Venezuela", "Colombia", "Chile"],
+    "answer": "Venezuela",
+    "desc": "Angel Falls, the world’s highest uninterrupted waterfall, is located in Venezuela."
+  },
+  {
+    "q": "Tugela Falls is located in which country?",
+    "pool": ["Namibia", "South Africa", "Kenya", "Zambia", "Tanzania"],
+    "answer": "South Africa",
+    "desc": "Tugela Falls is located in the Drakensberg Mountains of South Africa."
+  },
+  {
+    "q": "In which country is Monge waterfall found?",
+    "pool": ["Norway", "Sweden", "Canada", "Finland", "Iceland"],
+    "answer": "Norway",
+    "desc": "Monge waterfall is located in Norway."
+  },
+  {
+    "q": "Yosemite waterfall is located in which country?",
+    "pool": ["Canada", "USA", "Mexico", "Australia", "New Zealand"],
+    "answer": "United States",
+    "desc": "Yosemite waterfall is located in Yosemite National Park, USA."
+  },
+  {
+    "q": "Catarata Yumbilla waterfall is found in which country?",
+    "pool": ["Peru", "Brazil", "Venezuela", "Ecuador", "Colombia"],
+    "answer": "Peru",
+    "desc": "Catarata Yumbilla is a waterfall located in the Amazonas region of Peru."
+  },
+  {
+    "q": "Which river flows through Baghdad?",
+    "pool": ["Nile", "Tigris", "Euphrates", "Jordan", "Indus"],
+    "answer": "Tigris",
+    "desc": "Baghdad, the capital of Iraq, is situated on the banks of the Tigris River."
+  },
+  {
+    "q": "Which river is associated with Budapest?",
+    "pool": ["Danube", "Elbe", "Thames", "Seine", "Spree"],
+    "answer": "Danube",
+    "desc": "Budapest, the capital of Hungary, is located on the Danube River."
+  },
+  {
+    "q": "Berlin is situated on which river?",
+    "pool": ["Elbe", "Spree", "Danube", "Rhine", "Seine"],
+    "answer": "Spree",
+    "desc": "Berlin, the capital of Germany, lies on the Spree River."
+  },
+  {
+    "q": "Which river flows through Cairo?",
+    "pool": ["Nile", "Tigris", "Euphrates", "Jhelum", "Ganga"],
+    "answer": "Nile",
+    "desc": "Cairo, the capital of Egypt, is located on the Nile River."
+  },
+  {
+    "q": "Karachi is located on the bank of which river?",
+    "pool": ["Indus", "Ganga", "Ravi", "Jhelum", "Chenab"],
+    "answer": "Indus",
+    "desc": "Karachi, a major city of Pakistan, lies on the Indus River."
+  },
+  {
+    "q": "Which river flows through Paris?",
+    "pool": ["Rhine", "Danube", "Seine", "Elbe", "Thames"],
+    "answer": "Seine",
+    "desc": "Paris, the capital of France, is located on the Seine River."
+  },
+  {
+    "q": "Which river flows through New York?",
+    "pool": ["Mississippi", "Hudson", "Potomac", "Ohio", "Colorado"],
+    "answer": "Hudson",
+    "desc": "New York City is located on the Hudson River."
+  },
+  {
+    "q": "The city of Rome lies on which river?",
+    "pool": ["Po", "Arno", "Tiber", "Danube", "Seine"],
+    "answer": "Tiber",
+    "desc": "Rome, the capital of Italy, is situated on the Tiber River."
+  },
+  {
+    "q": "Which river flows through Glasgow?",
+    "pool": ["Avon", "Clyde", "Tay", "Don", "Mersey"],
+    "answer": "Clyde",
+    "desc": "Glasgow is situated on the Clyde River in Scotland."
+  },
+  {
+    "q": "Which river flows through Washington DC?",
+    "pool": ["Hudson", "Mississippi", "Potomac", "Delaware", "Colorado"],
+    "answer": "Potomac",
+    "desc": "Washington DC is located on the Potomac River."
+  },
+  {
+    "q": "Which river is associated with Warsaw?",
+    "pool": ["Vistula", "Oder", "Elbe", "Danube", "Rhine"],
+    "answer": "Vistula",
+    "desc": "Warsaw, the capital of Poland, is located on the Vistula River."
+  },
+  {
+    "q": "Which city is located on the Thames River?",
+    "pool": ["Paris", "Berlin", "London", "Lisbon", "Madrid"],
+    "answer": "London",
+    "desc": "London is located on the banks of the Thames River."
+  },
+  {
+    "q": "Which river flows through Shanghai?",
+    "pool": ["Si-Kiang", "Yangtse-Kiang", "Huang He", "Amur", "Lena"],
+    "answer": "Yangtse-Kiang",
+    "desc": "Shanghai is located on the Yangtse-Kiang (Yangtze) River."
+  },
+  {
+    "q": "Which city lies on the Delaware River?",
+    "pool": ["Philadelphia", "New York", "Boston", "Baltimore", "Chicago"],
+    "answer": "Philadelphia",
+    "desc": "Philadelphia is located on the Delaware River."
+  },
+  {
+    "q": "Which river is associated with Lahore?",
+    "pool": ["Indus", "Jhelum", "Ravi", "Chenab", "Beas"],
+    "answer": "Ravi",
+    "desc": "Lahore is situated on the Ravi River."
+  },
+  {
+    "q": "Which city is situated on the Gomti River?",
+    "pool": ["Kanpur", "Delhi", "Lucknow", "Varanasi", "Bhopal"],
+    "answer": "Lucknow",
+    "desc": "Lucknow, the capital of Uttar Pradesh, lies on the Gomti River."
+  },
+  {
+    "q": "Which city lies on the Tigris and Euphrates Rivers?",
+    "pool": ["Baghdad", "Basara", "Damascus", "Tehran", "Kuwait"],
+    "answer": "Basara",
+    "desc": "Basara in Iraq lies near both Tigris and Euphrates Rivers."
+  },
+  {
+    "q": "Which river flows through Lisbon?",
+    "pool": ["Tagus", "Douro", "Guadiana", "Ebro", "Seine"],
+    "answer": "Tagus",
+    "desc": "Lisbon, the capital of Portugal, lies on the Tagus River."
+  },
+  {
+    "q": "Which river is associated with Montreal?",
+    "pool": ["St. Lawrence", "Ottawa", "Hudson", "Mississippi", "Delaware"],
+    "answer": "Ottawa",
+    "desc": "Montreal is situated on the Ottawa River."
+  },
+  {
+    "q": "Which city lies on the Avon River?",
+    "pool": ["Bristol", "Oxford", "Liverpool", "Leeds", "Cambridge"],
+    "answer": "Bristol",
+    "desc": "Bristol is situated on the Avon River in the UK."
+  },
+
+
+  {
+    "q": "Which desert is located in North Africa?",
+    "pool": ["Atacama", "Sahara", "Gobi", "Kalahari", "Arabian"],
+    "answer": "Sahara",
+    "desc": "The Sahara is the largest hot desert in the world and is located in North Africa."
+  },
+  {
+    "q": "Where is the Atacama Desert located?",
+    "pool": ["Argentina", "North Chile", "Peru", "Iran", "Botswana"],
+    "answer": "North Chile",
+    "desc": "The Atacama Desert is one of the driest places on Earth, located in northern Chile."
+  },
+  {
+    "q": "Which desert is found in Australia?",
+    "pool": ["Namib", "Arabian", "Australian (Gibson, Simpson)", "Kalahari", "Atacama"],
+    "answer": "Australian (Gibson, Simpson)",
+    "desc": "Australia is home to multiple deserts like the Gibson, Simpson, and Victorian deserts."
+  },
+  {
+    "q": "The Kalahari Desert is located in which country?",
+    "pool": ["South Africa", "Namibia", "Botswana", "Angola", "Zambia"],
+    "answer": "Botswana",
+    "desc": "The Kalahari Desert spans Botswana and parts of Namibia and South Africa."
+  },
+  {
+    "q": "Which desert lies in Iran?",
+    "pool": ["Dasht-e-Kavir", "Namib", "Patagonia", "Arabian", "Atacama"],
+    "answer": "Dasht-e-Kavir",
+    "desc": "Dasht-e-Kavir, also called the Great Salt Desert, is in central Iran."
+  },
+  {
+    "q": "Greenland, the largest island in the world, is part of which country?",
+    "pool": ["Canada", "Iceland", "Denmark", "Norway", "USA"],
+    "answer": "Denmark",
+    "desc": "Greenland is an autonomous territory within the Kingdom of Denmark."
+  },
+  {
+    "q": "What is the second largest island in the world?",
+    "pool": ["Borneo", "New Guinea", "Sumatra", "Madagascar", "Baffin Island"],
+    "answer": "New Guinea",
+    "desc": "New Guinea is the world’s second-largest island, located in Melanesia."
+  },
+  {
+    "q": "Which island belongs to both Indonesia and Malaysia?",
+    "pool": ["Borneo", "Sumatra", "New Guinea", "Madagascar", "Greenland"],
+    "answer": "Borneo",
+    "desc": "Borneo is shared by Indonesia, Malaysia, and Brunei."
+  },
+  {
+    "q": "Which is the fourth largest island in the world?",
+    "pool": ["Baffin Island", "Greenland", "Sumatra", "Madagascar", "New Guinea"],
+    "answer": "Madagascar",
+    "desc": "Madagascar is the fourth-largest island and is also a country."
+  },
+  {
+    "q": "Which is the largest island in Canada?",
+    "pool": ["Victoria Island", "Newfoundland", "Baffin Island", "Prince Edward Island", "Vancouver Island"],
+    "answer": "Baffin Island",
+    "desc": "Baffin Island is the largest island in Canada and fifth largest in the world."
+  },
+  {
+    "q": "Which country is the largest producer of gold?",
+    "pool": ["India", "China", "Russia", "USA", "South Africa"],
+    "answer": "China",
+    "desc": "China is the leading global producer of gold."
+  },
+  {
+    "q": "Which country is the largest producer of bauxite?",
+    "pool": ["Brazil", "Guinea", "India", "Australia", "USA"],
+    "answer": "Australia",
+    "desc": "Australia is the world’s leading producer of bauxite, the primary source of aluminum."
+  },
+  {
+    "q": "Which country leads in copper production?",
+    "pool": ["USA", "Peru", "Chile", "China", "Russia"],
+    "answer": "Chile",
+    "desc": "Chile is the top producer of copper in the world."
+  },
+  {
+    "q": "Which country is the largest producer of platinum?",
+    "pool": ["USA", "Russia", "China", "South Africa", "Zimbabwe"],
+    "answer": "South Africa",
+    "desc": "South Africa holds the world’s largest reserves of platinum."
+  },
+  {
+    "q": "Which desert is also called the Empty Quarter?",
+    "pool": ["Kalahari", "Atacama", "Arabian", "Namib", "Patagonia"],
+    "answer": "Arabian",
+    "desc": "The Rub’ al Khali in the Arabian Desert is also known as the Empty Quarter."
+  },
+  {
+    "q": "Who is the top producer of chromium?",
+    "pool": ["India", "China", "South Africa", "Kazakhstan", "Turkey"],
+    "answer": "South Africa",
+    "desc": "South Africa is the largest global producer of chromium."
+  },
+  {
+    "q": "Which country leads in diamond production by value?",
+    "pool": ["Russia", "Botswana", "South Africa", "Canada", "Australia"],
+    "answer": "Russia",
+    "desc": "Russia leads in diamond production by value, especially from Siberia."
+  },
+  {
+    "q": "Vanadium is mainly produced by which country?",
+    "pool": ["China", "USA", "Brazil", "Russia", "South Africa"],
+    "answer": "China",
+    "desc": "China is the largest producer of vanadium, used in steel alloys."
+  },
+  {
+    "q": "Which desert is located in Namibia?",
+    "pool": ["Namib", "Kalahari", "Atacama", "Dasht-e-Lut", "Arabian"],
+    "answer": "Namib",
+    "desc": "Namib is a coastal desert in southern Africa located in Namibia."
+  },
+  {
+    "q": "Which country produces the most antimony?",
+    "pool": ["Russia", "USA", "India", "China", "Mexico"],
+    "answer": "China",
+    "desc": "China dominates global production of antimony, used in batteries and flame retardants."
+  },
+  {
+    "q": "Which mineral is predominantly produced in the USA?",
+    "pool": ["Gold", "Copper", "Petroleum", "Phosphate", "Iron ore"],
+    "answer": "Petroleum",
+    "desc": "The USA is a leading producer of petroleum (crude oil)."
+  },
+  {
+    "q": "Where is the Dasht-e-Lut (Barren Desert) located?",
+    "pool": ["Saudi Arabia", "Iraq", "Iran", "Pakistan", "Oman"],
+    "answer": "Iran",
+    "desc": "Dasht-e-Lut is a desert in southeastern Iran known for extreme temperatures."
+  },
+  {
+    "q": "Which desert is found in Argentina?",
+    "pool": ["Namib", "Sahara", "Patagonia", "Kalahari", "Dasht-e-Kavir"],
+    "answer": "Patagonia",
+    "desc": "The Patagonia Desert (Monte Desert) is located in Argentina."
+  },
+  {
+    "q": "Which country leads in phosphate production?",
+    "pool": ["India", "Brazil", "China", "USA", "Morocco"],
+    "answer": "China",
+    "desc": "China is the world’s top producer of phosphate, essential in fertilizers."
+  },
+  {
+    "q": "Which country leads in manganese production?",
+    "pool": ["India", "Brazil", "China", "Ukraine", "Australia"],
+    "answer": "China",
+    "desc": "China is the largest producer of manganese, important for steelmaking."
+  },
+
+
+  {
+    "q": "The Pampas grassland is found in which region?",
+    "pool": ["USA", "Hungary", "South Africa", "Argentina and Uruguay", "New Zealand"],
+    "answer": "Argentina and Uruguay",
+    "desc": "Pampas is a fertile South American lowland, mainly in Argentina and Uruguay."
+  },
+  {
+    "q": "Which country has the Veld grasslands?",
+    "pool": ["Eurasia", "South Africa", "Australia", "Hungary", "USA"],
+    "answer": "South Africa",
+    "desc": "Velds are temperate grasslands found in South Africa."
+  },
+  {
+    "q": "Where are the Downs grasslands located?",
+    "pool": ["USA", "New Zealand", "Australia", "China", "Argentina"],
+    "answer": "Australia",
+    "desc": "Downs are grasslands located in Australia, ideal for sheep grazing."
+  },
+  {
+    "q": "Which country is the leading producer of coffee?",
+    "pool": ["China", "Brazil", "Indonesia", "Vietnam", "Colombia"],
+    "answer": "Brazil",
+    "desc": "Brazil is the largest producer of coffee in the world."
+  },
+  {
+    "q": "Rubber is mainly produced in which country?",
+    "pool": ["India", "China", "Indonesia", "Thailand", "Malaysia"],
+    "answer": "Thailand",
+    "desc": "Thailand is the world's leading natural rubber producer."
+  },
+  {
+    "q": "Which country is the largest producer of tea?",
+    "pool": ["India", "Sri Lanka", "China", "Kenya", "Japan"],
+    "answer": "China",
+    "desc": "China is the leading global producer of tea."
+  },
+  {
+    "q": "Indonesia is the top producer of which agricultural product?",
+    "pool": ["Rubber", "Tea", "Oil Palm", "Coffee", "Rice"],
+    "answer": "Oil Palm",
+    "desc": "Indonesia leads the world in palm oil production."
+  },
+  {
+    "q": "Which country leads in cocoa production?",
+    "pool": ["Brazil", "Ghana", "Nigeria", "Ivory Coast", "Colombia"],
+    "answer": "Ghana",
+    "desc": "Ghana is one of the top cocoa-producing countries globally."
+  },
+  {
+    "q": "Coconut is majorly produced in which country?",
+    "pool": ["India", "Indonesia", "Brazil", "Thailand", "Sri Lanka"],
+    "answer": "Indonesia",
+    "desc": "Indonesia is a leading producer of coconuts globally."
+  },
+  {
+    "q": "Which country is known for date palm production?",
+    "pool": ["Iran", "Iraq", "Egypt", "UAE", "Pakistan"],
+    "answer": "Egypt",
+    "desc": "Egypt is among the top producers of date palms."
+  },
+  {
+    "q": "Which country produces the most cotton?",
+    "pool": ["USA", "India", "China", "Brazil", "Uzbekistan"],
+    "answer": "China",
+    "desc": "China is the world's largest producer of cotton."
+  },
+  {
+    "q": "Who leads in wheat production globally?",
+    "pool": ["India", "Russia", "China", "USA", "Canada"],
+    "answer": "China",
+    "desc": "China is the top wheat producer globally."
+  },
+  {
+    "q": "Which country is the top producer of maize (corn)?",
+    "pool": ["India", "Mexico", "USA", "Brazil", "Argentina"],
+    "answer": "USA",
+    "desc": "USA is the leading global producer of maize."
+  },
+  {
+    "q": "Fruits and vegetables are most abundantly produced in:",
+    "pool": ["Brazil", "China", "India", "Mexico", "USA"],
+    "answer": "China",
+    "desc": "China is the top producer of fruits and vegetables."
+  },
+  {
+    "q": "Which country leads the world in wool production?",
+    "pool": ["India", "China", "Australia", "New Zealand", "South Africa"],
+    "answer": "Australia",
+    "desc": "Australia is well known for high-quality wool production."
+  },
+  {
+    "q": "Which is the leading rice-producing country?",
+    "pool": ["India", "Vietnam", "Thailand", "China", "Indonesia"],
+    "answer": "China",
+    "desc": "China is the largest producer and consumer of rice."
+  },
+  {
+    "q": "Which location is famous for clove production?",
+    "pool": ["India", "Zanzibar", "Indonesia", "Malaysia", "Sri Lanka"],
+    "answer": "Zanzibar",
+    "desc": "Zanzibar (Tanzania) is well known for clove production."
+  },
+  {
+    "q": "Which city in China is famous for iron and steel industry?",
+    "pool": ["Beijing", "Wuhan", "Anshan", "Shanghai", "Guangzhou"],
+    "answer": "Anshan",
+    "desc": "Anshan is one of China's major steel-producing cities."
+  },
+  {
+    "q": "What is Baku (Azerbaijan) known for?",
+    "pool": ["Cigars", "Petroleum", "Gold Mining", "Ship-building", "Textiles"],
+    "answer": "Petroleum",
+    "desc": "Baku is a major oil-producing and exporting center."
+  },
+  {
+    "q": "Which Irish city is famous for ship-building?",
+    "pool": ["Cork", "Galway", "Dublin", "Belfast", "Limerick"],
+    "answer": "Belfast",
+    "desc": "Belfast is historically known for its shipbuilding industry."
+  },
+  {
+    "q": "Which US city is known for automobile manufacturing?",
+    "pool": ["Chicago", "Detroit", "Kansas City", "Hollywood", "Pittsburgh"],
+    "answer": "Detroit",
+    "desc": "Detroit is famously known as the center of the US auto industry."
+  },
+  {
+    "q": "Which city is associated with cigar production?",
+    "pool": ["Chicago", "Kawasaki", "Hollywood", "Havana", "Birmingham"],
+    "answer": "Havana",
+    "desc": "Havana, Cuba, is famous for its high-quality cigars."
+  },
+  {
+    "q": "Which UK city is known for woolen textiles?",
+    "pool": ["London", "Manchester", "Leeds", "Liverpool", "Birmingham"],
+    "answer": "Leeds",
+    "desc": "Leeds is an important center for woolen textiles in the UK."
+  },
+  {
+    "q": "Which city is known for film production?",
+    "pool": ["New York", "Chicago", "Los Angeles", "Hollywood", "San Francisco"],
+    "answer": "Hollywood",
+    "desc": "Hollywood, USA is the world's most famous film industry center."
+  },
+  {
+    "q": "Leningrad is associated with which industry?",
+    "pool": ["Petroleum", "Ship-building", "Iron and Steel", "Films", "Automobile"],
+    "answer": "Ship-building",
+    "desc": "Leningrad (now Saint Petersburg) in Russia is known for ship-building."
+  },
+
+
+  {
+    "q": "Which boundary line separates India and Pakistan?",
+    "pool": ["McMahon Line", "Radcliffe Line", "Durand Line", "Hindenburg Line", "Maginot Line"],
+    "answer": "Radcliffe Line",
+    "desc": "The Radcliffe Line was demarcated in 1947 to separate India and Pakistan."
+  },
+  {
+    "q": "The McMahon Line is between which two countries?",
+    "pool": ["India and Pakistan", "India and China", "Pakistan and Afghanistan", "Germany and Poland", "USA and Canada"],
+    "answer": "India and China",
+    "desc": "McMahon Line was drawn between British India and Tibet, now considered between India and China."
+  },
+  {
+    "q": "The Durand Line separates Pakistan from which country?",
+    "pool": ["India", "Iran", "Afghanistan", "China", "Nepal"],
+    "answer": "Afghanistan",
+    "desc": "The Durand Line separates Pakistan and Afghanistan."
+  },
+  {
+    "q": "The 38th Parallel Line separates which two countries?",
+    "pool": ["India and Pakistan", "North and South Korea", "Germany and France", "USA and Canada", "China and Russia"],
+    "answer": "North and South Korea",
+    "desc": "The 38th parallel is the demarcation between North and South Korea."
+  },
+  {
+    "q": "Which line is the border between USA and Canada?",
+    "pool": ["24th Parallel", "38th Parallel", "49th Parallel", "McMahon Line", "Durand Line"],
+    "answer": "49th Parallel",
+    "desc": "The 49th parallel is the boundary line between the USA and Canada."
+  },
+  {
+    "q": "The 17th Parallel Line historically divided which countries?",
+    "pool": ["North and South Korea", "India and Pakistan", "East and West Germany", "North Vietnam and South Vietnam", "USA and Mexico"],
+    "answer": "North Vietnam and South Vietnam",
+    "desc": "The 17th parallel divided North and South Vietnam during the Vietnam War."
+  },
+  {
+    "q": "Mt Everest, the highest point in Asia, is how high?",
+    "pool": ["5895 m", "6190 m", "8850 m", "5642 m", "6962 m"],
+    "answer": "8850 m",
+    "desc": "Mt Everest is the highest mountain in the world, located in Asia."
+  },
+  {
+    "q": "What is the lowest point in Africa?",
+    "pool": ["Lake Eyre", "Lake Assal", "Dead Sea", "Death Valley", "Valdes Peninsula"],
+    "answer": "Lake Assal",
+    "desc": "Lake Assal in Djibouti is the lowest point in Africa."
+  },
+  {
+    "q": "Which is the highest point in Europe?",
+    "pool": ["Mt Kosciuszko", "Mt Kilimanjaro", "Mt Elbrus", "Mt McKinley", "Mt Aconcagua"],
+    "answer": "Mt Elbrus",
+    "desc": "Mt Elbrus in Russia is the highest peak in Europe."
+  },
+  {
+    "q": "What is the lowest point in North America?",
+    "pool": ["Caspian Sea", "Lake Eyre", "Death Valley", "Dead Sea", "Lake Assal"],
+    "answer": "Death Valley",
+    "desc": "Death Valley in California is the lowest point in North America."
+  },
+  {
+    "q": "Which country has Mt Kilimanjaro?",
+    "pool": ["Kenya", "Nepal", "Tanzania", "Uganda", "Ethiopia"],
+    "answer": "Tanzania",
+    "desc": "Mt Kilimanjaro, the highest peak in Africa, is located in Tanzania."
+  },
+  {
+    "q": "Which of the following cities is known for iron and steel?",
+    "pool": ["Los Angeles", "Lyon", "Magnitogorsk", "Milan", "Mutan"],
+    "answer": "Magnitogorsk",
+    "desc": "Magnitogorsk is a major iron and steel producing city in Russia."
+  },
+  {
+    "q": "Lyon (France) is famous for which industry?",
+    "pool": ["Petroleum", "Silk Textiles", "Ship-building", "Cigars", "Wool"],
+    "answer": "Silk Textiles",
+    "desc": "Lyon is known as a center of silk textile production in France."
+  },
+  {
+    "q": "Which city is associated with cotton textiles?",
+    "pool": ["Milan", "Lyon", "Manchester", "Mutan", "Leeds"],
+    "answer": "Manchester",
+    "desc": "Manchester (UK) is historically known for cotton textile industry."
+  },
+  {
+    "q": "What is the specialty of Milan (Italy)?",
+    "pool": ["Pottery", "Petroleum", "Silk Textile", "Ship-building", "Automobiles"],
+    "answer": "Silk Textile",
+    "desc": "Milan is a fashion and silk textile hub in Italy."
+  },
+  {
+    "q": "Pottery is a major industry in which city?",
+    "pool": ["Mutan", "Plymouth", "Milan", "Leeds", "Leningrad"],
+    "answer": "Mutan",
+    "desc": "Mutan (Pakistan) is known for its pottery industry."
+  },
+  {
+    "q": "Which Japanese city is known for automobile production?",
+    "pool": ["Tokyo", "Kyoto", "Nagasaki", "Kawasaki", "Osaka"],
+    "answer": "Kawasaki",
+    "desc": "Kawasaki is a major industrial city known for automobiles."
+  },
+  {
+    "q": "What is Pittsburgh famous for?",
+    "pool": ["Films", "Locomotives", "Iron and Steel", "Textiles", "Silk"],
+    "answer": "Iron and Steel",
+    "desc": "Pittsburgh (USA) is a key iron and steel manufacturing center."
+  },
+  {
+    "q": "Ship-building is a major industry in which Indian city?",
+    "pool": ["Mutan", "Milan", "Mumbai", "Chennai", "Hyderabad"],
+    "answer": "Mumbai",
+    "desc": "Mumbai is an important Indian port city with ship-building industry."
+  },
+  {
+    "q": "Cutlery is the key product of which UK city?",
+    "pool": ["London", "Leeds", "Plymouth", "Sheffield", "Manchester"],
+    "answer": "Sheffield",
+    "desc": "Sheffield is famous for high-quality cutlery and steel products."
+  },
+  {
+    "q": "Which city is associated with dairy products in New Zealand?",
+    "pool": ["Auckland", "Wellington", "Nelson", "New Plymouth", "Invercargill"],
+    "answer": "Invercargill",
+    "desc": "Invercargill in New Zealand is known for dairy production."
+  },
+  {
+    "q": "What is the lowest point in the world?",
+    "pool": ["Death Valley", "Lake Assal", "Bentley Subglacial Trench", "Dead Sea", "Valdes Peninsula"],
+    "answer": "Bentley Subglacial Trench",
+    "desc": "Bentley Subglacial Trench in Antarctica is the deepest point on land."
+  },
+  {
+    "q": "Which line defines the boundary between India and China?",
+    "pool": ["Radcliffe Line", "McMahon Line", "Durand Line", "Maginot Line", "49th Parallel"],
+    "answer": "McMahon Line",
+    "desc": "The McMahon Line was drawn in 1914 between India and Tibet (now China)."
+  },
+  {
+    "q": "Which boundary line is a fortification between Germany and France?",
+    "pool": ["Hindenburg Line", "Maginot Line", "McMahon Line", "Neisse Line", "Durand Line"],
+    "answer": "Siegfried Line",
+    "desc": "The Siegfried Line was Germany’s fortification opposite the French Maginot Line."
+  },
+  {
+    "q": "Which continent's highest point is Mt Aconcagua?",
+    "pool": ["Asia", "Africa", "Europe", "South America", "Australia"],
+    "answer": "South America",
+    "desc": "Mt Aconcagua in Argentina is the highest peak in South America."
+  }
+]

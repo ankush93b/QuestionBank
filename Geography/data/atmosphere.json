@@ -1,0 +1,528 @@
+[
+  {
+    "q": "What is the atmosphere?",
+    "pool": [
+      "A layer of water on Earth",
+      "A solid crust of the Earth",
+      "The vast expanse of air enveloping the Earth",
+      "A ring of dust around the Earth",
+      "A fire belt surrounding the Earth"
+    ],
+    "answer": "The vast expanse of air enveloping the Earth",
+    "desc": "The atmosphere is the vast expanse of air which envelops the Earth all around."
+  },
+  {
+    "q": "What does the atmosphere protect Earth from?",
+    "pool": [
+      "Radio waves",
+      "Gamma rays",
+      "Ultraviolet rays",
+      "Infrared rays",
+      "Microwaves"
+    ],
+    "answer": "Ultraviolet rays",
+    "desc": "The atmosphere protects Earth's surface from the Sun’s harmful ultraviolet rays."
+  },
+  {
+    "q": "What percentage of gases in the atmosphere are found in the troposphere?",
+    "pool": ["25%", "50%", "60%", "75%", "90%"],
+    "answer": "75%",
+    "desc": "The troposphere contains 75% of the gases in the atmosphere."
+  },
+  {
+    "q": "Up to what height does the troposphere extend?",
+    "pool": ["10 km", "15 km", "18 km", "20 km", "25 km"],
+    "answer": "18 km",
+    "desc": "The troposphere extends from the Earth's surface up to 18 km."
+  },
+  {
+    "q": "How does temperature change in the troposphere with altitude?",
+    "pool": [
+      "It increases with height",
+      "It stays constant",
+      "It decreases with height",
+      "It first increases then decreases",
+      "It varies randomly"
+    ],
+    "answer": "It decreases with height",
+    "desc": "In the troposphere, temperature decreases at about 6.5°C per km of ascent."
+  },
+  {
+    "q": "Which atmospheric layer contains the ozone layer?",
+    "pool": ["Troposphere", "Stratosphere", "Mesosphere", "Ionosphere", "Exosphere"],
+    "answer": "Stratosphere",
+    "desc": "The ozone layer is located in the stratosphere."
+  },
+  {
+    "q": "What is the typical temperature at the upper layer of the stratosphere?",
+    "pool": ["10°C", "5°C", "0°C", "-10°C", "-20°C"],
+    "answer": "0°C",
+    "desc": "At the upper layer of the stratosphere, the temperature is almost 0°C."
+  },
+  {
+    "q": "Which atmospheric layer is considered the coldest?",
+    "pool": ["Troposphere", "Stratosphere", "Mesosphere", "Ionosphere", "Exosphere"],
+    "answer": "Mesosphere",
+    "desc": "The mesosphere is the coldest region of the atmosphere."
+  },
+  {
+    "q": "What is the approximate temperature in the mesosphere?",
+    "pool": ["0°C", "-30°C", "-60°C", "-80°C", "-100°C"],
+    "answer": "-100°C",
+    "desc": "The temperature in the mesosphere drops to about -100°C."
+  },
+  {
+    "q": "What is the height range of the mesosphere?",
+    "pool": ["20-40 km", "30-60 km", "50-80 km", "60-100 km", "70-120 km"],
+    "answer": "50-80 km",
+    "desc": "The mesosphere extends from 50 to 80 km above Earth's surface."
+  },
+  {
+    "q": "Which atmospheric layer reflects radio waves back to Earth?",
+    "pool": ["Troposphere", "Stratosphere", "Mesosphere", "Ionosphere", "Exosphere"],
+    "answer": "Ionosphere",
+    "desc": "The ionosphere helps in radio communication by reflecting radio waves back to Earth."
+  },
+  {
+    "q": "What is the height range of the ionosphere?",
+    "pool": ["50-70 km", "60-80 km", "80-600 km", "100-700 km", "120-800 km"],
+    "answer": "80-600 km",
+    "desc": "The ionosphere ranges from 80 to 600 km above Earth."
+  },
+  {
+    "q": "Which layer is located above 600 km?",
+    "pool": ["Troposphere", "Stratosphere", "Mesosphere", "Ionosphere", "Exosphere"],
+    "answer": "Exosphere",
+    "desc": "The exosphere lies above 600 km and is the outermost layer of the atmosphere."
+  },
+  {
+    "q": "What is the name given to the upper part of the exosphere?",
+    "pool": ["Ionosphere", "Ozonosphere", "Thermosphere", "Magnetosphere", "Cryosphere"],
+    "answer": "Magnetosphere",
+    "desc": "The upper part of the exosphere is called the magnetosphere."
+  },
+  {
+    "q": "What happens to temperature in the exosphere?",
+    "pool": [
+      "It stays constant",
+      "It decreases slowly",
+      "It drops suddenly",
+      "It keeps rising constantly",
+      "It fluctuates randomly"
+    ],
+    "answer": "It keeps rising constantly",
+    "desc": "In the exosphere, the temperature keeps rising constantly at high rates."
+  },
+  {
+    "q": "Which layer helps in radio communication?",
+    "pool": ["Troposphere", "Stratosphere", "Mesosphere", "Ionosphere", "Exosphere"],
+    "answer": "Ionosphere",
+    "desc": "The ionosphere reflects radio waves, enabling radio communication."
+  },
+  {
+    "q": "Which layer experiences a temperature increase due to the presence of ozone?",
+    "pool": ["Troposphere", "Stratosphere", "Mesosphere", "Ionosphere", "Exosphere"],
+    "answer": "Stratosphere",
+    "desc": "The presence of ozone in the stratosphere causes a slow temperature increase with altitude."
+  },
+  {
+    "q": "What is the key feature of the troposphere in terms of weather?",
+    "pool": [
+      "Contains ozone layer",
+      "Coldest layer",
+      "Contains 75% gases and weather phenomena",
+      "Reflects radio waves",
+      "Contains charged particles"
+    ],
+    "answer": "Contains 75% gases and weather phenomena",
+    "desc": "The troposphere contains 75% of atmospheric gases and is where weather occurs."
+  },
+  {
+    "q": "What causes the slow increase in temperature in the stratosphere?",
+    "pool": [
+      "Radioactive materials",
+      "Ozone gas",
+      "Water vapor",
+      "Dust particles",
+      "Nitrogen gas"
+    ],
+    "answer": "Ozone gas",
+    "desc": "Ozone gas in the stratosphere absorbs ultraviolet rays, causing the temperature to increase."
+  },
+  {
+    "q": "Which layer is directly above the stratosphere?",
+    "pool": ["Troposphere", "Mesosphere", "Ionosphere", "Exosphere", "Magnetosphere"],
+    "answer": "Mesosphere",
+    "desc": "The mesosphere is situated above the stratosphere and below the ionosphere."
+  },
+
+
+  {
+    "q": "How does the atmosphere regulate temperature on Earth?",
+    "pool": [
+      "By increasing sunlight",
+      "By reflecting UV rays",
+      "By preventing Earth from becoming too hot or cold",
+      "By producing heat",
+      "By storing cold air"
+    ],
+    "answer": "By preventing Earth from becoming too hot or cold",
+    "desc": "The atmosphere regulates Earth's temperature to keep it within a habitable range."
+  },
+  {
+    "q": "What is the most abundant gas in the Earth's atmosphere?",
+    "pool": ["Oxygen", "Argon", "Carbon dioxide", "Nitrogen", "Methane"],
+    "answer": "Nitrogen",
+    "desc": "Nitrogen makes up 78% of the Earth's atmosphere, making it the most abundant gas."
+  },
+  {
+    "q": "What percentage of the Earth's atmosphere is oxygen?",
+    "pool": ["18%", "19%", "20%", "21%", "22%"],
+    "answer": "21%",
+    "desc": "Oxygen constitutes about 21% of the Earth's atmosphere."
+  },
+  {
+    "q": "Which gas makes up 0.93% of Earth's atmosphere?",
+    "pool": ["Carbon dioxide", "Argon", "Methane", "Nitrous oxide", "Ozone"],
+    "answer": "Argon",
+    "desc": "Argon makes up about 0.93% of Earth's atmosphere."
+  },
+  {
+    "q": "What is the approximate percentage of carbon dioxide in the atmosphere?",
+    "pool": ["0.01%", "0.02%", "0.03%", "0.05%", "1%"],
+    "answer": "0.03%",
+    "desc": "Carbon dioxide makes up about 0.03% of Earth's atmosphere."
+  },
+  {
+    "q": "Which of the following is NOT a major constituent of air?",
+    "pool": ["Nitrogen", "Oxygen", "Methane", "Argon", "Carbon dioxide"],
+    "answer": "Methane",
+    "desc": "Methane is a greenhouse gas but not a major component of the air."
+  },
+  {
+    "q": "Which of the following are also present in air in varying quantities?",
+    "pool": [
+      "Water vapour, dust particles, smoke, salts",
+      "Only nitrogen and oxygen",
+      "Carbon monoxide and hydrogen",
+      "Light and sound waves",
+      "All noble gases"
+    ],
+    "answer": "Water vapour, dust particles, smoke, salts",
+    "desc": "Besides the main gases, air contains impurities like water vapour, dust, smoke, and salts."
+  },
+  {
+    "q": "What is a greenhouse gas?",
+    "pool": [
+      "Gas that protects the ozone layer",
+      "Gas that cools the atmosphere",
+      "Gas that absorbs and emits radiation",
+      "Gas used in greenhouses",
+      "Gas that forms clouds"
+    ],
+    "answer": "Gas that absorbs and emits radiation",
+    "desc": "A greenhouse gas absorbs and emits radiation, contributing to the greenhouse effect."
+  },
+  {
+    "q": "Which of the following is a primary greenhouse gas?",
+    "pool": ["Hydrogen", "Nitrogen", "Water vapour", "Argon", "Helium"],
+    "answer": "Water vapour",
+    "desc": "Water vapour is one of the primary greenhouse gases in Earth's atmosphere."
+  },
+  {
+    "q": "Which gas contributes to both greenhouse effect and global warming?",
+    "pool": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon", "Neon"],
+    "answer": "Carbon dioxide",
+    "desc": "Carbon dioxide is a greenhouse gas that contributes to global warming when emitted in excess."
+  },
+  {
+    "q": "Which of the following is NOT a primary greenhouse gas?",
+    "pool": ["Water vapour", "Carbon dioxide", "Methane", "Nitrous oxide", "Nitrogen"],
+    "answer": "Nitrogen",
+    "desc": "Although nitrogen is abundant in the atmosphere, it is not a greenhouse gas."
+  },
+  {
+    "q": "Which planets or moons in our solar system also show greenhouse effects?",
+    "pool": ["Venus, Mars, Titan", "Jupiter, Saturn, Uranus", "Mercury, Earth, Pluto", "Neptune, Uranus, Europa", "Sun, Moon, Mars"],
+    "answer": "Venus, Mars, Titan",
+    "desc": "Venus, Mars, and Titan have atmospheres that exhibit greenhouse effects."
+  },
+  {
+    "q": "What is global warming?",
+    "pool": [
+      "Cooling of the Earth's poles",
+      "Increase in earthquakes",
+      "Rise in Earth’s average surface temperature",
+      "Sudden climate shift",
+      "Sun getting hotter"
+    ],
+    "answer": "Rise in Earth’s average surface temperature",
+    "desc": "Global warming refers to the rise in Earth's average surface temperature caused by greenhouse gases."
+  },
+  {
+    "q": "Which human activities contribute to global warming?",
+    "pool": [
+      "Fishing and farming",
+      "Planting trees",
+      "Burning fossil fuels and deforestation",
+      "Water purification",
+      "Using solar panels"
+    ],
+    "answer": "Burning fossil fuels and deforestation",
+    "desc": "Burning fossil fuels and deforestation increase greenhouse gases, contributing to global warming."
+  },
+  {
+    "q": "What is atmospheric pressure?",
+    "pool": [
+      "The pressure inside a mountain",
+      "Force of gravity on air molecules",
+      "Pressure exerted by atmosphere on Earth’s surface",
+      "Pressure created by ocean currents",
+      "Tension between atmospheric layers"
+    ],
+    "answer": "Pressure exerted by atmosphere on Earth’s surface",
+    "desc": "Atmospheric pressure is the force exerted by air above a unit area of Earth’s surface."
+  },
+  {
+    "q": "Which instrument is used to measure atmospheric pressure?",
+    "pool": [
+      "Thermometer",
+      "Hygrometer",
+      "Anemometer",
+      "Mercury Barometer",
+      "Altimeter"
+    ],
+    "answer": "Mercury Barometer",
+    "desc": "Atmospheric pressure is measured using a Mercury Barometer."
+  },
+  {
+    "q": "Which of the following is a major pressure belt of the Earth?",
+    "pool": [
+      "Equatorial low",
+      "Tropical highland",
+      "Oceanic ridge",
+      "Arctic zone",
+      "Mountain trough"
+    ],
+    "answer": "Equatorial low",
+    "desc": "The Equatorial low is one of the major atmospheric pressure belts."
+  },
+  {
+    "q": "Which belt lies at high latitudes and is known for high pressure?",
+    "pool": [
+      "Sub-polar low",
+      "Sub-tropical high",
+      "Equatorial low",
+      "Polar high",
+      "Equatorial ridge"
+    ],
+    "answer": "Polar high",
+    "desc": "The Polar high is a high-pressure belt located near the poles."
+  },
+  {
+    "q": "Which pressure belt is located between the tropics and poles?",
+    "pool": [
+      "Equatorial low",
+      "Sub-tropical high",
+      "Sub-polar low",
+      "Polar high",
+      "Inter-tropical convergence zone"
+    ],
+    "answer": "Sub-polar low",
+    "desc": "The Sub-polar low is located between the sub-tropical high and polar high belts."
+  },
+  {
+    "q": "What causes the formation of atmospheric pressure belts?",
+    "pool": [
+      "Ocean currents",
+      "Sun’s radiation and Earth’s rotation",
+      "Magnetic fields",
+      "Tidal forces",
+      "Gravity variations"
+    ],
+    "answer": "Sun’s radiation and Earth’s rotation",
+    "desc": "Atmospheric pressure belts form due to differential heating from the Sun and Earth’s rotation."
+  },
+
+
+  {
+    "q": "What causes the movement of wind?",
+    "pool": [
+      "Temperature differences",
+      "Earth’s magnetic field",
+      "Ocean currents",
+      "Horizontal differences in air pressure",
+      "Cloud formation"
+    ],
+    "answer": "Horizontal differences in air pressure",
+    "desc": "Wind is caused by horizontal differences in air pressure, moving from high to low pressure."
+  },
+  {
+    "q": "What is the horizontal movement of air called?",
+    "pool": ["Storm", "Cyclone", "Breeze", "Wind", "Gust"],
+    "answer": "Wind",
+    "desc": "Horizontal movement of air due to pressure differences is called wind."
+  },
+  {
+    "q": "Which winds blow throughout the year due to latitudinal pressure differences?",
+    "pool": ["Periodic winds", "Local winds", "Planetary winds", "Cyclones", "Anticyclones"],
+    "answer": "Planetary winds",
+    "desc": "Planetary winds blow year-round due to differences in pressure across latitudes."
+  },
+  {
+    "q": "How many types of planetary winds are there?",
+    "pool": ["Two", "Three", "Four", "Five", "Six"],
+    "answer": "Three",
+    "desc": "Planetary winds are divided into three types: Trade winds, Westerlies, and Polar winds."
+  },
+  {
+    "q": "From where do trade winds blow?",
+    "pool": [
+      "Equatorial Low to Sub-tropical High",
+      "Sub-tropical High to Equatorial Low",
+      "Polar to Equator",
+      "Equator to poles",
+      "Poles to temperate zones"
+    ],
+    "answer": "Sub-tropical High to Equatorial Low",
+    "desc": "Trade winds blow from the Sub-tropical High Pressure Belt to the Equatorial Low Pressure Belt."
+  },
+  {
+    "q": "Between which latitudes do trade winds occur?",
+    "pool": [
+      "0° to 60°",
+      "30° to 60°",
+      "60° to 90°",
+      "30°N to 30°S",
+      "0° to 30°N only"
+    ],
+    "answer": "30°N to 30°S",
+    "desc": "Trade winds occur in the tropics between 30° North and 30° South latitudes."
+  },
+  {
+    "q": "Westerlies blow between which latitudes?",
+    "pool": [
+      "0° to 30°",
+      "30° to 60°",
+      "60° to 90°",
+      "Equator to Poles",
+      "10° to 40°"
+    ],
+    "answer": "30° to 60°",
+    "desc": "Westerlies blow from the Sub-tropical High to the Sub-Polar Low between 30° and 60° latitudes."
+  },
+  {
+    "q": "What are the westerlies also known as?",
+    "pool": [
+      "Monsoons",
+      "Furious Forties and Shrieking Sixties",
+      "Cyclones",
+      "Trade Winds",
+      "Calm Winds"
+    ],
+    "answer": "Furious Forties and Shrieking Sixties",
+    "desc": "Westerlies are famously known as Roaring Forties, Furious Fifties, and Shrieking Sixties."
+  },
+  {
+    "q": "From where do polar winds blow?",
+    "pool": [
+      "Sub-polar Low to Polar High",
+      "Equator to poles",
+      "Polar High to Sub-polar Low",
+      "30° to 60° latitudes",
+      "North to South directly"
+    ],
+    "answer": "Polar High to Sub-polar Low",
+    "desc": "Polar winds blow from the Polar High Pressure Belt to the Sub-Polar Low Pressure Belt."
+  },
+  {
+    "q": "Which winds change their direction with seasons?",
+    "pool": [
+      "Planetary winds",
+      "Polar winds",
+      "Local winds",
+      "Periodic winds",
+      "Trade winds"
+    ],
+    "answer": "Periodic winds",
+    "desc": "Periodic winds, such as monsoons, change direction with seasons due to pressure changes."
+  },
+  {
+    "q": "Which of the following is a periodic wind?",
+    "pool": ["Fohn", "Loo", "Chinook", "Monsoon", "Trade wind"],
+    "answer": "Monsoon",
+    "desc": "Monsoons are periodic winds that change direction seasonally."
+  },
+  {
+    "q": "Which of the following is a local wind?",
+    "pool": ["Monsoon", "Westerlies", "Chinook", "Trade wind", "Polar wind"],
+    "answer": "Chinook",
+    "desc": "Chinook is a warm local wind that develops due to local temperature and pressure differences."
+  },
+  {
+    "q": "Which of these is not a local wind?",
+    "pool": ["Loo", "Fohn", "Trade wind", "Chinook", "Sea Breeze"],
+    "answer": "Trade wind",
+    "desc": "Trade winds are planetary winds, not local winds."
+  },
+  {
+    "q": "What is a cyclone?",
+    "pool": [
+      "Outward movement of air with high pressure at center",
+      "Rapid inward circulation of air with low pressure at center",
+      "Gentle breeze from ocean",
+      "Stable high-pressure system",
+      "Sudden rise in temperature"
+    ],
+    "answer": "Rapid inward circulation of air with low pressure at center",
+    "desc": "Cyclones involve inward movement of air masses towards a low-pressure center."
+  },
+  {
+    "q": "In which direction do cyclones rotate in the Northern Hemisphere?",
+    "pool": ["Clockwise", "Upward", "Random", "Anticlockwise", "Downward"],
+    "answer": "Anticlockwise",
+    "desc": "Cyclones rotate anticlockwise in the Northern Hemisphere."
+  },
+  {
+    "q": "What is an anticyclone?",
+    "pool": [
+      "Low pressure system with inward winds",
+      "Circular cloud pattern",
+      "Outward movement of air with high pressure at center",
+      "Rising warm air mass",
+      "Heavy rainfall system"
+    ],
+    "answer": "Outward movement of air with high pressure at center",
+    "desc": "An anticyclone features outward air movement from a high-pressure center."
+  },
+  {
+    "q": "What is another name for a hurricane?",
+    "pool": [
+      "Local storm",
+      "Tropical cyclone",
+      "Cold front",
+      "Heat wave",
+      "Polar vortex"
+    ],
+    "answer": "Tropical cyclone",
+    "desc": "Hurricane is also called a tropical cyclone or tropical storm."
+  },
+  {
+    "q": "What is the typical wind speed in a hurricane?",
+    "pool": ["60 km/h", "80 km/h", "100 km/h", "140 km/h", "200 km/h"],
+    "answer": "140 km/h",
+    "desc": "Hurricanes have very high wind speeds, often exceeding 140 km/h."
+  },
+  {
+    "q": "What is the approximate diameter of a hurricane disturbance?",
+    "pool": ["100 km", "300 km", "500 km", "650 km", "800 km"],
+    "answer": "650 km",
+    "desc": "A hurricane typically spans a diameter of about 650 km."
+  },
+  {
+    "q": "Which type of wind is responsible for land and sea breezes?",
+    "pool": ["Planetary", "Polar", "Local", "Periodic", "Trade"],
+    "answer": "Periodic",
+    "desc": "Land and sea breezes are examples of periodic winds."
+  }
+]

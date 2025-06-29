@@ -111,8 +111,8 @@
             text-align: left;
         }
         .question-image-wrapper {
-            width: 70px;
-            height: 70px;
+            width: 200px;
+            height: 200px;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -121,8 +121,8 @@
             padding-bottom: 15px;
         }
         .question-image {
-            max-width: 60px;
-            height: auto;           
+            width: auto;
+            height: 200px;          
             
             user-drag: none;
             -webkit-user-drag: none;
@@ -517,7 +517,7 @@ function showModal(type) {
             if (qObj && qObj.image) {
                 imageHtml = `
                     <div class="question-image-wrapper" style="margin-bottom: 10px; display: flex; justify-content: center;">
-                        <img class="question-image" src="${qObj.image}" alt="Question image" style="max-width: 50px; display: block;">
+                        <img class="question-image" src="${qObj.image}" alt="Question image" style="max-width: 250px; display: block;">
                     </div>
                 `;
             }

@@ -622,7 +622,7 @@
       -ms-overflow-style: none;
       scrollbar-width: none;
       font-size: 16px;
-      margin-top: 17px;
+      margin-top: 0px;
     }
     .dropdown-menu::-webkit-scrollbar {
       display: none;
@@ -1071,7 +1071,7 @@
         left: 0;
         top: 100%;
         width: 100%;
-        background: transparent;
+        background: whitesmoke;
         border: 1.5px solid #4caf50;
         margin-top: 3px;
         border-radius: 25px;
@@ -1104,6 +1104,10 @@
         font-weight: bold;
       }
       .footer{
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        padding-bottom: 4px;
         display: flex;
         justify-content: space-between;
         margin-top: 50px;
@@ -1171,6 +1175,7 @@
         }
         .footer
         {
+          padding-bottom: 15px;
           display: flex;
           flex-direction: column-reverse;
           justify-content: center;
@@ -1395,7 +1400,7 @@
     const subjectTopics = {
       "Quantitative Aptitude": ['Squares upto 10','Squares upto 10 Mix','Squares upto 20','Squares upto 20 Mix', 'Squares upto 30', 'Squares upto 40','Squares upto 50','Tables upto 10','Tables upto 20','Tables upto 30','Tables upto 40','Tables upto 50'],
 
-      "General Awareness": ['Also Known As','Books - Newspapers - Journals','Classical Dances and Dancers','Country - Currency','Folk Dances','Instruments and Vocalists','Resting Places'],
+      "General Awareness": ['Also Known As','Books - Newspapers - Journals','Classical Dances and Dancers','Country - Capital','Country - Currency','Folk Dances','Instruments and Vocalists','Resting Places'],
 
       "English": ['One Word Substitution',''],
 
@@ -1409,7 +1414,7 @@
 
       "History":['Pre-Historic Period','Indus Valley Civilisation','Vedic Period','Vedic Literature','Jainism','Buddhism','Ancient India Dynasties','Delhi Sultanate','Mughal Empire','Later Medieval Period','Arrival of the Europeans','Governor-Generals of Bengal','Governor-Generals of India','Viceroys of India','The Revolt of 1857','National Movements','Socio-Religious Reform Movements','Partition and Independence'],
 
-      "Picture-Based Learning":['Countries Flags','Currency Symbols','Famous Personalities - India','Logos - India','Logos - International','Monuments - India','Monuments - Worldwide','States'],
+      "Picture-Based Learning":['Countries Flags','Currency Symbols','Google','Famous Personalities - India','Logos - India','Logos - International','Monuments - India','Monuments - Worldwide','States'],
 
       "Child Development & Pedagogy":['Child Development & Pedagogy Mix'] 
     };

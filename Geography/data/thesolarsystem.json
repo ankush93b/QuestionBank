@@ -1,0 +1,854 @@
+[
+  {
+    "q": "What is the study of the universe called?",
+    "pool": ["Geology", "Astronomy", "Cosmology", "Astrology", "Physics"],
+    "answer": "Cosmology",
+    "desc": "Cosmology is the scientific study of the universe and its origins, structure, evolution, and eventual fate."
+  },
+  {
+    "q": "What does the universe include?",
+    "pool": ["Only stars", "Planets and stars", "Physical matter and energy", "Only galaxies", "Light and dark matter"],
+    "answer": "Physical matter and energy",
+    "desc": "The universe includes all that exists: physical matter, energy, planets, stars, galaxies, and intergalactic space."
+  },
+  {
+    "q": "What is a galaxy?",
+    "pool": ["A star", "A type of nebula", "A group of planets", "A system of stars, dust and gas", "A black hole"],
+    "answer": "A system of stars, dust and gas",
+    "desc": "A galaxy is a vast system of billions of stars, along with dust and gas, bound together by gravity."
+  },
+  {
+    "q": "Approximately how many galaxies are there in the universe?",
+    "pool": ["1 million", "10 million", "100 million", "1 billion", "100 billion"],
+    "answer": "100 billion",
+    "desc": "There are estimated to be around 100 billion galaxies in the observable universe."
+  },
+  {
+    "q": "Which galaxy do we live in?",
+    "pool": ["Andromeda", "Orion", "Centaurus", "Milky Way", "Whirlpool"],
+    "answer": "Milky Way",
+    "desc": "We live in the Milky Way galaxy, also known as Akash Ganga in Hindi."
+  },
+  {
+    "q": "Which galaxy is closest to the Milky Way?",
+    "pool": ["Whirlpool", "Triangulum", "Andromeda", "Messier 87", "Centaurus A"],
+    "answer": "Andromeda",
+    "desc": "Andromeda is the nearest spiral galaxy to the Milky Way."
+  },
+  {
+    "q": "What theory explains the origin of the universe?",
+    "pool": ["Quantum Theory", "String Theory", "Relativity Theory", "Big Bang Theory", "Expansion Theory"],
+    "answer": "Big Bang Theory",
+    "desc": "The Big Bang Theory explains the origin of the universe as an expansion from a singular point around 15 billion years ago."
+  },
+  {
+    "q": "Approximately how many years ago did the Big Bang occur?",
+    "pool": ["5 billion", "10 billion", "15 billion", "20 billion", "25 billion"],
+    "answer": "15 billion",
+    "desc": "The Big Bang is believed to have occurred about 15 billion years ago."
+  },
+  {
+    "q": "What did the Big Bang result in?",
+    "pool": ["Formation of planets", "End of universe", "Collapse of matter", "Formation of galaxies and stars", "Birth of Earth"],
+    "answer": "Formation of galaxies and stars",
+    "desc": "The Big Bang led to the formation of galaxies, stars, and other celestial bodies."
+  },
+  {
+    "q": "What kind of radiation is believed to fill the universe?",
+    "pool": ["Infrared", "Cosmic microwave background", "Ultraviolet", "Gamma rays", "X-rays"],
+    "answer": "Cosmic microwave background",
+    "desc": "The universe is believed to be filled with radiation known as the cosmic microwave background (CMB)."
+  },
+  {
+    "q": "Which NASA mission was launched to study cosmic background radiation?",
+    "pool": ["Hubble", "Voyager", "Chandra", "COBE", "Apollo"],
+    "answer": "COBE",
+    "desc": "The COBE (Cosmic Background Explorer) mission was launched to study the cosmic microwave background radiation."
+  },
+  {
+    "q": "What does WMAP stand for?",
+    "pool": ["World Meteorological Analysis Program", "Wide-angle Microwave Analysis Probe", "Wilkinson Microwave Anisotropy Probe", "Wide Magnetic Anomaly Probe", "Wave Measurement and Prediction"],
+    "answer": "Wilkinson Microwave Anisotropy Probe",
+    "desc": "WMAP stands for Wilkinson Microwave Anisotropy Probe, launched by NASA to measure the temperature fluctuations in the cosmic microwave background."
+  },
+  {
+    "q": "What are stars made of?",
+    "pool": ["Liquid metal", "Cold gases", "Rock", "Burning gases", "Ice"],
+    "answer": "Burning gases",
+    "desc": "Stars are made up of hot burning gases, mainly hydrogen and helium, and they shine by emitting their own light."
+  },
+  {
+    "q": "What makes stars shine?",
+    "pool": ["Reflected sunlight", "Electricity", "Internal energy", "Own light emission", "Light from black holes"],
+    "answer": "Own light emission",
+    "desc": "Stars shine because they emit their own light due to nuclear fusion reactions occurring in their cores."
+  },
+  {
+    "q": "What is a black hole?",
+    "pool": ["A type of star", "A dead planet", "A hole in space", "A region where light can't escape", "A mirror object"],
+    "answer": "A region where light can't escape",
+    "desc": "A black hole is a region in space where gravity is so strong that not even light can escape it."
+  },
+  {
+    "q": "When is a star likely to become a black hole?",
+    "pool": ["If it is made of helium", "If it has rings", "If its mass is greater than 3 times the Sun", "If it is very cold", "If it moves fast"],
+    "answer": "If its mass is greater than 3 times the Sun",
+    "desc": "Stars with a mass greater than three times that of the Sun can collapse into black holes due to their immense gravity."
+  },
+  {
+    "q": "What binds stars in a galaxy together?",
+    "pool": ["Magnetism", "Electric force", "Nuclear energy", "Gravity", "Dark matter"],
+    "answer": "Gravity",
+    "desc": "Gravity is the force that binds stars, gas, and dust together in a galaxy."
+  },
+  {
+    "q": "What is intergalactic space?",
+    "pool": ["Area inside a star", "Space between planets", "Space inside a galaxy", "Space between galaxies", "Space inside Earth’s orbit"],
+    "answer": "Space between galaxies",
+    "desc": "Intergalactic space refers to the space that exists between galaxies."
+  },
+  {
+    "q": "Which of these is *not* part of the universe?",
+    "pool": ["Planets", "Stars", "Atoms", "Internet", "Galaxies"],
+    "answer": "Internet",
+    "desc": "The universe includes physical entities like stars, planets, and galaxies — not human-made virtual systems like the internet."
+  },
+  {
+    "q": "Which term is also used for the Milky Way galaxy in India?",
+    "pool": ["Jyoti Ganga", "Surya Mandal", "Akash Ganga", "Dhwani Path", "Kiran Mandal"],
+    "answer": "Akash Ganga",
+    "desc": "In Indian tradition, the Milky Way is referred to as Akash Ganga."
+  },
+
+
+  {
+    "q": "What are comets primarily made of?",
+    "pool": ["Dust and rocks", "Molten lava", "Frozen gases", "Liquid hydrogen", "Plasma"],
+    "answer": "Frozen gases",
+    "desc": "Comets are made primarily of frozen gases mixed with dust and rocky material."
+  },
+  {
+    "q": "How do comets move around the Sun?",
+    "pool": ["In a circular orbit", "In a straight line", "In a zigzag path", "In an elongated elliptical orbit", "In random directions"],
+    "answer": "In an elongated elliptical orbit",
+    "desc": "Comets move around the Sun in elongated elliptical orbits."
+  },
+  {
+    "q": "In which direction does a comet's tail point?",
+    "pool": ["Towards the Sun", "Away from the Sun", "Towards Earth", "Randomly", "Towards Jupiter"],
+    "answer": "Away from the Sun",
+    "desc": "The tail of a comet always points away from the Sun due to solar wind."
+  },
+  {
+    "q": "What are constellations?",
+    "pool": ["Groups of asteroids", "Artificial satellites", "Divisions of the sky for identifying stars", "Comet paths", "Planetary systems"],
+    "answer": "Divisions of the sky for identifying stars",
+    "desc": "Constellations are divisions of the sky used to identify and locate stars."
+  },
+  {
+    "q": "How many constellations are known?",
+    "pool": ["12", "24", "56", "88", "100"],
+    "answer": "88",
+    "desc": "There are 88 officially recognized constellations."
+  },
+  {
+    "q": "What are satellites?",
+    "pool": ["Stars", "Comets", "Heavenly bodies that revolve around planets", "Galaxies", "Solar flares"],
+    "answer": "Heavenly bodies that revolve around planets",
+    "desc": "Satellites are objects that orbit planets, including both natural and artificial types."
+  },
+  {
+    "q": "Which of the following is a natural satellite of Earth?",
+    "pool": ["Mars", "Venus", "Moon", "Sun", "Pluto"],
+    "answer": "Moon",
+    "desc": "The Moon is Earth's only natural satellite."
+  },
+  {
+    "q": "What is the diameter of the Moon?",
+    "pool": ["12756 km", "384365 km", "3476 km", "6879 km", "142984 km"],
+    "answer": "3476 km",
+    "desc": "The Moon has a diameter of approximately 3476 kilometers."
+  },
+  {
+    "q": "What is the average distance from Earth to the Moon?",
+    "pool": ["150 million km", "384365 km", "100000 km", "50000 km", "1 million km"],
+    "answer": "384365 km",
+    "desc": "The Moon is on average 384,365 kilometers away from Earth."
+  },
+  {
+    "q": "How long does the Moon take to rotate once on its axis?",
+    "pool": ["24 hours", "7 days", "27 days, 7 h, 43 min, 11.47 sec", "1 year", "12 hours"],
+    "answer": "27 days, 7 h, 43 min, 11.47 sec",
+    "desc": "The Moon takes 27 days, 7 hours, 43 minutes, and 11.47 seconds to complete one rotation."
+  },
+  {
+    "q": "How long does the Moon take to revolve around the Earth?",
+    "pool": ["1 day", "15 days", "30 days", "27 days, 7 h, 43 min, 11.47 sec", "365 days"],
+    "answer": "27 days, 7 h, 43 min, 11.47 sec",
+    "desc": "The Moon takes the same time to revolve around Earth as it takes to rotate — about 27.3 days."
+  },
+  {
+    "q": "How much time does moonlight take to reach Earth?",
+    "pool": ["1.3 seconds", "8 minutes", "2.5 seconds", "10 seconds", "1 minute"],
+    "answer": "1.3 seconds",
+    "desc": "Moonlight takes approximately 1.3 seconds to reach Earth."
+  },
+  {
+    "q": "What does the solar system consist of?",
+    "pool": ["Only the Sun", "Only planets", "Sun, planets, moons and other bodies", "Stars and galaxies", "Earth and Moon only"],
+    "answer": "Sun, planets, moons and other bodies",
+    "desc": "The solar system includes the Sun, eight planets, their satellites, and smaller celestial objects like comets and asteroids."
+  },
+  {
+    "q": "How many planets are there in the solar system?",
+    "pool": ["7", "8", "9", "10", "11"],
+    "answer": "8",
+    "desc": "There are 8 planets in the solar system, as Pluto is no longer classified as one."
+  },
+  {
+    "q": "Which of the following is NOT part of the solar system?",
+    "pool": ["Asteroids", "Comets", "Galaxies", "Planets", "Moons"],
+    "answer": "Galaxies",
+    "desc": "Galaxies are large systems of stars; they are not part of our solar system."
+  },
+  {
+    "q": "What are the small heavenly bodies in the solar system besides planets and moons?",
+    "pool": ["Galaxies", "Stars", "Asteroids and comets", "Constellations", "Satellites only"],
+    "answer": "Asteroids and comets",
+    "desc": "Asteroids, comets, and meteors are smaller celestial bodies in the solar system."
+  },
+  {
+    "q": "Which of the following is NOT a characteristic of comets?",
+    "pool": ["Frozen gases", "Elliptical orbit", "Tail towards the Sun", "Tail away from the Sun", "Orbiting the Sun"],
+    "answer": "Tail towards the Sun",
+    "desc": "A comet's tail always points away from the Sun due to the solar wind."
+  },
+  {
+    "q": "What makes the Moon show the same face to Earth?",
+    "pool": ["Its brightness", "Its orbit", "Equal time for rotation and revolution", "It has no atmosphere", "Earth’s gravity"],
+    "answer": "Equal time for rotation and revolution",
+    "desc": "The Moon takes the same time to rotate and revolve, which is why we always see the same side."
+  },
+  {
+    "q": "Why are constellations important in astronomy?",
+    "pool": ["They help predict weather", "They track time", "They are used to map and identify stars", "They guide satellites", "They change daily"],
+    "answer": "They are used to map and identify stars",
+    "desc": "Constellations are useful for astronomers to locate and identify stars in the sky."
+  },
+  {
+    "q": "Which of the following travels the fastest to reach Earth?",
+    "pool": ["Moonlight", "Sound", "Asteroids", "Moon", "Meteorites"],
+    "answer": "Moonlight",
+    "desc": "Moonlight travels at the speed of light and reaches Earth in just 1.3 seconds."
+  },
+
+
+  {
+    "q": "Which celestial body is at the center of the solar system?",
+    "pool": ["Earth", "Moon", "Sun", "Mars", "Jupiter"],
+    "answer": "Sun",
+    "desc": "The Sun is at the center of the solar system, and all planets revolve around it."
+  },
+  {
+    "q": "What is the average distance of the Sun from Earth?",
+    "pool": ["384400 km", "100 million km", "149598900 km", "1 million km", "200 million km"],
+    "answer": "149598900 km",
+    "desc": "The Sun is approximately 149,598,900 kilometers away from Earth."
+  },
+  {
+    "q": "What is the diameter of the Sun?",
+    "pool": ["12742 km", "500000 km", "1391980 km", "100000 km", "700000 km"],
+    "answer": "1391980 km",
+    "desc": "The Sun has a massive diameter of about 1,391,980 kilometers."
+  },
+  {
+    "q": "What is the temperature of the Sun's core?",
+    "pool": ["6000°C", "100000°C", "15000000°C", "5000000°C", "1000000°C"],
+    "answer": "15000000°C",
+    "desc": "The core of the Sun has an extremely high temperature of around 15 million degrees Celsius."
+  },
+  {
+    "q": "How long does it take sunlight to reach Earth?",
+    "pool": ["1.3 sec", "8 min", "8 min and 16.6 sec", "10 min", "2 min"],
+    "answer": "8 min and 16.6 sec",
+    "desc": "Sunlight takes about 8 minutes and 16.6 seconds to reach Earth."
+  },
+  {
+    "q": "Which planet is the biggest in the solar system?",
+    "pool": ["Saturn", "Neptune", "Earth", "Jupiter", "Mars"],
+    "answer": "Jupiter",
+    "desc": "Jupiter is the largest planet in our solar system by volume and mass."
+  },
+  {
+    "q": "Which is the biggest satellite in the solar system?",
+    "pool": ["Titan", "Moon", "Ganymede", "Deimos", "Europa"],
+    "answer": "Ganymede",
+    "desc": "Ganymede, a moon of Jupiter, is the largest satellite in the solar system."
+  },
+  {
+    "q": "Which planet is known as the 'Blue Planet'?",
+    "pool": ["Uranus", "Neptune", "Earth", "Venus", "Mars"],
+    "answer": "Earth",
+    "desc": "Earth is called the 'Blue Planet' due to the abundance of water on its surface."
+  },
+  {
+    "q": "Which planet is called the 'Green Planet'?",
+    "pool": ["Neptune", "Mars", "Earth", "Uranus", "Venus"],
+    "answer": "Uranus",
+    "desc": "Uranus is sometimes referred to as the 'Green Planet' due to its bluish-green appearance."
+  },
+  {
+    "q": "Which is the brightest planet in the solar system?",
+    "pool": ["Mars", "Mercury", "Venus", "Jupiter", "Saturn"],
+    "answer": "Venus",
+    "desc": "Venus is the brightest planet visible from Earth due to its thick reflective clouds."
+  },
+  {
+    "q": "Which is the brightest star outside the solar system?",
+    "pool": ["Proxima Centauri", "Betelgeuse", "Sirius", "Polaris", "Alpha Centauri"],
+    "answer": "Sirius",
+    "desc": "Sirius, also known as the Dog Star, is the brightest star visible from Earth beyond the solar system."
+  },
+  {
+    "q": "Which is the closest star to the solar system?",
+    "pool": ["Sirius", "Alpha Centauri", "Proxima Centauri", "Polaris", "Vega"],
+    "answer": "Proxima Centauri",
+    "desc": "Proxima Centauri is the closest known star to our solar system."
+  },
+  {
+    "q": "Which is the coldest planet in the solar system?",
+    "pool": ["Uranus", "Pluto", "Neptune", "Saturn", "Mars"],
+    "answer": "Neptune",
+    "desc": "Neptune is the coldest planet in the solar system due to its distance from the Sun."
+  },
+  {
+    "q": "Which planet is known as the 'Evening Star'?",
+    "pool": ["Mars", "Venus", "Jupiter", "Mercury", "Saturn"],
+    "answer": "Venus",
+    "desc": "Venus is often visible in the evening sky and is known as the 'Evening Star'."
+  },
+  {
+    "q": "Which planet has the fastest revolution around the Sun?",
+    "pool": ["Venus", "Earth", "Mars", "Mercury", "Jupiter"],
+    "answer": "Mercury",
+    "desc": "Mercury has the shortest orbital period around the Sun."
+  },
+  {
+    "q": "Which planet has the fastest rotation in the solar system?",
+    "pool": ["Earth", "Mars", "Jupiter", "Saturn", "Venus"],
+    "answer": "Jupiter",
+    "desc": "Jupiter spins on its axis faster than any other planet."
+  },
+  {
+    "q": "Which planet has the slowest rotation in the solar system?",
+    "pool": ["Neptune", "Venus", "Earth", "Uranus", "Mercury"],
+    "answer": "Venus",
+    "desc": "Venus rotates very slowly and in the opposite direction to most planets."
+  },
+  {
+    "q": "Which is the smallest planet in the solar system?",
+    "pool": ["Mars", "Mercury", "Pluto", "Venus", "Earth"],
+    "answer": "Mercury",
+    "desc": "Mercury is the smallest of the eight planets in our solar system."
+  },
+  {
+    "q": "Which is the smallest satellite in the solar system?",
+    "pool": ["Deimos", "Phobos", "Europa", "Io", "Titan"],
+    "answer": "Deimos",
+    "desc": "Deimos, a moon of Mars, is the smallest known satellite in the solar system."
+  },
+  {
+    "q": "Where are asteroids primarily found in the solar system?",
+    "pool": ["Beyond Neptune", "Between Mars and Jupiter", "Near Earth", "Inside Mercury's orbit", "Outside the solar system"],
+    "answer": "Between Mars and Jupiter",
+    "desc": "Asteroids are mostly found in the asteroid belt between Mars and Jupiter."
+  },
+
+
+  {
+    "q": "What are meteors commonly known as?",
+    "pool": ["Asteroids", "Comets", "Shooting stars", "Satellites", "Galaxies"],
+    "answer": "Shooting stars",
+    "desc": "Meteors are often called shooting stars because they appear as bright streaks in the sky."
+  },
+  {
+    "q": "What are meteors?",
+    "pool": ["Burning gases", "Fragments of rocks", "Dust clouds", "Ice particles", "Satellites"],
+    "answer": "Fragments of rocks",
+    "desc": "Meteors are rock fragments entering Earth's atmosphere, often resulting from asteroid collisions."
+  },
+  {
+    "q": "How are meteors formed?",
+    "pool": ["From volcanoes", "Solar flares", "Collision among asteroids", "Sun’s radiation", "Planetary explosions"],
+    "answer": "Collision among asteroids",
+    "desc": "Meteors are formed from fragments created by collisions between asteroids."
+  },
+  {
+    "q": "What are meteorites?",
+    "pool": ["Stars", "Comets", "Asteroids", "Meteors that land on Earth", "Satellites"],
+    "answer": "Meteors that land on Earth",
+    "desc": "Meteorites are meteors that survive the atmosphere and reach Earth's surface."
+  },
+  {
+    "q": "What are meteorites composed of?",
+    "pool": ["Carbon and dust", "Nickel and iron alloy", "Ice and rock", "Silicon and gas", "Oxygen and helium"],
+    "answer": "Nickel and iron alloy",
+    "desc": "Meteorites often contain a mixture of 10% nickel and 90% iron, along with silicate minerals."
+  },
+  {
+    "q": "Which of the following are inner planets?",
+    "pool": ["Jupiter, Saturn, Uranus, Neptune", "Venus, Earth, Mars, Pluto", "Mercury, Venus, Earth, Mars", "Saturn, Uranus, Neptune, Pluto", "Earth, Jupiter, Saturn, Mars"],
+    "answer": "Mercury, Venus, Earth, Mars",
+    "desc": "The inner planets are Mercury, Venus, Earth, and Mars."
+  },
+  {
+    "q": "Which of the following are outer planets?",
+    "pool": ["Mercury, Venus, Earth, Mars", "Jupiter, Saturn, Uranus, Neptune", "Mars, Jupiter, Saturn, Earth", "Pluto, Eris, Haumea, Ceres", "Neptune, Uranus, Pluto, Venus"],
+    "answer": "Jupiter, Saturn, Uranus, Neptune",
+    "desc": "The outer planets are Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "q": "What are inner planets also called?",
+    "pool": ["Gas giants", "Jovian planets", "Terrestrial or Rocky planets", "Ice giants", "Minor planets"],
+    "answer": "Terrestrial or Rocky planets",
+    "desc": "Inner planets are also known as terrestrial or rocky planets due to their solid surfaces."
+  },
+  {
+    "q": "What are outer planets also called?",
+    "pool": ["Dwarf planets", "Terrestrial planets", "Jovian or Gaseous planets", "Inner planets", "Cometary planets"],
+    "answer": "Jovian or Gaseous planets",
+    "desc": "Outer planets are known as Jovian or gaseous planets because of their large gas envelopes."
+  },
+  {
+    "q": "Which group of planets is nearer to the Sun?",
+    "pool": ["Outer planets", "Jovian planets", "Dwarf planets", "Inner planets", "Exoplanets"],
+    "answer": "Inner planets",
+    "desc": "Inner planets are located closer to the Sun than the outer planets."
+  },
+  {
+    "q": "Which group of planets is far from the Sun?",
+    "pool": ["Inner planets", "Rocky planets", "Terrestrial planets", "Outer planets", "Minor planets"],
+    "answer": "Outer planets",
+    "desc": "Outer planets are farther from the Sun and are generally gaseous."
+  },
+  {
+    "q": "Which planet classification includes Mercury and Mars?",
+    "pool": ["Outer planets", "Dwarf planets", "Terrestrial planets", "Exoplanets", "Jovian planets"],
+    "answer": "Terrestrial planets",
+    "desc": "Mercury and Mars fall under the category of terrestrial planets with rocky surfaces."
+  },
+  {
+    "q": "Which of the following is a correct example of a dwarf planet?",
+    "pool": ["Earth", "Jupiter", "Venus", "Pluto", "Mars"],
+    "answer": "Pluto",
+    "desc": "Pluto is classified as a dwarf planet by the International Astronomical Union."
+  },
+  {
+    "q": "Which of the following is NOT a dwarf planet?",
+    "pool": ["Eris", "Ceres", "Haumea", "Venus", "Makemake"],
+    "answer": "Venus",
+    "desc": "Venus is a terrestrial planet, not a dwarf planet."
+  },
+  {
+    "q": "According to IAU, which condition must a celestial body meet to be a dwarf planet?",
+    "pool": ["Orbit a moon", "Have rings", "Orbit the Sun and not cleared its neighborhood", "Be a satellite", "Have an atmosphere"],
+    "answer": "Orbit the Sun and not cleared its neighborhood",
+    "desc": "A dwarf planet orbits the Sun and is massive enough to be spherical, but hasn’t cleared nearby space."
+  },
+  {
+    "q": "Which of the following is NOT a requirement for dwarf planet status?",
+    "pool": ["Orbiting the Sun", "Being spherical due to gravity", "Clearing the neighborhood", "Having mass", "Not being a satellite"],
+    "answer": "Clearing the neighborhood",
+    "desc": "Dwarf planets do not clear their orbital zone of other debris, unlike full-fledged planets."
+  },
+  {
+    "q": "Which of the following is formed due to asteroid collisions?",
+    "pool": ["Comets", "Planets", "Meteors", "Stars", "Satellites"],
+    "answer": "Meteors",
+    "desc": "Meteors result from fragments produced by asteroid collisions."
+  },
+  {
+    "q": "Which of these often contains 10% nickel and 90% iron?",
+    "pool": ["Asteroids", "Meteors", "Meteorites", "Comets", "Moons"],
+    "answer": "Meteorites",
+    "desc": "Meteorites are composed largely of nickel-iron alloy and silicate minerals."
+  },
+  {
+    "q": "Which of the following is a terrestrial planet?",
+    "pool": ["Neptune", "Saturn", "Mars", "Uranus", "Jupiter"],
+    "answer": "Mars",
+    "desc": "Mars is a rocky planet and part of the terrestrial planet group."
+  },
+  {
+    "q": "Which of the following is a gaseous planet?",
+    "pool": ["Venus", "Earth", "Mars", "Jupiter", "Mercury"],
+    "answer": "Jupiter",
+    "desc": "Jupiter is a gas giant and belongs to the Jovian planet group."
+  },
+
+
+  {
+    "q": "What is the shape of the Earth?",
+    "pool": ["Perfect sphere", "Flat", "Oblate spheroid", "Cone-shaped", "Cylindrical"],
+    "answer": "Oblate spheroid",
+    "desc": "Earth is an oblate spheroid, slightly flattened at the poles and bulging at the equator."
+  },
+  {
+    "q": "What is the term for the Earth’s closest position to the Sun?",
+    "pool": ["Aphelion", "Zenith", "Perihelion", "Solstice", "Equinox"],
+    "answer": "Perihelion",
+    "desc": "Perihelion is the point in Earth's orbit where it is nearest to the Sun."
+  },
+  {
+    "q": "What is Aphelion?",
+    "pool": ["A moon phase", "Point farthest from Sun", "Point closest to Sun", "Eclipse", "Earth's rotation axis"],
+    "answer": "Point farthest from Sun",
+    "desc": "Aphelion is when Earth is farthest from the Sun in its orbit."
+  },
+  {
+    "q": "How many major layers make up the Earth's interior?",
+    "pool": ["Two", "Three", "Four", "Five", "Six"],
+    "answer": "Three",
+    "desc": "The Earth is composed of three main layers: the crust, mantle, and core."
+  },
+  {
+    "q": "What are the three chemically-based divisions of Earth’s interior called?",
+    "pool": ["SIAL, SIMA, NIFE", "Core, Crust, Lava", "Lithosphere, Asthenosphere, Core", "Tectonic, Crust, Core", "Mantle, Litho, Astro"],
+    "answer": "SIAL, SIMA, NIFE",
+    "desc": "Eduard Suess classified Earth's layers chemically into SIAL, SIMA, and NIFE."
+  },
+  {
+    "q": "What does SIAL stand for?",
+    "pool": ["Silicon-Aluminium", "Silicon-Magnesium", "Nickel-Ferrite", "Sulphur-Iron", "Sodium-Aluminium"],
+    "answer": "Silicon-Aluminium",
+    "desc": "SIAL is the upper part of the crust made primarily of silicon and aluminium."
+  },
+  {
+    "q": "Which layer does SIMA represent?",
+    "pool": ["Upper crust", "Mantle", "Lower crust", "Outer core", "Inner core"],
+    "answer": "Lower crust",
+    "desc": "SIMA refers to the lower part of the crust, made of silicon and magnesium."
+  },
+  {
+    "q": "What does NIFE represent in Earth's structure?",
+    "pool": ["Crust", "Mantle", "Outer core", "Upper core", "Atmosphere"],
+    "answer": "Outer core",
+    "desc": "NIFE stands for Nickel and Iron and makes up Earth's outer core."
+  },
+  {
+    "q": "Which direction does the Earth rotate?",
+    "pool": ["North to South", "South to North", "East to West", "West to East", "Clockwise"],
+    "answer": "West to East",
+    "desc": "Earth rotates from West to East, causing day and night."
+  },
+  {
+    "q": "What does Earth's rotation cause?",
+    "pool": ["Seasons", "Eclipses", "Day and Night", "Yearly cycle", "Gravity"],
+    "answer": "Day and Night",
+    "desc": "Earth's rotation on its axis causes the cycle of day and night."
+  },
+  {
+    "q": "What does Earth's revolution around the Sun result in?",
+    "pool": ["Tides", "Magnetism", "Day and night", "Seasons", "Eclipses"],
+    "answer": "Seasons",
+    "desc": "The revolution of Earth in an elliptical orbit around the Sun leads to seasonal changes."
+  },
+  {
+    "q": "What is the age of the Earth?",
+    "pool": ["3500 million years", "4550 million years", "1500 million years", "5000 million years", "2000 million years"],
+    "answer": "4550 million years",
+    "desc": "The Earth is approximately 4550 million years old."
+  },
+  {
+    "q": "What is the Earth's mean density?",
+    "pool": ["3.9 g/cm³", "4.2 g/cm³", "5.513 g/cm³", "6.1 g/cm³", "2.8 g/cm³"],
+    "answer": "5.513 g/cm³",
+    "desc": "Earth's mean density is 5.513 grams per cubic centimeter."
+  },
+  {
+    "q": "What percentage of Earth’s surface is covered by water?",
+    "pool": ["50%", "60%", "70.8%", "80%", "90%"],
+    "answer": "70.8%",
+    "desc": "Around 70.8% of Earth's surface is covered by water."
+  },
+  {
+    "q": "What is the Earth's rotation duration?",
+    "pool": ["24 hrs", "23 hrs 56 min 4.1 sec", "12 hrs", "25 hrs", "22 hrs 50 min"],
+    "answer": "23 hrs 56 min 4.1 sec",
+    "desc": "The Earth completes one rotation in approximately 23 hours, 56 minutes, and 4.1 seconds."
+  },
+  {
+    "q": "What is the revolution period of Earth around the Sun?",
+    "pool": ["365 days", "364 days", "365 days, 5 hrs and 45.51 sec", "366 days", "360 days"],
+    "answer": "365 days, 5 hrs and 45.51 sec",
+    "desc": "Earth's revolution period around the Sun is about 365 days, 5 hours, and 45.51 seconds."
+  },
+  {
+    "q": "On which dates are day and night approximately equal?",
+    "pool": ["21st June & 22nd Dec", "1st Jan & 31st Dec", "21st March & 23rd September", "15th May & 15th Nov", "25th April & 25th Oct"],
+    "answer": "21st March & 23rd September",
+    "desc": "Vernal and Autumnal Equinoxes occur on these dates when day and night are equal."
+  },
+  {
+    "q": "When is the longest day in the Northern Hemisphere?",
+    "pool": ["21st March", "23rd September", "21st June", "22nd December", "15th August"],
+    "answer": "21st June",
+    "desc": "The longest day occurs on June 21st, the Summer Solstice."
+  },
+  {
+    "q": "When is the shortest night in the Northern Hemisphere?",
+    "pool": ["21st June", "22nd December", "23rd September", "21st March", "1st July"],
+    "answer": "22nd December",
+    "desc": "December 22nd marks the Winter Solstice, when the night is shortest in the Northern Hemisphere."
+  },
+  {
+    "q": "What is the escape velocity from Earth's surface?",
+    "pool": ["9.8 km/s", "7.9 km/s", "11.2 km/s", "13.5 km/s", "6.2 km/s"],
+    "answer": "11.2 km/s",
+    "desc": "The minimum speed needed to escape Earth’s gravity is 11.2 kilometers per second."
+  },
+
+
+  {
+    "q": "What are latitudes?",
+    "pool": ["Vertical lines on globe", "Lines parallel to the Equator", "Lines from pole to pole", "Time zones", "Ocean currents"],
+    "answer": "Lines parallel to the Equator",
+    "desc": "Latitudes are imaginary horizontal lines drawn parallel to the Equator."
+  },
+  {
+    "q": "Which is the largest latitude that divides Earth into two equal parts?",
+    "pool": ["Tropic of Cancer", "Equator", "Tropic of Capricorn", "Prime Meridian", "Arctic Circle"],
+    "answer": "Equator",
+    "desc": "The Equator at 0° latitude is the largest and divides the Earth into Northern and Southern Hemispheres."
+  },
+  {
+    "q": "What is the value of the Tropic of Cancer?",
+    "pool": ["0°", "66.5°N", "23.5°S", "23.5°N", "45°N"],
+    "answer": "23.5°N",
+    "desc": "The Tropic of Cancer is located at 23.5 degrees North latitude."
+  },
+  {
+    "q": "What is the value of the Tropic of Capricorn?",
+    "pool": ["23.5°N", "0°", "66.5°S", "23.5°S", "90°S"],
+    "answer": "23.5°S",
+    "desc": "The Tropic of Capricorn lies at 23.5 degrees South latitude."
+  },
+  {
+    "q": "What is the value of the Arctic Circle?",
+    "pool": ["66.5°N", "66.5°S", "90°N", "23.5°N", "45°N"],
+    "answer": "66.5°N",
+    "desc": "The Arctic Circle lies at 66.5 degrees North latitude."
+  },
+  {
+    "q": "Each degree of latitude equals how many kilometers approximately?",
+    "pool": ["101 km", "110 km", "111 km", "120 km", "105 km"],
+    "answer": "111 km",
+    "desc": "Each degree of latitude equals approximately 111 kilometers on Earth's surface."
+  },
+  {
+    "q": "What are longitudes?",
+    "pool": ["Lines parallel to Equator", "Horizontal lines", "Semicircles from pole to pole", "Ocean depths", "Mountain ranges"],
+    "answer": "Semicircles from pole to pole",
+    "desc": "Longitudes or meridians are imaginary semicircles that run from the North to the South Pole."
+  },
+  {
+    "q": "Which line is referred to as 0° longitude?",
+    "pool": ["Equator", "Tropic of Cancer", "International Date Line", "Prime Meridian", "Arctic Circle"],
+    "answer": "Prime Meridian",
+    "desc": "The Prime Meridian at 0° longitude divides the Earth into Eastern and Western Hemispheres."
+  },
+  {
+    "q": "The Prime Meridian passes through which place?",
+    "pool": ["Paris", "New York", "Greenwich", "Delhi", "Cairo"],
+    "answer": "Greenwich",
+    "desc": "The Prime Meridian passes through Greenwich near London, UK."
+  },
+  {
+    "q": "Which hemisphere is determined using the Prime Meridian?",
+    "pool": ["Northern and Southern", "Eastern and Western", "Inner and Outer", "Arctic and Antarctic", "Equatorial and Polar"],
+    "answer": "Eastern and Western",
+    "desc": "The Prime Meridian divides Earth into the Eastern and Western Hemispheres."
+  },
+  {
+    "q": "What is the time difference per 1° longitude?",
+    "pool": ["2 minutes", "4 minutes", "6 minutes", "8 minutes", "10 minutes"],
+    "answer": "4 minutes",
+    "desc": "A change of 1° longitude corresponds to a 4-minute time difference."
+  },
+  {
+    "q": "What does GMT stand for?",
+    "pool": ["Global Mapping Time", "Greenwich Mean Time", "General Meridian Time", "Global Meridian Track", "Great Middle Time"],
+    "answer": "Greenwich Mean Time",
+    "desc": "GMT stands for Greenwich Mean Time, used as a reference for standard time globally."
+  },
+  {
+    "q": "At what longitude is the International Date Line located?",
+    "pool": ["0°", "90°", "180°", "150°", "120°"],
+    "answer": "180°",
+    "desc": "The International Date Line is located at 180° longitude."
+  },
+  {
+    "q": "What happens when you cross the International Date Line from West to East?",
+    "pool": ["Subtract 1 day", "No change", "Add 12 hours", "Add 1 day", "Lose 6 hours"],
+    "answer": "Add 1 day",
+    "desc": "Crossing the IDL from West to East results in addition of 1 day."
+  },
+  {
+    "q": "What happens when you cross the International Date Line from East to West?",
+    "pool": ["Add 1 day", "No change", "Subtract 1 day", "Lose 12 hours", "Add 6 hours"],
+    "answer": "Subtract 1 day",
+    "desc": "Crossing the IDL from East to West results in subtraction of 1 day."
+  },
+  {
+    "q": "Which country shifted itself to the west of the IDL recently?",
+    "pool": ["Fiji", "Samoa", "Japan", "Hawaii", "New Zealand"],
+    "answer": "Samoa",
+    "desc": "Samoa recently shifted to the west side of the International Date Line to align its weekdays with trade partners."
+  },
+  {
+    "q": "How long does Earth take to complete one full rotation?",
+    "pool": ["12 hours", "18 hours", "24 hours", "36 hours", "48 hours"],
+    "answer": "24 hours",
+    "desc": "Earth takes approximately 24 hours to complete one full rotation."
+  },
+  {
+    "q": "Which longitude is used to calculate Indian Standard Time (IST)?",
+    "pool": ["75°E", "82.5°E", "90°E", "60°E", "45°E"],
+    "answer": "82.5°E",
+    "desc": "IST is calculated based on 82.5°E longitude that passes through several Indian states."
+  },
+  {
+    "q": "What is the time difference between IST and GMT?",
+    "pool": ["+4 hrs", "+5 hrs", "+5 hrs 30 min", "+6 hrs", "+4 hrs 30 min"],
+    "answer": "+5 hrs 30 min",
+    "desc": "Indian Standard Time is 5 hours and 30 minutes ahead of Greenwich Mean Time (GMT)."
+  },
+  {
+    "q": "Which Indian states does the 82.5°E longitude pass through?",
+    "pool": ["Rajasthan, Gujarat, Maharashtra", "Karnataka, Tamil Nadu, Kerala", "UP, MP, Odisha, Chhattisgarh, AP", "Punjab, Bihar, WB", "J&K, Himachal, Uttarakhand"],
+    "answer": "UP, MP, Odisha, Chhattisgarh, AP",
+    "desc": "82.5°E longitude passes through states like Uttar Pradesh, Madhya Pradesh, Odisha, Chhattisgarh, and Andhra Pradesh."
+  },
+
+
+  {
+    "q": "What is an eclipse?",
+    "pool": [
+      "A sudden drop in temperature",
+      "A star explosion",
+      "Blocking of light of the Sun or Moon by another body",
+      "A phase of the Moon",
+      "Formation of a black hole"
+    ],
+    "answer": "Blocking of light of the Sun or Moon by another body",
+    "desc": "An eclipse occurs when the light of the Sun or Moon is blocked by another celestial body."
+  },
+  {
+    "q": "What causes a solar eclipse?",
+    "pool": [
+      "Earth comes between Sun and Moon",
+      "Sun moves away from Earth",
+      "Moon comes between Earth and Sun",
+      "Sun is covered by clouds",
+      "Earth tilts away from the Sun"
+    ],
+    "answer": "Moon comes between Earth and Sun",
+    "desc": "A solar eclipse occurs when the Moon comes between the Earth and the Sun, blocking sunlight."
+  },
+  {
+    "q": "What is blocked during a solar eclipse?",
+    "pool": [
+      "The Moon's light",
+      "The Earth's light",
+      "The Sun's light",
+      "Star's light",
+      "Planetary radiation"
+    ],
+    "answer": "The Sun's light",
+    "desc": "In a solar eclipse, the Sun's light is blocked from reaching the Earth."
+  },
+  {
+    "q": "Which eclipse occurs when the Moon comes between the Earth and the Sun?",
+    "pool": [
+      "Lunar Eclipse",
+      "Solar Eclipse",
+      "Planetary Eclipse",
+      "Partial Eclipse",
+      "Shadow Eclipse"
+    ],
+    "answer": "Solar Eclipse",
+    "desc": "A solar eclipse happens when the Moon positions itself between the Earth and the Sun."
+  },
+  {
+    "q": "Can a solar eclipse be partial or complete?",
+    "pool": [
+      "No, only complete",
+      "Yes, it can be partial or complete",
+      "Only partial",
+      "Depends on Moon’s rotation",
+      "Only during full moon"
+    ],
+    "answer": "Yes, it can be partial or complete",
+    "desc": "A solar eclipse can be either partial or complete, depending on the alignment."
+  },
+  {
+    "q": "What causes a lunar eclipse?",
+    "pool": [
+      "Moon comes between Earth and Sun",
+      "Sun blocks Moon’s light",
+      "Earth comes between Moon and Sun",
+      "Mars casts a shadow on the Moon",
+      "Clouds cover the Moon"
+    ],
+    "answer": "Earth comes between Moon and Sun",
+    "desc": "A lunar eclipse occurs when the Earth comes between the Moon and the Sun, casting a shadow on the Moon."
+  },
+  {
+    "q": "During a lunar eclipse, which body casts a shadow?",
+    "pool": [
+      "Sun",
+      "Moon",
+      "Earth",
+      "Mars",
+      "Venus"
+    ],
+    "answer": "Earth",
+    "desc": "In a lunar eclipse, the Earth's shadow is cast on the Moon."
+  },
+  {
+    "q": "Which type of eclipse makes the Moon invisible from Earth?",
+    "pool": [
+      "Lunar Eclipse",
+      "Solar Eclipse",
+      "Meteor Eclipse",
+      "Galaxy Eclipse",
+      "Universal Eclipse"
+    ],
+    "answer": "Lunar Eclipse",
+    "desc": "During a lunar eclipse, the Moon becomes less visible due to Earth's shadow."
+  },
+  {
+    "q": "Which type of eclipse can occur only during a new moon?",
+    "pool": [
+      "Lunar Eclipse",
+      "Solar Eclipse",
+      "Both",
+      "Neither",
+      "Equinox"
+    ],
+    "answer": "Solar Eclipse",
+    "desc": "A solar eclipse can only happen during a new moon when the Moon is between the Earth and the Sun."
+  },
+  {
+    "q": "Which type of eclipse can occur only during a full moon?",
+    "pool": [
+      "Lunar Eclipse",
+      "Solar Eclipse",
+      "Meteor Shower",
+      "Planetary Alignment",
+      "Sunspot Eclipse"
+    ],
+    "answer": "Lunar Eclipse",
+    "desc": "A lunar eclipse occurs during a full moon when the Earth is between the Sun and the Moon."
+  }
+]

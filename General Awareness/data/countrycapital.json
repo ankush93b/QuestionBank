@@ -1,0 +1,584 @@
+[
+  {
+    "q": "What is the capital city of Brazil?",
+    "pool": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador", "Belo Horizonte"],
+    "answer": "Brasília",
+    "desc": "Brasília is the capital of Brazil, designed by architect Oscar Niemeyer and established in 1960 to move the capital inland."
+  },
+  {
+    "q": "Which city serves as the capital of Japan?",
+    "pool": ["Osaka", "Tokyo", "Kyoto", "Hiroshima", "Nagoya"],
+    "answer": "Tokyo",
+    "desc": "Tokyo is the capital of Japan, known for its vibrant culture, technology, and as one of the world's most populous cities."
+  },
+  {
+    "q": "The capital of France is:",
+    "pool": ["Lyon", "Marseille", "Paris", "Toulouse", "Nice"],
+    "answer": "Paris",
+    "desc": "Paris, the capital of France, is famous for landmarks like the Eiffel Tower and its rich history in art and culture."
+  },
+  {
+    "q": "What is the capital of Australia?",
+    "pool": ["Sydney", "Melbourne", "Canberra", "Perth", "Brisbane"],
+    "answer": "Canberra",
+    "desc": "Canberra is the capital of Australia, chosen as a compromise between Sydney and Melbourne to serve as the political center."
+  },
+  {
+    "q": "Which city is the capital of India?",
+    "pool": ["Mumbai", "Kolkata", "New Delhi", "Chennai", "Bangalore"],
+    "answer": "New Delhi",
+    "desc": "New Delhi is the capital of India, serving as the seat of the government and known for its historical landmarks."
+  },
+  {
+    "q": "What is the capital of Canada?",
+    "pool": ["Toronto", "Vancouver", "Ottawa", "Montreal", "Calgary"],
+    "answer": "Ottawa",
+    "desc": "Ottawa is the capital of Canada, located in Ontario, and is home to the Canadian Parliament."
+  },
+  {
+    "q": "The capital city of Russia is:",
+    "pool": ["Moscow", "Saint Petersburg", "Novosibirsk", "Yekaterinburg", "Kazan"],
+    "answer": "Moscow",
+    "desc": "Moscow is the capital of Russia, known for the Kremlin and Red Square, and is the political and economic center."
+  },
+  {
+    "q": "Which city serves as the capital of China?",
+    "pool": ["Shanghai", "Beijing", "Guangzhou", "Shenzhen", "Chengdu"],
+    "answer": "Beijing",
+    "desc": "Beijing is the capital of China, home to the Forbidden City and Tiananmen Square, and a major political hub."
+  },
+  {
+    "q": "What is the capital of South Africa?",
+    "pool": ["Johannesburg", "Cape Town", "Pretoria", "Durban", "Bloemfontein"],
+    "answer": "Pretoria",
+    "desc": "Pretoria is the administrative capital of South Africa, while Cape Town is the legislative capital and Bloemfontein the judicial."
+  },
+  {
+    "q": "The capital of Egypt is:",
+    "pool": ["Alexandria", "Giza", "Cairo", "Luxor", "Aswan"],
+    "answer": "Cairo",
+    "desc": "Cairo is the capital of Egypt, known for its proximity to the Pyramids of Giza and its rich historical heritage."
+  },
+  {
+    "q": "Which city is the capital of Argentina?",
+    "pool": ["Córdoba", "Rosario", "Buenos Aires", "Mendoza", "La Plata"],
+    "answer": "Buenos Aires",
+    "desc": "Buenos Aires is the capital of Argentina, famous for its tango culture and vibrant urban life."
+  },
+  {
+    "q": "What is the capital of Germany?",
+    "pool": ["Munich", "Hamburg", "Berlin", "Frankfurt", "Cologne"],
+    "answer": "Berlin",
+    "desc": "Berlin is the capital of Germany, known for its historical significance and cultural landmarks like the Brandenburg Gate."
+  },
+  {
+    "q": "The capital of Italy is:",
+    "pool": ["Milan", "Venice", "Rome", "Florence", "Naples"],
+    "answer": "Rome",
+    "desc": "Rome is the capital of Italy, famous for ancient landmarks like the Colosseum and the Roman Forum."
+  },
+  {
+    "q": "Which city serves as the capital of Mexico?",
+    "pool": ["Guadalajara", "Monterrey", "Mexico City", "Cancún", "Tijuana"],
+    "answer": "Mexico City",
+    "desc": "Mexico City is the capital of Mexico, one of the largest cities in the world, built on the ancient Aztec city of Tenochtitlán."
+  },
+  {
+    "q": "What is the capital of Spain?",
+    "pool": ["Barcelona", "Madrid", "Seville", "Valencia", "Bilbao"],
+    "answer": "Madrid",
+    "desc": "Madrid is the capital of Spain, known for its royal palace and vibrant cultural scene."
+  },
+  {
+    "q": "The capital city of Nigeria is:",
+    "pool": ["Lagos", "Abuja", "Kano", "Ibadan", "Port Harcourt"],
+    "answer": "Abuja",
+    "desc": "Abuja is the capital of Nigeria, planned and built to replace Lagos as the capital in 1991."
+  },
+  {
+    "q": "Which city is the capital of South Korea?",
+    "pool": ["Busan", "Seoul", "Incheon", "Daegu", "Gwangju"],
+    "answer": "Seoul",
+    "desc": "Seoul is the capital of South Korea, a major global city known for its blend of tradition and modernity."
+  },
+  {
+    "q": "What is the capital of Sweden?",
+    "pool": ["Gothenburg", "Malmö", "Stockholm", "Uppsala", "Linköping"],
+    "answer": "Stockholm",
+    "desc": "Stockholm is the capital of Sweden, spread across 14 islands and known for its scenic beauty and history."
+  },
+  {
+    "q": "The capital of Thailand is:",
+    "pool": ["Chiang Mai", "Phuket", "Bangkok", "Pattaya", "Krabi"],
+    "answer": "Bangkok",
+    "desc": "Bangkok is the capital of Thailand, known for its vibrant street markets and ornate temples."
+  },
+  {
+    "q": "Which city serves as the capital of Turkey?",
+    "pool": ["Istanbul", "Ankara", "Izmir", "Antalya", "Bursa"],
+    "answer": "Ankara",
+    "desc": "Ankara is the capital of Turkey, chosen over Istanbul to centralize the government in 1923."
+  },
+  {
+    "q": "What is the capital of Kenya?",
+    "pool": ["Mombasa", "Nairobi", "Kisumu", "Nakuru", "Eldoret"],
+    "answer": "Nairobi",
+    "desc": "Nairobi is the capital of Kenya, a major economic hub in East Africa known for its national park."
+  },
+  {
+    "q": "The capital of Saudi Arabia is:",
+    "pool": ["Jeddah", "Mecca", "Riyadh", "Dammam", "Medina"],
+    "answer": "Riyadh",
+    "desc": "Riyadh is the capital of Saudi Arabia, a modern metropolis and the political center of the country."
+  },
+  {
+    "q": "Which city is the capital of Chile?",
+    "pool": ["Valparaíso", "Santiago", "Concepción", "La Serena", "Antofagasta"],
+    "answer": "Santiago",
+    "desc": "Santiago is the capital of Chile, located in a valley surrounded by the Andes mountains."
+  },
+  {
+    "q": "What is the capital of Indonesia?",
+    "pool": ["Jakarta", "Surabaya", "Bandung", "Medan", "Bali"],
+    "answer": "Jakarta",
+    "desc": "Jakarta is the capital of Indonesia, a bustling megacity on the island of Java."
+  },
+  {
+    "q": "The capital of Norway is:",
+    "pool": ["Bergen", "Oslo", "Trondheim", "Stavanger", "Tromsø"],
+    "answer": "Oslo",
+    "desc": "Oslo is the capital of Norway, known for its fjords, museums, and green spaces."
+  },
+  {
+    "q": "Which city serves as the capital of Pakistan?",
+    "pool": ["Karachi", "Lahore", "Islamabad", "Faisalabad", "Rawalpindi"],
+    "answer": "Islamabad",
+    "desc": "Islamabad is the capital of Pakistan, a planned city known for its organized layout and greenery."
+  },
+  {
+    "q": "What is the capital of Peru?",
+    "pool": ["Cusco", "Arequipa", "Lima", "Trujillo", "Chiclayo"],
+    "answer": "Lima",
+    "desc": "Lima is the capital of Peru, a coastal city known for its colonial architecture and cuisine."
+  },
+  {
+    "q": "The capital of Vietnam is:",
+    "pool": ["Ho Chi Minh City", "Hanoi", "Da Nang", "Hue", "Can Tho"],
+    "answer": "Hanoi",
+    "desc": "Hanoi is the capital of Vietnam, known for its historical sites and vibrant street food culture."
+  },
+  {
+    "q": "Which city is the capital of Colombia?",
+    "pool": ["Medellín", "Cali", "Bogotá", "Cartagena", "Barranquilla"],
+    "answer": "Bogotá",
+    "desc": "Bogotá is the capital of Colombia, located high in the Andes and known for its cultural heritage."
+  },
+  {
+    "q": "What is the capital of Malaysia?",
+    "pool": ["Kuala Lumpur", "Penang", "Johor Bahru", "Kuching", "Malacca"],
+    "answer": "Kuala Lumpur",
+    "desc": "Kuala Lumpur is the capital of Malaysia, famous for the Petronas Towers and diverse culture."
+  },
+  {
+    "q": "The capital of Greece is:",
+    "pool": ["Thessaloniki", "Athens", "Patras", "Heraklion", "Larissa"],
+    "answer": "Athens",
+    "desc": "Athens is the capital of Greece, known for ancient landmarks like the Acropolis and Parthenon."
+  },
+  {
+    "q": "Which city serves as the capital of Ethiopia?",
+    "pool": ["Addis Ababa", "Dire Dawa", "Mekelle", "Gondar", "Bahir Dar"],
+    "answer": "Addis Ababa",
+    "desc": "Addis Ababa is the capital of Ethiopia, a diplomatic hub and headquarters of the African Union."
+  },
+  {
+    "q": "What is the capital of Algeria?",
+    "pool": ["Oran", "Constantine", "Algiers", "Annaba", "Tlemcen"],
+    "answer": "Algiers",
+    "desc": "Algiers is the capital of Algeria, a port city known for its white-washed architecture and history."
+  },
+  {
+    "q": "The capital of Ireland is:",
+    "pool": ["Cork", "Galway", "Dublin", "Limerick", "Waterford"],
+    "answer": "Dublin",
+    "desc": "Dublin is the capital of Ireland, famous for its literary heritage and vibrant pub culture."
+  },
+  {
+    "q": "Which city is the capital of New Zealand?",
+    "pool": ["Auckland", "Christchurch", "Wellington", "Dunedin", "Hamilton"],
+    "answer": "Wellington",
+    "desc": "Wellington is the capital of New Zealand, known for its windy climate and cultural scene."
+  },
+  {
+    "q": "What is the capital of Morocco?",
+    "pool": ["Casablanca", "Marrakesh", "Rabat", "Fes", "Tangier"],
+    "answer": "Rabat",
+    "desc": "Rabat is the capital of Morocco, known for its historic sites and coastal location."
+  },
+  {
+    "q": "The capital of Ukraine is:",
+    "pool": ["Odessa", "Lviv", "Kyiv", "Kharkiv", "Dnipro"],
+    "answer": "Kyiv",
+    "desc": "Kyiv is the capital of Ukraine, a historic city with landmarks like Saint Sophia's Cathedral."
+  },
+  {
+    "q": "Which city serves as the capital of Bangladesh?",
+    "pool": ["Chittagong", "Dhaka", "Sylhet", "Khulna", "Rajshahi"],
+    "answer": "Dhaka",
+    "desc": "Dhaka is the capital of Bangladesh, one of the most densely populated cities in the world."
+  },
+  {
+    "q": "What is the capital of Portugal?",
+    "pool": ["Porto", "Faro", "Lisbon", "Coimbra", "Braga"],
+    "answer": "Lisbon",
+    "desc": "Lisbon is the capital of Portugal, known for its hilly terrain and historic trams."
+  },
+  {
+    "q": "The capital of Iran is:",
+    "pool": ["Shiraz", "Isfahan", "Tehran", "Mashhad", "Tabriz"],
+    "answer": "Tehran",
+    "desc": "Tehran is the capital of Iran, a major city in the Middle East with a rich cultural heritage."
+  },
+  {
+    "q": "Which city is the capital of Venezuela?",
+    "pool": ["Maracaibo", "Valencia", "Caracas", "Barquisimeto", "Mérida"],
+    "answer": "Caracas",
+    "desc": "Caracas is the capital of Venezuela, located in a high valley in the northern part of the country."
+  },
+  {
+    "q": "What is the capital of Belgium?",
+    "pool": ["Antwerp", "Ghent", "Brussels", "Bruges", "Liège"],
+    "answer": "Brussels",
+    "desc": "Brussels is the capital of Belgium, a key political center and home to the European Union headquarters."
+  },
+  {
+    "q": "The capital of Austria is:",
+    "pool": ["Vienna", "Salzburg", "Graz", "Linz", "Innsbruck"],
+    "answer": "Vienna",
+    "desc": "Vienna is the capital of Austria, renowned for its classical music heritage and imperial palaces."
+  },
+  {
+    "q": "Which city serves as the capital of Switzerland?",
+    "pool": ["Zurich", "Geneva", "Bern", "Basel", "Lausanne"],
+    "answer": "Bern",
+    "desc": "Bern is the capital of Switzerland, known for its medieval old town and the Bear Pit."
+  },
+  {
+    "q": "What is the capital of Denmark?",
+    "pool": ["Aarhus", "Odense", "Copenhagen", "Aalborg", "Esbjerg"],
+    "answer": "Copenhagen",
+    "desc": "Copenhagen is the capital of Denmark, famous for its colorful waterfront and the Little Mermaid statue."
+  },
+  {
+    "q": "The capital of Finland is:",
+    "pool": ["Tampere", "Turku", "Helsinki", "Espoo", "Vantaa"],
+    "answer": "Helsinki",
+    "desc": "Helsinki is the capital of Finland, a coastal city known for its design and architecture."
+  },
+  {
+    "q": "Which city is the capital of Poland?",
+    "pool": ["Kraków", "Warsaw", "Gdańsk", "Wrocław", "Poznań"],
+    "answer": "Warsaw",
+    "desc": "Warsaw is the capital of Poland, rebuilt after World War II and known for its historic old town."
+  },
+  {
+    "q": "What is the capital of Hungary?",
+    "pool": ["Debrecen", "Szeged", "Budapest", "Pécs", "Győr"],
+    "answer": "Budapest",
+    "desc": "Budapest is the capital of Hungary, formed by the union of Buda and Pest across the Danube River."
+  },
+  {
+    "q": "The capital of the Netherlands is:",
+    "pool": ["Rotterdam", "The Hague", "Amsterdam", "Utrecht", "Eindhoven"],
+    "answer": "Amsterdam",
+    "desc": "Amsterdam is the capital of the Netherlands, known for its canals and vibrant cultural scene."
+  },
+  {
+    "q": "Which city serves as the capital of Romania?",
+    "pool": ["Cluj-Napoca", "Timișoara", "Bucharest", "Iași", "Constanța"],
+    "answer": "Bucharest",
+    "desc": "Bucharest is the capital of Romania, often called 'Little Paris' for its historic architecture."
+  },
+  {
+    "q": "What is the capital of Serbia?",
+    "pool": ["Novi Sad", "Belgrade", "Niš", "Kragujevac", "Subotica"],
+    "answer": "Belgrade",
+    "desc": "Belgrade is the capital of Serbia, located at the confluence of the Sava and Danube rivers."
+  },
+  {
+    "q": "The capital of Bulgaria is:",
+    "pool": ["Plovdiv", "Varna", "Sofia", "Burgas", "Ruse"],
+    "answer": "Sofia",
+    "desc": "Sofia is the capital of Bulgaria, known for its blend of Ottoman, Soviet, and modern influences."
+  },
+  {
+    "q": "Which city is the capital of Croatia?",
+    "pool": ["Split", "Rijeka", "Zagreb", "Dubrovnik", "Osijek"],
+    "answer": "Zagreb",
+    "desc": "Zagreb is the capital of Croatia, known for its Austro-Hungarian architecture and vibrant culture."
+  },
+  {
+    "q": "What is the capital of Iceland?",
+    "pool": ["Akureyri", "Keflavík", "Reykjavík", "Hafnarfjörður", "Kópavogur"],
+    "answer": "Reykjavík",
+    "desc": "Reykjavík is the capital of Iceland, the northernmost capital of a sovereign state."
+  },
+  {
+    "q": "The capital of Qatar is:",
+    "pool": ["Al Wakrah", "Doha", "Al Rayyan", "Umm Salal", "Al Khor"],
+    "answer": "Doha",
+    "desc": "Doha is the capital of Qatar, a modern city known for its futuristic skyline and cultural institutions."
+  },
+  {
+    "q": "Which city serves as the capital of Kuwait?",
+    "pool": ["Hawalli", "Al Ahmadi", "Kuwait City", "Jahra", "Farwaniya"],
+    "answer": "Kuwait City",
+    "desc": "Kuwait City is the capital of Kuwait, a major economic center in the Persian Gulf."
+  },
+  {
+    "q": "What is the capital of Jordan?",
+    "pool": ["Aqaba", "Irbid", "Amman", "Zarqa", "Madaba"],
+    "answer": "Amman",
+    "desc": "Amman is the capital of Jordan, known for its ancient Roman theater and modern urban growth."
+  },
+  {
+    "q": "The capital of Lebanon is:",
+    "pool": ["Tripoli", "Sidon", "Beirut", "Tyre", "Byblos"],
+    "answer": "Beirut",
+    "desc": "Beirut is the capital of Lebanon, a vibrant coastal city known as the 'Paris of the Middle East.'"
+  },
+  {
+    "q": "Which city is the capital of Oman?",
+    "pool": ["Salalah", "Sohar", "Muscat", "Nizwa", "Sur"],
+    "answer": "Muscat",
+    "desc": "Muscat is the capital of Oman, a port city known for its historic forts and scenic coastline."
+  },
+  {
+    "q": "What is the capital of Bahrain?",
+    "pool": ["Riffa", "Muharraq", "Manama", "Sitra", "Budaiya"],
+    "answer": "Manama",
+    "desc": "Manama is the capital of Bahrain, a financial hub in the Persian Gulf."
+  },
+  {
+    "q": "The capital of the United Arab Emirates is:",
+    "pool": ["Dubai", "Sharjah", "Abu Dhabi", "Ajman", "Ras Al Khaimah"],
+    "answer": "Abu Dhabi",
+    "desc": "Abu Dhabi is the capital of the UAE, known for its wealth, cultural landmarks, and government offices."
+  },
+  {
+    "q": "Which city serves as the capital of Iraq?",
+    "pool": ["Basra", "Mosul", "Baghdad", "Erbil", "Najaf"],
+    "answer": "Baghdad",
+    "desc": "Baghdad is the capital of Iraq, historically significant as a center of Islamic culture and learning."
+  },
+  {
+    "q": "What is the capital of Yemen?",
+    "pool": ["Aden", "Taiz", "Sana'a", "Hodeidah", "Ibb"],
+    "answer": "Sana'a",
+    "desc": "Sana'a is the capital of Yemen, known for its ancient architecture and UNESCO World Heritage status."
+  },
+  {
+    "q": "The capital of Syria is:",
+    "pool": ["Aleppo", "Homs", "Damascus", "Latakia", "Daraa"],
+    "answer": "Damascus",
+    "desc": "Damascus is the capital of Syria, one of the oldest continuously inhabited cities in the world."
+  },
+  {
+    "q": "Which city is the capital of Libya?",
+    "pool": ["Benghazi", "Misrata", "Tripoli", "Sabha", "Derna"],
+    "answer": "Tripoli",
+    "desc": "Tripoli is the capital of Libya, a Mediterranean port city with a rich history."
+  },
+  {
+    "q": "What is the capital of Tunisia?",
+    "pool": ["Sfax", "Sousse", "Tunis", "Bizerte", "Kairouan"],
+    "answer": "Tunis",
+    "desc": "Tunis is the capital of Tunisia, known for its medina and proximity to ancient Carthage."
+  },
+  {
+    "q": "The capital of Mongolia is:",
+    "pool": ["Erdenet", "Darkhan", "Ulaanbaatar", "Choibalsan", "Mörön"],
+    "answer": "Ulaanbaatar",
+    "desc": "Ulaanbaatar is the capital of Mongolia, a cultural and economic center in a vast, sparsely populated country."
+  },
+  {
+    "q": "Which city serves as the capital of Nepal?",
+    "pool": ["Pokhara", "Biratnagar", "Kathmandu", "Lalitpur", "Bharatpur"],
+    "answer": "Kathmandu",
+    "desc": "Kathmandu is the capital of Nepal, known for its historic temples and proximity to the Himalayas."
+  },
+  {
+    "q": "What is the capital of Sri Lanka?",
+    "pool": ["Colombo", "Kandy", "Galle", "Jaffna", "Negombo"],
+    "answer": "Colombo",
+    "desc": "Colombo is the commercial capital of Sri Lanka, while Sri Jayawardenepura Kotte is the administrative capital."
+  },
+  {
+    "q": "The capital of Bhutan is:",
+    "pool": ["Paro", "Punakha", "Thimphu", "Jakar", "Phuentsholing"],
+    "answer": "Thimphu",
+    "desc": "Thimphu is the capital of Bhutan, a small Himalayan kingdom known for its Gross National Happiness index."
+  },
+  {
+    "q": "Which city is the capital of Maldives?",
+    "pool": ["Addu City", "Fuvahmulah", "Malé", "Kulhudhuffushi", "Thinadhoo"],
+    "answer": "Malé",
+    "desc": "Malé is the capital of the Maldives, a densely populated island city in the Indian Ocean."
+  },
+  {
+    "q": "What is the capital of Brunei?",
+    "pool": ["Kuala Belait", "Seria", "Bandar Seri Begawan", "Tutong", "Bangar"],
+    "answer": "Bandar Seri Begawan",
+    "desc": "Bandar Seri Begawan is the capital of Brunei, known for its stunning mosques and water village."
+  },
+  {
+    "q": "The capital of Singapore is:",
+    "pool": ["Jurong", "Tampines", "Singapore", "Woodlands", "Pasir Ris"],
+    "answer": "Singapore",
+    "desc": "Singapore is both a city and a country, serving as its own capital with a global financial hub."
+  },
+  {
+    "q": "Which city serves as the capital of Laos?",
+    "pool": ["Luang Prabang", "Pakse", "Vientiane", "Savannakhet", "Thakhek"],
+    "answer": "Vientiane",
+    "desc": "Vientiane is the capital of Laos, a laid-back city along the Mekong River."
+  },
+  {
+    "q": "What is the capital of Cambodia?",
+    "pool": ["Siem Reap", "Battambang", "Phnom Penh", "Sihanoukville", "Kampong Cham"],
+    "answer": "Phnom Penh",
+    "desc": "Phnom Penh is the capital of Cambodia, known for its royal palace and historical significance."
+  },
+  {
+    "q": "The capital of Myanmar is:",
+    "pool": ["Yangon", "Mandalay", "Naypyidaw", "Bago", "Mawlamyine"],
+    "answer": "Naypyidaw",
+    "desc": "Naypyidaw is the capital of Myanmar, a planned city built in the 2000s to replace Yangon."
+  },
+  {
+    "q": "Which city is the capital of Afghanistan?",
+    "pool": ["Kandahar", "Herat", "Kabul", "Mazar-i-Sharif", "Jalalabad"],
+    "answer": "Kabul",
+    "desc": "Kabul is the capital of Afghanistan, a historic city in a high valley surrounded by mountains."
+  },
+  {
+    "q": "What is the capital of Uzbekistan?",
+    "pool": ["Samarkand", "Bukhara", "Tashkent", "Namangan", "Andijan"],
+    "answer": "Tashkent",
+    "desc": "Tashkent is the capital of Uzbekistan, a major city in Central Asia with Soviet-era architecture."
+  },
+  {
+    "q": "The capital of Kazakhstan is:",
+    "pool": ["Almaty", "Shymkent", "Astana", "Aktobe", "Karaganda"],
+    "answer": "Astana",
+    "desc": "Astana is the capital of Kazakhstan, a modern city known for its futuristic architecture."
+  },
+  {
+    "q": "Which city serves as the capital of Kyrgyzstan?",
+    "pool": ["Osh", "Jalal-Abad", "Bishkek", "Karakol", "Tokmok"],
+    "answer": "Bishkek",
+    "desc": "Bishkek is the capital of Kyrgyzstan, a cultural and political hub in Central Asia."
+  },
+  {
+    "q": "What is the capital of Turkmenistan?",
+    "pool": ["Mary", "Türkmenabat", "Ashgabat", "Balkanabat", "Daşoguz"],
+    "answer": "Ashgabat",
+    "desc": "Ashgabat is the capital of Turkmenistan, known for its white marble buildings and grandiose architecture."
+  },
+  {
+    "q": "The capital of Tajikistan is:",
+    "pool": ["Khujand", "Kulob", "Dushanbe", "Bokhtar", "Istaravshan"],
+    "answer": "Dushanbe",
+    "desc": "Dushanbe is the capital of Tajikistan, a city known for its Soviet history and mountainous backdrop."
+  },
+  {
+    "q": "Which city is the capital of Georgia?",
+    "pool": ["Batumi", "Kutaisi", "Tbilisi", "Gori", "Zugdidi"],
+    "answer": "Tbilisi",
+    "desc": "Tbilisi is the capital of Georgia, known for its diverse architecture and historic old town."
+  },
+  {
+    "q": "What is the capital of Armenia?",
+    "pool": ["Gyumri", "Vanadzor", "Yerevan", "Hrazdan", "Abovyan"],
+    "answer": "Yerevan",
+    "desc": "Yerevan is the capital of Armenia, one of the world's oldest continuously inhabited cities."
+  },
+  {
+    "q": "The capital of Azerbaijan is:",
+    "pool": ["Ganja", "Sumqayit", "Baku", "Mingachevir", "Lankaran"],
+    "answer": "Baku",
+    "desc": "Baku is the capital of Azerbaijan, a coastal city on the Caspian Sea known for its modern skyline."
+  },
+  {
+    "q": "Which city serves as the capital of Belarus?",
+    "pool": ["Grodno", "Brest", "Minsk", "Vitebsk", "Mogilev"],
+    "answer": "Minsk",
+    "desc": "Minsk is the capital of Belarus, a major city with Soviet-era architecture and cultural landmarks."
+  },
+  {
+    "q": "What is the capital of Latvia?",
+    "pool": ["Daugavpils", "Liepāja", "Riga", "Jelgava", "Ventspils"],
+    "answer": "Riga",
+    "desc": "Riga is the capital of Latvia, known for its Art Nouveau architecture and historic old town."
+  },
+  {
+    "q": "The capital of Lithuania is:",
+    "pool": ["Kaunas", "Klaipėda", "Vilnius", "Šiauliai", "Panevėžys"],
+    "answer": "Vilnius",
+    "desc": "Vilnius is the capital of Lithuania, famous for its baroque architecture and UNESCO-listed old town."
+  },
+  {
+    "q": "Which city is the capital of Estonia?",
+    "pool": ["Tartu", "Narva", "Tallinn", "Pärnu", "Kohtla-Järve"],
+    "answer": "Tallinn",
+    "desc": "Tallinn is the capital of Estonia, known for its well-preserved medieval old town."
+  },
+  {
+    "q": "What is the capital of Moldova?",
+    "pool": ["Bălți", "Tiraspol", "Chișinău", "Bender", "Rîbnița"],
+    "answer": "Chișinău",
+    "desc": "Chișinău is the capital of Moldova, a cultural and economic center in Eastern Europe."
+  },
+  {
+    "q": "The capital of Bosnia and Herzegovina is:",
+    "pool": ["Mostar", "Banja Luka", "Sarajevo", "Tuzla", "Zenica"],
+    "answer": "Sarajevo",
+    "desc": "Sarajevo is the capital of Bosnia and Herzegovina, known for its multicultural history and Olympic legacy."
+  },
+  {
+    "q": "Which city serves as the capital of Albania?",
+    "pool": ["Durrës", "Vlorë", "Tirana", "Shkodër", "Fier"],
+    "answer": "Tirana",
+    "desc": "Tirana is the capital of Albania, a vibrant city with colorful buildings and a growing cultural scene."
+  },
+  {
+    "q": "What is the capital of North Macedonia?",
+    "pool": ["Bitola", "Kumanovo", "Skopje", "Ohrid", "Prilep"],
+    "answer": "Skopje",
+    "desc": "Skopje is the capital of North Macedonia, known for its blend of Ottoman and modern architecture."
+  },
+  {
+    "q": "The capital of Montenegro is:",
+    "pool": ["Budva", "Kotor", "Podgorica", "Bar", "Nikšić"],
+    "answer": "Podgorica",
+    "desc": "Podgorica is the capital of Montenegro, a small city surrounded by mountains and rivers."
+  },
+  {
+    "q": "Which city is the capital of Slovenia?",
+    "pool": ["Maribor", "Koper", "Ljubljana", "Celje", "Kranj"],
+    "answer": "Ljubljana",
+    "desc": "Ljubljana is the capital of Slovenia, known for its green spaces and picturesque riverfront."
+  },
+  {
+    "q": "What is the capital of Slovakia?",
+    "pool": ["Košice", "Prešov", "Bratislava", "Nitra", "Žilina"],
+    "answer": "Bratislava",
+    "desc": "Bratislava is the capital of Slovakia, located along the Danube River near the Austrian border."
+  },
+  {
+    "q": "The capital of the Czech Republic is:",
+    "pool": ["Brno", "Ostrava", "Prague", "Plzeň", "Liberec"],
+    "answer": "Prague",
+    "desc": "Prague is the capital of the Czech Republic, famous for its castle and historic Charles Bridge."
+  }
+]
