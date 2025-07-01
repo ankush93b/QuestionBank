@@ -1,0 +1,152 @@
+[
+  {
+    "q": "Where was the UN Conference on the Human Environment held in 1972?",
+    "pool": ["Vienna", "Stockholm", "Bonn", "Rio-de-Janeiro", "Montreal"],
+    "answer": "Stockholm",
+    "desc": "The first major conference on international environmental issues, held in Stockholm in 1972, marked a turning point in global environmental governance."
+  },
+  {
+    "q": "In which year was the Convention on Migratory Species signed?",
+    "pool": ["1985", "1987", "1979", "1992", "2015"],
+    "answer": "1979",
+    "desc": "The Convention on Migratory Species was signed in Bonn in 1979 to protect migratory species across borders."
+  },
+  {
+    "q": "Where was the Convention for the Protection of the Ozone Layer held?",
+    "pool": ["Vienna", "Montreal", "Basel", "Stockholm", "Nagoya"],
+    "answer": "Vienna",
+    "desc": "The Vienna Convention of 1985 laid the groundwork for international efforts to protect the ozone layer."
+  },
+  {
+    "q": "Which agreement aimed to reduce substances that deplete the ozone layer?",
+    "pool": ["Paris Agreement", "Nagoya Protocol", "Montreal Protocol", "Kyoto Protocol", "Rotterdam Convention"],
+    "answer": "Montreal Protocol",
+    "desc": "Signed in 1987, the Montreal Protocol is a landmark agreement to phase out ozone-depleting substances."
+  },
+  {
+    "q": "Which city hosted the Convention on the Transboundary Movement of Hazardous Wastes?",
+    "pool": ["Basel", "Bonn", "Vienna", "Rotterdam", "Madrid"],
+    "answer": "Basel",
+    "desc": "The Basel Convention was adopted in 1989 to control the movement of hazardous waste between nations."
+  },
+  {
+    "q": "What was the focus of the 1992 Earth Summit?",
+    "pool": ["Ozone protection", "Climate change", "Sustainable development", "Hazardous waste", "Water pollution"],
+    "answer": "Sustainable development",
+    "desc": "Held in Rio-de-Janeiro, the Earth Summit of 1992 focused on sustainable development and resulted in major environmental agreements."
+  },
+  {
+    "q": "Which city hosted the Convention on Prior Informed Consent?",
+    "pool": ["Nagoya", "Rotterdam", "Bonn", "Vienna", "Rio-de-Janeiro"],
+    "answer": "Rotterdam",
+    "desc": "The Rotterdam Convention (1998) deals with the trade of hazardous chemicals and pesticides with prior informed consent."
+  },
+  {
+    "q": "Where was the UN Conference on Sustainable Development held in 2012?",
+    "pool": ["Nagoya", "Stockholm", "Bonn", "Rio-de-Janeiro", "Madrid"],
+    "answer": "Rio-de-Janeiro",
+    "desc": "Rio+20, held in Rio-de-Janeiro in 2012, was the 20th anniversary of the 1992 Earth Summit."
+  },
+  {
+    "q": "Where was the Nagoya Protocol on Genetic Resources signed?",
+    "pool": ["Bonn", "Nagoya", "Hyderabad", "Vienna", "Paris"],
+    "answer": "Nagoya",
+    "desc": "The Nagoya Protocol was adopted in Nagoya, Japan, in 2010 to ensure fair sharing of genetic resources."
+  },
+  {
+    "q": "Which city hosted the CBD-CoP-11 in 2012?",
+    "pool": ["Hyderabad", "Nagoya", "Rio-de-Janeiro", "Bonn", "Madrid"],
+    "answer": "Hyderabad",
+    "desc": "CBD-CoP-11 was hosted in Hyderabad, India, in 2012, focusing on biodiversity conservation."
+  },
+  {
+    "q": "Which city hosted the CoP-20 Climate Change Conference?",
+    "pool": ["Paris", "Lima", "Bonn", "Glasgow", "Madrid"],
+    "answer": "Lima",
+    "desc": "CoP-20 was held in Lima, Peru, in 2014, as part of the annual UN climate change conferences."
+  },
+  {
+    "q": "Where was the Paris Agreement signed during CoP-21?",
+    "pool": ["Madrid", "Glasgow", "Paris", "Bonn", "Katowice"],
+    "answer": "Paris",
+    "desc": "The Paris Agreement was adopted during CoP-21 in 2015 to combat climate change."
+  },
+  {
+    "q": "Which CoP was held in Marrakeck, Morocco?",
+    "pool": ["CoP-21", "CoP-22", "CoP-23", "CoP-24", "CoP-25"],
+    "answer": "CoP-22",
+    "desc": "CoP-22 was held in Marrakeck, Morocco in 2016, continuing the implementation of the Paris Agreement."
+  },
+  {
+    "q": "Which city hosted the Bonn Climate Conference in 2017?",
+    "pool": ["Madrid", "Paris", "Bonn", "Katowice", "Lima"],
+    "answer": "Bonn",
+    "desc": "The CoP-23 climate conference was hosted in Bonn, Germany, in 2017 under Fiji's presidency."
+  },
+  {
+    "q": "Where was CoP-24 held?",
+    "pool": ["Katowice", "Madrid", "Glasgow", "Paris", "Dubai"],
+    "answer": "Katowice",
+    "desc": "CoP-24 took place in Katowice, Poland in 2018, focusing on rulebook development for the Paris Agreement."
+  },
+  {
+    "q": "Which city hosted CoP-25 in 2019?",
+    "pool": ["Paris", "Glasgow", "Madrid", "Katowice", "Bonn"],
+    "answer": "Madrid",
+    "desc": "CoP-25 was hosted in Madrid, Spain, in 2019, after being relocated from Chile."
+  },
+  {
+    "q": "Where was the CoP-26 Climate Conference held?",
+    "pool": ["Paris", "Dubai", "Glasgow", "Madrid", "Katowice"],
+    "answer": "Glasgow",
+    "desc": "CoP-26 took place in Glasgow, UK, in 2021 with a focus on net-zero targets and climate finance."
+  },
+  {
+    "q": "In which country was CoP-27 organized?",
+    "pool": ["Egypt", "France", "India", "Poland", "Germany"],
+    "answer": "Egypt",
+    "desc": "CoP-27 was held in Sharm el-Sheikh, Egypt, in 2022, continuing global climate negotiations."
+  },
+  {
+    "q": "Which city is scheduled to host CoP-28?",
+    "pool": ["Madrid", "Dubai", "Glasgow", "Sharm el-Sheikh", "Paris"],
+    "answer": "Dubai",
+    "desc": "CoP-28 is scheduled to be held in Dubai, United Arab Emirates."
+  },
+  {
+    "q": "Which conference marked the beginning of global environmental diplomacy?",
+    "pool": ["Basel Convention", "Stockholm Conference", "Paris Agreement", "Nagoya Protocol", "CoP-20"],
+    "answer": "Stockholm Conference",
+    "desc": "The 1972 Stockholm Conference laid the foundation for international environmental action."
+  },
+  {
+    "q": "Which convention regulates the international movement of hazardous waste?",
+    "pool": ["Montreal Protocol", "Basel Convention", "Rotterdam Convention", "Paris Agreement", "Vienna Convention"],
+    "answer": "Basel Convention",
+    "desc": "The Basel Convention (1989) controls transboundary movements of hazardous wastes."
+  },
+  {
+    "q": "Which agreement focuses on prior informed consent in hazardous chemical trade?",
+    "pool": ["Montreal Protocol", "Basel Convention", "Rotterdam Convention", "Paris Agreement", "Nagoya Protocol"],
+    "answer": "Rotterdam Convention",
+    "desc": "The Rotterdam Convention (1998) ensures prior informed consent before trading hazardous chemicals."
+  },
+  {
+    "q": "Which protocol is related to access and benefit-sharing of genetic resources?",
+    "pool": ["Paris Agreement", "Basel Convention", "Montreal Protocol", "Nagoya Protocol", "Rotterdam Convention"],
+    "answer": "Nagoya Protocol",
+    "desc": "The Nagoya Protocol promotes fair and equitable sharing of benefits arising from genetic resources."
+  },
+  {
+    "q": "What was a major outcome of the 2015 CoP-21 held in Paris?",
+    "pool": ["Kyoto Protocol", "Paris Agreement", "Montreal Protocol", "Nagoya Protocol", "Basel Agreement"],
+    "answer": "Paris Agreement",
+    "desc": "The Paris Agreement, adopted at CoP-21, aims to limit global warming to well below 2°C."
+  },
+  {
+    "q": "Which country hosted the CoP-24 in 2018?",
+    "pool": ["Poland", "Spain", "France", "Germany", "Brazil"],
+    "answer": "Poland",
+    "desc": "Poland hosted CoP-24 in the city of Katowice, focusing on Paris Agreement implementation guidelines."
+  }
+]

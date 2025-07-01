@@ -1,0 +1,606 @@
+[
+  {
+    "q": "On which river is Jamshedpur located?",
+    "pool": ["Subarnarekha", "Yamuna", "Ganga", "Tapti", "Sutlej"],
+    "answer": "Subarnarekha",
+    "desc": "Jamshedpur is an industrial town located on the Subarnarekha river."
+  },
+  {
+    "q": "Delhi is situated on which river?",
+    "pool": ["Yamuna", "Ganga", "Sutlej", "Subarnarekha", "Alaknanda"],
+    "answer": "Yamuna",
+    "desc": "Delhi, the capital of India, is located on the banks of the Yamuna river."
+  },
+  {
+    "q": "Which river flows through Kanpur?",
+    "pool": ["Ganga", "Yamuna", "Hooghly", "Gomti", "Godavari"],
+    "answer": "Ganga",
+    "desc": "Kanpur is an important industrial city on the banks of the Ganga river."
+  },
+  {
+    "q": "Surat is located on which river?",
+    "pool": ["Tapti", "Narmada", "Musi", "Mandavi", "Kshipra"],
+    "answer": "Tapti",
+    "desc": "Surat, a major city in Gujarat, lies on the Tapti river."
+  },
+  {
+    "q": "Ferozpur is situated on which river?",
+    "pool": ["Sutlej", "Ganga", "Mahanadi", "Godavari", "Hooghly"],
+    "answer": "Sutlej",
+    "desc": "Ferozpur is a town on the banks of the Sutlej river."
+  },
+  {
+    "q": "Which town is at the confluence of the Ganga, Yamuna, and Saraswati rivers?",
+    "pool": ["Prayagraj", "Kanpur", "Patna", "Varanasi", "Delhi"],
+    "answer": "Prayagraj",
+    "desc": "Prayagraj (Allahabad) is famous for the confluence (Triveni Sangam) of Ganga, Yamuna, and Saraswati."
+  },
+  {
+    "q": "Varanasi is located on which river?",
+    "pool": ["Ganga", "Yamuna", "Sutlej", "Godavari", "Brahmaputra"],
+    "answer": "Ganga",
+    "desc": "Varanasi, a holy city, is situated on the banks of the Ganga river."
+  },
+  {
+    "q": "Haridwar is situated on which river?",
+    "pool": ["Ganga", "Alaknanda", "Saryu", "Hooghly", "Chambal"],
+    "answer": "Ganga",
+    "desc": "Haridwar is a pilgrimage city on the Ganga river."
+  },
+  {
+    "q": "On which river is Badrinath located?",
+    "pool": ["Alaknanda", "Ganga", "Yamuna", "Sutlej", "Hooghly"],
+    "answer": "Alaknanda",
+    "desc": "Badrinath, a famous pilgrimage site, is on the Alaknanda river."
+  },
+  {
+    "q": "Ludhiana is found on the banks of which river?",
+    "pool": ["Sutlej", "Ganga", "Mahanadi", "Narmada", "Hooghly"],
+    "answer": "Sutlej",
+    "desc": "Ludhiana, a major industrial city, is situated on the Sutlej river."
+  },
+  {
+    "q": "Srinagar is located on which river?",
+    "pool": ["Jhelum", "Ganga", "Godavari", "Yamuna", "Musi"],
+    "answer": "Jhelum",
+    "desc": "Srinagar, the summer capital of Jammu and Kashmir, is on the Jhelum river."
+  },
+  {
+    "q": "Ayodhya is situated on which river?",
+    "pool": ["Saryu", "Ganga", "Yamuna", "Kshipra", "Hooghly"],
+    "answer": "Saryu",
+    "desc": "Ayodhya, a historic city, is located on the Saryu river."
+  },
+  {
+    "q": "Ahmedabad is found on the banks of which river?",
+    "pool": ["Sabarmati", "Ganga", "Yamuna", "Mandavi", "Musi"],
+    "answer": "Sabarmati",
+    "desc": "Ahmedabad, a major city in Gujarat, is on the Sabarmati river."
+  },
+  {
+    "q": "Patna is situated on which river?",
+    "pool": ["Ganga", "Yamuna", "Godavari", "Hooghly", "Chambal"],
+    "answer": "Ganga",
+    "desc": "Patna, the capital of Bihar, is on the Ganga river."
+  },
+  {
+    "q": "Kota city is located on which river?",
+    "pool": ["Chambal", "Ganga", "Sutlej", "Narmada", "Musi"],
+    "answer": "Chambal",
+    "desc": "Kota, known for its educational institutions, is on the Chambal river."
+  },
+  {
+    "q": "Jabalpur is located on which river?",
+    "pool": ["Narmada", "Mandavi", "Godavari", "Gomti", "Hooghly"],
+    "answer": "Narmada",
+    "desc": "Jabalpur, a city in Madhya Pradesh, is on the Narmada river."
+  },
+  {
+    "q": "Panji is situated on which river?",
+    "pool": ["Mandavi", "Narmada", "Tapti", "Kshipra", "Hooghly"],
+    "answer": "Mandavi",
+    "desc": "Panji (Panaji), the capital of Goa, is on the Mandavi river."
+  },
+  {
+    "q": "Ujjain is located on which river?",
+    "pool": ["Kshipra", "Godavari", "Mandavi", "Saryu", "Musi"],
+    "answer": "Kshipra",
+    "desc": "Ujjain, an ancient city, is situated on the Kshipra river."
+  },
+  {
+    "q": "Guwahati is found on the banks of which river?",
+    "pool": ["Brahmaputra", "Godavari", "Ganga", "Hooghly", "Sutlej"],
+    "answer": "Brahmaputra",
+    "desc": "Guwahati, the largest city in Assam, is on the Brahmaputra river."
+  },
+  {
+    "q": "Kolkata is situated on which river?",
+    "pool": ["Hooghly", "Ganga", "Godavari", "Mandavi", "Jhelum"],
+    "answer": "Hooghly",
+    "desc": "Kolkata, a major metropolitan city, is located on the Hooghly river."
+  },
+  {
+    "q": "Cuttack is located on which river?",
+    "pool": ["Mahanadi", "Godavari", "Hooghly", "Yamuna", "Musi"],
+    "answer": "Mahanadi",
+    "desc": "Cuttack, one of the oldest cities in Odisha, is on the Mahanadi river."
+  },
+  {
+    "q": "Hyderabad is situated on which river?",
+    "pool": ["Musi", "Godavari", "Mandavi", "Ganga", "Sutlej"],
+    "answer": "Musi",
+    "desc": "Hyderabad, a major city in southern India, is located on the Musi river."
+  },
+  {
+    "q": "Nasik is found on the banks of which river?",
+    "pool": ["Godavari", "Ganga", "Saryu", "Hooghly", "Mandavi"],
+    "answer": "Godavari",
+    "desc": "Nasik is an important city in Maharashtra on the Godavari river."
+  },
+  {
+    "q": "Lucknow is located on which river?",
+    "pool": ["Gomti", "Ganga", "Yamuna", "Hooghly", "Musi"],
+    "answer": "Gomti",
+    "desc": "Lucknow, the capital of Uttar Pradesh, lies on the Gomti river."
+  },
+  {
+    "q": "Which city is not on the Ganga river?",
+    "pool": ["Hyderabad", "Kanpur", "Varanasi", "Haridwar", "Patna"],
+    "answer": "Hyderabad",
+    "desc": "Hyderabad is situated on the Musi river, not the Ganga."
+  },
+
+
+  {
+    "q": "From where does the Ganges river originate?",
+    "pool": ["Gangotri Glacier", "Yamunotri Glacier", "Amarkantak", "Nasik", "Mansarovar Lake"],
+    "answer": "Gangotri Glacier",
+    "desc": "The Ganges river originates from the Gangotri Glacier."
+  },
+  {
+    "q": "Which river falls into the Arabian Sea?",
+    "pool": ["Indus", "Ganga", "Yamuna", "Sutlej", "Krishna"],
+    "answer": "Indus",
+    "desc": "The Indus river falls into the Arabian Sea."
+  },
+  {
+    "q": "Where does the Yamuna river originate?",
+    "pool": ["Yamunotri Glacier", "Gangotri Glacier", "Amarkantak", "Mansarovar Lake", "Kullu Hills"],
+    "answer": "Yamunotri Glacier",
+    "desc": "Yamuna river originates from Yamunotri Glacier."
+  },
+  {
+    "q": "The Sutlej river falls into which river?",
+    "pool": ["Chenab", "Ganga", "Bay of Bengal", "Yamuna", "Indus"],
+    "answer": "Chenab",
+    "desc": "Sutlej river falls into the Chenab river."
+  },
+  {
+    "q": "Which river originates from Verinag in Kashmir?",
+    "pool": ["Jhelum", "Beas", "Kosi", "Yamuna", "Son"],
+    "answer": "Jhelum",
+    "desc": "Jhelum originates from Verinag in Kashmir."
+  },
+  {
+    "q": "Which of the following rivers falls into the Bay of Bengal?",
+    "pool": ["Godavari", "Indus", "Sutlej", "Jhelum", "Ghaggar"],
+    "answer": "Godavari",
+    "desc": "Godavari river falls into the Bay of Bengal."
+  },
+  {
+    "q": "Where does the Chambal river originate?",
+    "pool": ["Singar Chouri Peak, Vindhyan escarpment", "Amarkantak", "Western Ghats", "Raipur", "Aravallis"],
+    "answer": "Singar Chouri Peak, Vindhyan escarpment",
+    "desc": "Chambal river originates from Singar Chouri Peak, Vindhyan escarpment."
+  },
+  {
+    "q": "Which river falls into the Gulf of Kambhat?",
+    "pool": ["Narmada", "Ganga", "Beas", "Ghaggar", "Yamuna"],
+    "answer": "Narmada",
+    "desc": "Narmada river falls into the Gulf of Kambhat."
+  },
+  {
+    "q": "Which river originates from the Brahmagiri Range of the Western Ghats?",
+    "pool": ["Cauveri", "Krishna", "Godavari", "Sabarmati", "Luni"],
+    "answer": "Cauveri",
+    "desc": "Cauveri originates from the Brahmagiri Range of Western Ghats."
+  },
+  {
+    "q": "Beas river falls into which river?",
+    "pool": ["Sutlej", "Chenab", "Ganga", "Yamuna", "Godavari"],
+    "answer": "Sutlej",
+    "desc": "Beas river falls into the Sutlej river."
+  },
+  {
+    "q": "Which river originates from Nasik district in Maharashtra?",
+    "pool": ["Godavari", "Krishna", "Tungabhadra", "Kosi", "Tapti"],
+    "answer": "Godavari",
+    "desc": "Godavari originates from Nasik district in Maharashtra."
+  },
+  {
+    "q": "The Kosi river originates from which glacier?",
+    "pool": ["Near Gosain Dham Peak", "Matsatung Glacier", "Gangotri Glacier", "Yamunotri Glacier", "Amarkantak"],
+    "answer": "Near Gosain Dham Peak",
+    "desc": "Kosi river originates from near Gosain Dham Peak."
+  },
+  {
+    "q": "Where does the Betwa river fall into?",
+    "pool": ["Yamuna", "Ganga", "Sutlej", "Bay of Bengal", "Gulf of Kachchh"],
+    "answer": "Yamuna",
+    "desc": "Betwa river falls into the Yamuna river."
+  },
+  {
+    "q": "From where does the Brahmaputra river originate?",
+    "pool": ["Near Mansarovar Lake", "Amarkantak", "Aravallis", "Western Ghats", "Raipur"],
+    "answer": "Near Mansarovar Lake",
+    "desc": "Brahmaputra originates near Mansarovar Lake."
+  },
+  {
+    "q": "The Luni river falls into which body of water?",
+    "pool": ["Rann of Kachchh", "Bay of Bengal", "Ganga", "Yamuna", "Gulf of Kambhat"],
+    "answer": "Rann of Kachchh",
+    "desc": "Luni river falls into the Rann of Kachchh."
+  },
+  {
+    "q": "Which river falls into Fatehabad?",
+    "pool": ["Ghaggar", "Ganga", "Krishna", "Kosi", "Tapti"],
+    "answer": "Ghaggar",
+    "desc": "Ghaggar river falls into Fatehabad."
+  },
+  {
+    "q": "The Tapti river originates from which state?",
+    "pool": ["Madhya Pradesh", "Maharashtra", "Rajasthan", "Gujarat", "Odisha"],
+    "answer": "Madhya Pradesh",
+    "desc": "Tapti river originates from Betul district in Madhya Pradesh."
+  },
+  {
+    "q": "Which river falls into the Krishna river?",
+    "pool": ["Tungabhadra", "Cauveri", "Sabarmati", "Luni", "Ghaggar"],
+    "answer": "Tungabhadra",
+    "desc": "Tungabhadra falls into the Krishna river."
+  },
+  {
+    "q": "Where does the Son river originate?",
+    "pool": ["Amarkantak", "Kullu Hills", "Gangotri Glacier", "Yamunotri Glacier", "Western Ghats"],
+    "answer": "Amarkantak",
+    "desc": "Son river originates from Amarkantak."
+  },
+  {
+    "q": "Which river falls into the Gulf of Kachchh?",
+    "pool": ["Sabarmati", "Chambal", "Kosi", "Krishna", "Ghaggar"],
+    "answer": "Sabarmati",
+    "desc": "Sabarmati falls into the Gulf of Kachchh."
+  },
+  {
+    "q": "Which river is formed near Mansarovar Lake and falls into the Chenab?",
+    "pool": ["Sutlej", "Indus", "Yamuna", "Ravi", "Beas"],
+    "answer": "Sutlej",
+    "desc": "Sutlej originates from Mansarovar Rakas Lakes and falls into the Chenab."
+  },
+  {
+    "q": "From which hills does the Ravi river originate?",
+    "pool": ["Kullu Hills near Rohtang Pass", "Aravallis", "Vindhyanchal", "Western Ghats", "Raipur District"],
+    "answer": "Kullu Hills near Rohtang Pass",
+    "desc": "Ravi river originates from Kullu Hills near Rohtang Pass."
+  },
+  {
+    "q": "Where does the Mahanadi river originate?",
+    "pool": ["Raipur District in Chhattisgarh", "Aravallis", "Kullu Hills", "Western Ghats", "Singar Chouri Peak"],
+    "answer": "Raipur District in Chhattisgarh",
+    "desc": "Mahanadi river originates from Raipur District in Chhattisgarh."
+  },
+  {
+    "q": "Which river falls into the Bay of Bengal and originates in the Western Ghats?",
+    "pool": ["Krishna", "Ganga", "Narmada", "Kosi", "Sabarmati"],
+    "answer": "Krishna",
+    "desc": "Krishna originates from the Western Ghats and falls into the Bay of Bengal."
+  },
+  {
+    "q": "Which river originates from the Himalayas and falls into Fatehabad?",
+    "pool": ["Ghaggar", "Beas", "Kosi", "Narmada", "Jhelum"],
+    "answer": "Ghaggar",
+    "desc": "Ghaggar originates from the Himalayas and falls into Fatehabad."
+  },
+
+
+  {
+    "q": "Which river is associated with the Bhakra Nangal Project?",
+    "pool": ["Sutlej", "Damodar", "Tungabhadra", "Krishna", "Ganga"],
+    "answer": "Sutlej",
+    "desc": "The Bhakra Nangal Project is built on the Sutlej River and serves the states of Punjab, Himachal Pradesh, Haryana, and Rajasthan for power and irrigation."
+  },
+  {
+    "q": "What is the primary purpose of the Damodar Valley Project?",
+    "pool": ["Irrigation", "Power and irrigation, flood control", "Hydroelectricity", "Navigation", "Flood control only"],
+    "answer": "Power and irrigation, flood control",
+    "desc": "The Damodar Valley Project on the Damodar River aims at power generation, irrigation, and flood control, benefiting Jharkhand, West Bengal, and Bihar."
+  },
+  {
+    "q": "Which state benefits from the Hirakud Project?",
+    "pool": ["Odisha", "Andhra Pradesh", "Kerala", "Maharashtra", "Gujarat"],
+    "answer": "Odisha",
+    "desc": "The Hirakud Project on the Mahanadi River is designed for irrigation and navigation, benefiting the state of Odisha."
+  },
+  {
+    "q": "What is the purpose of the Tungabhadra Project?",
+    "pool": ["Power and irrigation", "Flood control", "Hydroelectricity", "Irrigation only", "Navigation"],
+    "answer": "Power and irrigation",
+    "desc": "The Tungabhadra Project on the Tungabhadra River supports power generation and irrigation for Andhra Pradesh and Karnataka."
+  },
+  {
+    "q": "Which river is linked to the Nagarjunasagar Project?",
+    "pool": ["Krishna", "Godavari", "Kaveri", "Tapti", "Mahanadi"],
+    "answer": "Krishna",
+    "desc": "The Nagarjunasagar Project on the Krishna River provides power and irrigation to Andhra Pradesh and Telangana."
+  },
+  {
+    "q": "Which states benefit from the Gandak River Project?",
+    "pool": ["Uttar Pradesh and Bihar", "Punjab and Haryana", "West Bengal and Odisha", "Maharashtra and Gujarat", "India and Nepal"],
+    "answer": "India and Nepal",
+    "desc": "The Gandak River Project on the Gandak River is a joint venture for power and irrigation, benefiting India and Nepal."
+  },
+  {
+    "q": "What is the main purpose of the Kosi Project?",
+    "pool": ["Flood control, Power and irrigation", "Hydroelectricity", "Irrigation only", "Navigation", "Power only"],
+    "answer": "Flood control, Power and irrigation",
+    "desc": "The Kosi Project on the Kosi River focuses on flood control, power generation, and irrigation, benefiting Bihar."
+  },
+  {
+    "q": "Which river is associated with the Farakka Project?",
+    "pool": ["Ganga", "Brahmaputra", "Yamuna", "Narmada", "Godavari"],
+    "answer": "Ganga",
+    "desc": "The Farakka Project on the Ganga River improves navigation, irrigation, and silt accumulation, benefiting West Bengal."
+  },
+  {
+    "q": "Which states benefit from the Beas Project?",
+    "pool": ["Punjab and Haryana", "Rajasthan and Gujarat", "Maharashtra and Karnataka", "Uttar Pradesh and Bihar", "Odisha and West Bengal"],
+    "answer": "Punjab and Haryana",
+    "desc": "The Beas Project on the Beas River is for irrigation and power, benefiting Punjab and Haryana."
+  },
+  {
+    "q": "What is the purpose of the Indira Gandhi Canal Project?",
+    "pool": ["Irrigation", "Power and irrigation", "Hydroelectricity", "Flood control", "Navigation"],
+    "answer": "Irrigation",
+    "desc": "The Indira Gandhi Canal Project on the Sutlej, Beas, and Ravi rivers is primarily for irrigation in Rajasthan, Punjab, and Haryana."
+  },
+  {
+    "q": "Which river is linked to the Chambal Project?",
+    "pool": ["Chambal", "Yamuna", "Ganga", "Narmada", "Tapti"],
+    "answer": "Chambal",
+    "desc": "The Chambal Project on the Chambal River provides power and irrigation to Madhya Pradesh and Rajasthan."
+  },
+  {
+    "q": "Which state benefits from the Ukai Project?",
+    "pool": ["Gujarat", "Maharashtra", "Rajasthan", "Kerala", "Tamil Nadu"],
+    "answer": "Gujarat",
+    "desc": "The Ukai Project on the Tapti River offers power and irrigation, benefiting the state of Gujarat."
+  },
+  {
+    "q": "What is the purpose of the Tawa Project?",
+    "pool": ["Irrigation", "Power and irrigation", "Hydroelectricity", "Flood control", "Navigation"],
+    "answer": "Irrigation",
+    "desc": "The Tawa Project on the Narmada River is mainly for irrigation in Madhya Pradesh."
+  },
+  {
+    "q": "Which river is associated with the Poochampad Project?",
+    "pool": ["Godavari", "Krishna", "Mahanadi", "Kaveri", "Tapti"],
+    "answer": "Godavari",
+    "desc": "The Poochampad Project on the Godavari River is for irrigation, benefiting Telangana."
+  },
+  {
+    "q": "Which states benefit from the Malaprabha Project?",
+    "pool": ["Karnataka", "Andhra Pradesh", "Tamil Nadu", "Kerala", "Maharashtra"],
+    "answer": "Karnataka",
+    "desc": "The Malaprabha Project on the Malaprabha River is for irrigation and navigation, benefiting Karnataka."
+  },
+  {
+    "q": "What is the purpose of the Mahanadi Delta Project?",
+    "pool": ["Irrigation and navigation", "Power and irrigation", "Hydroelectricity", "Flood control", "Irrigation only"],
+    "answer": "Irrigation and navigation",
+    "desc": "The Mahanadi Delta Project on the Mahanadi River supports irrigation and navigation in Odisha."
+  },
+  {
+    "q": "Which river is linked to the Idduki Project?",
+    "pool": ["Periyar", "Kaveri", "Godavari", "Tapti", "Narmada"],
+    "answer": "Periyar",
+    "desc": "The Idduki Project on the Periyar River generates hydroelectricity, benefiting Kerala."
+  },
+  {
+    "q": "What is the purpose of the Koyna Project?",
+    "pool": ["Hydroelectricity", "Power and irrigation", "Irrigation only", "Flood control", "Navigation"],
+    "answer": "Hydroelectricity",
+    "desc": "The Koyna Project on the Koyna stream near Maharashtra generates hydroelectricity."
+  },
+  {
+    "q": "Which states benefit from the Ramganga Project?",
+    "pool": ["Uttar Pradesh and Uttarakhand", "Punjab and Haryana", "Maharashtra and Gujarat", "Karnataka and Tamil Nadu", "Odisha and West Bengal"],
+    "answer": "Uttar Pradesh and Uttarakhand",
+    "desc": "The Ramganga Project on the Ramganga stream near Uttar Pradesh provides power and irrigation."
+  },
+  {
+    "q": "What is the purpose of the Matatila Project?",
+    "pool": ["Multipurpose power and irrigation", "Hydroelectricity", "Irrigation only", "Flood control", "Navigation"],
+    "answer": "Multipurpose power and irrigation",
+    "desc": "The Matatila Project on the Betwa River serves multipurpose power and irrigation for Uttar Pradesh and Madhya Pradesh."
+  },
+  {
+    "q": "Which river is associated with the Tehri Dam Project?",
+    "pool": ["Bhagirathi", "Ganga", "Yamuna", "Narmada", "Godavari"],
+    "answer": "Bhagirathi",
+    "desc": "The Tehri Dam Project on the Bhagirathi River generates hydroelectricity, benefiting Uttarakhand."
+  },
+  {
+    "q": "What is the purpose of the Rihand Scheme?",
+    "pool": ["Hydroelectricity and irrigation", "Power and irrigation", "Irrigation only", "Flood control", "Navigation"],
+    "answer": "Hydroelectricity and irrigation",
+    "desc": "The Rihand Scheme on the Rihand River provides hydroelectricity and irrigation for Uttar Pradesh."
+  },
+  {
+    "q": "Which state benefits from the Kundah Project?",
+    "pool": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh", "Maharashtra"],
+    "answer": "Tamil Nadu",
+    "desc": "The Kundah Project on the Kundah/Bhavani River generates hydroelectricity and irrigation."
+  },
+  {
+    "q": "Which river is linked to the Rajasthan Canal Project?",
+    "pool": ["Sutlej, Beas, Ravi", "Ganga", "Yamuna", "Narmada", "Godavari"],
+    "answer": "Sutlej, Beas, Ravi",
+    "desc": "The Rajasthan Canal Project (Indira Gandhi Canal) on the Sutlej, Beas, and Ravi rivers is for irrigation."
+  },
+  {
+    "q": "What is the primary purpose of the Tapti Project?",
+    "pool": ["Power and irrigation", "Irrigation only", "Hydroelectricity", "Flood control", "Navigation"],
+    "answer": "Power and irrigation",
+    "desc": "The Tapti Project on the Tapti River provides power and irrigation, benefiting Gujarat."
+  },
+  {
+    "q": "Which states benefit from the Narmada Project?",
+    "pool": ["Madhya Pradesh and Gujarat", "Maharashtra and Karnataka", "Uttar Pradesh and Bihar", "Punjab and Haryana", "Odisha and West Bengal"],
+    "answer": "Madhya Pradesh and Gujarat",
+    "desc": "The Narmada Project on the Narmada River supports irrigation and power generation."
+  },
+  {
+    "q": "What is the purpose of the Godavari Project?",
+    "pool": ["Irrigation", "Power and irrigation", "Hydroelectricity", "Flood control", "Navigation"],
+    "answer": "Irrigation",
+    "desc": "The Godavari Project on the Godavari River is primarily for irrigation in Telangana."
+  },
+  {
+    "q": "Which river is associated with the Kaveri Project?",
+    "pool": ["Kaveri", "Krishna", "Mahanadi", "Tapti", "Yamuna"],
+    "answer": "Kaveri",
+    "desc": "The Kaveri Project on the Kaveri River supports irrigation and navigation in Karnataka."
+  },
+  {
+    "q": "What is the purpose of the Yamuna Project?",
+    "pool": ["Irrigation", "Power and irrigation", "Hydroelectricity", "Flood control", "Navigation"],
+    "answer": "Irrigation",
+    "desc": "The Yamuna Project on the Yamuna River is for irrigation, benefiting Uttar Pradesh."
+  },
+  {
+    "q": "Which state benefits from the Sabarmati Project?",
+    "pool": ["Gujarat", "Rajasthan", "Maharashtra", "Kerala", "Tamil Nadu"],
+    "answer": "Gujarat",
+    "desc": "The Sabarmati Project on the Sabarmati River provides irrigation and power."
+  },
+  {
+    "q": "What is the primary purpose of the Mahi Project?",
+    "pool": ["Power and irrigation", "Irrigation only", "Hydroelectricity", "Flood control", "Navigation"],
+    "answer": "Power and irrigation",
+    "desc": "The Mahi Project on the Mahi River supports power and irrigation in Gujarat and Rajasthan."
+  },
+  {
+    "q": "Which river is linked to the Banas Project?",
+    "pool": ["Banas", "Chambal", "Ganga", "Narmada", "Tapti"],
+    "answer": "Banas",
+    "desc": "The Banas Project on the Banas River is for irrigation, benefiting Rajasthan."
+  },
+  {
+    "q": "What is the purpose of the Luni Project?",
+    "pool": ["Irrigation", "Power and irrigation", "Hydroelectricity", "Flood control", "Navigation"],
+    "answer": "Irrigation",
+    "desc": "The Luni Project on the Luni River is primarily for irrigation in Rajasthan."
+  },
+  {
+    "q": "Which states benefit from the Krishna Project?",
+    "pool": ["Andhra Pradesh and Telangana", "Maharashtra and Karnataka", "Punjab and Haryana", "Odisha and West Bengal", "Gujarat and Rajasthan"],
+    "answer": "Andhra Pradesh and Telangana",
+    "desc": "The Krishna Project on the Krishna River provides power and irrigation."
+  },
+  {
+    "q": "What is the purpose of the Pennar Project?",
+    "pool": ["Irrigation", "Power and irrigation", "Hydroelectricity", "Flood control", "Navigation"],
+    "answer": "Irrigation",
+    "desc": "The Pennar Project on the Pennar River is for irrigation, benefiting Andhra Pradesh."
+  },
+  {
+    "q": "Which river is associated with the Vamsadhara Project?",
+    "pool": ["Vamsadhara", "Godavari", "Krishna", "Mahanadi", "Tapti"],
+    "answer": "Vamsadhara",
+    "desc": "The Vamsadhara Project on the Vamsadhara River supports irrigation in Andhra Pradesh and Odisha."
+  },
+  {
+    "q": "What is the purpose of the Pranahita Project?",
+    "pool": ["Irrigation", "Power and irrigation", "Hydroelectricity", "Flood control", "Navigation"],
+    "answer": "Irrigation",
+    "desc": "The Pranahita Project on the Pranahita River is for irrigation, benefiting Telangana."
+  },
+  {
+    "q": "Which state benefits from the Bhadra Project?",
+    "pool": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh", "Maharashtra"],
+    "answer": "Karnataka",
+    "desc": "The Bhadra Project on the Bhadra River provides irrigation and power."
+  },
+  {
+    "q": "What is the primary purpose of the Sharavati Project?",
+    "pool": ["Hydroelectricity", "Power and irrigation", "Irrigation only", "Flood control", "Navigation"],
+    "answer": "Hydroelectricity",
+    "desc": "The Sharavati Project on the Sharavati River generates hydroelectricity, benefiting Karnataka."
+  },
+  {
+    "q": "Which river is linked to the Hemavati Project?",
+    "pool": ["Hemavati", "Kaveri", "Godavari", "Tapti", "Yamuna"],
+    "answer": "Hemavati",
+    "desc": "The Hemavati Project on the Hemavati River supports irrigation in Karnataka."
+  },
+  {
+    "q": "What is the purpose of the Bhima Project?",
+    "pool": ["Irrigation", "Power and irrigation", "Hydroelectricity", "Flood control", "Navigation"],
+    "answer": "Irrigation",
+    "desc": "The Bhima Project on the Bhima River is for irrigation, benefiting Maharashtra and Karnataka."
+  },
+  {
+    "q": "Which states benefit from the Wardha Project?",
+    "pool": ["Maharashtra and Madhya Pradesh", "Gujarat and Rajasthan", "Punjab and Haryana", "Odisha and West Bengal", "Uttar Pradesh and Bihar"],
+    "answer": "Maharashtra and Madhya Pradesh",
+    "desc": "The Wardha Project on the Wardha River provides irrigation and power."
+  },
+  {
+    "q": "What is the purpose of the Purna Project?",
+    "pool": ["Irrigation", "Power and irrigation", "Hydroelectricity", "Flood control", "Navigation"],
+    "answer": "Irrigation",
+    "desc": "The Purna Project on the Purna River is for irrigation, benefiting Maharashtra."
+  },
+  {
+    "q": "Which river is associated with the Girna Project?",
+    "pool": ["Girna", "Godavari", "Krishna", "Mahanadi", "Tapti"],
+    "answer": "Girna",
+    "desc": "The Girna Project on the Girna River supports irrigation in Maharashtra."
+  },
+  {
+    "q": "What is the purpose of the Tunga Project?",
+    "pool": ["Irrigation", "Power and irrigation", "Hydroelectricity", "Flood control", "Navigation"],
+    "answer": "Irrigation",
+    "desc": "The Tunga Project on the Tunga River is for irrigation, benefiting Karnataka."
+  },
+  {
+    "q": "Which state benefits from the Bhavani Project?",
+    "pool": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh", "Maharashtra"],
+    "answer": "Tamil Nadu",
+    "desc": "The Bhavani Project on the Bhavani River provides irrigation and hydroelectricity."
+  },
+  {
+    "q": "What is the primary purpose of the Amaravati Project?",
+    "pool": ["Irrigation", "Power and irrigation", "Hydroelectricity", "Flood control", "Navigation"],
+    "answer": "Irrigation",
+    "desc": "The Amaravati Project on the Amaravati River is for irrigation, benefiting Tamil Nadu."
+  },
+  {
+    "q": "Which river is linked to the Vaigai Project?",
+    "pool": ["Vaigai", "Kaveri", "Godavari", "Tapti", "Yamuna"],
+    "answer": "Vaigai",
+    "desc": "The Vaigai Project on the Vaigai River supports irrigation in Tamil Nadu."
+  },
+  {
+    "q": "What is the purpose of the Palar Project?",
+    "pool": ["Irrigation", "Power and irrigation", "Hydroelectricity", "Flood control", "Navigation"],
+    "answer": "Irrigation",
+    "desc": "The Palar Project on the Palar River is for irrigation, benefiting Tamil Nadu."
+  },
+  {
+    "q": "Which state benefits from the Thenpennai Project?",
+    "pool": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh", "Maharashtra"],
+    "answer": "Tamil Nadu",
+    "desc": "The Thenpennai Project on the Thenpennai River provides irrigation."
+  }
+]

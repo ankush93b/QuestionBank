@@ -1,0 +1,626 @@
+[
+  {
+    "q": "Kaziranga National Park is located in which state?",
+    "pool": ["Arunachal Pradesh", "Assam", "Bihar", "Chhattisgarh", "Gujarat"],
+    "answer": "Assam",
+    "desc": "Kaziranga National Park is located in Assam."
+  },
+  {
+    "q": "Which animal is Kaziranga National Park especially known for?",
+    "pool": ["Tiger", "Leopard", "One-horned rhinoceros", "Lion", "Wolf"],
+    "answer": "One-horned rhinoceros",
+    "desc": "Kaziranga is famous for the one-horned rhinoceros."
+  },
+  {
+    "q": "Sonai Rupai Wildlife Sanctuary is in which state?",
+    "pool": ["Assam", "Bihar", "Arunachal Pradesh", "Gujarat", "Jharkhand"],
+    "answer": "Assam",
+    "desc": "Sonai Rupai Wildlife Sanctuary is located in Assam."
+  },
+  {
+    "q": "Namdapha National Park is located in which state?",
+    "pool": ["Assam", "Arunachal Pradesh", "Nagaland", "Mizoram", "Tripura"],
+    "answer": "Arunachal Pradesh",
+    "desc": "Namdapha National Park is in Arunachal Pradesh."
+  },
+  {
+    "q": "Which of the following is found in Namdapha National Park?",
+    "pool": ["Lion", "Camel", "King cobra", "Wild ass", "Black buck"],
+    "answer": "King cobra",
+    "desc": "Namdapha is home to the king cobra, along with elephants and tigers."
+  },
+  {
+    "q": "Gautam Buddha Sanctuary is located in which state?",
+    "pool": ["Madhya Pradesh", "Jharkhand", "Bihar", "Odisha", "Uttar Pradesh"],
+    "answer": "Bihar",
+    "desc": "Gautam Buddha Sanctuary is located in Bihar."
+  },
+  {
+    "q": "Which animal is not found in Gautam Buddha Sanctuary?",
+    "pool": ["Tiger", "Leopard", "Sambhar", "Black buck", "Barking deer"],
+    "answer": "Black buck",
+    "desc": "Gautam Buddha Sanctuary houses barking deer, not black buck."
+  },
+  {
+    "q": "Achanakmar Sanctuary is located in which Indian state?",
+    "pool": ["Jharkhand", "Chhattisgarh", "Odisha", "Madhya Pradesh", "Gujarat"],
+    "answer": "Chhattisgarh",
+    "desc": "Achanakmar Sanctuary is located in Chhattisgarh."
+  },
+  {
+    "q": "Velvadore National Park is famous for which animals?",
+    "pool": ["Tiger and lion", "Wolf and black buck", "Elephant and rhino", "Panther and cheetal", "Boar and leopard"],
+    "answer": "Wolf and black buck",
+    "desc": "Velvadore National Park is a reserve for wolf and black buck."
+  },
+  {
+    "q": "Where is the Wild Ass Sanctuary located?",
+    "pool": ["Rajasthan", "Gujarat", "Madhya Pradesh", "Haryana", "Karnataka"],
+    "answer": "Gujarat",
+    "desc": "The Wild Ass Sanctuary is located in Gujarat."
+  },
+  {
+    "q": "Which of these animals is found in Wild Ass Sanctuary?",
+    "pool": ["Cheetah", "Crocodile", "Chinkara", "Panther", "Bison"],
+    "answer": "Chinkara",
+    "desc": "Wild Ass Sanctuary houses chinkara among other species."
+  },
+  {
+    "q": "Gir Forest is famous for which wild animal?",
+    "pool": ["Tiger", "Leopard", "Asiatic lion", "Elephant", "Panther"],
+    "answer": "Asiatic lion",
+    "desc": "Gir Forest is India’s largest wildlife sanctuary famous for the Gir lions."
+  },
+  {
+    "q": "Dachigam National Park is in which region?",
+    "pool": ["Ladakh", "Himachal Pradesh", "Jammu and Kashmir", "Sikkim", "Uttarakhand"],
+    "answer": "Jammu and Kashmir",
+    "desc": "Dachigam National Park is located in Jammu and Kashmir."
+  },
+  {
+    "q": "Which of the following is found in Dachigam National Park?",
+    "pool": ["Kashmiri stag", "Black panther", "One-horned rhino", "Lion-tailed macaque", "Asiatic lion"],
+    "answer": "Kashmiri stag",
+    "desc": "Dachigam National Park is home to the Kashmiri stag (Hangul)."
+  },
+  {
+    "q": "Where is Bannerghatta National Park located?",
+    "pool": ["Tamil Nadu", "Karnataka", "Andhra Pradesh", "Odisha", "Kerala"],
+    "answer": "Karnataka",
+    "desc": "Bannerghatta National Park is located in Karnataka."
+  },
+  {
+    "q": "Which of the following birds are found in Bannerghatta National Park?",
+    "pool": ["Peacock", "Grey partridge and green pigeon", "Indian roller", "Hornbill", "Eagle owl"],
+    "answer": "Grey partridge and green pigeon",
+    "desc": "Bannerghatta National Park is home to grey partridge and green pigeon."
+  },
+  {
+    "q": "Bhadra Sanctuary is located in which state?",
+    "pool": ["Karnataka", "Kerala", "Tamil Nadu", "Maharashtra", "Andhra Pradesh"],
+    "answer": "Karnataka",
+    "desc": "Bhadra Sanctuary is located in Karnataka."
+  },
+  {
+    "q": "Which of the following animals is NOT mentioned as found in Bhadra Sanctuary?",
+    "pool": ["Elephant", "Panther", "Sambhar", "Lion", "Wild boar"],
+    "answer": "Lion",
+    "desc": "Lions are not found in Bhadra Sanctuary."
+  },
+  {
+    "q": "Bandipur National Park and Dandeli Sanctuary are located in which states?",
+    "pool": [
+      "Karnataka and Kerala",
+      "Karnataka and Tamil Nadu",
+      "Tamil Nadu and Kerala",
+      "Maharashtra and Karnataka",
+      "Kerala and Andhra Pradesh"
+    ],
+    "answer": "Karnataka and Tamil Nadu",
+    "desc": "Bandipur National Park and Dandeli Sanctuary are located in Karnataka and Tamil Nadu."
+  },
+  {
+    "q": "Which combination of animals is common in Bandipur and Dandeli Sanctuary?",
+    "pool": [
+      "Tiger and elephant",
+      "Leopard and lion",
+      "Camel and deer",
+      "Wolf and cheetal",
+      "Panther and giraffe"
+    ],
+    "answer": "Tiger and elephant",
+    "desc": "Elephant and tiger are both found in Bandipur and Dandeli Sanctuary."
+  },
+  {
+    "q": "Tungabhadra Sanctuary is located in which Indian state?",
+    "pool": ["Andhra Pradesh", "Karnataka", "Telangana", "Madhya Pradesh", "Maharashtra"],
+    "answer": "Karnataka",
+    "desc": "Tungabhadra Sanctuary is in Karnataka."
+  },
+  {
+    "q": "Which combination of animals is found in Tungabhadra Sanctuary?",
+    "pool": [
+      "Tiger, cheetal, sambhar, and lion",
+      "Panther, elephant, king cobra, and wolf",
+      "Tiger, panther, elephant, cheetal, sambhar, and wild boar",
+      "Elephant, leopard, black buck, and deer",
+      "Boar, deer, wolf, and peacock"
+    ],
+    "answer": "Tiger, panther, elephant, cheetal, sambhar, and wild boar",
+    "desc": "Tungabhadra Sanctuary hosts all these species."
+  },
+  {
+    "q": "Which park is famous for the Indian Muntjac (barking deer)?",
+    "pool": [
+      "Gir Forest",
+      "Namdapha National Park",
+      "Kaziranga National Park",
+      "Gautam Buddha Sanctuary",
+      "Bhadra Sanctuary"
+    ],
+    "answer": "Gautam Buddha Sanctuary",
+    "desc": "The barking deer (Indian Muntjac) is found in Gautam Buddha Sanctuary."
+  },
+  {
+    "q": "Where is the Wild Ass Sanctuary located?",
+    "pool": ["Assam", "Rajasthan", "Gujarat", "Karnataka", "Bihar"],
+    "answer": "Gujarat",
+    "desc": "Wild Ass Sanctuary is in Gujarat."
+  },
+  {
+    "q": "Gir Forest is located in which state?",
+    "pool": ["Maharashtra", "Rajasthan", "Gujarat", "Madhya Pradesh", "Karnataka"],
+    "answer": "Gujarat",
+    "desc": "Gir Forest is located in Gujarat."
+  },
+
+
+  {
+    "q": "Nagarhole National Park is located in which state?",
+    "pool": ["Karnataka", "Maharashtra", "Kerala", "Tamil Nadu", "Odisha"],
+    "answer": "Karnataka",
+    "desc": "Nagarhole National Park is located in Karnataka."
+  },
+  {
+    "q": "Which of the following animals is found in Nagarhole National Park?",
+    "pool": ["Tiger", "Elephant", "Four-horned antelope", "Wolf", "Asiatic lion"],
+    "answer": "Four-horned antelope",
+    "desc": "Nagarhole houses four-horned antelope along with panther and cheetal."
+  },
+  {
+    "q": "Pachmarhi Sanctuary is located in which state?",
+    "pool": ["Madhya Pradesh", "Uttarakhand", "Maharashtra", "Chhattisgarh", "Bihar"],
+    "answer": "Madhya Pradesh",
+    "desc": "Pachmarhi Sanctuary is in Madhya Pradesh."
+  },
+  {
+    "q": "Which primate is found in Pachmarhi Sanctuary?",
+    "pool": ["Langur", "Bonnet macaque", "Rhesus macaque", "Gorilla", "Baboon"],
+    "answer": "Rhesus macaque",
+    "desc": "Rhesus macaques are found in Pachmarhi Sanctuary."
+  },
+  {
+    "q": "Where is Gandhi Sagar Sanctuary located?",
+    "pool": ["Madhya Pradesh", "Gujarat", "Odisha", "Rajasthan", "Jharkhand"],
+    "answer": "Madhya Pradesh",
+    "desc": "Gandhi Sagar Sanctuary is in Madhya Pradesh."
+  },
+  {
+    "q": "Bandhavgarh National Park is located in which state?",
+    "pool": ["Madhya Pradesh", "Chhattisgarh", "Uttar Pradesh", "Maharashtra", "Karnataka"],
+    "answer": "Madhya Pradesh",
+    "desc": "Bandhavgarh National Park is in Madhya Pradesh."
+  },
+  {
+    "q": "Which bird species are found in Bandhavgarh National Park?",
+    "pool": ["Cranes", "Hornbills", "Eagles", "Wild birds", "Flamingos"],
+    "answer": "Wild birds",
+    "desc": "Bandhavgarh is home to wild birds along with cheetal and sambhar."
+  },
+  {
+    "q": "Simlipal Sanctuary is located in which state?",
+    "pool": ["Odisha", "West Bengal", "Andhra Pradesh", "Jharkhand", "Bihar"],
+    "answer": "Odisha",
+    "desc": "Simlipal Sanctuary is located in Odisha."
+  },
+  {
+    "q": "Which animal is NOT listed as part of Simlipal Sanctuary?",
+    "pool": ["Panther", "Cheetah", "Tiger", "Nilgai", "Wild boar"],
+    "answer": "Cheetah",
+    "desc": "Cheetah is not listed among the fauna of Simlipal Sanctuary."
+  },
+  {
+    "q": "Which sanctuary is known for water birds?",
+    "pool": ["Ghana Bird Sanctuary", "Vedanthangal Bird Sanctuary", "Dudhwa National Park", "Jaldapara Sanctuary", "Corbett National Park"],
+    "answer": "Ghana Bird Sanctuary",
+    "desc": "Ghana Bird Sanctuary in Rajasthan is famous for water birds."
+  },
+  {
+    "q": "Where is Ghana Bird Sanctuary located?",
+    "pool": ["Madhya Pradesh", "Uttarakhand", "Rajasthan", "Uttar Pradesh", "Gujarat"],
+    "answer": "Rajasthan",
+    "desc": "Ghana Bird Sanctuary is located in Rajasthan."
+  },
+  {
+    "q": "Khangchendzonga National Park is in which Indian state?",
+    "pool": ["Sikkim", "Assam", "Meghalaya", "Himachal Pradesh", "Jammu and Kashmir"],
+    "answer": "Sikkim",
+    "desc": "Khangchendzonga National Park is located in Sikkim."
+  },
+  {
+    "q": "Which rare animal is found in Khangchendzonga National Park?",
+    "pool": ["Barking deer", "Snow leopard", "Tiger", "Panther", "Indian wolf"],
+    "answer": "Snow leopard",
+    "desc": "Snow leopard is found in Khangchendzonga National Park."
+  },
+  {
+    "q": "Vedanthangal Bird Sanctuary is in which state?",
+    "pool": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh", "Telangana"],
+    "answer": "Tamil Nadu",
+    "desc": "Vedanthangal Bird Sanctuary is located in Tamil Nadu."
+  },
+  {
+    "q": "What is Vedanthangal Bird Sanctuary famous for?",
+    "pool": ["Elephants", "Tigers", "Birds", "Reptiles", "Dolphins"],
+    "answer": "Birds",
+    "desc": "Vedanthangal Bird Sanctuary is an important bird sanctuary."
+  },
+  {
+    "q": "Chandraprabha Sanctuary is located in which state?",
+    "pool": ["Uttar Pradesh", "Madhya Pradesh", "Gujarat", "Odisha", "Jharkhand"],
+    "answer": "Uttar Pradesh",
+    "desc": "Chandraprabha Sanctuary is located in Uttar Pradesh."
+  },
+  {
+    "q": "Which lions were once introduced in Chandraprabha Sanctuary?",
+    "pool": ["Asiatic lions", "African lions", "White lions", "Mountain lions", "Puma"],
+    "answer": "Gir lions",
+    "desc": "Gir lions were once introduced in Chandraprabha Sanctuary."
+  },
+  {
+    "q": "Which sanctuary is located near the India-Nepal border in Uttar Pradesh?",
+    "pool": ["Dudhwa National Park", "Simlipal Sanctuary", "Chandraprabha Sanctuary", "Vedanthangal", "Corbett"],
+    "answer": "Dudhwa National Park",
+    "desc": "Dudhwa National Park is located in Uttar Pradesh near the India-Nepal border."
+  },
+  {
+    "q": "Corbett National Park is located in which state?",
+    "pool": ["Uttarakhand", "Uttar Pradesh", "Madhya Pradesh", "Himachal Pradesh", "Punjab"],
+    "answer": "Uttarakhand",
+    "desc": "Corbett National Park is in Uttarakhand."
+  },
+  {
+    "q": "Who is Corbett National Park named after?",
+    "pool": ["Jim Corbett", "Edward Corbett", "John Corbett", "James Corbett", "Charles Corbett"],
+    "answer": "Jim Corbett",
+    "desc": "Corbett National Park is named in memory of Jim Corbett."
+  },
+  {
+    "q": "Jaldapara Sanctuary is in which state?",
+    "pool": ["West Bengal", "Odisha", "Assam", "Meghalaya", "Sikkim"],
+    "answer": "West Bengal",
+    "desc": "Jaldapara Sanctuary is located in West Bengal."
+  },
+  {
+    "q": "Which of the following animals are found in Jaldapara Sanctuary?",
+    "pool": ["Tiger and lion", "Elephant and panther", "Rhinoceros and elephant", "Wild ass and nilgai", "Snow leopard and yak"],
+    "answer": "Rhinoceros and elephant",
+    "desc": "Jaldapara Sanctuary is known for rhinoceros and elephants."
+  },
+  {
+    "q": "Sunderban Tiger Reserve is located in which Indian state?",
+    "pool": ["Assam", "Odisha", "West Bengal", "Bihar", "Jharkhand"],
+    "answer": "West Bengal",
+    "desc": "Sunderban Tiger Reserve is located in West Bengal."
+  },
+  {
+    "q": "Which aquatic mammal is found in Sunderban Tiger Reserve?",
+    "pool": ["Blue whale", "Dolphin", "Otter", "Seal", "Manatee"],
+    "answer": "Gangetic dolphin",
+    "desc": "Sunderban Tiger Reserve is home to the Gangetic dolphin."
+  },
+  {
+    "q": "Which of the following sanctuaries is dedicated mainly to birds?",
+    "pool": ["Simlipal Sanctuary", "Bandhavgarh National Park", "Ghana Bird Sanctuary", "Corbett National Park", "Gandhi Sagar Sanctuary"],
+    "answer": "Ghana Bird Sanctuary",
+    "desc": "Ghana Bird Sanctuary is a dedicated bird sanctuary."
+  },
+
+
+  {
+    "q": "Which biosphere reserve is located in both Madhya Pradesh and Chhattisgarh?",
+    "pool": ["Pachmarhi", "Panna", "Achanakamar-Amarkantak", "Nanda Devi", "Nilgiri"],
+    "answer": "Achanakamar-Amarkantak",
+    "desc": "Achanakamar-Amarkantak (UNESCO) lies in Madhya Pradesh and Chhattisgarh."
+  },
+  {
+    "q": "Which biosphere reserve is located in the Andaman and Nicobar Islands?",
+    "pool": ["Great Nicobar", "Gulf of Mannar", "Dibru-Saikhowa", "Dihang-Dibang", "Cold Desert"],
+    "answer": "Great Nicobar",
+    "desc": "Great Nicobar is a UNESCO Biosphere Reserve in the Andaman and Nicobar Islands."
+  },
+  {
+    "q": "What is the type of Cold Desert Biosphere Reserve?",
+    "pool": ["Semi-Arid", "Western Himalayas", "Desert", "East Himalayas", "Coasts"],
+    "answer": "Western Himalayas",
+    "desc": "Cold Desert Biosphere Reserve in Himachal Pradesh is classified under Western Himalayas."
+  },
+  {
+    "q": "Which Biosphere Reserve in Uttarakhand is classified under the Western Himalayas?",
+    "pool": ["Dihang-Dibang", "Manas", "Nanda Devi", "Khangchendzonga", "Panna"],
+    "answer": "Nanda Devi",
+    "desc": "Nanda Devi (UNESCO) in Uttarakhand is in the Western Himalayas."
+  },
+  {
+    "q": "Which biosphere reserve covers the largest area?",
+    "pool": ["Cold Desert", "Gulf of Mannar", "Great Rann of Kachchh", "Seshachalam Hills", "Sundarbans"],
+    "answer": "Great Rann of Kachchh",
+    "desc": "The Great Rann of Kachchh covers an area of 12,454 km² — the largest in the list."
+  },
+  {
+    "q": "What is the area of Nilgiri Biosphere Reserve?",
+    "pool": ["5220", "5860", "7555", "12454", "9630"],
+    "answer": "5520",
+    "desc": "Nilgiri (UNESCO) Biosphere Reserve spans 5520 km² across TN, Kerala & Karnataka."
+  },
+  {
+    "q": "In which type is the Agasthyamalai Biosphere Reserve categorized?",
+    "pool": ["Eastern Ghats", "Western Ghats", "Semi-Arid", "Coasts", "Desert"],
+    "answer": "Western Ghats",
+    "desc": "Agasthyamalai Biosphere Reserve lies in the Western Ghats."
+  },
+  {
+    "q": "Which biosphere reserve is located in Andhra Pradesh?",
+    "pool": ["Manas", "Panna", "Seshachalam Hills", "Nilgiri", "Pachmarhi"],
+    "answer": "Seshachalam Hills",
+    "desc": "Seshachalam Hills Biosphere Reserve is in Andhra Pradesh."
+  },
+  {
+    "q": "Which biosphere reserve in West Bengal is part of the Gangetic Delta?",
+    "pool": ["Sundarbans", "Panna", "Manas", "Simlipal", "Gulf of Mannar"],
+    "answer": "Sundarbans",
+    "desc": "Sundarbans (UNESCO) is part of the Gangetic Delta in West Bengal."
+  },
+  {
+    "q": "Which biosphere reserve is shared by Kerala, Tamil Nadu, and Karnataka?",
+    "pool": ["Nilgiri", "Gulf of Mannar", "Agasthyamalai", "Pachmarhi", "Khangchendzonga"],
+    "answer": "Nilgiri",
+    "desc": "Nilgiri Biosphere Reserve spans across Tamil Nadu, Kerala, and Karnataka."
+  },
+  {
+    "q": "The Gulf of Mannar Biosphere Reserve is located in which state?",
+    "pool": ["Kerala", "Odisha", "Tamil Nadu", "West Bengal", "Karnataka"],
+    "answer": "Tamil Nadu",
+    "desc": "The Gulf of Mannar Biosphere Reserve is located in Tamil Nadu."
+  },
+  {
+    "q": "Which biosphere reserve is located in Sikkim?",
+    "pool": ["Khangchendzonga", "Dihang-Dibang", "Manas", "Panna", "Nokrek"],
+    "answer": "Khangchendzonga",
+    "desc": "Khangchendzonga (UNESCO) is a Biosphere Reserve in Sikkim."
+  },
+  {
+    "q": "Which biosphere reserve in Odisha is part of the Deccan Peninsula?",
+    "pool": ["Dihang-Dibang", "Sundarbans", "Simlipal", "Manas", "Nilgiri"],
+    "answer": "Simlipal",
+    "desc": "Simlipal (UNESCO) in Odisha falls under the Deccan Peninsula type."
+  },
+  {
+    "q": "Which reserve is found in the Maikala Range?",
+    "pool": ["Agasthyamalai", "Achanakamar-Amarkantak", "Pachmarhi", "Panna", "Cold Desert"],
+    "answer": "Achanakamar-Amarkantak",
+    "desc": "Achanakamar-Amarkantak is part of the Maikala Range."
+  },
+  {
+    "q": "Which state contains the Nokrek Biosphere Reserve?",
+    "pool": ["Arunachal Pradesh", "Meghalaya", "Nagaland", "Sikkim", "Assam"],
+    "answer": "Meghalaya",
+    "desc": "Nokrek (UNESCO) is located in Meghalaya."
+  },
+  {
+    "q": "Which biosphere reserve lies in the Desert region?",
+    "pool": ["Sundarbans", "Gulf of Mannar", "Great Rann of Kachchh", "Nilgiri", "Manas"],
+    "answer": "Great Rann of Kachchh",
+    "desc": "Great Rann of Kachchh in Gujarat is classified as Desert type."
+  },
+  {
+    "q": "Which is the only biosphere reserve with an area under 1000 km²?",
+    "pool": ["Nokrek", "Manas", "Panna", "Nilgiri", "Pachmarhi"],
+    "answer": "Nokrek",
+    "desc": "Nokrek Biosphere Reserve in Meghalaya is the smallest listed, at 820 km²."
+  },
+  {
+    "q": "Which of the following biosphere reserves is NOT under UNESCO?",
+    "pool": ["Seshachalam Hills", "Nokrek", "Nilgiri", "Pachmarhi", "Sundarbans"],
+    "answer": "Seshachalam Hills",
+    "desc": "Seshachalam Hills is not marked as a UNESCO biosphere reserve in the table."
+  },
+  {
+    "q": "Which biosphere reserve is in Assam and part of the East Himalayas?",
+    "pool": ["Dibru-Saikhowa", "Manas", "Nokrek", "Dihang-Dibang", "Agasthyamalai"],
+    "answer": "Manas",
+    "desc": "Manas Biosphere Reserve in Assam lies in the East Himalayas."
+  },
+  {
+    "q": "Which biosphere reserve covers 10500 km² and lies on the coast?",
+    "pool": ["Great Nicobar", "Gulf of Mannar", "Sundarbans", "Nanda Devi", "Nilgiri"],
+    "answer": "Gulf of Mannar",
+    "desc": "Gulf of Mannar (UNESCO) is a coastal reserve spanning 10,500 km²."
+  },
+  {
+    "q": "Which biosphere reserve has an area closest to 3000 km²?",
+    "pool": ["Panna", "Nokrek", "Pachmarhi", "Manas", "Cold Desert"],
+    "answer": "Panna",
+    "desc": "Panna (UNESCO) in Madhya Pradesh covers 2998 km²."
+  },
+  {
+    "q": "Which reserve in Arunachal Pradesh is part of the East Himalayas?",
+    "pool": ["Dihang-Dibang", "Nokrek", "Khangchendzonga", "Cold Desert", "Agasthyamalai"],
+    "answer": "Dihang-Dibang",
+    "desc": "Dihang-Dibang in Arunachal Pradesh is part of the East Himalayas."
+  },
+  {
+    "q": "Which biosphere reserve spans Kerala and Tamil Nadu?",
+    "pool": ["Agasthyamalai", "Nilgiri", "Gulf of Mannar", "Pachmarhi", "Manas"],
+    "answer": "Agasthyamalai",
+    "desc": "Agasthyamalai (UNESCO) spans Kerala and Tamil Nadu."
+  },
+  {
+    "q": "Which reserve in Madhya Pradesh is classified as semi-arid?",
+    "pool": ["Achanakamar-Amarkantak", "Panna", "Pachmarhi", "Simlipal", "Gulf of Mannar"],
+    "answer": "Pachmarhi",
+    "desc": "Pachmarhi (UNESCO) in Madhya Pradesh lies in the semi-arid zone."
+  },
+
+
+  {
+    "q": "Which was the first wildlife conservation project started in India?",
+    "pool": ["Project Tiger", "Project Gir", "Project Hangul", "Project Rhino", "Project Elephant"],
+    "answer": "Project Hangul",
+    "desc": "Project Hangul was launched in 1970 to protect the Hangul or Kashmir Stag."
+  },
+  {
+    "q": "In which year was Project Tiger launched?",
+    "pool": ["1970", "1973", "1980", "1972", "1985"],
+    "answer": "1973",
+    "desc": "Project Tiger was initiated in 1973 to ensure the survival of the tiger population in India."
+  },
+  {
+    "q": "Which project was launched in 1972?",
+    "pool": ["Project Hangul", "Project Gir", "Project Tiger", "Project Dolphin", "Project Rhino"],
+    "answer": "Project Gir",
+    "desc": "Project Gir was launched in 1972 to conserve the Asiatic Lion in the Gir Forest."
+  },
+  {
+    "q": "Which turtle species was targeted by a 1975 conservation project?",
+    "pool": ["Olive Ridley Turtle", "Hawksbill Turtle", "River Terrapin", "Green Turtle", "Leatherback Turtle"],
+    "answer": "Olive Ridley Turtle",
+    "desc": "Project Olive Ridley Turtles was started in 1975 to protect this vulnerable marine species."
+  },
+  {
+    "q": "Which project was launched to conserve the Manipur Thamin?",
+    "pool": ["Project Elephant", "Project Red Panda", "Project Manipur Thamin", "Project Hangul", "Project Rhino"],
+    "answer": "Project Manipur Thamin",
+    "desc": "Launched in 1977, this project aimed to protect the brow-antlered deer native to Manipur."
+  },
+  {
+    "q": "Which year saw the beginning of the Crocodile Breeding Scheme?",
+    "pool": ["1970", "1975", "1980", "1985", "1990"],
+    "answer": "1975",
+    "desc": "The Crocodile Breeding Scheme was initiated in 1975 to protect declining crocodile populations."
+  },
+  {
+    "q": "Which animal is the focus of the 1987 Project Rhino?",
+    "pool": ["Asian Elephant", "Snow Leopard", "One-Horned Rhinoceros", "Red Panda", "Tiger"],
+    "answer": "One-Horned Rhinoceros",
+    "desc": "Project Rhino, started in 1987, aims to conserve the endangered one-horned rhinoceros."
+  },
+  {
+    "q": "What is the main objective of Project Elephant launched in 1992?",
+    "pool": ["Breeding tigers", "Preserving elephant corridors", "Protecting dolphin habitats", "Saving red pandas", "Breeding rhinos"],
+    "answer": "Preserving elephant corridors",
+    "desc": "Project Elephant was launched in 1992 to conserve elephants and their habitats."
+  },
+  {
+    "q": "In which year was Project Red Panda launched?",
+    "pool": ["1992", "1996", "2000", "2006", "2010"],
+    "answer": "1996",
+    "desc": "Project Red Panda began in 1996 to protect this endangered mammal found in Eastern Himalayas."
+  },
+  {
+    "q": "Which project was launched to conserve sea turtles?",
+    "pool": ["Project Sea Turtle", "Project Dolphin", "Project Olive Ridley Turtles", "Project Snow Leopard", "Project Vulture"],
+    "answer": "Project Sea Turtle",
+    "desc": "Project Sea Turtle was launched in 1999 to conserve different species of sea turtles."
+  },
+  {
+    "q": "Project Vulture was initiated in which year?",
+    "pool": ["2000", "2003", "2006", "2009", "2012"],
+    "answer": "2006",
+    "desc": "Project Vulture was launched in 2006 to conserve critically endangered vulture species in India."
+  },
+  {
+    "q": "Which conservation project began in 2009?",
+    "pool": ["Project Dolphin", "Project Red Panda", "Project Snow Leopard", "Project Rhino", "Project Sea Turtle"],
+    "answer": "Project Snow Leopard",
+    "desc": "Project Snow Leopard was started in 2009 to protect snow leopards in the high Himalayas."
+  },
+  {
+    "q": "Which two animal projects were started in 2020?",
+    "pool": ["Dolphin and Asiatic Lion", "Tiger and Rhino", "Hangul and Gir", "Snow Leopard and Vulture", "Red Panda and Elephant"],
+    "answer": "Dolphin and Asiatic Lion",
+    "desc": "Project Dolphin and Project Asiatic Lion were both initiated in 2020."
+  },
+  {
+    "q": "Which of these birds is endangered in India?",
+    "pool": ["Peacock", "Great Indian Bustard", "Kingfisher", "Indian Roller", "Bulbul"],
+    "answer": "Great Indian Bustard",
+    "desc": "The Great Indian Bustard is critically endangered and is a priority for conservation efforts."
+  },
+  {
+    "q": "Which of these mammals is endangered in India?",
+    "pool": ["Tiger", "Flying Squirrel", "Jackal", "Sloth Bear", "Chital"],
+    "answer": "Flying Squirrel",
+    "desc": "Flying Squirrel is listed as an endangered mammal in India."
+  },
+  {
+    "q": "Which endangered reptile is known for living in rivers?",
+    "pool": ["Gharial", "Monitor Lizard", "Green Turtle", "Cobra", "Python"],
+    "answer": "Gharial",
+    "desc": "The Gharial is a river-dwelling crocodilian species that is critically endangered in India."
+  },
+  {
+    "q": "Which species is an endangered amphibian in India?",
+    "pool": ["Tiger Toad", "Tree Frog", "Newt", "Common Toad", "Indian Bullfrog"],
+    "answer": "Tiger Toad",
+    "desc": "The Tiger Toad is an endangered amphibian found in India."
+  },
+  {
+    "q": "Which bird listed as endangered has a name related to forests?",
+    "pool": ["Forest Owlet", "Kingfisher", "Treepie", "Jungle Babbler", "Bulbul"],
+    "answer": "Forest Owlet",
+    "desc": "The Forest Owlet is a critically endangered bird species found in India."
+  },
+  {
+    "q": "Which mammal from the endangered list is known for its horn?",
+    "pool": ["Asiatic Lion", "Red Panda", "One-Horned Rhinoceros", "Flying Squirrel", "Pygmy Hog"],
+    "answer": "One-Horned Rhinoceros",
+    "desc": "The One-Horned Rhinoceros is critically endangered and found in the grasslands of Assam."
+  },
+  {
+    "q": "Which is a critically endangered sea turtle in India?",
+    "pool": ["Hawksbill Turtle", "Olive Ridley Turtle", "Loggerhead Turtle", "Green Turtle", "Leatherback Turtle"],
+    "answer": "Hawksbill Turtle",
+    "desc": "Hawksbill Turtles are critically endangered due to habitat loss and poaching."
+  },
+  {
+    "q": "Which endangered mammal is native to the eastern Himalayas?",
+    "pool": ["Red Panda", "Lion-tailed Macaque", "Sloth Bear", "Nilgiri Tahr", "Chinkara"],
+    "answer": "Red Panda",
+    "desc": "Red Panda is found in the Eastern Himalayas and is endangered due to habitat loss."
+  },
+  {
+    "q": "Which species from the endangered list is a bird found in high altitudes?",
+    "pool": ["Siberian Crane", "Himalayan Quail", "Forest Owlet", "Vulture", "Bulbul"],
+    "answer": "Himalayan Quail",
+    "desc": "Himalayan Quail is a rare and possibly extinct bird, once found in Uttarakhand."
+  },
+  {
+    "q": "Which amphibian on the list is capable of gliding or leaping?",
+    "pool": ["Flying Frog", "Tree Frog", "Bullfrog", "Toad", "Newt"],
+    "answer": "Flying Frog",
+    "desc": "Flying Frogs can leap long distances and are considered endangered."
+  },
+  {
+    "q": "Which endangered mammal is found in the Gir Forest?",
+    "pool": ["Asiatic Lion", "Red Panda", "Elephant", "Pygmy Hog", "Snow Leopard"],
+    "answer": "Asiatic Lion",
+    "desc": "The Asiatic Lion is only found in the Gir Forest of Gujarat and is critically endangered."
+  },
+  {
+    "q": "Which endangered reptile has 'gecko' in its name?",
+    "pool": ["Sispara Day Gecko", "Monitor Lizard", "Chameleon", "Common Lizard", "Wall Lizard"],
+    "answer": "Sispara Day Gecko",
+    "desc": "Sispara Day Gecko is an endangered lizard species found in the Western Ghats."
+  }
+]

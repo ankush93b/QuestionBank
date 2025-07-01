@@ -1,0 +1,912 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-922KV2R360"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-922KV2R360');
+    </script>
+
+    <meta charset="UTF-8">
+    <title>Geography - Indian Geography</title>
+    <link rel="icon" href="../images/favicon_geo.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://www.gstatic.com/firebasejs/10.11.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.11.1/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.11.1/firebase-firestore-compat.js"></script>
+    <style>
+        html, body {
+            height: 100%;
+            box-sizing: border-box;
+            overscroll-behavior-y: none;
+            overscroll-behavior: contain;
+            touch-action: pan-x pan-y;
+        }
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(120deg, #e8e4cf 0%, #b9e6e6 100%);
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 700px;
+            min-width: 320px;
+            background: #fffbe6;
+            margin: 40px auto;
+            border-radius: 18px;
+            box-shadow: 0 8px 36px rgba(52,81,55,0.14);
+            padding: 36px 24px 24px 24px;
+            position: relative;
+            border: 2px solid #7eb77f;
+        }
+        
+        .save-msg {
+            text-align: center;
+            font-size: 1.05em;
+            margin: 50px auto 2px auto;
+            padding: 10px 18px;
+            border-radius: 6px;
+            color: #568c4d;
+            background: #d6f3dd;
+            border: 1px solid #7eb77f;
+            max-width: 380px;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            display: none;
+            position: relative;
+            z-index: 2;
+        }
+        .save-msg.error {
+            color: #e63946;
+            background: #ffd6d6;
+            border-color: #f8baba;
+        }
+        .timer-wrapper {
+            position: absolute;
+            right: 24px;
+            top: 20px;
+            z-index: 2;
+            display: flex;
+            align-items: center;
+        }
+        .timer-label {
+            margin-right: 10px;
+            font-size: 1.05em;
+            color: #568c4d;
+            font-weight: 600;
+            letter-spacing: 1px;
+        }
+        .timer {
+            font-size: 1.1em;
+            font-weight: bold;
+            color: #568c4d;
+            background: #d6f3dd;
+            padding: 7px 13px;
+            border-radius: 25px;
+            text-align: center;
+            width: 90px;
+            letter-spacing: 2px;
+            box-shadow: 0 1px 4px rgba(100,100,150,0.07);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .timer-icon {
+            font-size: 1.35em;
+            margin-right: 7px;
+            color: #568c4d;
+            display: flex;
+            align-items: center;
+        }
+        .question {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-top: 55px;
+            margin-bottom: 18px;
+            display: block;
+            word-break: break-word;
+        }
+        .options {
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+            margin-bottom: 28px;
+        }
+        .option-btn {
+            background: #d6f3dd;
+            border: none;
+            border-radius: 25px;
+            padding-left: 20px;
+            padding-top: 13px;
+            padding-bottom: 13px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: background 0.2s;
+            text-align: left;
+            outline: none;
+            color: #384e32;
+            font-weight: 500;
+        }
+        .option-btn:hover, .option-btn:focus {
+            background: #b9e6e6;
+        }
+        .submit-btn {
+            display: block;
+            width: 35%;
+            min-width: 140px;
+            margin: 10px auto 0 auto;
+            padding: 15px 0;
+            background: linear-gradient(90deg, #7eb77f 60%, #568c4d 100%);
+            color: #fff;
+            font-size: 1.1em;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.2s, box-shadow 0.2s;
+        }
+        .submit-btn:hover {
+            background: #568c4d;
+            box-shadow: 0 4px 16px rgba(86,140,77,0.17);
+        }
+        .summary {
+            font-size: 1.13em;
+            margin-top: 30px;
+            position: relative;
+        }
+        .summary-main-heading {
+            text-align: center;
+            font-size: 1.55em;
+            font-weight: bold;
+            margin-bottom: 5px;
+            letter-spacing: 0.9px;
+            color: #568c4d;
+        }
+        .summary-details {
+            margin: 10px 0 0 0;
+            padding: 0;
+            text-align: left;
+            line-height: 1.5;
+            font-size: 1.0em;
+        }
+        .summary-table {
+            border-collapse: separate;
+            border-spacing: 0 10px;
+            margin-left: 0;
+        }
+        .summary-table td {
+            padding: 0 12px 0 0;
+            vertical-align: baseline;
+        }
+        .label-cell {
+            text-align: right;
+            font-weight: bold;
+            min-width: 200px;
+            color: #444;
+            font-family: inherit;
+        }
+        .label-correct { color: #19b519 !important; }
+        .label-wrong { color: #e63946 !important; }
+        .value-total {
+            background: rgb(235, 233, 233) !important;
+            color: black !important;
+            font-weight: bold;
+            border-radius: 4px;
+            padding-left: 18px !important;
+            padding-right: 8px;
+        }
+        .value-correct-cell, .value-wrong-cell {
+            position: relative;
+            padding-right: 34px;
+        }
+        .value-correct, .value-wrong {
+            display: inline-block;
+            position: relative;
+            z-index: 1;
+        }
+        .value-correct-cell .info-btn, .value-wrong-cell .info-btn {
+            position: absolute;
+            right: 4px;
+            top: 50%;
+            transform: translateY(-50%);
+            margin-left: 0;
+            z-index: 2;
+        }
+        .value-correct {
+            background: #d4f9d0 !important;
+            color: #19b519 !important;
+            font-weight: bold;
+            border-radius: 4px;
+            padding-left: 18px !important;
+            padding-right: 8px;
+        }
+        .value-wrong {
+            background: #ffd6d6 !important;
+            color: #e63946 !important;
+            font-weight: bold;
+            border-radius: 4px;
+            padding-left: 18px !important;
+            padding-right: 8px;
+        }
+        .value-avg {
+            background: rgb(235, 233, 233) !important;
+            color: black !important;
+            font-weight: bold;
+            border-radius: 4px;
+            padding-left: 18px !important;
+            padding-right: 8px;
+        }
+        .summary-center-col {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+        }
+        .efficiency-right-box {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-left: 0;
+            min-width: 120px;
+            margin-top: 10px;
+            position: relative;
+        }
+        .efficiency-label {
+            font-size: 0.9em;
+            color: #333;
+            font-weight: bold;
+            margin-bottom: 4px;
+            margin-top: 8px;
+        }
+        .efficiency-circle {
+            position: relative;
+            display: inline-block;
+            width: 120px;
+            height: 120px;
+        }
+        .efficiency-bg { stroke: #e0e0e0; }
+        .efficiency-fg { stroke: #19b519; transition: stroke-dasharray 0.6s cubic-bezier(0.4, 0, 0.2, 1); }
+        .efficiency-text {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 120px;
+            height: 120px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.3em;
+            font-weight: bold;
+            color: #19b519;
+            user-select: none;
+        }
+        .fastest-response-block {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 28px;
+            width: 100%;
+        }
+        .fastest-response-label {
+            font-size: 0.9em;
+            color: #222;
+            font-weight: bold;
+            letter-spacing: 0.2px;
+            text-align: center;
+            margin-bottom: 2px;
+        }
+        .fastest-response-value {
+            font-size: 1.5em;
+            color: green;
+            font-weight: bold;
+            margin-top: 0;
+            text-align: center;
+            animation: blink 1s linear infinite;
+        }
+        @keyframes blink {
+            0%, 49% { opacity: 1; }
+            50%, 100% { opacity: 0; }
+        }
+        .button-row {
+            display: flex;
+            justify-content: center;
+            gap: 18px;
+            margin-top: 35px;
+        }
+        .action-btn {
+            padding: 12px 30px;
+            border: none;
+            border-radius: 25px;
+            font-size: 1.1em;
+            font-weight: bold;
+            cursor: pointer;
+            color: #fff;
+            transition: background 0.2s, transform 0.1s;
+            min-width: 120px;
+        }
+        .btn-cancel { background: #e63946; }
+        .btn-cancel:hover { background: #b71c1c; }
+        .btn-repractice { background: #19b519; }
+        .btn-repractice:hover { background: #127d13; }
+        .btn-home { background: #568c4d; }
+        .btn-home:hover { background: #384e32; }
+        hr.summary-hr {
+            border: none;
+            border-top: 4px solid #568c4d;
+            margin-top: 0px;
+            width: 60%;
+            margin-bottom: 10px;
+        }
+        .value-total, .value-correct, .value-wrong, .value-avg {
+            padding-left: 10px !important;
+            padding-right: 5px;
+        }
+        .info-btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            background: #568c4d;
+            color: #fff;
+            border: none;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            font-size: 0.9em;
+            font-weight: bold;
+            margin-left: 0;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        .info-btn:hover { background: #384e32; }
+        .modal-backdrop {
+            display: none;
+            position: fixed;
+            z-index: 9999;
+            left: 0;
+            top: 0;
+            width: 100vw;
+            height: 100vh;
+            background: rgba(0,0,0,0.4);
+            align-items: center;
+            justify-content: center;
+        }
+        .modal-backdrop.active { display: flex; }
+        .modal-content {
+            background: #fff;
+            border-radius: 10px;
+            padding: 24px 20px 20px 20px;
+            max-width: 95vw;
+            min-width: 330px;
+            max-height: 88vh;
+            overflow-y: auto;
+            box-shadow: 0 2px 20px rgba(0,0,0,0.18);
+            position: relative;
+        }
+        .modal-close {
+            position: absolute;
+            right: 12px;
+            top: 10px;
+            background: none;
+            border: none;
+            font-size: 1.2em;
+            color: #666;
+            cursor: pointer;
+        }
+        .modal-close:hover { color: #e63946; }
+        .modal-title {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #568c4d;
+            margin-bottom: 16px;
+            text-align: center;
+        }
+        .modal-list {
+            font-size: 1em;
+            margin: 0;
+            padding: 0;
+            list-style: decimal inside;
+        }
+        .modal-list li {
+            margin-bottom: 12px;
+            padding-bottom: 7px;
+            border-bottom: 1px solid #eaeaea;
+        }
+        .modal-question {
+            font-weight: bold;
+            color: #222;
+        }
+        .modal-options {
+            margin: 5px 0 0 0;
+            padding: 0;
+        }
+        .modal-options li {
+            list-style-type: lower-alpha;
+            margin-left: 18px;
+            margin-bottom: 3px;
+        }
+        .modal-ans {
+            font-weight: bold;
+            margin-left: 6px;
+            font-size: 0.98em;
+        }
+        .modal-ans.right { color: #19b519; }
+        .modal-ans.wrong { color: #e63946; }
+        @media (max-width: 768px) {
+            .container {
+                width: 85vw;
+                max-width: 440px;
+                min-width: unset;
+                border-radius: 14px;
+                box-shadow: 0 6px 22px rgba(52,81,55,0.09);
+                padding: 26px 6vw 24px 6vw;
+                margin-top: 28px;
+            }
+            .timer-wrapper {
+                top: 8px;
+                right: 8vw;
+            }
+            .question {
+                font-size: 1.03em;
+                margin-top: 36px;
+            }
+            .options {
+                gap: 9px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="saveMsg" class="save-msg"></div>
+        <span class="timer-wrapper" id="timerWrapper">
+            <span class="timer-label" id="timerLabel">Time Left:</span>
+            <span class="timer">
+                <span class="timer-icon" title="Stopwatch">&#x23F1;</span>
+                <span id="timer">05:00</span>
+            </span>
+        </span>
+        <div id="quizArea">
+            <div class="question" id="question"></div>
+            <div class="options" id="options"></div>
+            <button class="submit-btn" id="submitBtn">Submit</button>
+        </div>
+        <div class="summary" id="summary" style="display:none;"></div>
+        <div class="button-row" id="actionButtons" style="display:none;">
+            <button class="action-btn btn-cancel" id="cancelBtn">Cancel</button>
+            <button class="action-btn btn-repractice" id="repracticeBtn">Re-Practice</button>
+            <button class="action-btn btn-home" id="homeBtn">Home</button>
+        </div>
+        <div class="modal-backdrop" id="modalBackdrop">
+            <div class="modal-content">
+                <button class="modal-close" id="modalCloseBtn" title="Close">&times;</button>
+                <div class="modal-title" id="modalTitle"></div>
+                <ol class="modal-list" id="modalList"></ol>
+            </div>
+        </div>
+    </div>
+    <!-- JS remains unchanged from previous, except color and container tweaks for theme. -->
+    <script>
+        // Disable F5 and Ctrl+R
+    document.addEventListener("keydown", function (e) {
+      if ((e.key === "F5") || 
+          (e.ctrlKey && e.key === "r") || 
+          (e.metaKey && e.key === "r")) {
+        e.preventDefault();
+        
+      }
+    });
+        // Define these globally!
+        const subject = getQueryParam('subject');
+        const topic = getQueryParam('topic');
+        // Helper to get query param
+        function getQueryParam(param) {
+            const params = new URLSearchParams(window.location.search);
+            return params.get(param);
+        }
+        // On load: Check for missing subject/topic
+        if (!subject || !topic) {
+            document.body.innerHTML = `
+                <div class="container">
+                    <div class="save-msg error" style="display:block;">
+                        Error: Missing subject or topic in URL.<br>
+                        Please start the quiz from the main menu or topic selection page.<br>
+                        <a href="../index.html" style="color:#008080;">Go to Home</a>
+                    </div>
+                </div>
+            `;
+            throw new Error("Missing subject or topic in URL");
+        }
+        // Determine mode
+        const timedParam = getQueryParam('timed');
+        let isTimed = (timedParam !== "false");
+
+        // FIREBASE CODE
+        const firebaseConfig = {
+            apiKey: "AIzaSyBAS78y1CVF1lPppeyAojbw3k07mWW4lLk",
+            authDomain: "questionbank-f047f.firebaseapp.com",
+            projectId: "questionbank-f047f",
+        };
+        if (!firebase.apps.length)
+            firebase.initializeApp(firebaseConfig);
+        const auth = firebase.auth();
+        const db = firebase.firestore();
+
+        function showSaveMsg(msg, isError = false) {
+            const msgDiv = document.getElementById('saveMsg');
+            msgDiv.textContent = msg;
+            msgDiv.classList.toggle('error', isError);
+            msgDiv.style.display = 'block';
+        }
+
+        function saveTestResultV2({
+            subject, topic,
+            totalAttempted, correct, wrong,
+            avgResponseTime, fastestResponse,
+            date, time, efficiency
+        }) {
+            const user = auth.currentUser;
+            if (!user) {
+                showSaveMsg("Please sign in to save your result!", true);
+                return;
+            }
+            db.collection("users").doc(user.uid).collection("results").add({
+                subject,
+                topic,
+                totalAttempted,
+                correct,
+                wrong,
+                avgResponseTime,
+                fastestResponse,
+                efficiency,
+                date,
+                time,
+                timestamp: new Date()
+            }).then(() => {
+                showSaveMsg("Performance saved to your account!");
+            }).catch(e => {
+                showSaveMsg("Error saving: " + e.message, true);
+            });
+        }
+
+        // Pool of questions, each with 7 options and 1 correct answer (by value)
+        let questions = [];
+
+        fetch('data/indiangeography.json')
+        .then(response => response.json())
+        .then(data => {
+            questions = data;
+            startNewCycle();
+            loadQuestion();
+            updateTimerDisplay();
+            timerInterval = setInterval(tick, 1000);
+        })
+        .catch(err => {
+            document.getElementById('question').textContent = 'Failed to load questions.';
+        });
+
+        // TIMER LOGIC
+        let timer = 300; // 5 mins in seconds
+        let elapsed = 0; // elapsed time in seconds if untimed
+        let timerInterval = null;
+        let testEnded = false;
+        let totalAnswered = 0;
+        let correctCount = 0;
+        let answersLog = [];
+        let responseTimes = [];
+        let lastQuestionTime = null;
+        let questionOrder = [];
+        let questionPointer = 0;
+
+        function shuffleArray(arr) {
+            for (let i = arr.length - 1; i > 0; i--) {
+                let j = Math.floor(Math.random() * (i + 1));
+                [arr[i], arr[j]] = [arr[j], arr[i]];
+            }
+        }
+        function startNewCycle() {
+            questionOrder = Array.from({length: questions.length}, (_, i) => i);
+            shuffleArray(questionOrder);
+            questionPointer = 0;
+        }
+        function pad(num) { return num < 10 ? '0' + num : num; }
+
+        function updateTimerDisplay() {
+            if (isTimed) {
+                const min = Math.floor(timer / 60);
+                const sec = timer % 60;
+                document.getElementById('timer').textContent = `${pad(min)}:${pad(sec)}`;
+            } else {
+                const min = Math.floor(elapsed / 60);
+                const sec = elapsed % 60;
+                document.getElementById('timer').textContent = `${pad(min)}:${pad(sec)}`;
+            }
+        }
+
+        function tick() {
+            if (testEnded) return;
+            if (isTimed) {
+                if (timer > 0) {
+                    timer--;
+                    updateTimerDisplay();
+                } else {
+                    endTest();
+                }
+            } else {
+                elapsed++;
+                updateTimerDisplay();
+            }
+        }
+
+        function getRandomOptions(pool, correctValue) {
+            let copy = pool.slice();
+            if (!copy.includes(correctValue)) copy.push(correctValue);
+            for (let i = copy.length - 1; i > 0; i--) {
+                let j = Math.floor(Math.random() * (i + 1));
+                [copy[i], copy[j]] = [copy[j], copy[i]];
+            }
+            let options = copy.slice(0, 4);
+            if (!options.includes(correctValue)) {
+                const replaceIdx = Math.floor(Math.random() * 4);
+                options[replaceIdx] = correctValue;
+            }
+            for (let i = options.length - 1; i > 0; i--) {
+                let j = Math.floor(Math.random() * (i + 1));
+                [options[i], options[j]] = [options[j], options[i]];
+            }
+            return options;
+        }
+        function loadQuestion() {
+            if (testEnded) return;
+            if (questionOrder.length === 0 || questionPointer >= questionOrder.length) {
+                startNewCycle();
+            }
+            let idx = questionOrder[questionPointer];
+            const q = questions[idx];
+            document.getElementById('question').textContent = `Q${totalAnswered+1}. ${q.q}`;
+            const optionsDiv = document.getElementById('options');
+            optionsDiv.innerHTML = "";
+            const randomOptions = getRandomOptions(q.pool, q.answer);
+            optionsDiv.randomOptions = randomOptions;
+            randomOptions.forEach((opt) => {
+                const btn = document.createElement('button');
+                btn.className = "option-btn";
+                btn.textContent = opt;
+                btn.onclick = () => selectOption(idx, opt, randomOptions);
+                optionsDiv.appendChild(btn);
+            });
+            lastQuestionTime = Date.now();
+        }
+        function selectOption(qIdx, optValue, usedOptions) {
+            if (lastQuestionTime) {
+                let responseTime = Date.now() - lastQuestionTime;
+                responseTimes.push(responseTime);
+            }
+            totalAnswered++;
+            const q = questions[qIdx];
+            const correct = (optValue === q.answer);
+            if (correct) correctCount++;
+            answersLog.push({
+                question: q.q,
+                chosen: optValue,
+                correct: q.answer,
+                options: usedOptions.slice(),
+                isCorrect: correct
+            });
+            questionPointer++;
+            loadQuestion();
+        }
+        function msToSecString(ms) { return (ms / 1000).toFixed(2) + "s"; }
+        function fastestResponseString(times) {
+            if (!times.length) return "--";
+            return (Math.min(...times) / 1000).toFixed(2) + "s";
+        }
+        function getEfficiencySvg(percentage) {
+            const r = 48;
+            const c = 2 * Math.PI * r;
+            const pct = Math.max(0, Math.min(percentage, 100));
+            const offset = c * (1 - pct / 100);
+            return `
+                <div class="efficiency-circle">
+                    <svg width="120" height="120">
+                        <circle class="efficiency-bg" cx="60" cy="60" r="48" fill="none" stroke-width="10"/>
+                        <circle
+                            class="efficiency-fg"
+                            cx="60" cy="60" r="48"
+                            fill="none"
+                            stroke-width="10"
+                            stroke-linecap="round"
+                            stroke-dasharray="${c}"
+                            stroke-dashoffset="${offset}"
+                        />
+                    </svg>
+                    <span class="efficiency-text">${pct.toFixed(0)}%</span>
+                </div>
+            `;
+        }
+        function getCurrentDateTime() {
+            const now = new Date();
+            const date = now.toISOString().split('T')[0];
+            const time = now.toTimeString().split(' ')[0];
+            return { date, time };
+        }
+        function getFastestResponseNum(times) {
+            if (!times.length) return 0;
+            return Math.min(...times) / 1000;
+        }
+        function endTest() {
+            if (testEnded) return;
+            testEnded = true;
+            clearInterval(timerInterval);
+            let avg = responseTimes.length ? responseTimes.reduce((a, b) => a + b, 0) / responseTimes.length : 0;
+            let fastest = getFastestResponseNum(responseTimes);
+            let fastestDisplay = fastest === 0 ? "--" : fastest.toFixed(2) + "s";
+            let efficiency = (totalAnswered === 0) ? 0 : (correctCount / totalAnswered) * 100;
+            let efficiencySvg = getEfficiencySvg(efficiency);
+
+            document.getElementById('quizArea').style.display = 'none';
+            document.getElementById('summary').style.display = '';
+
+            document.getElementById('summary').innerHTML = `
+                <div class="summary-main-heading">Practice Summary</div>
+                <hr class="summary-hr">
+                <div class="summary-center-col">
+                    <div class="summary-details" style="width:max-content; min-width:260px;">
+                      <table class="summary-table">
+                        <tr>
+                            <td class="label-cell">Total questions answered:</td>
+                            <td class="value-total">${totalAnswered}</td>
+                        </tr>
+                        <tr>
+                            <td class="label-cell label-correct">Correct:</td>
+                            <td class="value-correct-cell">
+                              <span class="value-correct">${correctCount}</span>
+                              <button class="info-btn" title="Show Right Answers" onclick="showModal('right')"><span style="font-weight:bold;font-size:1em;">i</span></button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="label-cell label-wrong">Wrong:</td>
+                            <td class="value-wrong-cell">
+                              <span class="value-wrong">${totalAnswered - correctCount}</span>
+                              <button class="info-btn" title="Show Wrong Answers" onclick="showModal('wrong')"><span style="font-weight:bold;font-size:1em;">i</span></button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="label-cell">Avg. response time:</td>
+                            <td class="value-avg">${msToSecString(avg)}</td>
+                        </tr>
+                      </table>
+                    </div>
+                    <div class="efficiency-right-box" style="margin-top:36px;">
+                        <span class="efficiency-label">Efficiency</span>
+                        ${efficiencySvg}
+                    </div>
+                    <div class="fastest-response-block" style="margin-top:28px;">
+                        <span class="fastest-response-label">Fastest Response</span>
+                        <span class="fastest-response-value">${fastestDisplay}</span>
+                    </div>
+                </div>
+            `;
+
+            document.getElementById('actionButtons').style.display = 'flex';
+
+            function incrementAttemptCounters({ subject, topic }) {
+                const user = auth.currentUser;
+                if (!user) return;
+                const topicKey = `${subject}_${topic}`;
+                const topicRef = db.collection("users").doc(user.uid)
+                    .collection("attemptCounters").doc("topics");
+                topicRef.set({
+                    [topicKey]: firebase.firestore.FieldValue.increment(1)
+                }, { merge: true });
+                const subjectRef = db.collection("users").doc(user.uid)
+                    .collection("attemptCounters").doc("subjects");
+                subjectRef.set({
+                    [subject]: firebase.firestore.FieldValue.increment(1)
+                }, { merge: true });
+            }
+            // Use dynamic subject/topic here
+            incrementAttemptCounters({
+                subject,
+                topic
+            });
+            const { date, time } = getCurrentDateTime();
+            saveTestResultV2({
+                subject,
+                topic,
+                totalAttempted: totalAnswered,
+                correct: correctCount,
+                wrong: totalAnswered - correctCount,
+                avgResponseTime: Number((avg / 1000).toFixed(2)),
+                fastestResponse: Number(fastest.toFixed(2)),
+                efficiency: Number(efficiency.toFixed(2)),
+                date,
+                time
+            });
+        }
+        function showModal(type) {
+            const backdrop = document.getElementById('modalBackdrop');
+            const titleDiv = document.getElementById('modalTitle');
+            const listOl = document.getElementById('modalList');
+            let filtered = answersLog.filter(a => (type === "right" ? a.isCorrect : !a.isCorrect));
+            titleDiv.textContent = type === "right" ? "Correct Answers" : "Wrong Answers";
+            listOl.innerHTML = "";
+            if (filtered.length === 0) {
+                listOl.innerHTML = `<li>No ${type} answers.</li>`;
+            } else {
+                filtered.forEach((item, idx) => {
+                    let optionsHtml = "";
+                    (item.options || []).forEach((opt, i) => {
+                        let mark = "";
+                        if (opt === item.correct && opt === item.chosen) {
+                            mark = `<span class="modal-ans right">(Your Ans, Correct)</span>`;
+                        } else if (opt === item.chosen && opt !== item.correct) {
+                            mark = `<span class="modal-ans wrong">(Your Ans)</span>`;
+                        } else if (opt === item.correct) {
+                            mark = `<span class="modal-ans right">(Correct)</span>`;
+                        }
+                        optionsHtml += `<li>${opt} ${mark}</li>`;
+                    });
+
+                    // Find the question object to get desc
+                    let questionObj = questions.find(qobj => qobj.q === item.question);
+                    let descHtml = "";
+                    if (questionObj && questionObj.desc) {
+                        descHtml = `<div style="margin-top:7px; color: #444; background: #f8f8f8; border-left: 4px solid #568c4d; padding: 5px 10px 5px 14px; border-radius: 0 6px 6px 0;">
+                            <span style="font-size:0.97em;"><b>Explanation:</b> ${questionObj.desc}</span>
+                        </div>`;
+                    }
+
+                    listOl.innerHTML += `
+                        <li>
+                            <span class="modal-question">Q${idx+1}. ${item.question}</span>
+                            <ul class="modal-options">${optionsHtml}</ul>
+                            ${descHtml}
+                        </li>
+                    `;
+                });
+            }
+            backdrop.classList.add("active");
+        }
+        window.showModal = showModal;
+
+        document.getElementById('modalCloseBtn').onclick = function() {
+            document.getElementById('modalBackdrop').classList.remove("active");
+        };
+        document.getElementById('modalBackdrop').onclick = function(e) {
+            if (e.target === this) this.classList.remove("active");
+        };
+
+        document.getElementById('submitBtn').onclick = endTest;
+        document.getElementById('cancelBtn').onclick = function() {
+            // Get current file name
+            let current = window.location.pathname.split('/').pop();
+            // Remove extension, remove _inst if exists, then add _inst.html
+            let base = current.replace('.html', '').replace('_inst', '');
+            window.location.href = base + '_inst.html';
+        };
+        document.getElementById('repracticeBtn').onclick = function() {
+            let current = window.location.pathname.split('/').pop();
+            let base = current.replace('.html', '').replace('_inst', '');
+            // Get subject and topic from current params
+            const params = new URLSearchParams(window.location.search);
+            const subject = params.get('subject');
+            const topic = params.get('topic');
+            // Build new search params, always include subject and topic
+            let newParams = `?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(topic)}&timed=${isTimed ? 'true' : 'false'}`;
+            window.location.href = base + '.html' + newParams;
+        };
+        document.getElementById('homeBtn').onclick = function() {
+            window.location.href = '../index.html';
+        };
+
+        // Change timer label if untimed
+        if (!isTimed) {
+            document.getElementById('timerLabel').textContent = "Elapsed:";
+        }
+    </script>
+</body>
+</html>

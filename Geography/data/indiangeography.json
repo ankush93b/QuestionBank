@@ -1,0 +1,1831 @@
+[
+  {
+    "q": "What is the rank of India in terms of land area in the world?",
+    "pool": ["5th", "6th", "7th", "8th", "9th"],
+    "answer": "7th",
+    "desc": "India is the seventh largest country in the world by area."
+  },
+  {
+    "q": "What is the total area of India?",
+    "pool": ["3287263 sq km", "2987263 sq km", "3487263 sq km", "3587263 sq km", "3187263 sq km"],
+    "answer": "3287263 sq km",
+    "desc": "India's total area is 3,287,263 square kilometers."
+  },
+  {
+    "q": "What percentage of the world’s area is occupied by India?",
+    "pool": ["2.12%", "2.42%", "2.52%", "2.22%", "2.32%"],
+    "answer": "2.42%",
+    "desc": "India occupies 2.42% of the total world area."
+  },
+  {
+    "q": "What is India's rank in terms of population?",
+    "pool": ["1st", "2nd", "3rd", "4th", "5th"],
+    "answer": "2nd",
+    "desc": "India is the second most populous country in the world."
+  },
+  {
+    "q": "What percentage of the world’s population lives in India?",
+    "pool": ["15.44%", "17.44%", "16.44%", "18.44%", "19.44%"],
+    "answer": "17.44%",
+    "desc": "India accounts for 17.44% of the world’s population."
+  },
+  {
+    "q": "In which hemispheres is the Indian subcontinent located?",
+    "pool": ["Southern and Eastern", "Northern and Western", "Northern and Eastern", "Southern and Western", "Equatorial"],
+    "answer": "Northern and Eastern",
+    "desc": "India lies in the Northern and Eastern hemispheres."
+  },
+  {
+    "q": "Which country shares the longest border with India?",
+    "pool": ["China", "Pakistan", "Bangladesh", "Nepal", "Myanmar"],
+    "answer": "Bangladesh",
+    "desc": "India shares the longest border with Bangladesh, measuring 4096 km."
+  },
+  {
+    "q": "What is the length of the border India shares with China?",
+    "pool": ["3488 km", "3323 km", "4096 km", "1751 km", "1643 km"],
+    "answer": "3488 km",
+    "desc": "India shares a 3488 km long border with China."
+  },
+  {
+    "q": "Through how many Indian states does the Tropic of Cancer pass?",
+    "pool": ["6", "7", "8", "9", "10"],
+    "answer": "8",
+    "desc": "The Tropic of Cancer passes through 8 Indian states."
+  },
+  {
+    "q": "Which of the following states does NOT lie on the Tropic of Cancer?",
+    "pool": ["Madhya Pradesh", "Gujarat", "Odisha", "Jharkhand", "Tripura"],
+    "answer": "Odisha",
+    "desc": "Odisha is not among the states through which the Tropic of Cancer passes."
+  },
+  {
+    "q": "Where are the Andaman and Nicobar Islands located?",
+    "pool": ["Arabian Sea", "Bay of Bengal", "Indian Ocean", "Pacific Ocean", "South China Sea"],
+    "answer": "Bay of Bengal",
+    "desc": "Andaman and Nicobar Islands are located in the Bay of Bengal."
+  },
+  {
+    "q": "Where is the Lakshadweep group of islands situated?",
+    "pool": ["Bay of Bengal", "Arabian Sea", "Indian Ocean", "South China Sea", "Pacific Ocean"],
+    "answer": "Arabian Sea",
+    "desc": "Lakshadweep islands are located in the Arabian Sea."
+  },
+  {
+    "q": "Which ocean surrounds India to the south-west?",
+    "pool": ["Pacific Ocean", "Atlantic Ocean", "Arabian Sea", "Bay of Bengal", "Indian Ocean"],
+    "answer": "Arabian Sea",
+    "desc": "Arabian Sea lies to the south-west of India."
+  },
+  {
+    "q": "Which ocean surrounds India to the south-east?",
+    "pool": ["Pacific Ocean", "Atlantic Ocean", "Arabian Sea", "Bay of Bengal", "Indian Ocean"],
+    "answer": "Bay of Bengal",
+    "desc": "Bay of Bengal lies to the south-east of India."
+  },
+  {
+    "q": "Which Indian states share a border with Pakistan?",
+    "pool": ["Punjab, Gujarat, Bihar, Ladakh", "Punjab, Gujarat, Rajasthan, Jammu and Kashmir", "Punjab, Rajasthan, Himachal Pradesh, Gujarat", "Punjab, Gujarat, West Bengal, Ladakh", "Punjab, Bihar, Gujarat, Sikkim"],
+    "answer": "Punjab, Gujarat, Rajasthan, Jammu and Kashmir",
+    "desc": "India shares its border with Pakistan through these four states."
+  },
+  {
+    "q": "Which Indian Union Territory shares a border with Afghanistan?",
+    "pool": ["Ladakh", "Jammu and Kashmir", "Punjab", "Himachal Pradesh", "Sikkim"],
+    "answer": "Ladakh",
+    "desc": "Ladakh is the only UT that shares a border with Afghanistan."
+  },
+  {
+    "q": "How many Indian states share a border with China?",
+    "pool": ["3", "4", "5", "6", "7"],
+    "answer": "5",
+    "desc": "India shares its border with China through 5 states."
+  },
+  {
+    "q": "Which of these states does NOT share a border with China?",
+    "pool": ["Sikkim", "Uttarakhand", "Arunachal Pradesh", "Himachal Pradesh", "Assam"],
+    "answer": "Assam",
+    "desc": "Assam does not share a border with China."
+  },
+  {
+    "q": "Which states share a border with Nepal?",
+    "pool": ["Uttar Pradesh, Uttarakhand, Bihar, West Bengal, Sikkim", "Himachal Pradesh, Uttarakhand, Bihar, Assam, Sikkim", "Uttar Pradesh, Punjab, Bihar, West Bengal, Assam", "Uttarakhand, Gujarat, Bihar, Assam, Sikkim", "Punjab, Bihar, Sikkim, Tripura, Uttar Pradesh"],
+    "answer": "Uttar Pradesh, Uttarakhand, Bihar, West Bengal, Sikkim",
+    "desc": "These five Indian states share a border with Nepal."
+  },
+  {
+    "q": "Which states border Bhutan?",
+    "pool": ["Sikkim, Assam, Meghalaya, West Bengal", "Sikkim, West Bengal, Assam, Arunachal Pradesh", "Sikkim, Tripura, Assam, Mizoram", "Sikkim, Manipur, Assam, Arunachal Pradesh", "Sikkim, West Bengal, Meghalaya, Nagaland"],
+    "answer": "Sikkim, West Bengal, Assam, Arunachal Pradesh",
+    "desc": "India shares its border with Bhutan through these four states."
+  },
+  {
+    "q": "Which states share a border with Bangladesh?",
+    "pool": ["West Bengal, Assam, Meghalaya, Tripura, Mizoram", "West Bengal, Assam, Nagaland, Tripura, Mizoram", "West Bengal, Odisha, Assam, Tripura, Mizoram", "West Bengal, Assam, Meghalaya, Manipur, Mizoram", "West Bengal, Bihar, Assam, Tripura, Mizoram"],
+    "answer": "West Bengal, Assam, Meghalaya, Tripura, Mizoram",
+    "desc": "These five states share a border with Bangladesh."
+  },
+  {
+    "q": "Which of the following island groups belong to the Arabian Sea?",
+    "pool": ["Andaman and Nicobar", "Lakshadweep and Amindivi", "Minicoy and Nicobar", "Nicobar and Lakshadweep", "Andaman and Amindivi"],
+    "answer": "Lakshadweep and Amindivi",
+    "desc": "Lakshadweep and Amindivi islands are located in the Arabian Sea."
+  },
+  {
+    "q": "Minicoy Island is located in which water body?",
+    "pool": ["Bay of Bengal", "Arabian Sea", "Indian Ocean", "Pacific Ocean", "South China Sea"],
+    "answer": "Arabian Sea",
+    "desc": "Minicoy is one of the islands in the Arabian Sea."
+  },
+  {
+    "q": "India lies between which two major world regions?",
+    "pool": ["Middle East and Far East", "Europe and Africa", "Asia and Europe", "North America and Asia", "Africa and Far East"],
+    "answer": "Middle East and Far East",
+    "desc": "India lies between the Middle East and the Far East."
+  },
+  {
+    "q": "Which route connects Europe and East Asia via the Indian Ocean?",
+    "pool": ["Trans-Pacific", "Trans-Atlantic", "Trans-Indian", "Eurasian", "Silk Route"],
+    "answer": "Trans-Indian",
+    "desc": "The trans-Indian Ocean route connects Europe with East Asia, passing close to India."
+  },
+
+
+  {
+    "q": "Which is the highest peak in India?",
+    "pool": ["Mt K2", "Kangchenjunga", "Nanda Devi", "Kamet", "Saltoro Kangri"],
+    "answer": "Mt K2",
+    "desc": "Mt K2, located in PoK (India), is the highest peak with a height of 8611 meters."
+  },
+  {
+    "q": "In which Indian state is Kangchenjunga located?",
+    "pool": ["Sikkim", "Uttarakhand", "Jammu and Kashmir", "Himachal Pradesh", "Arunachal Pradesh"],
+    "answer": "Sikkim",
+    "desc": "Kangchenjunga, with a height of 8586 meters, is located in Sikkim."
+  },
+  {
+    "q": "Which is the highest peak in Uttarakhand?",
+    "pool": ["Nanda Devi", "Kamet", "Kangchenjunga", "Reo Purgyil", "Anamudi"],
+    "answer": "Nanda Devi",
+    "desc": "Nanda Devi is the highest peak in Uttarakhand with a height of 7817 meters."
+  },
+  {
+    "q": "What is the height of Kamet peak?",
+    "pool": ["7756 m", "7742 m", "7817 m", "8611 m", "8586 m"],
+    "answer": "7756 m",
+    "desc": "Kamet is a peak in Uttarakhand with a height of 7756 meters."
+  },
+  {
+    "q": "Where is Saltoro Kangri located?",
+    "pool": ["Jammu and Kashmir", "Ladakh", "Sikkim", "Uttarakhand", "Himachal Pradesh"],
+    "answer": "Jammu and Kashmir",
+    "desc": "Saltoro Kangri is situated in Jammu and Kashmir and has a height of 7742 meters."
+  },
+  {
+    "q": "Which state is home to Kangto peak?",
+    "pool": ["Arunachal Pradesh", "Sikkim", "Uttarakhand", "Nagaland", "Manipur"],
+    "answer": "Arunachal Pradesh",
+    "desc": "Kangto is the highest peak in Arunachal Pradesh with a height of 7090 meters."
+  },
+  {
+    "q": "Reo Purgyil is the highest peak in which Indian state?",
+    "pool": ["Himachal Pradesh", "Jammu and Kashmir", "Sikkim", "Uttarakhand", "Nagaland"],
+    "answer": "Himachal Pradesh",
+    "desc": "Reo Purgyil, at 6816 meters, is the highest peak of Himachal Pradesh."
+  },
+  {
+    "q": "Saramati peak lies in which Indian state?",
+    "pool": ["Nagaland", "Manipur", "Mizoram", "Tripura", "Assam"],
+    "answer": "Nagaland",
+    "desc": "Saramati peak is located in Nagaland with a height of 3841 meters."
+  },
+  {
+    "q": "Which is the highest peak in West Bengal?",
+    "pool": ["Sandakphu", "Khayang", "Saramati", "Dodda Betta", "Anamudi"],
+    "answer": "Sandakphu",
+    "desc": "Sandakphu is the highest peak in West Bengal, standing at 3636 meters."
+  },
+  {
+    "q": "What is the height of Khayang peak in Manipur?",
+    "pool": ["3114 m", "3841 m", "2695 m", "2636 m", "3636 m"],
+    "answer": "3114 m",
+    "desc": "Khayang, the highest peak in Manipur, stands at 3114 meters."
+  },
+  {
+    "q": "Which is the highest peak in Kerala?",
+    "pool": ["Anamudi", "Dodda Betta", "Saramati", "Sandakphu", "Kamet"],
+    "answer": "Anamudi",
+    "desc": "Anamudi, with a height of 2695 meters, is the highest peak in Kerala."
+  },
+  {
+    "q": "Dodda Betta is located in which state?",
+    "pool": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh", "Odisha"],
+    "answer": "Tamil Nadu",
+    "desc": "Dodda Betta, 2636 meters high, is the highest peak in Tamil Nadu."
+  },
+  {
+    "q": "What is India’s latitudinal extent?",
+    "pool": ["8°4′ N to 37°6′ N", "7°0′ N to 35°0′ N", "8°4′ N to 40°6′ N", "6°0′ N to 38°0′ N", "9°4′ N to 37°6′ N"],
+    "answer": "8°4′ N to 37°6′ N",
+    "desc": "India extends from 8°4′ North to 37°6′ North latitude."
+  },
+  {
+    "q": "What is India’s longitudinal extent?",
+    "pool": ["68°7′ E to 97°25′ E", "66°7′ E to 96°25′ E", "70°7′ E to 98°25′ E", "65°0′ E to 95°0′ E", "67°0′ E to 97°0′ E"],
+    "answer": "68°7′ E to 97°25′ E",
+    "desc": "India extends longitudinally from 68°7′ East to 97°25′ East."
+  },
+  {
+    "q": "What is the north-south extent of India?",
+    "pool": ["3214 km", "2933 km", "15020 km", "7516.6 km", "4214 km"],
+    "answer": "3214 km",
+    "desc": "India stretches 3214 km from north to south."
+  },
+  {
+    "q": "What is India’s east-west extent?",
+    "pool": ["2933 km", "3214 km", "15020 km", "7516.6 km", "3500 km"],
+    "answer": "2933 km",
+    "desc": "India's east-west extent is 2933 km."
+  },
+  {
+    "q": "What is the total length of India’s land frontiers?",
+    "pool": ["15020 km", "3214 km", "7516.6 km", "10000 km", "12000 km"],
+    "answer": "15020 km",
+    "desc": "India has a land frontier of 15,020 km."
+  },
+  {
+    "q": "What is the total coastline length of India?",
+    "pool": ["7516.6 km", "15020 km", "2933 km", "3214 km", "6016 km"],
+    "answer": "7516.6 km",
+    "desc": "India's total coastline is 7516.6 km long."
+  },
+  {
+    "q": "How many states does India have?",
+    "pool": ["28", "29", "27", "26", "25"],
+    "answer": "28",
+    "desc": "India consists of 28 states."
+  },
+  {
+    "q": "How many union territories are there in India?",
+    "pool": ["8", "7", "9", "10", "6"],
+    "answer": "8",
+    "desc": "India has 8 Union Territories after the reorganization in 2019."
+  },
+  {
+    "q": "Which is the only active volcano in India?",
+    "pool": ["Barren Island", "Dodda Betta", "Kangto", "Sandakphu", "Anamudi"],
+    "answer": "Barren Island",
+    "desc": "Barren Island in the Andaman & Nicobar Islands is India’s only active volcano."
+  },
+  {
+    "q": "Which Indian state has the longest coastline?",
+    "pool": ["Gujarat", "Maharashtra", "Andhra Pradesh", "Tamil Nadu", "Odisha"],
+    "answer": "Gujarat",
+    "desc": "Gujarat has the longest coastline among Indian states."
+  },
+  {
+    "q": "Which is the southernmost point of Indian territory?",
+    "pool": ["Indira Point", "Kanyakumari", "Great Nicobar", "Minicoy", "Pygmalion Point"],
+    "answer": "Indira Point",
+    "desc": "Indira Point in Great Nicobar is the southernmost point of India."
+  },
+  {
+    "q": "Which is the easternmost point of India?",
+    "pool": ["Kibithu", "Kangto", "Kamet", "Sikkim", "Reo Purgyil"],
+    "answer": "Kibithu",
+    "desc": "Kibithu in Arunachal Pradesh is the easternmost point of India."
+  },
+  {
+    "q": "India shares its borders with how many countries?",
+    "pool": ["7", "6", "8", "9", "5"],
+    "answer": "7",
+    "desc": "India shares its borders with Pakistan, Afghanistan, China, Nepal, Bhutan, Bangladesh, and Myanmar."
+  },
+
+
+  {
+    "q": "What is the main difference between Bhangar and Khadar?",
+    "pool": [
+      "Bhangar is formed from older alluvium, while Khadar is from fresh alluvium.",
+      "Bhangar is found in coastal areas, Khadar is in deserts.",
+      "Bhangar is a type of mountain, Khadar is a river.",
+      "Bhangar has pebble beds, Khadar has thick forests.",
+      "Bhangar is marshy, Khadar is dry."
+    ],
+    "answer": "Bhangar is formed from older alluvium, while Khadar is from fresh alluvium.",
+    "desc": "Bhangar consists of older alluvium, while Khadar is the deposit of fresh alluvium brought every year by rivers."
+  },
+  {
+    "q": "Which belt ends in Terai?",
+    "pool": [
+      "Khadar",
+      "Bhangar",
+      "Bhabar",
+      "Doab",
+      "Rechna"
+    ],
+    "answer": "Khadar",
+    "desc": "The Khadar belt, consisting of fresh alluvium, ends in Terai."
+  },
+  {
+    "q": "What type of zone is Bhabar?",
+    "pool": [
+      "Pebble studded zone of porous beds",
+      "Marshy damp area",
+      "Thick forest zone",
+      "Mountainous region",
+      "Delta region"
+    ],
+    "answer": "Pebble studded zone of porous beds",
+    "desc": "Bhabar is described as a pebble studded zone of porous beds along the foothills."
+  },
+  {
+    "q": "Which region is suitable for agriculture?",
+    "pool": [
+      "Terai",
+      "Bhabar",
+      "Bhangar",
+      "Sind Sagar Doab",
+      "Western Coast"
+    ],
+    "answer": "Terai",
+    "desc": "Terai is described as suitable for agriculture, whereas Bhabar is unsuitable."
+  },
+  {
+    "q": "Which Doab is located between Chenab and Jhelum?",
+    "pool": [
+      "Chaj Doab",
+      "Bist Doab",
+      "Rechna Doab",
+      "Sind Sagar Doab",
+      "Bari Doab"
+    ],
+    "answer": "Chaj Doab",
+    "desc": "Chaj Doab lies between Chenab and Jhelum rivers."
+  },
+  {
+    "q": "Where is the Sind Sagar Doab located?",
+    "pool": [
+      "Between Jhelum and Indus",
+      "Between Beas and Sutlej",
+      "Between Ravi and Chenab",
+      "Between Ganga and Yamuna",
+      "Between Chenab and Jhelum"
+    ],
+    "answer": "Between Jhelum and Indus",
+    "desc": "Sind Sagar Doab is the region between Jhelum and Indus rivers."
+  },
+  {
+    "q": "What is a unique feature of the Eastern Coast?",
+    "pool": [
+      "Occurrence of deltas",
+      "Narrow plains",
+      "Small rivers",
+      "Dissected outline",
+      "Occurrence of estuaries"
+    ],
+    "answer": "Occurrence of deltas",
+    "desc": "The Eastern Coast is known for the occurrence of deltas."
+  },
+  {
+    "q": "Which coast has a dissected outline?",
+    "pool": [
+      "Western Coast",
+      "Eastern Coast",
+      "Northern Coast",
+      "Southern Coast",
+      "Central Coast"
+    ],
+    "answer": "Western Coast",
+    "desc": "The Western Coast is characterized by a dissected outline."
+  },
+  {
+    "q": "How wide is the Terai region?",
+    "pool": [
+      "20-30 km",
+      "9-16 km",
+      "5-10 km",
+      "35-40 km",
+      "50-60 km"
+    ],
+    "answer": "20-30 km",
+    "desc": "Terai is described as being 20-30 km wide."
+  },
+  {
+    "q": "Which region is described as a marshy damp area covered with thick forest?",
+    "pool": [
+      "Terai",
+      "Bhabar",
+      "Khadar",
+      "Bhangar",
+      "Eastern Coast"
+    ],
+    "answer": "Terai",
+    "desc": "Terai is a marshy damp area covered with thick forest."
+  },
+  {
+    "q": "What is the width of the Bhabar region?",
+    "pool": [
+      "9-16 km",
+      "20-30 km",
+      "5-7 km",
+      "15-25 km",
+      "30-35 km"
+    ],
+    "answer": "9-16 km",
+    "desc": "Bhabar is described as being 9-16 km wide."
+  },
+  {
+    "q": "Which Doab is found between Beas and Ravi rivers?",
+    "pool": [
+      "Bari Doab",
+      "Bist Doab",
+      "Rechna Doab",
+      "Chaj Doab",
+      "Sind Sagar Doab"
+    ],
+    "answer": "Bari Doab",
+    "desc": "Bari Doab is the region between Beas and Ravi rivers."
+  },
+  {
+    "q": "Which region is unsuitable for agriculture?",
+    "pool": [
+      "Bhabar",
+      "Terai",
+      "Eastern Coast",
+      "Bari Doab",
+      "Khadar"
+    ],
+    "answer": "Bhabar",
+    "desc": "Bhabar is unsuitable for agriculture due to its pebble studded and porous nature."
+  },
+  {
+    "q": "What is the primary composition of Bhangar?",
+    "pool": [
+      "Older alluvium",
+      "Fresh alluvium",
+      "Sand dunes",
+      "Pebble beds",
+      "Mountain rocks"
+    ],
+    "answer": "Older alluvium",
+    "desc": "Bhangar is formed of older alluvium."
+  },
+  {
+    "q": "Where does the Bhangar belt end?",
+    "pool": [
+      "In Khadar",
+      "In Terai",
+      "In Bhabar",
+      "In Doab",
+      "In Western Coast"
+    ],
+    "answer": "In Khadar",
+    "desc": "The Bhangar belt ends in Khadar."
+  },
+  {
+    "q": "Which Doab is located between Ravi and Chenab?",
+    "pool": [
+      "Rechna Doab",
+      "Bist Doab",
+      "Chaj Doab",
+      "Sind Sagar Doab",
+      "Bari Doab"
+    ],
+    "answer": "Rechna Doab",
+    "desc": "Rechna Doab is found between Ravi and Chenab rivers."
+  },
+  {
+    "q": "What is the geographical feature of the Western Coast regarding rivers?",
+    "pool": [
+      "Small rivers",
+      "Long rivers",
+      "No rivers",
+      "Marshy rivers",
+      "Delta rivers"
+    ],
+    "answer": "Small rivers",
+    "desc": "Western Coast is characterized by small rivers."
+  },
+  {
+    "q": "Which region is broad and has long rivers?",
+    "pool": [
+      "Eastern Coast",
+      "Western Coast",
+      "Bhabar",
+      "Khadar",
+      "Bist Doab"
+    ],
+    "answer": "Eastern Coast",
+    "desc": "The Eastern Coast is broad and has long rivers."
+  },
+  {
+    "q": "Which characteristic is associated with the occurrence of estuaries?",
+    "pool": [
+      "Western Coast",
+      "Eastern Coast",
+      "Terai",
+      "Bhangar",
+      "Sind Sagar Doab"
+    ],
+    "answer": "Western Coast",
+    "desc": "Occurrence of estuaries is a feature of the Western Coast."
+  },
+  {
+    "q": "What is the outline of the Eastern Coast described as?",
+    "pool": [
+      "Smooth",
+      "Dissected",
+      "Pebbly",
+      "Marshy",
+      "Porous"
+    ],
+    "answer": "Smooth",
+    "desc": "Eastern Coast has a smooth outline."
+  },
+  {
+    "q": "Which Doab is found between Beas and Sutlej?",
+    "pool": [
+      "Bist Doab",
+      "Bari Doab",
+      "Rechna Doab",
+      "Chaj Doab",
+      "Sind Sagar Doab"
+    ],
+    "answer": "Bist Doab",
+    "desc": "Bist Doab is the region between Beas and Sutlej rivers."
+  },
+  {
+    "q": "Which plain is a long narrow area along the foothills?",
+    "pool": [
+      "Bhabar",
+      "Terai",
+      "Khadar",
+      "Bhangar",
+      "Eastern Coast"
+    ],
+    "answer": "Bhabar",
+    "desc": "Bhabar is a long narrow plain along the foothills."
+  },
+  {
+    "q": "What type of river flow is associated with the Eastern Coast?",
+    "pool": [
+      "Long rivers",
+      "Small rivers",
+      "No rivers",
+      "Seasonal rivers",
+      "Deltaic rivers"
+    ],
+    "answer": "Long rivers",
+    "desc": "Long rivers are a feature of the Eastern Coast."
+  },
+  {
+    "q": "Which region is described as the deposit of fresh alluvium every year?",
+    "pool": [
+      "Khadar",
+      "Bhangar",
+      "Bhabar",
+      "Terai",
+      "Sind Sagar Doab"
+    ],
+    "answer": "Khadar",
+    "desc": "Khadar is the deposit of fresh alluvium brought by rivers every year."
+  },
+  {
+    "q": "Which region is a broad long zone south of Bhabar plain?",
+    "pool": [
+      "Terai",
+      "Khadar",
+      "Bhangar",
+      "Eastern Coast",
+      "Chaj Doab"
+    ],
+    "answer": "Terai",
+    "desc": "Terai is the broad long zone south of Bhabar plain."
+  },
+
+
+  {
+    "q": "Where are the Eastern Ghats located in relation to the Deccan Plateau?",
+    "pool": [
+      "East",
+      "West",
+      "North",
+      "South",
+      "Central"
+    ],
+    "answer": "East",
+    "desc": "Eastern Ghats are located to the east of the Deccan Plateau."
+  },
+  {
+    "q": "Which peak is the highest in the Eastern Ghats?",
+    "pool": [
+      "Jindhagada",
+      "Anaimudi",
+      "Nilgiri",
+      "Aravalli",
+      "Shivapuri"
+    ],
+    "answer": "Jindhagada",
+    "desc": "Jindhagada with an altitude of 1690 m is the highest peak in the Eastern Ghats."
+  },
+  {
+    "q": "Which rivers are drawn in the land of Eastern Ghats?",
+    "pool": [
+      "Mahanadi, Cauveri, Godavari, Krishna",
+      "Narmada, Tapi, Sabarmati, Mahi",
+      "Ganga, Yamuna, Saraswati",
+      "Sindhu, Ravi, Sutlej",
+      "Brahmaputra, Teesta, Subansiri"
+    ],
+    "answer": "Mahanadi, Cauveri, Godavari, Krishna",
+    "desc": "These four major rivers flow through the Eastern Ghats."
+  },
+  {
+    "q": "Which Ghats are parallel to the Coromandal and Northern Circar coast?",
+    "pool": [
+      "Eastern Ghats",
+      "Western Ghats",
+      "Satpura Range",
+      "Vindhya Range",
+      "Aravalli Range"
+    ],
+    "answer": "Eastern Ghats",
+    "desc": "Eastern Ghats run parallel to the Eastern Coast, i.e., Coromandal and Northern Circar."
+  },
+  {
+    "q": "Anaimudi, the highest peak in Western Ghats, has what altitude?",
+    "pool": [
+      "2695 m",
+      "1690 m",
+      "2000 m",
+      "3000 m",
+      "1200 m"
+    ],
+    "answer": "2695 m",
+    "desc": "Anaimudi is the highest peak in Western Ghats at 2695 m."
+  },
+  {
+    "q": "Which rivers are associated with the Western Ghats?",
+    "pool": [
+      "Narmada, Tapi, Sabarmati, Mahi",
+      "Mahanadi, Cauveri, Godavari, Krishna",
+      "Ganga, Yamuna, Brahmaputra, Kosi",
+      "Sindhu, Ravi, Sutlej, Beas",
+      "Teesta, Subansiri, Manas, Lohit"
+    ],
+    "answer": "Narmada, Tapi, Sabarmati, Mahi",
+    "desc": "These rivers are drawn in the land of the Western Ghats."
+  },
+  {
+    "q": "Which Ghats are parallel to the Konkan, Kannad, and Malabar coast?",
+    "pool": [
+      "Western Ghats",
+      "Eastern Ghats",
+      "Satpura Range",
+      "Vindhya Range",
+      "Aravalli Range"
+    ],
+    "answer": "Western Ghats",
+    "desc": "Western Ghats are parallel to the Western Coast, i.e., Konkan, Kannad, Malabar."
+  },
+  {
+    "q": "Which of the following is NOT a feature of the Eastern Ghats?",
+    "pool": [
+      "Parallel to Konkan coast",
+      "Located east to Deccan Plateau",
+      "Jindhagada is the highest peak",
+      "Traversed by Mahanadi and Godavari",
+      "Parallel to Coromandal coast"
+    ],
+    "answer": "Parallel to Konkan coast",
+    "desc": "Konkan coast is parallel to Western Ghats, not Eastern Ghats."
+  },
+  {
+    "q": "Which peak is the highest in the Western Ghats?",
+    "pool": [
+      "Anaimudi",
+      "Jindhagada",
+      "Kalsubai",
+      "Doddabetta",
+      "Mahendragiri"
+    ],
+    "answer": "Anaimudi",
+    "desc": "Anaimudi with an altitude of 2695 m is the highest peak in the Western Ghats."
+  },
+  {
+    "q": "The Western Ghats are located in which direction from the Deccan Plateau?",
+    "pool": [
+      "West",
+      "East",
+      "North",
+      "South",
+      "Central"
+    ],
+    "answer": "West",
+    "desc": "Western Ghats are located to the west of the Deccan Plateau."
+  },
+
+{
+    "q": "Which is the largest brackish water lake in India?",
+    "pool": ["Chilka Lake", "Kolleru Lake", "Loktak Lake", "Sambhar Lake", "Vembanad Lake"],
+    "answer": "Chilka Lake",
+    "desc": "Chilka Lake in Odisha is the largest brackish water lake of India."
+  },
+  {
+    "q": "On which river is the Kunchikalh Waterfall located?",
+    "pool": ["Varahi", "Sharavati", "Gaghari", "Bihad", "Cauveri"],
+    "answer": "Varahi",
+    "desc": "Kunchikalh Waterfall, with a height of 455m, is located on the Varahi river in Karnataka."
+  },
+  {
+    "q": "Which is the highest waterfall among those listed?",
+    "pool": ["Kunchikalh", "Jog/Gersoppa", "Rajim Kund", "Chachai", "Kevti"],
+    "answer": "Kunchikalh",
+    "desc": "Kunchikalh Waterfall is the highest among those listed with a height of 455m."
+  },
+  {
+    "q": "Jog/Gersoppa waterfall is situated in which state?",
+    "pool": ["Karnataka", "Madhya Pradesh", "Bihar", "Odisha", "Kerala"],
+    "answer": "Karnataka",
+    "desc": "Jog/Gersoppa Waterfall is on the Sharavati river in Karnataka."
+  },
+  {
+    "q": "Which waterfall is located on the Gaghari river?",
+    "pool": ["Rajim Kund", "Chachai", "Kevti", "Kunchikalh", "Jog/Gersoppa"],
+    "answer": "Rajim Kund",
+    "desc": "Rajim Kund Waterfall in Bihar is on the Gaghari river."
+  },
+  {
+    "q": "Which lake in Manipur is a freshwater lake with inland drainage?",
+    "pool": ["Loktak Lake", "Kolleru Lake", "Lonar Lake", "Pulicat Lake", "Vembanad Lake"],
+    "answer": "Loktak Lake",
+    "desc": "Loktak Lake in Manipur is a freshwater lake with inland drainage."
+  },
+  {
+    "q": "Which waterfall is located in Madhya Pradesh on the Bihad river?",
+    "pool": ["Chachai", "Rajim Kund", "Kevti", "Jog/Gersoppa", "Kunchikalh"],
+    "answer": "Chachai",
+    "desc": "Chachai Waterfall is situated on the Bihad river in Madhya Pradesh."
+  },
+  {
+    "q": "Which is the largest freshwater lake of India?",
+    "pool": ["Wular Lake", "Chilka Lake", "Sambhar Lake", "Pulicat Lake", "Loktak Lake"],
+    "answer": "Wular Lake",
+    "desc": "Wular Lake is the largest freshwater lake of India, located in Jammu & Kashmir."
+  },
+  {
+    "q": "On which river is the Sivasamudram Waterfall found?",
+    "pool": ["Cauveri", "Varahi", "Sharavati", "Bihad", "Gaghari"],
+    "answer": "Cauveri",
+    "desc": "Sivasamudram Waterfall is on the Cauveri river in Karnataka."
+  },
+  {
+    "q": "Which lake is a meteorite crater lake in Maharashtra?",
+    "pool": ["Lonar Lake", "Chilka Lake", "Pulicat Lake", "Loktak Lake", "Sambhar Lake"],
+    "answer": "Lonar Lake",
+    "desc": "Lonar Lake in Maharashtra is a meteorite crater lake."
+  },
+  {
+    "q": "What is special about Pangong Lake?",
+    "pool": ["It is a saline lake", "It is a lagoon lake", "It is a freshwater lake", "It is a crater lake", "It is a brackish water lake"],
+    "answer": "It is a saline lake",
+    "desc": "Pangong Lake in Jammu and Kashmir is a saline lake."
+  },
+  {
+    "q": "Which waterfall is on the Sharavati river?",
+    "pool": ["Jog/Gersoppa", "Kunchikalh", "Kevti", "Chachai", "Rajim Kund"],
+    "answer": "Jog/Gersoppa",
+    "desc": "Jog/Gersoppa Waterfall is on the Sharavati river in Karnataka."
+  },
+  {
+    "q": "Which state is famous for the Pulicat Lake?",
+    "pool": ["Tamil Nadu & Andhra Pradesh", "Odisha", "Manipur", "Kerala", "Rajasthan"],
+    "answer": "Tamil Nadu & Andhra Pradesh",
+    "desc": "Pulicat Lake is a saline and lagoon lake located on the Tamil Nadu and Andhra Pradesh border."
+  },
+  {
+    "q": "Which lake is a shallow lake with saline water near Jaipur?",
+    "pool": ["Sambhar Lake", "Chilka Lake", "Loktak Lake", "Vembanad Lake", "Pulicat Lake"],
+    "answer": "Sambhar Lake",
+    "desc": "Sambhar Lake is a shallow, saline lake located near Jaipur, Rajasthan."
+  },
+  {
+    "q": "Vembanad Lake is located in which state?",
+    "pool": ["Kerala", "Odisha", "Manipur", "Rajasthan", "Maharashtra"],
+    "answer": "Kerala",
+    "desc": "Vembanad Lake, a lagoon lake, is located in Kerala."
+  },
+  {
+    "q": "Which two lakes were created due to tectonic activities?",
+    "pool": ["Wular & Dal Lakes", "Pangong & Vembanad", "Lonar & Loktak", "Chilka & Sambhar", "Pulicat & Kolleru"],
+    "answer": "Wular & Dal Lakes",
+    "desc": "Wular and Dal Lakes in Jammu & Kashmir were created due to tectonic activities."
+  },
+  {
+    "q": "Which waterfall in Madhya Pradesh has a height of 98 meters?",
+    "pool": ["Kevti", "Chachai", "Jog/Gersoppa", "Kunchikalh", "Rajim Kund"],
+    "answer": "Kevti",
+    "desc": "Kevti Waterfall, located in Madhya Pradesh, has a height of 98 meters."
+  },
+  {
+    "q": "Which lake is both a saline and lagoon lake?",
+    "pool": ["Pulicat Lake", "Sambhar Lake", "Chilka Lake", "Vembanad Lake", "Loktak Lake"],
+    "answer": "Pulicat Lake",
+    "desc": "Pulicat Lake is a saline and lagoon lake on the Tamil Nadu & Andhra Pradesh border."
+  },
+  {
+    "q": "Which lake is a lagoon lake and a lake by surface area?",
+    "pool": ["Vembanad Lake", "Chilka Lake", "Pulicat Lake", "Loktak Lake", "Sambhar Lake"],
+    "answer": "Vembanad Lake",
+    "desc": "Vembanad Lake is both a lagoon lake and a lake by surface area."
+  },
+  {
+    "q": "Which is a freshwater lake in Andhra Pradesh?",
+    "pool": ["Kolleru Lake", "Loktak Lake", "Chilka Lake", "Pulicat Lake", "Vembanad Lake"],
+    "answer": "Kolleru Lake",
+    "desc": "Kolleru Lake is a freshwater lake in Andhra Pradesh."
+  },
+  {
+    "q": "Which lake in Jammu & Kashmir is a salty lake?",
+    "pool": ["TsoMoriri Lake", "Pangong Lake", "Wular Lake", "Dal Lake", "Loktak Lake"],
+    "answer": "TsoMoriri Lake",
+    "desc": "TsoMoriri Lake in Jammu & Kashmir is a salty lake."
+  },
+
+
+  {
+    "q": "Which type of vegetation is characterized by a rainfall of 200 cm and temperature of 25-27°C?",
+    "pool": ["Tropical Wet Evergreen", "Tropical Semi-Evergreen", "Tropical Dry Evergreen", "Tropical Moist Deciduous", "Tropical Thorn"],
+    "answer": "Tropical Wet Evergreen",
+    "desc": "Tropical Wet Evergreen vegetation thrives with a rainfall of 200 cm and a temperature of 25-27°C, featuring dense forests with tall trees."
+  },
+  {
+    "q": "What is a key feature of Tropical Semi-Evergreen vegetation?",
+    "pool": ["Dense forest, tall trees", "Evergreen mixed with deciduous", "Low height, about 9-12 m", "Trees shed leaves in dry season", "Undergrowth is shrubby and grassy"],
+    "answer": "Evergreen mixed with deciduous",
+    "desc": "Tropical Semi-Evergreen vegetation has a mix of evergreen and deciduous trees, with a height of 24-36 m and 20-250 cm rainfall."
+  },
+  {
+    "q": "Which region is known for Tropical Dry Evergreen vegetation?",
+    "pool": ["Coromandal Coast of Tamil Nadu", "Western Ghats", "Eastern Himalayas", "Andaman and Nicobar Islands", "Western Slopes of Eastern Ghats"],
+    "answer": "Coromandal Coast of Tamil Nadu",
+    "desc": "Tropical Dry Evergreen vegetation, with 9-12 m height and moderate rainfall, is found along the Coromandal Coast of Tamil Nadu."
+  },
+  {
+    "q": "What is the primary climatic condition for Tropical Moist Deciduous vegetation?",
+    "pool": ["Rainfall 150-200 cm, Temperature 26-27°C", "Rainfall < 150 cm, Dry season", "Rainfall 200 cm, Humidity 80%", "Rainfall 50-70 cm, Temperature 25-30°C", "Rainfall > 200 cm, High water salinity"],
+    "answer": "Rainfall 150-200 cm, Temperature 26-27°C",
+    "desc": "Tropical Moist Deciduous vegetation requires 150-200 cm rainfall and 26-27°C temperature, with trees shedding leaves in the dry season."
+  },
+  {
+    "q": "Which important species is found in Tropical Thorn vegetation?",
+    "pool": ["Babul, Acacia, Khair", "Teak, Sandalwood, Ebony", "Kusum, Mesua, Indian Chestnut", "Mango, Agar, Hopea", "Sal, Teak, Khair"],
+    "answer": "Babul, Acacia, Khair",
+    "desc": "Tropical Thorn vegetation, with rainfall < 150 cm and a dry season, includes species like Babul, Acacia, and Khair."
+  },
+  {
+    "q": "Where is Tidal/Mangrove vegetation commonly found?",
+    "pool": ["Delta regions of Ganga, Mahanadi, Godavari, Krishna", "Western Ghats", "Eastern Himalayas", "Coromandal Coast", "Uttar Pradesh"],
+    "answer": "Delta regions of Ganga, Mahanadi, Godavari, Krishna",
+    "desc": "Tidal/Mangrove vegetation is found in delta regions with high water salinity and regular flooding, supporting species like Keora and Nipa."
+  },
+  {
+    "q": "What is a distinguishing feature of Tropical Dry Deciduous vegetation?",
+    "pool": ["Undergrowth is shrubby and grassy", "Dense forest, tall trees", "Trees shed leaves in dry season", "Evergreen mixed with deciduous", "Leaves to conserve water"],
+    "answer": "Undergrowth is shrubby and grassy",
+    "desc": "Tropical Dry Deciduous vegetation has undergrowth that is shrubby and grassy, with rainfall < 150 cm and a dry season."
+  },
+  {
+    "q": "Which species is associated with Tropical Wet Evergreen vegetation?",
+    "pool": ["Mango, Agar, Hopea", "Teak, Sandalwood, Ebony", "Babul, Acacia, Khair", "Kusum, Mesua, Indian Chestnut", "Sal, Teak, Khair"],
+    "answer": "Mango, Agar, Hopea",
+    "desc": "Tropical Wet Evergreen vegetation includes important species like Mango, Agar, and Hopea, thriving in high rainfall areas."
+  },
+  {
+    "q": "What is the temperature range for Tropical Semi-Evergreen vegetation?",
+    "pool": ["20-250 cm rainfall", "25-27°C", "24-36 m height", "9-12 m height", "26-27°C"],
+    "answer": "25-27°C",
+    "desc": "Tropical Semi-Evergreen vegetation thrives at a temperature of 25-27°C with 20-250 cm rainfall and a height of 24-36 m."
+  },
+  {
+    "q": "Which region supports Tropical Moist Deciduous vegetation?",
+    "pool": ["Western Ghats, Eastern coastal plains", "Eastern Plateau", "Coromandal Coast", "Western Slopes of Eastern Ghats", "Delta regions"],
+    "answer": "Western Ghats, Eastern coastal plains",
+    "desc": "Tropical Moist Deciduous vegetation is found in Western Ghats and Eastern coastal plains, with 150-200 cm rainfall."
+  },
+  {
+    "q": "What is the height range of Tropical Dry Evergreen vegetation?",
+    "pool": ["24-36 m", "9-12 m", "6-9 m", ">36 m", "<9 m"],
+    "answer": "9-12 m",
+    "desc": "Tropical Dry Evergreen vegetation has a height range of 9-12 m, found in areas with moderate rainfall from North-East Monsoon."
+  },
+  {
+    "q": "Which species is characteristic of Tidal/Mangrove vegetation?",
+    "pool": ["Keora, Amur, Sundari", "Babul, Acacia, Khair", "Teak, Sandalwood, Ebony", "Kusum, Mesua, Indian Chestnut", "Sal, Teak, Khair"],
+    "answer": "Keora, Amur, Sundari",
+    "desc": "Tidal/Mangrove vegetation includes species like Keora, Amur, and Sundari, adapted to high salinity and flooding."
+  },
+  {
+    "q": "What is the rainfall requirement for Tropical Thorn vegetation?",
+    "pool": ["< 150 cm", "150-200 cm", "200 cm", "50-70 cm", "> 200 cm"],
+    "answer": "< 150 cm",
+    "desc": "Tropical Thorn vegetation requires less than 150 cm of rainfall, with a dry season and species like Babul and Acacia."
+  },
+  {
+    "q": "Which area is known for Tropical Dry Deciduous vegetation?",
+    "pool": ["Uttar Pradesh, Tamil Nadu, Western Ghats", "South-Western Punjab, Western Haryana", "Eastern Himalayas", "Coromandal Coast", "Delta regions"],
+    "answer": "Uttar Pradesh, Tamil Nadu, Western Ghats",
+    "desc": "Tropical Dry Deciduous vegetation is found in Uttar Pradesh, Tamil Nadu, and Western Ghats, with undergrowth and grassy features."
+  },
+  {
+    "q": "What is a key feature of Tidal/Mangrove vegetation?",
+    "pool": ["Trees shed leaves in dry season", "Leaves to conserve water", "Trees are stunted (6-9 m)", "Leaves are evergreen, breathing roots"],
+    "answer": "Leaves are evergreen, breathing roots",
+    "desc": "Tidal/Mangrove vegetation features evergreen trees with breathing roots, adapted to high salinity and regular flooding."
+  },
+  {
+    "q": "Which species is found in Tropical Semi-Evergreen vegetation?",
+    "pool": ["Kusum, Mesua, Indian Chestnut", "Babul, Acacia, Khair", "Teak, Sandalwood, Ebony", "Mango, Agar, Hopea", "Sal, Teak, Khair"],
+    "answer": "Kusum, Mesua, Indian Chestnut",
+    "desc": "Tropical Semi-Evergreen vegetation includes species like Kusum, Mesua, and Indian Chestnut, with a mix of evergreen and deciduous trees."
+  },
+  {
+    "q": "What is the humidity level for Tropical Wet Evergreen vegetation?",
+    "pool": ["80%", "70%", "60%", "90%", "50%"],
+    "answer": "80%",
+    "desc": "Tropical Wet Evergreen vegetation maintains a humidity level of 80% with a rainfall of 200 cm or more."
+  },
+  {
+    "q": "Which region supports Tropical Thorn vegetation?",
+    "pool": ["South-Western Punjab, Western Haryana", "Western Ghats", "Eastern Himalayas", "Coromandal Coast", "Delta regions"],
+    "answer": "South-Western Punjab, Western Haryana",
+    "desc": "Tropical Thorn vegetation is found in South-Western Punjab and Western Haryana, with rainfall less than 150 cm."
+  },
+  {
+    "q": "What is the temperature range for Tropical Dry Deciduous vegetation?",
+    "pool": ["26-27°C", "25-30°C", "20-25°C", "30-35°C", "15-20°C"],
+    "answer": "26-27°C",
+    "desc": "Tropical Dry Deciduous vegetation thrives at a temperature of 26-27°C with rainfall less than 150 cm."
+  },
+  {
+    "q": "Which species is associated with Tropical Moist Deciduous vegetation?",
+    "pool": ["Sal, Teak, Sandalwood", "Babul, Acacia, Khair", "Mango, Agar, Hopea", "Kusum, Mesua, Indian Chestnut", "Keora, Amur, Sundari"],
+    "answer": "Sal, Teak, Sandalwood",
+    "desc": "Tropical Moist Deciduous vegetation includes important species like Sal, Teak, and Sandalwood, found in areas with 150-200 cm rainfall."
+  },
+  {
+    "q": "What is the height of trees in Tropical Thorn vegetation?",
+    "pool": ["6-9 m", "24-36 m", "9-12 m", ">36 m", "<6 m"],
+    "answer": "6-9 m",
+    "desc": "Tropical Thorn vegetation features stunted trees of 6-9 m height, adapted to low rainfall areas."
+  },
+  {
+    "q": "Which area is known for Tropical Wet Evergreen vegetation?",
+    "pool": ["Western Slopes of Eastern Ghats, Andaman and Nicobar Islands", "Coromandal Coast", "South-Western Punjab", "Uttar Pradesh", "Delta regions"],
+    "answer": "Western Slopes of Eastern Ghats, Andaman and Nicobar Islands",
+    "desc": "Tropical Wet Evergreen vegetation is found in Western Slopes of Eastern Ghats and Andaman and Nicobar Islands, with high rainfall."
+  },
+  {
+    "q": "What is the rainfall range for Tropical Semi-Evergreen vegetation?",
+    "pool": ["20-250 cm", "150-200 cm", "< 150 cm", "> 200 cm", "50-70 cm"],
+    "answer": "20-250 cm",
+    "desc": "Tropical Semi-Evergreen vegetation requires 20-250 cm of rainfall, supporting a mix of evergreen and deciduous trees."
+  },
+  {
+    "q": "Which region supports Tidal/Mangrove vegetation?",
+    "pool": ["Saurashtra, Rajasthan, Kachchh and Delta regions", "Western Ghats", "Eastern Himalayas", "Coromandal Coast", "Uttar Pradesh"],
+    "answer": "Saurashtra, Rajasthan, Kachchh and Delta regions",
+    "desc": "Tidal/Mangrove vegetation is found in Saurashtra, Rajasthan, Kachchh, and delta regions with high salinity."
+  },
+  {
+    "q": "What is a key feature of Tropical Dry Evergreen vegetation?",
+    "pool": ["Presence of canopy, low height", "Dense forest, tall trees", "Trees shed leaves in dry season", "Evergreen mixed with deciduous", "Undergrowth is shrubby"],
+    "answer": "Presence of canopy, low height",
+    "desc": "Tropical Dry Evergreen vegetation has a canopy with a low height of 9-12 m, found in moderate rainfall areas."
+  },
+  {
+    "q": "Which species is found in Tropical Dry Deciduous vegetation?",
+    "pool": ["Sal, Teak, Khair", "Babul, Acacia, Khair", "Mango, Agar, Hopea", "Kusum, Mesua, Indian Chestnut", "Keora, Amur, Sundari"],
+    "answer": "Sal, Teak, Khair",
+    "desc": "Tropical Dry Deciduous vegetation includes species like Sal, Teak, and Khair, with shrubby undergrowth."
+  },
+  {
+    "q": "What is the humidity level for Tropical Moist Deciduous vegetation?",
+    "pool": ["70%", "80%", "60%", "90%", "50%"],
+    "answer": "70%",
+    "desc": "Tropical Moist Deciduous vegetation maintains a humidity level of 70% with 150-200 cm rainfall."
+  },
+  {
+    "q": "Which area is known for Tropical Semi-Evergreen vegetation?",
+    "pool": ["Lower slopes of Eastern Himalayas, Odisha Coast", "Western Ghats", "South-Western Punjab", "Uttar Pradesh", "Delta regions"],
+    "answer": "Lower slopes of Eastern Himalayas, Odisha Coast",
+    "desc": "Tropical Semi-Evergreen vegetation is found in the lower slopes of Eastern Himalayas and Odisha Coast, with 20-250 cm rainfall."
+  },
+  {
+    "q": "What is the temperature range for Tidal/Mangrove vegetation?",
+    "pool": ["25-30°C", "20-25°C", "30-35°C", "15-20°C", "35-40°C"],
+    "answer": "25-30°C",
+    "desc": "Tidal/Mangrove vegetation thrives at a temperature of 25-30°C in areas with high water salinity."
+  },
+  {
+    "q": "Which species is associated with Tropical Dry Evergreen vegetation?",
+    "pool": ["Khiri, Jamun, Tamarind", "Babul, Acacia, Khair", "Mango, Agar, Hopea", "Kusum, Mesua, Indian Chestnut", "Sal, Teak, Khair"],
+    "answer": "Khiri, Jamun, Tamarind",
+    "desc": "Tropical Dry Evergreen vegetation includes species like Khiri, Jamun, and Tamarind, found in moderate rainfall areas."
+  },
+  {
+    "q": "What is the rainfall requirement for Tidal/Mangrove vegetation?",
+    "pool": ["> 200 cm", "150-200 cm", "< 150 cm", "50-70 cm", "20-250 cm"],
+    "answer": "> 200 cm",
+    "desc": "Tidal/Mangrove vegetation requires more than 200 cm of rainfall, with high salinity and regular flooding."
+  },
+  {
+    "q": "Which region supports Tropical Dry Evergreen vegetation?",
+    "pool": ["Areas receiving rain from North-East Monsoon", "Western Ghats", "Eastern Himalayas", "Coromandal Coast", "Delta regions"],
+    "answer": "Areas receiving rain from North-East Monsoon",
+    "desc": "Tropical Dry Evergreen vegetation is found in areas receiving rain from the North-East Monsoon, with moderate rainfall."
+  },
+  {
+    "q": "What is a key feature of Tropical Wet Evergreen vegetation?",
+    "pool": ["Dense forest, tall trees", "Trees shed leaves in dry season", "Undergrowth is shrubby", "Leaves to conserve water", "Evergreen mixed with deciduous"],
+    "answer": "Dense forest, tall trees",
+    "desc": "Tropical Wet Evergreen vegetation is characterized by dense forests with tall trees, thriving in high rainfall areas."
+  },
+  {
+    "q": "Which species is found in Tropical Thorn vegetation?",
+    "pool": ["Palash, Tendu, Laurel", "Babul, Acacia, Khair", "Teak, Sandalwood, Ebony", "Kusum, Mesua, Indian Chestnut", "Sal, Teak, Khair"],
+    "answer": "Babul, Acacia, Khair",
+    "desc": "Tropical Thorn vegetation includes species like Babul, Acacia, and Khair, adapted to low rainfall."
+  },
+  {
+    "q": "What is the humidity level for Tropical Dry Deciduous vegetation?",
+    "pool": ["70%", "80%", "60%", "90%", "50%"],
+    "answer": "70%",
+    "desc": "Tropical Dry Deciduous vegetation maintains a humidity level of 70% with rainfall less than 150 cm."
+  },
+  {
+    "q": "Which area is known for Tropical Moist Deciduous vegetation?",
+    "pool": ["Eastern Plateau", "Western Ghats", "South-Western Punjab", "Uttar Pradesh", "Delta regions"],
+    "answer": "Eastern Plateau",
+    "desc": "Tropical Moist Deciduous vegetation is found on the Eastern Plateau, with 150-200 cm rainfall."
+  },
+  {
+    "q": "What is the temperature range for Tropical Thorn vegetation?",
+    "pool": ["25-30°C", "20-25°C", "30-35°C", "15-20°C", "35-40°C"],
+    "answer": "25-30°C",
+    "desc": "Tropical Thorn vegetation thrives at a temperature of 25-30°C with rainfall less than 150 cm."
+  },
+  {
+    "q": "Which species is associated with Tropical Semi-Evergreen vegetation?",
+    "pool": ["Kusum, Mesua, Indian Chestnut", "Babul, Acacia, Khair", "Teak, Sandalwood, Ebony", "Mango, Agar, Hopea", "Sal, Teak, Khair"],
+    "answer": "Kusum, Mesua, Indian Chestnut",
+    "desc": "Tropical Semi-Evergreen vegetation includes species like Kusum, Mesua, and Indian Chestnut, with a height of 24-36 m."
+  },
+  {
+    "q": "What is the rainfall range for Tropical Dry Deciduous vegetation?",
+    "pool": ["< 150 cm", "150-200 cm", "200 cm", "50-70 cm", "> 200 cm"],
+    "answer": "< 150 cm",
+    "desc": "Tropical Dry Deciduous vegetation requires less than 150 cm of rainfall, with a dry season."
+  },
+  {
+    "q": "Which region supports Tropical Wet Evergreen vegetation?",
+    "pool": ["North-East India, Western slopes of Eastern Ghats", "Coromandal Coast", "South-Western Punjab", "Uttar Pradesh", "Delta regions"],
+    "answer": "North-East India, Western slopes of Eastern Ghats",
+    "desc": "Tropical Wet Evergreen vegetation is found in North-East India and Western slopes of Eastern Ghats, with high rainfall."
+  },
+  {
+    "q": "What is a key feature of Tropical Moist Deciduous vegetation?",
+    "pool": ["Trees shed their leaves in the dry season", "Dense forest, tall trees", "Undergrowth is shrubby", "Leaves to conserve water", "Evergreen mixed with deciduous"],
+    "answer": "Trees shed their leaves in the dry season",
+    "desc": "Tropical Moist Deciduous vegetation features trees that shed their leaves in the dry season, with 150-200 cm rainfall."
+  },
+  {
+    "q": "Which species is found in Tidal/Mangrove vegetation?",
+    "pool": ["Nipa", "Babul, Acacia, Khair", "Teak, Sandalwood, Ebony", "Kusum, Mesua, Indian Chestnut", "Sal, Teak, Khair"],
+    "answer": "Nipa",
+    "desc": "Tidal/Mangrove vegetation includes species like Nipa, adapted to high salinity and flooding."
+  },
+  {
+    "q": "What is the humidity level for Tropical Thorn vegetation?",
+    "pool": ["70%", "80%", "60%", "90%", "50%"],
+    "answer": "70%",
+    "desc": "Tropical Thorn vegetation maintains a humidity level of 70% with rainfall less than 150 cm."
+  },
+  {
+    "q": "Which area is known for Tropical Dry Evergreen vegetation?",
+    "pool": ["Coromandal Coast of Tamil Nadu", "Western Ghats", "Eastern Himalayas", "South-Western Punjab", "Delta regions"],
+    "answer": "Coromandal Coast of Tamil Nadu",
+    "desc": "Tropical Dry Evergreen vegetation is found on the Coromandal Coast of Tamil Nadu, with moderate rainfall."
+  },
+  {
+    "q": "What is the temperature range for Tropical Semi-Evergreen vegetation?",
+    "pool": ["25-27°C", "20-25°C", "30-35°C", "15-20°C", "35-40°C"],
+    "answer": "25-27°C",
+    "desc": "Tropical Semi-Evergreen vegetation thrives at a temperature of 25-27°C with 20-250 cm rainfall."
+  },
+  {
+    "q": "Which species is associated with Tropical Wet Evergreen vegetation?",
+    "pool": ["Mango, Agar, Hopea", "Babul, Acacia, Khair", "Teak, Sandalwood, Ebony", "Kusum, Mesua, Indian Chestnut", "Sal, Teak, Khair"],
+    "answer": "Mango, Agar, Hopea",
+    "desc": "Tropical Wet Evergreen vegetation includes species like Mango, Agar, and Hopea, thriving in high rainfall areas."
+  },
+
+
+  {
+    "q": "In which states is Alluvial soil found?",
+    "pool": ["Punjab, Haryana, Uttar Pradesh", "Kerala, Tamil Nadu", "Rajasthan, Gujarat", "Jammu, Assam", "Odisha, West Bengal"],
+    "answer": "Punjab, Haryana, Uttar Pradesh",
+    "desc": "Alluvial soil is found in Punjab, Haryana, Uttar Pradesh, and Bihar, rich in nitrogen and phosphorus."
+  },
+  {
+    "q": "What is a key composition of Black soil?",
+    "pool": ["Rich in iron", "Rich in calcium", "Rich in nitrogen", "Rich in phosphorus", "Rich in humus"],
+    "answer": "Rich in calcium",
+    "desc": "Black soil, found in Deccan Plateau and other states, is rich in calcium but lacks nitrogen and magnesium."
+  },
+  {
+    "q": "Which crop is grown in Red soil?",
+    "pool": ["Wheat", "Rice", "Cotton", "Tea", "Coffee"],
+    "answer": "Wheat",
+    "desc": "Red soil, found in Tamil Nadu and other states, supports crops like wheat, rice, and cotton."
+  },
+  {
+    "q": "Where is Laterite soil commonly found?",
+    "pool": ["Assam hills, West Bengal", "Punjab, Haryana", "Rajasthan, Gujarat", "Jammu, Assam", "Odisha, Tamil Nadu"],
+    "answer": "Assam hills, West Bengal",
+    "desc": "Laterite soil is found in Assam hills, Andhra Pradesh, West Bengal, and Odisha, rich in iron but poor in silica."
+  },
+  {
+    "q": "What crop is associated with Laterite soil?",
+    "pool": ["Tea", "Wheat", "Jute", "Cotton", "Pulses"],
+    "answer": "Tea",
+    "desc": "Laterite soil supports crops like tea, coffee, rubber, cashew, and millets."
+  },
+  {
+    "q": "Which soil is rich in soluble salts?",
+    "pool": ["Desert soil", "Alluvial soil", "Black soil", "Red soil", "Laterite soil"],
+    "answer": "Desert soil",
+    "desc": "Desert soil, found in North-West India, is rich in soluble salts but deficient in organic matter."
+  },
+  {
+    "q": "What is a deficiency in Mountain soil?",
+    "pool": ["Rich in iron and humus", "Rich in nitrogen", "Deficient in lime", "Rich in phosphorus", "Rich in calcium"],
+    "answer": "Deficient in lime",
+    "desc": "Mountain soil, found in Jammu and Assam hills, is deficient in lime but rich in iron and humus."
+  },
+  {
+    "q": "Which states have Saline and Alkaline soil?",
+    "pool": ["Bihar, Jharkhand", "Punjab, Rajasthan", "Kerala, Odisha", "Tamil Nadu, West Bengal", "Gujarat, Haryana"],
+    "answer": "Punjab, Rajasthan",
+    "desc": "Saline and Alkaline soil is found in drier parts of Bihar, Jharkhand, Punjab, Rajasthan, and Maharashtra."
+  },
+  {
+    "q": "What crop is grown in Alluvial soil?",
+    "pool": ["Rice", "Tea", "Coffee", "Rubber", "Millets"],
+    "answer": "Rice",
+    "desc": "Alluvial soil supports large variety of rabi and kharif crops such as rice, wheat, and cotton."
+  },
+  {
+    "q": "What is a key feature of Black soil?",
+    "pool": ["Lacks nitrogen", "Rich in humus", "Deficient in calcium", "Rich in phosphorus", "Lacks iron"],
+    "answer": "Lacks nitrogen",
+    "desc": "Black soil lacks nitrogen and magnesium but is rich in calcium."
+  },
+  {
+    "q": "Which crop is grown in Desert soil with irrigation?",
+    "pool": ["Barley", "Tea", "Jute", "Coffee", "Rubber"],
+    "answer": "Barley",
+    "desc": "Desert soil, with irrigation, supports drought-resistant crops like barley, cotton, and millets."
+  },
+  {
+    "q": "Where is Red soil found?",
+    "pool": ["Tamil Nadu, Odisha", "Punjab, Haryana", "Jammu, Assam", "Rajasthan, Gujarat", "Kerala, West Bengal"],
+    "answer": "Tamil Nadu, Odisha",
+    "desc": "Red soil is found in eastern parts of Deccan Plateau, Tamil Nadu, and Odisha."
+  },
+  {
+    "q": "What is a deficiency in Laterite soil?",
+    "pool": ["Rich in silica", "Poor in phosphorus", "Rich in nitrogen", "Rich in humus", "Rich in calcium"],
+    "answer": "Poor in silica",
+    "desc": "Laterite soil is rich in iron but poor in silica, lime, and humus."
+  },
+  {
+    "q": "Which soil is suitable for medicinal plants?",
+    "pool": ["Mountain soil", "Desert soil", "Alluvial soil", "Black soil", "Red soil"],
+    "answer": "Mountain soil",
+    "desc": "Mountain soil supports wild flowers, tea, fruits, and medicinal plants."
+  },
+  {
+    "q": "What is a composition of Saline and Alkaline soil?",
+    "pool": ["Rich in nitrogen", "Many salts like sodium, magnesium", "Rich in humus", "Rich in phosphorus", "Rich in calcium"],
+    "answer": "Many salts like sodium, magnesium",
+    "desc": "Saline and Alkaline soil contains many salts like sodium and magnesium, affecting cultivation."
+  },
+  {
+    "q": "Which crop is grown in Black soil?",
+    "pool": ["Cotton", "Tea", "Coffee", "Rice", "Barley"],
+    "answer": "Cotton",
+    "desc": "Black soil supports crops like cotton, sugarcane, jowar, tobacco, and wheat."
+  },
+  {
+    "q": "What is a key feature of Red soil?",
+    "pool": ["Rich in iron", "Rich in nitrogen", "Deficient in humus", "Rich in phosphorus", "Rich in calcium"],
+    "answer": "Rich in iron",
+    "desc": "Red soil is rich in iron and humus but deficient in nitrogen, phosphorus, and humus."
+  },
+  {
+    "q": "Where is Desert soil located?",
+    "pool": ["North Gujarat and Southern Punjab", "Tamil Nadu, Odisha", "Jammu, Assam", "Punjab, Haryana", "Kerala, West Bengal"],
+    "answer": "North Gujarat and Southern Punjab",
+    "desc": "Desert soil is located in North Gujarat and Southern Punjab, rich in soluble salts."
+  },
+  {
+    "q": "What crop is unsuitable for Desert soil without irrigation?",
+    "pool": ["Cotton", "Wheat", "Rice", "Jute", "Barley"],
+    "answer": "Rice",
+    "desc": "Desert soil is generally unsuitable for cultivation without irrigation, especially for water-intensive crops like rice."
+  },
+  {
+    "q": "Which soil is found in the hills of Jammu and Kashmir?",
+    "pool": ["Mountain soil", "Alluvial soil", "Black soil", "Red soil", "Laterite soil"],
+    "answer": "Mountain soil",
+    "desc": "Mountain soil is found in the hills of Jammu, Kashmir, and Assam."
+  },
+  {
+    "q": "What is a deficiency in Desert soil?",
+    "pool": ["Rich in organic matter", "Deficient in organic matter", "Rich in nitrogen", "Rich in phosphorus", "Rich in humus"],
+    "answer": "Deficient in organic matter",
+    "desc": "Desert soil is deficient in organic matter but rich in soluble salts."
+  },
+  {
+    "q": "Which crop is grown in Peaty and Marshy soil?",
+    "pool": ["Rice", "Cotton", "Tea", "Coffee", "Wheat"],
+    "answer": "Rice",
+    "desc": "Peaty and Marshy soil is useful for rice and jute cultivation due to its organic content."
+  },
+  {
+    "q": "What is a key composition of Alluvial soil?",
+    "pool": ["Rich in phosphorus", "Rich in nitrogen", "Rich in iron", "Rich in calcium", "Rich in humus"],
+    "answer": "Rich in nitrogen",
+    "desc": "Alluvial soil is rich in nitrogen and phosphorus, supporting a variety of crops."
+  },
+  {
+    "q": "Where is Peaty and Marshy soil found?",
+    "pool": ["Kerala, coastal Odisha", "Punjab, Haryana", "Rajasthan, Gujarat", "Jammu, Assam", "Tamil Nadu, West Bengal"],
+    "answer": "Kerala, coastal Odisha",
+    "desc": "Peaty and Marshy soil is found in Kerala, coastal regions of Odisha, Tamil Nadu, and Sundarbans of West Bengal."
+  },
+  {
+    "q": "What is a deficiency in Red soil?",
+    "pool": ["Rich in nitrogen", "Deficient in nitrogen", "Rich in humus", "Rich in phosphorus", "Rich in calcium"],
+    "answer": "Deficient in nitrogen",
+    "desc": "Red soil is deficient in nitrogen, phosphorus, and humus but rich in iron."
+  },
+  {
+    "q": "Which crop is grown in Laterite soil?",
+    "pool": ["Coffee", "Wheat", "Jute", "Cotton", "Pulses"],
+    "answer": "Coffee",
+    "desc": "Laterite soil supports crops like coffee, tea, rubber, cashew, and millets."
+  },
+  {
+    "q": "What is a key feature of Mountain soil?",
+    "pool": ["Rich in lime", "Deficient in lime", "Rich in nitrogen", "Rich in phosphorus", "Rich in humus"],
+    "answer": "Deficient in lime",
+    "desc": "Mountain soil is deficient in lime but rich in iron and humus."
+  },
+  {
+    "q": "Which soil supports jute cultivation?",
+    "pool": ["Alluvial soil", "Black soil", "Red soil", "Laterite soil", "Desert soil"],
+    "answer": "Alluvial soil",
+    "desc": "Alluvial soil supports crops like jute, rice, wheat, and cotton."
+  },
+  {
+    "q": "What is a composition of Peaty and Marshy soil?",
+    "pool": ["Rich in organic matter", "Rich in nitrogen", "Rich in calcium", "Rich in phosphorus", "Rich in iron"],
+    "answer": "Rich in organic matter",
+    "desc": "Peaty and Marshy soil contains a large amount of organic matter but lacks potassium and phosphates."
+  },
+  {
+    "q": "Where is Black soil located?",
+    "pool": ["Deccan Plateau, Andhra Pradesh", "Punjab, Haryana", "Rajasthan, Gujarat", "Jammu, Assam", "Kerala, West Bengal"],
+    "answer": "Deccan Plateau, Andhra Pradesh",
+    "desc": "Black soil is located in Deccan Plateau, Andhra Pradesh, Madhya Pradesh, and Tamil Nadu."
+  },
+  {
+    "q": "Which crop is grown in Saline and Alkaline soil with effort?",
+    "pool":[ "Rice", "Cotton", "Tea", "Coffee", "Wheat"],
+    "answer": "Rice",
+    "desc": "Saline and Alkaline soil is useful for rice and jute cultivation with effort due to its salt content."
+  },
+  {
+    "q": "What is a deficiency in Alluvial soil?",
+    "pool": ["Rich in phosphorus", "Deficient in iron", "Rich in nitrogen", "Rich in calcium", "Rich in humus"],
+    "answer": "Deficient in iron",
+    "desc": "Alluvial soil is deficient in iron but rich in nitrogen and phosphorus."
+  },
+  {
+    "q": "Which soil is rich in humus?",
+    "pool": ["Mountain soil", "Desert soil", "Alluvial soil", "Black soil", "Red soil"],
+    "answer": "Mountain soil",
+    "desc": "Mountain soil is rich in iron and humus but deficient in lime."
+  },
+  {
+    "q": "What crop is grown in Red soil?",
+    "pool": ["Cotton", "Tea", "Coffee", "Rubber", "Millets"],
+    "answer": "Cotton",
+    "desc": "Red soil supports crops like cotton, wheat, rice, and pulses."
+  },
+  {
+    "q": "Where is Laterite soil found?",
+    "pool": ["West Bengal, Odisha", "Punjab, Haryana", "Rajasthan, Gujarat", "Jammu, Assam", "Kerala, Tamil Nadu"],
+    "answer": "West Bengal, Odisha",
+    "desc": "Laterite soil is found in Assam hills, West Bengal, and Odisha."
+  },
+  {
+    "q": "What is a key feature of Desert soil?",
+    "pool": ["Rich in organic matter", "Deficient in organic matter", "Rich in nitrogen", "Rich in phosphorus", "Rich in calcium"],
+    "answer": "Deficient in organic matter",
+    "desc": "Desert soil is deficient in organic matter but rich in soluble salts."
+  },
+  {
+    "q": "Which crop is grown in Mountain soil?",
+    "pool": ["Fruits", "Wheat", "Jute", "Cotton", "Pulses"],
+    "answer": "Fruits",
+    "desc": "Mountain soil supports wild flowers, tea, fruits, and medicinal plants."
+  },
+  {
+    "q": "What is a composition of Black soil?",
+    "pool": ["Rich in magnesium", "Rich in nitrogen", "Rich in phosphorus", "Rich in humus", "Rich in iron"],
+    "answer": "Rich in magnesium",
+    "desc": "Black soil is rich in calcium and magnesium but lacks nitrogen."
+  },
+  {
+    "q": "Where is Alluvial soil found?",
+    "pool": ["Bihar, Uttar Pradesh", "Rajasthan, Gujarat", "Jammu, Assam", "Kerala, West Bengal", "Tamil Nadu, Odisha"],
+    "answer": "Bihar, Uttar Pradesh",
+    "desc": "Alluvial soil is found in Punjab, Haryana, Uttar Pradesh, and Bihar."
+  },
+  {
+    "q": "Which crop is unsuitable for Saline and Alkaline soil?",
+    "pool": ["Wheat", "Rice", "Jute", "Cotton", "Barley"],
+    "answer": "Wheat",
+    "desc": "Saline and Alkaline soil is generally unsuitable for wheat due to high salt content."
+  },
+
+
+  {
+    "q": "Where is Tropical Evergreen forest found?",
+    "pool": ["Rainy slopes of Western Ghats", "Eastern Ghats", "North East India", "Rajasthan", "Punjab"],
+    "answer": "Rainy slopes of Western Ghats",
+    "desc": "Tropical Evergreen forests are found on the rainy slopes of Western Ghats, North East India, and Andaman and Nicobar Islands."
+  },
+  {
+    "q": "What is the rainfall range for Tropical Evergreen forests?",
+    "pool": ["> 200 cm", "50 to 100 cm", "100 to 200 cm", "< 50 cm", "150 cm"],
+    "answer": "> 200 cm",
+    "desc": "Tropical Evergreen forests require rainfall greater than 200 cm with high humidity."
+  },
+  {
+    "q": "What is a characteristic of Tropical Evergreen forests?",
+    "pool": ["Leaves are dark green", "Trees shed leaves", "Thorn vegetation", "Roots are very long", "Height is 6 to 15 m"],
+    "answer": "Leaves are dark green",
+    "desc": "Tropical Evergreen forests have leaves that are dark green and broad, with a height of 40 to 60 m."
+  },
+  {
+    "q": "Which species is found in Tropical Evergreen forests?",
+    "pool": ["Teak", "Bamboo", "Cactus", "Acacia", "Kusum"],
+    "answer": "Bamboo",
+    "desc": "Species like Bamboo, Mahogany, and Mahua are found in Tropical Evergreen forests."
+  },
+  {
+    "q": "What is the temperature condition for Tropical Moist Deciduous forests?",
+    "pool": ["Hot and humid", "Moderate temperature", "Low rainfall", "High temperature", "Cold climate"],
+    "answer": "Moderate temperature",
+    "desc": "Tropical Moist Deciduous forests have a moderate temperature with 100 to 200 cm rainfall."
+  },
+  {
+    "q": "Where are Tropical Moist Deciduous forests located?",
+    "pool": ["Eastern Ghats", "Rajasthan", "Western Ghats", "Andaman Islands", "Punjab"],
+    "answer": "Eastern Ghats",
+    "desc": "Tropical Moist Deciduous forests are found in Eastern Ghats, North East India, and foothills of Himalayas."
+  },
+  {
+    "q": "What is a key feature of Tropical Moist Deciduous forests?",
+    "pool": ["Leaves are dark green", "Trees shed leaves", "Thorn vegetation", "Roots are very long", "Height is 40 m"],
+    "answer": "Trees shed leaves",
+    "desc": "Tropical Moist Deciduous forests have trees that shed leaves due to water deficiency in summer."
+  },
+  {
+    "q": "Which species is associated with Tropical Moist Deciduous forests?",
+    "pool": ["Bamboo", "Teak", "Cactus", "Acacia", "Mahua"],
+    "answer": "Teak",
+    "desc": "Species like Teak, Kusum, and Sandalwood are found in Tropical Moist Deciduous forests."
+  },
+  {
+    "q": "What is the rainfall range for Tropical Dry Deciduous forests?",
+    "pool": ["> 200 cm", "50 to 100 cm", "100 to 200 cm", "< 50 cm", "150 cm"],
+    "answer": "50 to 100 cm",
+    "desc": "Tropical Dry Deciduous forests require 50 to 100 cm rainfall with moderate humidity."
+  },
+  {
+    "q": "Where are Tropical Dry Deciduous forests found?",
+    "pool": ["Maharashtra, Andhra Pradesh", "Western Ghats", "Rajasthan", "North East India", "Punjab"],
+    "answer": "Maharashtra, Andhra Pradesh",
+    "desc": "Tropical Dry Deciduous forests are found in large parts of Maharashtra and Andhra Pradesh."
+  },
+  {
+    "q": "What is the height range of trees in Tropical Dry Deciduous forests?",
+    "pool": ["40 to 60 m", "6 to 15 m", "20 to 30 m", "10 to 20 m", "30 to 40 m"],
+    "answer": "6 to 15 m",
+    "desc": "Tropical Dry Deciduous forests have trees with a height of 6 to 15 m and thick, long roots."
+  },
+  {
+    "q": "Which species is found in Tropical Dry Deciduous forests?",
+    "pool": ["Mahua", "Teak", "Bamboo", "Cactus", "Kusum"],
+    "answer": "Teak",
+    "desc": "Species like Teak, Sal, and Bamboo are found in Tropical Dry Deciduous forests."
+  },
+  {
+    "q": "What is the rainfall condition for Dry Forests or Arid forests?",
+    "pool": ["> 200 cm", "50 to 100 cm", "< 50 cm", "100 to 200 cm", "150 cm"],
+    "answer": "< 50 cm",
+    "desc": "Dry Forests or Arid forests have low rainfall less than 50 cm per annum."
+  },
+  {
+    "q": "Where are Dry Forests or Arid forests located?",
+    "pool": ["Rajasthan, Gujarat", "Western Ghats", "North East India", "Eastern Ghats", "Punjab"],
+    "answer": "Rajasthan, Gujarat",
+    "desc": "Dry Forests or Arid forests are found in Rajasthan, Gujarat, and adjoining areas of Punjab."
+  },
+  {
+    "q": "What is a characteristic of Dry Forests or Arid forests?",
+    "pool": ["Leaves are dark green", "Thorn vegetation", "Trees shed leaves", "Height is 40 m", "Roots are short"],
+    "answer": "Thorn vegetation",
+    "desc": "Dry Forests or Arid forests feature thorny vegetation with very long roots and small leaves."
+  },
+  {
+    "q": "Which species is associated with Dry Forests or Arid forests?",
+    "pool": ["Cactus", "Bamboo", "Teak", "Mahua", "Kusum"],
+    "answer": "Cactus",
+    "desc": "Species like Cactus, Acacia, and Euphorbias are found in Dry Forests or Arid forests."
+  },
+  {
+    "q": "What is the humidity level in Tropical Evergreen forests?",
+    "pool": ["< 70%", "> 70%", "50%", "30%", "90%"],
+    "answer": "> 70%",
+    "desc": "Tropical Evergreen forests have a relative humidity greater than 70%."
+  },
+  {
+    "q": "What is the height of trees in Tropical Moist Deciduous forests?",
+    "pool": ["6 to 15 m", "40 to 60 m", "20 to 30 m", "10 to 20 m", "30 to 40 m"],
+    "answer": "20 to 30 m",
+    "desc": "Tropical Moist Deciduous forests have trees with a height of 20 to 30 m."
+  },
+  {
+    "q": "Which region covers about 20% of India's forest?",
+    "pool": ["Tropical Moist Deciduous", "Tropical Evergreen", "Dry Forests", "Tropical Dry Deciduous", "All regions"],
+    "answer": "Tropical Moist Deciduous",
+    "desc": "Tropical Moist Deciduous forests cover about 20% of India's forest area."
+  },
+  {
+    "q": "What is the temperature condition for Dry Forests or Arid forests?",
+    "pool": ["Hot and humid", "Moderate temperature", "Low rainfall", "High temperature", "Cold climate"],
+    "answer": "Low rainfall",
+    "desc": "Dry Forests or Arid forests are characterized by low rainfall less than 50 cm."
+  },
+  {
+    "q": "Which species is not found in Tropical Evergreen forests?",
+    "pool": ["Jamun", "Teak", "Hopea", "Rubber", "Cactus"],
+    "answer": "Teak",
+    "desc": "Teak is not typically found in Tropical Evergreen forests; it is more common in Moist Deciduous forests."
+  },
+  {
+    "q": "What is a key feature of Tropical Dry Deciduous forests?",
+    "pool": ["Leaves are broad", "Roots are thick and long", "Height is 40 m", "Dense forest", "Thorn vegetation"],
+    "answer": "Roots are thick and long",
+    "desc": "Tropical Dry Deciduous forests have thick and long roots to adapt to moderate rainfall."
+  },
+  {
+    "q": "Where are Tropical Evergreen forests not found?",
+    "pool": ["Rajasthan", "Western Ghats", "North East India", "Andaman Islands", "Odisha"],
+    "answer": "Rajasthan",
+    "desc": "Tropical Evergreen forests are not found in Rajasthan due to low rainfall."
+  },
+  {
+    "q": "What is the humidity level in Tropical Moist Deciduous forests?",
+    "pool": ["< 70%", "> 70%", "50%", "30%", "90%"],
+    "answer": "> 70%",
+    "desc": "Tropical Moist Deciduous forests have a relative humidity greater than 70%."
+  },
+  {
+    "q": "Which species is found in Tropical Moist Deciduous forests?",
+    "pool": ["Sandalwood", "Cactus", "Acacia", "Euphorbias", "Bamboo"],
+    "answer": "Sandalwood",
+    "desc": "Sandalwood is a species found in Tropical Moist Deciduous forests."
+  },
+  {
+    "q": "What is the rainfall range for Tropical Moist Deciduous forests?",
+    "pool": ["> 200 cm", "50 to 100 cm", "100 to 200 cm", "< 50 cm", "150 cm"],
+    "answer": "100 to 200 cm",
+    "desc": "Tropical Moist Deciduous forests require 100 to 200 cm rainfall."
+  },
+  {
+    "q": "Where are Dry Forests or Arid forests not located?",
+    "pool": ["Western Ghats", "Rajasthan", "Gujarat", "Punjab", "Maharashtra"],
+    "answer": "Western Ghats",
+    "desc": "Dry Forests or Arid forests are not located in Western Ghats, which have higher rainfall."
+  },
+  {
+    "q": "What is a characteristic of Tropical Evergreen forests?",
+    "pool": ["Trees shed leaves", "Leaves are small", "Height is 6 to 15 m", "Thorn vegetation", "Roots are very long"],
+    "answer": "Height is 40 to 60 m",
+    "desc": "Tropical Evergreen forests have a height of 40 to 60 m with dark green leaves."
+  },
+  {
+    "q": "Which species is associated with Tropical Dry Deciduous forests?",
+    "pool": ["Mahua", "Jamun", "Hopea", "Rubber", "Cactus"],
+    "answer": "Mahua",
+    "desc": "Mahua is a species found in Tropical Dry Deciduous forests."
+  },
+  {
+    "q": "What is the humidity condition for Tropical Dry Deciduous forests?",
+    "pool": ["High humidity", "Moderate humidity", "Low humidity", "No humidity", "High temperature"],
+    "answer": "Moderate humidity",
+    "desc": "Tropical Dry Deciduous forests have moderate humidity with 50 to 100 cm rainfall."
+  },
+
+
+  {
+    "q": "What type of wind system is the monsoon characterized as?",
+    "pool": ["Cyclonic winds", "Local winds", "Trade winds", "Periodic winds", "Permanent winds"],
+    "answer": "Periodic winds",
+    "desc": "Monsoons are periodic winds that show seasonal reversal in wind direction."
+  },
+  {
+    "q": "When does the South West Monsoon occur?",
+    "pool": ["March and April", "June and July", "August and September", "October and November", "December and January"],
+    "answer": "June and July",
+    "desc": "South West Monsoon occurs during June and July."
+  },
+  {
+    "q": "Which months are associated with the North East Monsoon?",
+    "pool": ["June to September", "October to December", "January to March", "March to May", "May to July"],
+    "answer": "October to December",
+    "desc": "North East Monsoon occurs from September to December."
+  },
+  {
+    "q": "Which region in India experiences Tropical Rain Forest climate?",
+    "pool": ["Punjab", "Western Ghats", "Thar Desert", "Himalayas", "Rajasthan"],
+    "answer": "Western Ghats",
+    "desc": "Western Ghats, West Coastal Plains, and parts of Assam have a Tropical Rain Forest climate."
+  },
+  {
+    "q": "What is the annual rainfall in Tropical Rain Forest regions of India?",
+    "pool": ["50 cm", "100 cm", "150 cm", "200 cm", "250 cm"],
+    "answer": "200 cm",
+    "desc": "Tropical Rain Forests receive around 200 cm of rainfall annually (May to November)."
+  },
+  {
+    "q": "What kind of winters does the Tropical Savana Climate experience?",
+    "pool": ["Severe winters", "Mild winters", "Dry winters", "Wet winters", "No winters"],
+    "answer": "Dry winters",
+    "desc": "Tropical Savana Climate regions have dry winters."
+  },
+  {
+    "q": "Which climate type is found in the rainshadow belt from Maharashtra to Tamil Nadu?",
+    "pool": ["Mountain Climate", "Tropical Desert", "Tropical Savana", "Tropical Semi-Arid Steppe", "Sub-tropical Steppe"],
+    "answer": "Tropical Semi-Arid Steppe",
+    "desc": "This belt, running southward from Maharashtra to Tamil Nadu, has a Tropical Semi-Arid Steppe Climate."
+  },
+  {
+    "q": "What is the temperature range in the Tropical Semi-Arid Steppe Climate?",
+    "pool": ["15° to 25°C", "18° to 28°C", "20° to 30°C", "25° to 35°C", "10° to 20°C"],
+    "answer": "20° to 30°C",
+    "desc": "Temperature in Tropical Semi-Arid Steppe regions varies from 20° to 30°C."
+  },
+  {
+    "q": "Which Indian states have Tropical and Sub-tropical Steppes?",
+    "pool": ["Maharashtra and Gujarat", "Haryana and Punjab", "Rajasthan and MP", "Tamil Nadu and Kerala", "Assam and Nagaland"],
+    "answer": "Haryana and Punjab",
+    "desc": "Tropical and Sub-tropical Steppes are found in Punjab, Haryana, and Kachchh region."
+  },
+  {
+    "q": "What is the temperature range in Sub-tropical Steppe regions?",
+    "pool": ["10°–25°C", "15°–30°C", "12°–35°C", "20°–40°C", "5°–15°C"],
+    "answer": "12°–35°C",
+    "desc": "Temperatures in these regions vary between 12°–35°C."
+  },
+  {
+    "q": "Which region is associated with Tropical Desert climate?",
+    "pool": ["Assam", "Himalayas", "Punjab", "Western parts of Rajasthan", "Andaman Islands"],
+    "answer": "Western parts of Rajasthan",
+    "desc": "Barmer, Jaisalmer and Bikaner regions fall under Tropical Desert Climate."
+  },
+  {
+    "q": "What is the main characteristic of rainfall in Tropical Desert climate?",
+    "pool": ["Heavy and consistent", "Scanty and cloudburst", "Moderate and seasonal", "Continuous drizzle", "Snowfall"],
+    "answer": "Scanty and cloudburst",
+    "desc": "Tropical deserts receive scanty rainfall, often as cloudbursts."
+  },
+  {
+    "q": "Which region in India has a Humid Sub-tropical Climate with dry winters?",
+    "pool": ["North-East India", "South of Himalayas", "Punjab", "Western Ghats", "Tamil Nadu"],
+    "answer": "South of Himalayas",
+    "desc": "Humid Sub-tropical Climate with dry winters is found south of the Himalayas."
+  },
+  {
+    "q": "What are the summers like in Humid Sub-tropical Climate?",
+    "pool": ["Cool", "Pleasant", "Very hot", "Extremely hot", "Moderate"],
+    "answer": "Extremely hot",
+    "desc": "Regions with Humid Sub-tropical Climate have mild winters and extremely hot summers."
+  },
+  {
+    "q": "What altitude marks the start of Mountain Climate in India?",
+    "pool": ["1000 m", "2000 m", "4000 m", "6000 m", "8000 m"],
+    "answer": "6000 m",
+    "desc": "Mountain Climate occurs above 6000 m or more."
+  },
+  {
+    "q": "What is the rainfall range in Mountain Climate regions?",
+    "pool": ["25–50 cm", "40–70 cm", "63.5–254 cm", "100–200 cm", "30–100 cm"],
+    "answer": "63.5–254 cm",
+    "desc": "Mountain Climate regions receive rainfall between 63.5 to 254 cm."
+  },
+  {
+    "q": "When does most rainfall occur in Mountain Climate?",
+    "pool": ["Winter", "Pre-monsoon", "Post-monsoon", "South-West Monsoon", "North-East Monsoon"],
+    "answer": "South-West Monsoon",
+    "desc": "Rainfall in mountain regions mostly occurs during the South-West Monsoon."
+  },
+  {
+    "q": "Which season in India occurs from June to September?",
+    "pool": ["Winter", "Summer", "Rainy", "Spring", "Autumn"],
+    "answer": "Rainy",
+    "desc": "Rainy season in India spans June to September."
+  },
+  {
+    "q": "When does the Summer Season occur in India?",
+    "pool": ["December to February", "March to May", "June to August", "September to November", "October to December"],
+    "answer": "March to May",
+    "desc": "Summer season occurs from mid-March to May."
+  },
+  {
+    "q": "Which season is also known as the Season of Retreating Monsoon?",
+    "pool": ["Winter", "Summer", "Rainy", "Autumn", "Post-Monsoon"],
+    "answer": "Post-Monsoon",
+    "desc": "The season from October to December is known as Retreating Monsoon or Post-Monsoon season."
+  },
+  {
+    "q": "What is the rainfall range in Tropical Savana regions?",
+    "pool": ["30–70 cm", "76–150 cm", "150–200 cm", "50–100 cm", "100–180 cm"],
+    "answer": "76–150 cm",
+    "desc": "Tropical Savana Climate has annual rainfall from 76 cm to 150 cm."
+  },
+  {
+    "q": "Which part of India has most of the Tropical Savana climate?",
+    "pool": ["North-East", "Western Ghats", "Himalayas", "Peninsular India", "Kashmir Valley"],
+    "answer": "Peninsular India",
+    "desc": "Most of Peninsular India (except leeward side of Western Ghats) has a Tropical Savana climate."
+  },
+  {
+    "q": "What is the key feature of Tropical Rain Forest climate?",
+    "pool": ["Low rainfall", "Low temperature", "Dry climate", "High temperature and heavy rainfall", "Snowfall"],
+    "answer": "High temperature and heavy rainfall",
+    "desc": "Tropical Rain Forests experience high temperatures year-round and heavy seasonal rainfall."
+  },
+  {
+    "q": "Where are the Tropical Semi-Arid Steppe climates not found?",
+    "pool": ["Central Maharashtra", "Tamil Nadu", "Southward Rainshadow belt", "Eastern Himalayas", "Western Ghats leeward side"],
+    "answer": "Eastern Himalayas",
+    "desc": "Eastern Himalayas are not associated with Tropical Semi-Arid Steppe climate."
+  },
+  {
+    "q": "Which region receives rainfall mostly during May to November?",
+    "pool": ["Tropical Desert", "Tropical Rain Forests", "Humid Sub-tropical", "Mountain Climate", "Tropical Savana"],
+    "answer": "Tropical Rain Forests",
+    "desc": "Tropical Rain Forests get heavy seasonal rainfall mainly from May to November."
+  },
+
+
+  {
+    "q": "Which type of mineral is gold classified as?",
+    "pool": ["Non-metallic", "Metallic", "Radioactive", "Organic", "Synthetic"],
+    "answer": "Metallic",
+    "desc": "Gold is a metallic mineral along with iron, copper, aluminium, and others."
+  },
+  {
+    "q": "Which mineral is found in West Bengal, Jharkhand, Odisha, Madhya Pradesh, and Chhattisgarh?",
+    "pool": ["Gold", "Coal", "Iron", "Mica", "Bauxite"],
+    "answer": "Coal",
+    "desc": "Coal is widely found in these eastern and central Indian states."
+  },
+  {
+    "q": "In which states is copper primarily found?",
+    "pool": ["Karnataka and Odisha", "Maharashtra and Gujarat", "Madhya Pradesh and Rajasthan", "Kerala and Assam", "Tamil Nadu and Bihar"],
+    "answer": "Madhya Pradesh and Rajasthan",
+    "desc": "Copper is mainly found in Madhya Pradesh, Rajasthan, Jharkhand, and Karnataka."
+  },
+  {
+    "q": "Which mineral is extracted from Karnataka and Andhra Pradesh?",
+    "pool": ["Coal", "Mica", "Gold", "Iron", "Thorium"],
+    "answer": "Gold",
+    "desc": "Gold is found in Karnataka (notably Kolar region) and Andhra Pradesh."
+  },
+  {
+    "q": "Iron is found in which of the following states?",
+    "pool": ["Gujarat, Rajasthan, Bihar", "Karnataka, Chhattisgarh, Jharkhand", "Punjab, Haryana, Tamil Nadu", "Kerala, Goa, Maharashtra", "Sikkim, Assam, Tripura"],
+    "answer": "Karnataka, Chhattisgarh, Jharkhand",
+    "desc": "These states are rich in iron ore resources."
+  },
+  {
+    "q": "Which mineral is found in Odisha, Jharkhand, Gujarat, and Madhya Pradesh?",
+    "pool": ["Gold", "Bauxite", "Coal", "Zinc", "Silver"],
+    "answer": "Bauxite",
+    "desc": "Bauxite, the ore of aluminium, is found in these states."
+  },
+  {
+    "q": "Which mineral is primarily found in Jharkhand, Andhra Pradesh, and Rajasthan?",
+    "pool": ["Mica", "Thorium", "Gold", "Copper", "Coal"],
+    "answer": "Mica",
+    "desc": "India is one of the largest producers of mica, particularly in these states."
+  },
+  {
+    "q": "Which mineral is extracted from Assam, Gujarat, and Mumbai High?",
+    "pool": ["Coal", "Petroleum", "Uranium", "Iron", "Gold"],
+    "answer": "Petroleum",
+    "desc": "Petroleum is found in Assam, Gujarat, Mumbai High and Bassein."
+  },
+  {
+    "q": "Where is uranium found in India?",
+    "pool": ["Tamil Nadu and Kerala", "Assam and Nagaland", "Jharkhand and Rajasthan", "Madhya Pradesh and Odisha", "Haryana and Punjab"],
+    "answer": "Jharkhand and Rajasthan",
+    "desc": "Uranium is mined from Jharkhand, Rajasthan, Andhra Pradesh, and Karnataka."
+  },
+  {
+    "q": "Thorium is mainly found in which part of India?",
+    "pool": ["Kashmir Valley", "Kerala Coast", "Rajasthan Desert", "Punjab Plains", "Assam Hills"],
+    "answer": "Kerala Coast",
+    "desc": "Thorium is primarily found in monazite sands along the Kerala coast."
+  },
+  {
+    "q": "Which mineral is found in the rocks of the Aravalli in Rajasthan?",
+    "pool": ["Coal", "Thorium", "Uranium", "Gold", "Silver"],
+    "answer": "Thorium",
+    "desc": "Thorium is also found in the rocks of the Aravalli range."
+  },
+  {
+    "q": "Silver, zinc, and lead are found in which Indian state?",
+    "pool": ["Karnataka", "Rajasthan", "Odisha", "Bihar", "Uttar Pradesh"],
+    "answer": "Rajasthan",
+    "desc": "Rajasthan has rich deposits of silver, zinc, and lead."
+  },
+  {
+    "q": "Which state is associated with the Kolar mines?",
+    "pool": ["Tamil Nadu", "Kerala", "Karnataka", "Maharashtra", "Rajasthan"],
+    "answer": "Karnataka",
+    "desc": "Kolar mines in Karnataka are famous for gold and also contain silver, zinc, and lead."
+  },
+  {
+    "q": "Diamond mines are located in which districts?",
+    "pool": ["Bhopal and Indore", "Panna and Banda", "Nagpur and Jabalpur", "Dhanbad and Bokaro", "Surat and Bhavnagar"],
+    "answer": "Panna and Banda",
+    "desc": "Panna (MP) and Banda (UP) are known for diamond deposits."
+  },
+  {
+    "q": "Which mineral is found in both Andhra Pradesh and Rajasthan?",
+    "pool": ["Gold", "Thorium", "Mica", "Iron", "Coal"],
+    "answer": "Mica",
+    "desc": "Mica is available in both Andhra Pradesh and Rajasthan."
+  },
+  {
+    "q": "Which mineral belongs to the radioactive category?",
+    "pool": ["Coal", "Gold", "Uranium", "Bauxite", "Iron"],
+    "answer": "Uranium",
+    "desc": "Uranium and thorium are classified as radioactive minerals."
+  },
+  {
+    "q": "Which mineral is non-metallic?",
+    "pool": ["Iron", "Copper", "Mica", "Gold", "Silver"],
+    "answer": "Mica",
+    "desc": "Mica is a non-metallic mineral used in electrical and thermal insulation."
+  },
+  {
+    "q": "Which rocks are the richest in mineral deposits in India?",
+    "pool": ["Vindhyan Rocks", "Himalayan Rocks", "Gondwana Rocks", "Deccan Traps", "Aravalli Range"],
+    "answer": "Gondwana Rocks",
+    "desc": "Gondwana rocks (Chhotanagpur Plateau) are rich in mineral deposits."
+  },
+  {
+    "q": "What are the main minerals found in Jharkhand?",
+    "pool": ["Iron, Coal, Uranium, Bauxite", "Thorium, Zinc, Gold", "Petroleum, Mica, Copper", "Silver, Diamond, Thorium", "Manganese, Coal, Tin"],
+    "answer": "Iron, Coal, Uranium, Bauxite",
+    "desc": "Jharkhand is rich in iron ore, coal, uranium, and bauxite."
+  },
+  {
+    "q": "Which of the following is NOT a metallic mineral?",
+    "pool": ["Iron", "Gold", "Copper", "Coal", "Silver"],
+    "answer": "Coal",
+    "desc": "Coal is a non-metallic mineral used mainly for energy."
+  }
+]

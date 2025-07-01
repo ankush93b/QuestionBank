@@ -1,0 +1,484 @@
+[
+  {
+    "q": "What does the term 'environment' refer to?",
+    "pool": [
+      "Only living conditions around us",
+      "Only non-living things in nature",
+      "All external conditions, living and non-living, that affect organisms",
+      "The atmosphere only",
+      "Climate and weather only"
+    ],
+    "answer": "All external conditions, living and non-living, that affect organisms",
+    "desc": "The environment includes all external factors—both biotic and abiotic—that influence any living organism or system."
+  },
+  {
+    "q": "What is the focus of the scientific field of ecology?",
+    "pool": [
+      "Climate patterns and forecasting",
+      "Interactions among planets",
+      "Study of relationships between organisms and their environment",
+      "Study of chemical reactions",
+      "Soil composition analysis"
+    ],
+    "answer": "Study of relationships between organisms and their environment",
+    "desc": "Ecology is the study of how organisms interact with each other and with their physical surroundings."
+  },
+  {
+    "q": "Which of the following best defines an ecosystem?",
+    "pool": [
+      "A group of the same species living together",
+      "A physical place like a desert",
+      "A unit with organisms interacting with their environment and energy flow",
+      "A single organism in its habitat",
+      "Only non-living components of a region"
+    ],
+    "answer": "A unit with organisms interacting with their environment and energy flow",
+    "desc": "An ecosystem includes all living organisms in a given area interacting with the physical environment."
+  },
+  {
+    "q": "What term is used for terrestrial regions with specific vegetation and life forms?",
+    "pool": [
+      "Biosphere",
+      "Ecosystem",
+      "Biome",
+      "Wetland",
+      "Habitat"
+    ],
+    "answer": "Biome",
+    "desc": "Biomes are large terrestrial areas defined by their vegetation and life forms, such as forests and deserts."
+  },
+  {
+    "q": "Which of the following is NOT typically considered a wetland?",
+    "pool": [
+      "Marshes",
+      "Swamps",
+      "Lakes",
+      "Saltwater flats",
+      "Freshwater bogs"
+    ],
+    "answer": "Lakes",
+    "desc": "Wetlands are areas covered by water part or all of the time, excluding lakes and open oceans."
+  },
+  {
+    "q": "What does biodiversity include?",
+    "pool": [
+      "Only genetic differences in humans",
+      "Only animal species",
+      "Species, genetic, ecological, and functional diversity",
+      "Only ecosystem variety",
+      "Climate patterns"
+    ],
+    "answer": "Species, genetic, ecological, and functional diversity",
+    "desc": "Biodiversity encompasses variation among species, within species, among ecosystems, and the roles species play."
+  },
+  {
+    "q": "Where is life found on Earth?",
+    "pool": [
+      "Only in the atmosphere",
+      "Only in forests",
+      "In the biosphere, which includes parts of atmosphere, hydrosphere, and lithosphere",
+      "Only in water bodies",
+      "Only on land"
+    ],
+    "answer": "In the biosphere, which includes parts of atmosphere, hydrosphere, and lithosphere",
+    "desc": "The biosphere includes all regions of Earth where life exists—land, water, and air."
+  },
+  {
+    "q": "What does the term 'wildlife' commonly refer to?",
+    "pool": [
+      "Only domesticated animals",
+      "All free, undomesticated species",
+      "Only endangered species",
+      "Only forest animals",
+      "Insects and birds only"
+    ],
+    "answer": "All free, undomesticated species",
+    "desc": "Wildlife includes all species of animals and plants that are not domesticated or tamed."
+  },
+  {
+    "q": "Which of the following includes both living and non-living components?",
+    "pool": [
+      "Species",
+      "Biome",
+      "Ecosystem",
+      "Gene pool",
+      "Climate"
+    ],
+    "answer": "Ecosystem",
+    "desc": "An ecosystem consists of living organisms and non-living environmental factors in interaction."
+  },
+  {
+    "q": "What component of Earth includes the oceans and groundwater?",
+    "pool": [
+      "Lithosphere",
+      "Hydrosphere",
+      "Atmosphere",
+      "Stratosphere",
+      "Biosphere"
+    ],
+    "answer": "Hydrosphere",
+    "desc": "The hydrosphere includes all of Earth’s water, such as oceans, lakes, rivers, and groundwater."
+  },
+  {
+    "q": "What are the main types of biodiversity?",
+    "pool": [
+      "Genetic and climatic",
+      "Species, genetic, ecological, functional",
+      "Species and atmospheric",
+      "Genetic and geographical",
+      "Species and chemical"
+    ],
+    "answer": "Species, genetic, ecological, functional",
+    "desc": "Biodiversity includes variety at different levels: species, genes, ecosystems, and ecological roles."
+  },
+  {
+    "q": "Which region is characterized by specific vegetation and climate?",
+    "pool": [
+      "Habitat",
+      "Biome",
+      "Zone",
+      "Territory",
+      "Watershed"
+    ],
+    "answer": "Biome",
+    "desc": "Biomes are large ecological areas classified by their climate and predominant vegetation."
+  },
+  {
+    "q": "Which term refers to the sum of all ecosystems on Earth?",
+    "pool": [
+      "Biosphere",
+      "Biome",
+      "Habitat",
+      "Ecosystem",
+      "Lithosphere"
+    ],
+    "answer": "Biosphere",
+    "desc": "The biosphere is the global sum of all ecosystems where life exists."
+  },
+  {
+    "q": "What best describes functional diversity?",
+    "pool": [
+      "Differences in climate",
+      "Energy flow and nutrient cycling roles",
+      "Variety in species population",
+      "Different types of landforms",
+      "Variations in soil type"
+    ],
+    "answer": "Energy flow and nutrient cycling roles",
+    "desc": "Functional diversity refers to the range of biological processes like energy flow and nutrient cycling."
+  },
+  {
+    "q": "Which component of the biosphere contains soil and surface rocks?",
+    "pool": [
+      "Atmosphere",
+      "Hydrosphere",
+      "Lithosphere",
+      "Cryosphere",
+      "Stratosphere"
+    ],
+    "answer": "Lithosphere",
+    "desc": "The lithosphere is the solid outer layer of Earth, including rocks, soil, and sediments."
+  },
+  {
+    "q": "Which sphere of Earth includes the air we breathe?",
+    "pool": [
+      "Stratosphere",
+      "Biosphere",
+      "Hydrosphere",
+      "Troposphere",
+      "Lithosphere"
+    ],
+    "answer": "Troposphere",
+    "desc": "The troposphere is the lowest layer of the atmosphere where most weather and breathable air exist."
+  },
+  {
+    "q": "Which is not part of the biosphere?",
+    "pool": [
+      "Troposphere",
+      "Hydrosphere",
+      "Lithosphere",
+      "Thermosphere",
+      "Oceans"
+    ],
+    "answer": "Thermosphere",
+    "desc": "The thermosphere is too high for life and thus not part of the biosphere."
+  },
+  {
+    "q": "Which of the following describes wetlands?",
+    "pool": [
+      "Forests with high rainfall",
+      "Deserts with sand dunes",
+      "Land covered part of the time with water",
+      "Mountains with snow",
+      "Rocky areas near rivers"
+    ],
+    "answer": "Land covered part of the time with water",
+    "desc": "Wetlands are areas partially submerged in water, supporting specific plant and animal life."
+  },
+  {
+    "q": "Which of the following is a function of an ecosystem?",
+    "pool": [
+      "Species extinction",
+      "Air pollution",
+      "Energy flow and matter cycling",
+      "Urban development",
+      "Global warming"
+    ],
+    "answer": "Energy flow and matter cycling",
+    "desc": "Ecosystems manage the movement of energy and materials essential for life."
+  },
+  {
+    "q": "Which type of diversity refers to the number of different species in a given area?",
+    "pool": [
+      "Genetic diversity",
+      "Functional diversity",
+      "Ecological diversity",
+      "Species diversity",
+      "Cultural diversity"
+    ],
+    "answer": "Species diversity",
+    "desc": "Species diversity refers to the variety of species within a particular habitat or region."
+  },
+
+
+  {
+    "q": "What are 'threatened species'?",
+    "pool": [
+      "Species that are extinct",
+      "Species that are thriving in all ecosystems",
+      "Species likely to become endangered due to declining numbers",
+      "Domesticated animals",
+      "Non-native invasive species"
+    ],
+    "answer": "Species likely to become endangered due to declining numbers",
+    "desc": "Threatened species are those that are still abundant but are at risk of becoming endangered in the near future."
+  },
+  {
+    "q": "What is ozone (O₃)?",
+    "pool": [
+      "A greenhouse gas that traps heat",
+      "A colourless, highly reactive gas found in photochemical smog and the stratosphere",
+      "A component of acid rain",
+      "A pollutant found only indoors",
+      "A liquid pollutant in oceans"
+    ],
+    "answer": "A colourless, highly reactive gas found in photochemical smog and the stratosphere",
+    "desc": "Ozone protects us from UV rays in the stratosphere but acts as a pollutant in the lower atmosphere."
+  },
+  {
+    "q": "What does 'smog' refer to today?",
+    "pool": [
+      "A mix of smoke and clouds",
+      "Natural mist in the mountains",
+      "Any mixture of pollutants in the atmosphere",
+      "Rain mixed with dust",
+      "Fog near forests"
+    ],
+    "answer": "Any mixture of pollutants in the atmosphere",
+    "desc": "Originally a mix of smoke and fog, smog now refers to polluted air from various sources."
+  },
+  {
+    "q": "What causes acid rain?",
+    "pool": [
+      "Excessive sunlight",
+      "Burning of fossil fuels releasing sulfur and nitrogen oxides",
+      "Carbon dioxide mixing with rain",
+      "Evaporation of polluted water",
+      "High humidity"
+    ],
+    "answer": "Burning of fossil fuels releasing sulfur and nitrogen oxides",
+    "desc": "Acid rain forms when sulfur and nitrogen oxides from fossil fuels mix with water vapor."
+  },
+  {
+    "q": "What is global warming?",
+    "pool": [
+      "Cooling of Earth's surface due to ozone depletion",
+      "Warming of the troposphere due to increased greenhouse gases",
+      "Increase in volcano activity",
+      "Sudden climate changes during monsoon",
+      "Heat generated from forests"
+    ],
+    "answer": "Warming of the troposphere due to increased greenhouse gases",
+    "desc": "Global warming is caused by the buildup of greenhouse gases that trap heat in the atmosphere."
+  },
+  {
+    "q": "Which government ministry operates the Ecomark scheme in India?",
+    "pool": [
+      "Ministry of Health",
+      "Ministry of Commerce",
+      "Ministry of Environment, Forest and Climate Change",
+      "Ministry of Education",
+      "Ministry of Agriculture"
+    ],
+    "answer": "Ministry of Environment, Forest and Climate Change",
+    "desc": "The Ecomark scheme is run by the Ministry of Environment, Forest and Climate Change in India."
+  },
+  {
+    "q": "What does the Ecomark label indicate?",
+    "pool": [
+      "Cost efficiency",
+      "Recyclability only",
+      "Environmental friendliness of consumer products",
+      "Imported quality",
+      "High energy usage"
+    ],
+    "answer": "Environmental friendliness of consumer products",
+    "desc": "Ecomark labels indicate products that meet certain environmental criteria set by the government."
+  },
+  {
+    "q": "What is coral bleaching?",
+    "pool": [
+      "Natural coral growth",
+      "Excessive coral population",
+      "Loss of color due to breakdown of relationship between coral and zooxanthallae",
+      "Cleaning of coral by fish",
+      "Pollution from oil spills"
+    ],
+    "answer": "Loss of color due to breakdown of relationship between coral and zooxanthallae",
+    "desc": "Coral bleaching occurs when corals expel the algae (zooxanthallae) that give them color and energy."
+  },
+  {
+    "q": "What happens to coral tissue during bleaching?",
+    "pool": [
+      "It turns blue",
+      "It grows faster",
+      "It becomes transparent, revealing white skeleton",
+      "It decays completely",
+      "It becomes green due to algae growth"
+    ],
+    "answer": "It becomes transparent, revealing white skeleton",
+    "desc": "Bleached corals lose their algae, making the coral tissue transparent and exposing the white skeleton."
+  },
+  {
+    "q": "What does sustainability mean?",
+    "pool": [
+      "Using more natural resources quickly",
+      "Surviving until 2050",
+      "Ability of systems to adapt and survive environmental changes indefinitely",
+      "Recycling only plastics",
+      "Storing fossil fuels for later use"
+    ],
+    "answer": "Ability of systems to adapt and survive environmental changes indefinitely",
+    "desc": "Sustainability means ensuring long-term survival and adaptation of natural and human systems."
+  },
+  {
+    "q": "Which of these is a greenhouse gas contributing to global warming?",
+    "pool": [
+      "Oxygen",
+      "Methane",
+      "Nitrogen",
+      "Ozone in the stratosphere",
+      "Neon"
+    ],
+    "answer": "Methane",
+    "desc": "Methane is a potent greenhouse gas that contributes significantly to global warming."
+  },
+  {
+    "q": "What is the role of ozone in the stratosphere?",
+    "pool": [
+      "Pollutes the air",
+      "Causes acid rain",
+      "Protects Earth from ultraviolet radiation",
+      "Warms the Earth directly",
+      "Absorbs water vapor"
+    ],
+    "answer": "Protects Earth from ultraviolet radiation",
+    "desc": "Stratospheric ozone shields the Earth by absorbing harmful ultraviolet (UV) rays."
+  },
+  {
+    "q": "Which of the following is NOT associated with smog?",
+    "pool": [
+      "Pollutants",
+      "Sulfur dioxide",
+      "Ozone",
+      "Pure oxygen",
+      "Nitrogen oxides"
+    ],
+    "answer": "Pure oxygen",
+    "desc": "Smog is made of pollutants, not pure oxygen, and typically includes ozone, nitrogen oxides, and sulfur compounds."
+  },
+  {
+    "q": "What type of rain is formed when nitrogen and sulfur oxides dissolve in water?",
+    "pool": [
+      "Acid rain",
+      "Monsoon rain",
+      "Snow",
+      "Hail",
+      "Spring rain"
+    ],
+    "answer": "Acid rain",
+    "desc": "When sulfur and nitrogen oxides dissolve in rainwater, they form acidic compounds leading to acid rain."
+  },
+  {
+    "q": "Which atmospheric layer is affected by global warming?",
+    "pool": [
+      "Stratosphere",
+      "Mesosphere",
+      "Troposphere",
+      "Thermosphere",
+      "Exosphere"
+    ],
+    "answer": "Troposphere",
+    "desc": "Global warming primarily impacts the troposphere, the lowest layer of Earth’s atmosphere."
+  },
+  {
+    "q": "Which of the following is an effect of coral bleaching?",
+    "pool": [
+      "Increase in coral reproduction",
+      "Improved water clarity",
+      "Death of coral reefs",
+      "Thicker coral structures",
+      "Increased fish population"
+    ],
+    "answer": "Death of coral reefs",
+    "desc": "Coral bleaching can lead to the death of coral reefs, disrupting marine ecosystems."
+  },
+  {
+    "q": "What is a major source of acid rain pollutants?",
+    "pool": [
+      "Composting",
+      "Deforestation",
+      "Burning fossil fuels",
+      "Irrigation",
+      "Solar panels"
+    ],
+    "answer": "Burning fossil fuels",
+    "desc": "Fossil fuel combustion releases sulfur and nitrogen oxides, which lead to acid rain."
+  },
+  {
+    "q": "What type of certification does Ecomark provide?",
+    "pool": [
+      "Medical safety",
+      "Educational standard",
+      "Environmental friendliness",
+      "Economic pricing",
+      "Tax benefits"
+    ],
+    "answer": "Environmental friendliness",
+    "desc": "Ecomark certifies products that are environmentally safe and meet specific green criteria."
+  },
+  {
+    "q": "Why is sustainability important?",
+    "pool": [
+      "To reduce tax burden",
+      "To support short-term profits",
+      "To maintain balance between environment, economy, and society long-term",
+      "To produce more consumer goods",
+      "To increase tourism"
+    ],
+    "answer": "To maintain balance between environment, economy, and society long-term",
+    "desc": "Sustainability ensures that development today does not compromise future generations' needs."
+  },
+  {
+    "q": "Which event signifies a breakdown in the coral-zooxanthallae relationship?",
+    "pool": [
+      "Global warming",
+      "Coral spawning",
+      "Coral bleaching",
+      "Tsunami",
+      "Oil spill"
+    ],
+    "answer": "Coral bleaching",
+    "desc": "Coral bleaching is the loss of symbiotic algae from corals, often triggered by stress like warm waters."
+  }
+]

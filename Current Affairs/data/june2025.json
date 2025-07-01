@@ -1,0 +1,362 @@
+[
+  {
+    "q": "Which state in India achieved 100% functional literacy status under the ULLAS initiative in May 2025?",
+    "pool": ["Goa", "Kerala", "Tamil Nadu", "Maharashtra", "Uttar Pradesh"],
+    "answer": "Goa",
+    "desc": "Goa achieved 100% literacy under the Understanding for Lifelong Learning for All in Society (ULLAS) initiative, as announced by Chief Minister Pramod Sawant on May 30, 2025, during Goa's 39th Statehood Day celebrations."
+  },
+  {
+    "q": "What is the name of India’s first maritime sector-focused Non-Banking Financial Company (NBFC) inaugurated in June 2025?",
+    "pool": ["Sagarmala Finance Corporation Limited", "Maritime Growth Fund", "Oceanic Finance Limited", "Port Finance Corporation", "Blue Economy NBFC"],
+    "answer": "Sagarmala Finance Corporation Limited",
+    "desc": "Sagarmala Finance Corporation Limited (SMFCL) was inaugurated by Union Minister Sarbananda Sonowal and registered with the RBI on June 19, 2025, to support the maritime sector."
+  },
+  {
+    "q": "Which sanctuary in Kerala was renamed as India’s first butterfly sanctuary in June 2025?",
+    "pool": ["Aralam Butterfly Sanctuary", "Silent Valley Sanctuary", "Periyar Wildlife Sanctuary", "Wayanad Sanctuary", "Thattekad Bird Sanctuary"],
+    "answer": "Aralam Butterfly Sanctuary",
+    "desc": "The Aralam Wildlife Sanctuary in Kannur, Kerala, was renamed the Aralam Butterfly Sanctuary on June 18, 2025, by the Kerala State Wildlife Board, becoming India’s first forest area dedicated to butterflies."
+  },
+  {
+    "q": "What is the theme of the 11th International Day of Yoga observed on June 21, 2025?",
+    "pool": ["Yoga for One Earth, One Health", "Yoga for Peace", "Yoga for Wellness", "Yoga for Unity", "Yoga for Harmony"],
+    "answer": "Yoga for One Earth, One Health",
+    "desc": "The 11th International Day of Yoga, observed on June 21, 2025, had the theme 'Yoga for One Earth, One Health,' emphasizing the link between personal and planetary health."
+  },
+  {
+    "q": "Which Indian state topped the Fiscal Health Index (FHI) 2025 released by NITI Aayog?",
+    "pool": ["Odisha", "Madhya Pradesh", "Jharkhand", "Kerala", "Gujarat"],
+    "answer": "Odisha",
+    "desc": "Odisha topped the Fiscal Health Index (FHI) 2025 by NITI Aayog, which assesses fiscal health based on GDP contribution, public expenditure, revenue, and stability."
+  },
+  {
+    "q": "Which Indian city is set to develop India’s first AI-focused Special Economic Zone (SEZ) in June 2025?",
+    "pool": ["Nava Raipur", "Bengaluru", "Hyderabad", "Gurugram", "Pune"],
+    "answer": "Nava Raipur",
+    "desc": "Nava Raipur, Chhattisgarh, will host India’s first AI-focused SEZ with a ₹1,000 crore investment by RackBank Datacenters Pvt. Ltd., announced in June 2025."
+  },
+  {
+    "q": "Who was appointed as the Economic Affairs Secretary of India effective July 1, 2025?",
+    "pool": ["Anuradha Thakur", "Ajay Seth", "M Nagaraju", "Dinesh K Patnaik", "T Rabi Sankar"],
+    "answer": "Anuradha Thakur",
+    "desc": "Anuradha Thakur, a 1994-batch IAS officer from Himachal Pradesh, was appointed as the Economic Affairs Secretary, replacing Ajay Seth, effective July 1, 2025."
+  },
+  {
+    "q": "What is the name of the portal launched by the Ministry of Ayush to track misleading ads and ADRs in traditional medicine?",
+    "pool": ["AyushSuraksha Portal", "AyushRaksha Portal", "AyushSeva Portal", "AyushCare Portal", "AyushHealth Portal"],
+    "answer": "AyushSuraksha Portal",
+    "desc": "The AyushSuraksha Portal was launched on May 30, 2025, by Union Minister Prataprao Jadhav to monitor misleading advertisements and adverse drug reactions in traditional medicine, aligning with a Supreme Court directive."
+  },
+  {
+    "q": "Which Indian astronaut was selected for the Axiom-4 mission to the International Space Station in June 2025?",
+    "pool": ["Shukla", "Rakesh Sharma", "Kalpana Chawla", "Sunita Williams", "Ravish Malhotra"],
+    "answer": "Shukla",
+    "desc": "Shukla, a decorated test pilot, was selected for the Axiom-4 mission to the ISS, scheduled for June 26, 2025, to conduct microgravity experiments."
+  },
+  {
+    "q": "Which Indian state launched the ‘Viksit Krishi Sankalp Abhiyan’ from May 29 to June 12, 2025?",
+    "pool": ["Tripura", "Assam", "Manipur", "Meghalaya", "Nagaland"],
+    "answer": "Tripura",
+    "desc": "The Tripura government launched the Viksit Krishi Sankalp Abhiyan from May 29 to June 12, 2025, to enhance agricultural productivity and farmer welfare."
+  },
+  {
+    "q": "What was the total Foreign Direct Investment (FDI) inflow into India from 2000 to March 2025, including reinvested earnings and other capital?",
+    "pool": ["$729 billion", "$1,072 billion", "$500 billion", "$1,500 billion", "$800 billion"],
+    "answer": "$1,072 billion",
+    "desc": "India received a cumulative FDI inflow of $1,072 billion from 2000 to March 2025, including direct equity, reinvested earnings, and other capital."
+  },
+  {
+    "q": "Which Indian city hosted the National e-Vidhan Application (NeVA) inauguration for the Puducherry Legislative Assembly on June 9, 2025?",
+    "pool": ["Puducherry", "Chennai", "Bengaluru", "Hyderabad", "New Delhi"],
+    "answer": "Puducherry",
+    "desc": "The National e-Vidhan Application (NeVA) was inaugurated for the Puducherry Legislative Assembly on June 9, 2025, by Union Minister Dr. L. Murugan in Puducherry."
+  },
+  {
+    "q": "Which organization collaborated with ISRO to develop the Digipin digital addressing system?",
+    "pool": ["IIT Hyderabad", "IIT Delhi", "IIT Bombay", "IIT Madras", "IISc Bengaluru"],
+    "answer": "IIT Hyderabad",
+    "desc": "The Department of Posts collaborated with IIT Hyderabad and ISRO’s National Remote Sensing Centre to develop the Digipin digital addressing system."
+  },
+  {
+    "q": "What was the name of the civil defence mock drill conducted in Bengaluru in June 2025?",
+    "pool": ["Operation Abhyas", "Operation Suraksha", "Operation Raksha", "Operation Sankalp", "Operation Shakti"],
+    "answer": "Operation Abhyas",
+    "desc": "Operation Abhyas was a civil defence mock drill conducted by Karnataka diventano il primo stato in oltre due decenni a introdurre il Western Australian Certificate of Education (WACE) nelle sue scuole."
+  },
+  {
+    "q": "Chi è stato nominato ambasciatore del marchio per i Campionati Mondiali di Atletica Paralimpica 2025?",
+    "pool": ["Kangana Ranaut", "Deepika Padukone", "Priyanka Chopra", "Anushka Sharma", "Vidya Balan"],
+    "answer": "Kangana Ranaut",
+    "desc": "L'attrice e politica Kangana Ranaut è stata nominata ambasciatrice del marchio per i Campionati Mondiali di Atletica Paralimpica 2025."
+  },
+  {
+    "q": "Qual è stato il tasso repo fissato dalla RBI dopo il taglio di 50 punti base il 6 giugno 2025?",
+    "pool": ["5,5%", "6,0%", "5,0%", "6,5%", "4,5%"],
+    "answer": "5,5%",
+    "desc": "La RBI ha ridotto il tasso repo di 50 punti base al 5,5% il 6 giugno 2025, per sostenere la crescita economica, che ha raggiunto il minimo di quattro anni del 6,5% nell'anno fiscale 2025."
+  },
+  {
+    "q": "Quale banca indiana ha collaborato conFPSB India per integrare la certificazione Certified Financial Planner per i suoi dipendenti?",
+    "pool": ["State Bank of India", "HDFC Bank", "ICICI Bank", "Axis Bank", "Punjab National Bank"],
+    "answer": "State Bank of India",
+    "desc": "SBI ha annunciato una partnership strategica con FPSB India per integrare la certificazione Certified Financial Planner per i suoi 2,36 lakh di dipendenti per migliorare i servizi di pianificazione finanziaria."
+  },
+  {
+    "q": "Quale città indiana ospiterà i Giochi Mondiali di Polizia e Vigili del Fuoco del 2029?",
+    "pool": ["Gujarat", "Mumbai", "Delhi", "Bengaluru", "Kolkata"],
+    "answer": "Gujarat",
+    "desc": "L'India ha vinto l'offerta per ospitare i Giochi Mondiali di Polizia e Vigili del Fuoco del 2029 in Gujarat, come annunciato nel giugno 2025."
+  },
+  {
+    "q": "Qual è il nome del nuovo sistema di indirizzamento digitale lanciato dal Dipartimento delle Poste nel giugno 2025?",
+    "pool": ["Digipin", "GeoPost", "IndiaPin", "SmartPin", "e-Address"],
+    "answer": "Digipin",
+    "desc": "Il Dipartimento delle Poste ha lanciato Digipin, un sistema di indirizzamento digitale, in collaborazione con IIT Hyderabad e il Centro Nazionale di Telerilevamento di ISRO."
+  },
+  {
+    "q": "Quale istituto indiano ha ospitato il primo Nano Electronics Roadshow il 27 marzo 2025?",
+    "pool": ["IISc Bengaluru", "IIT Delhi", "IIT Bombay", "IIT Madras", "IIT Kharagpur"],
+    "answer": "IISc Bengaluru",
+    "desc": "Il Ministero dell'Elettronica e della Tecnologia dell'Informazione, insieme ai principali IIT, ha ospitato il primo Nano Electronics Roadshow dell'India presso IISc Bengaluru il 27 marzo 2025."
+  },
+  {
+    "q": "Quale stato indiano ha lanciato lo schema Indiramma Atmiya Bharosa nel 2025?",
+    "pool": ["Telangana", "Andhra Pradesh", "Karnataka", "Tamil Nadu", "Kerala"],
+    "answer": "Telangana",
+    "desc": "Lo schema Indiramma Atmiya Bharosa è stato lanciato a Telangana, come riportato negli aggiornamenti di attualità del 2025."
+  },
+  {
+    "q": "Qual è il nome dell'iniziativa lanciata dal Ministero dell'Energia per rivoluzionare il settore energetico indiano?",
+    "pool": ["India Energy Stack", "PowerGrid Initiative", "EnergySync Program", "Green Energy Mission", "PowerSurge Scheme"],
+    "answer": "India Energy Stack",
+    "desc": "Il Ministero dell'Energia ha avviato l'India Energy Stack (IES) per creare un'infrastruttura digitale unificata e interoperabile per il settore energetico."
+  },
+  {
+    "q": "Quale città indiana ha ospitato il 25° incontro del Consiglio Zonale Centrale presieduto da Amit Shah nel giugno 2025?",
+    "pool": ["Varanasi", "Lucknow", "Patna", "Bhopal", "Jaipur"],
+    "answer": "Varanasi",
+    "desc": "Il Ministro dell'Interno dell'Unione Amit Shah ha presieduto il 25° incontro del Consiglio Zonale Centrale a Varanasi, Uttar Pradesh, nel giugno 2025."
+  },
+  {
+    "q": "Qual è il nome DOT: name of the docuseries premiered by the RBI to demystify India’s central bank in June 2025?",
+    "pool": ["Unlocked: Beyond the Rupee", "RBI Revealed", "Money Matters", "Central Bank Chronicles", "Rupee Unraveled"],
+    "answer": "Unlocked: Beyond the Rupee",
+    "desc": "The RBI premiered a 5-part docuseries titled ‘Unlocked: Beyond the Rupee’ on June 6, 2025, to explain its functions and operations."
+  },
+  {
+    "q": "Which Indian city flagged off its first export consignment of rose-scented litchi to Doha in June 2025?",
+    "pool": ["Pathankot", "Amritsar", "Ludhiana", "Jalandhar", "Chandigarh"],
+    "answer": "Pathankot",
+    "desc": "India’s first export consignment of rose-scented litchi was flagged off from Pathankot, Punjab, to Doha, Qatar, facilitated by APEDA in June 2025."
+  },
+  {
+    "q": "Which Indian ministry issued guidelines for the Biomass Programme under the National Bioenergy Programme in June 2025?",
+    "pool": ["Ministry of New and Renewable Energy", "Ministry of Power", "Ministry of Environment", "Ministry of Agriculture", "Ministry of Science and Technology"],
+    "answer": "Ministry of New and Renewable Energy",
+    "desc": "The Ministry of New and Renewable Energy (MNRE) introduced revised guidelines for the Biomass Programme under the National Bioenergy Programme in June 2025."
+  },
+  {
+    "q": "What was the name of the scheme launched by the Centre to strengthen inclusive education for children with disabilities in June 2025?",
+    "pool": ["Tripartite MoU", "Samagra Shiksha", "Inclusive Learning Yojana", "Saksham Shiksha", "Barkha Program"],
+    "answer": "Tripartite MoU",
+    "desc": "The Centre signed a tripartite MoU between DEPwD, NIOS, and NCERT to strengthen inclusive education for children with disabilities in June 2025."
+  },
+  {
+    "q": "Which Indian city’s Chinnaswamy Stadium saw a tragic stampede on June 4, 2025?",
+    "pool": ["Bengaluru", "Mumbai", "Delhi", "Kolkata", "Chennai"],
+    "answer": "Bengaluru",
+    "desc": "A stampede at Bengaluru’s Chinnaswamy Stadium during RCB’s IPL victory parade on June 4, 2025, led to 11 deaths and over 30 injuries due to poor crowd management."
+  },
+  {
+    "q": "Which Indian ministry coordinates the Sugamya Bharat App launched in June 2025?",
+    "pool": ["Department of Empowerment of Persons with Disabilities", "Ministry of Social Justice", "Ministry of Home Affairs", "Ministry of Health", "Ministry of Education"],
+    "answer": "Department of Empowerment of Persons with Disabilities",
+    "desc": "The Sugamya Bharat App, launched in June 2025, is coordinated by the Department of Empowerment of Persons with Disabilities to promote accessible infrastructure."
+  },
+  {
+    "q": "What was the total number of nuclear warheads India had in January 2025?",
+    "pool": ["180", "172", "200", "150", "190"],
+    "answer": "180",
+    "desc": "India’s stored nuclear warheads increased from 172 in January 2024 to 180 in January 2025, as per current affairs reports."
+  },
+  {
+    "q": "Which Indian state’s Aralam Butterfly Sanctuary is home to over 266 butterfly species?",
+    "pool": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh", "Goa"],
+    "answer": "Kerala",
+    "desc": "The Aralam Butterfly Sanctuary in Kerala, renamed in June 2025, is home to over 266 butterfly species, accounting for 80% of Kerala’s butterfly diversity."
+  },
+  {
+    "q": "Which Indian organization conducted the ‘Operation Deep Manifest’ in June 2025?",
+    "pool": ["Indian Navy", "Indian Army", "Indian Air Force", "DRDO", "NSG"],
+    "answer": "Indian Navy",
+    "desc": "Operation Deep Manifest was conducted by the Indian Navy, as noted in current affairs updates for June 2025."
+  },
+  {
+    "q": "What was the name of the festival where the Hockey Association of Odisha won the women’s title in June 2025?",
+    "pool": ["Hockey India Masters Cup", "National Hockey Championship", "India Hockey League", "Khelo India Hockey", "Hockey Premier League"],
+    "answer": "Hockey India Masters Cup",
+    "desc": "The Hockey Association of Odisha won the women’s title at the inaugural Hockey India Masters Cup 2025."
+  },
+  {
+    "q": "Which Indian ministry held the Indian Conservation Conference (ICCON) 2025 in Dehradun?",
+    "pool": ["Ministry of Environment, Forest and Climate Change", "Ministry of Science and Technology", "Ministry of Agriculture", "Ministry of Home Affairs", "Ministry of Defence"],
+    "answer": "Ministry of Environment, Forest and Climate Change",
+    "desc": "The Indian Conservation Conference (ICCON) 2025 was held by the Ministry of Environment, Forest and Climate Change at the Wildlife Institute of India, Dehradun."
+  },
+  {
+    "q": "Which Indian state’s government launched the Nationwide Digital Life Certificate Campaign 2.0 in 100 cities?",
+    "pool": ["Uttar Pradesh", "Maharashtra", "Karnataka", "Tamil Nadu", "Gujarat"],
+    "answer": "Uttar Pradesh",
+    "desc": "Uttar Pradesh was among the key participants in the Nationwide Digital Life Certificate Campaign 2.0 held in 100 cities in June 2025."
+  },
+  {
+    "q": "What was the name of the new framework released by the RBI for project finance loans in June 2025?",
+    "pool": ["IRACP Norms", "Project Finance Guidelines", "Asset Classification Rules", "LoanSync Framework", "FinanceEase Norms"],
+    "answer": "IRACP Norms",
+    "desc": "The RBI released the final framework for project finance loans in June 2025, covering Income Recognition, Asset Classification, and Provisioning (IRACP) norms."
+  },
+  {
+    "q": "Which Indian city hosted the CBIC Conclave where the fifth edition of the National Time Release Study was released?",
+    "pool": ["New Delhi", "Mumbai", "Bengaluru", "Kolkata", "Chennai"],
+    "answer": "New Delhi",
+    "desc": "Union Minister Nirmala Sitharaman released the fifth edition of the National Time Release Study (NTRS) during the CBIC Conclave in New Delhi in June 2025."
+  },
+  {
+    "q": "Which Indian bank partnered with Edelweiss Life Insurance for a bancassurance partnership in June 2025?",
+    "pool": ["Equitas Small Finance Bank", "AU Small Finance Bank", "Ujjivan Small Finance Bank", "Bandhan Bank", "IDFC First Bank"],
+    "answer": "Equitas Small Finance Bank",
+    "desc": "Equitas Small Finance Bank entered a bancassurance partnership with Edelweiss Life Insurance to offer life insurance solutions in June 2025."
+  },
+  {
+    "q": "What was the name of the initiative launched by the Ministry of Consumer Affairs to regulate the sale of radio equipment in June 2025?",
+    "pool": ["Guidelines for Illegal Radio Equipment", "RadioSafe Norms", "Wireless Regulation Act", "E-Commerce Radio Rules", "Telecom Safety Guidelines"],
+    "answer": "Guidelines for the Prevention and Regulation of the Illegal Listing and Sale of Radio Equipment",
+    "desc": "The Central Consumer Protection Authority issued guidelines in June 2025 to prevent unauthorized online sales of radio equipment like walkie-talkies."
+  },
+  {
+    "q": "Which Indian state’s fiscal health was assessed as the best by NITI Aayog’s Fiscal Health Index 2025?",
+    "pool": ["Odisha", "Madhya Pradesh", "Jharkhand", "Kerala", "Gujarat"],
+    "answer": "Odisha",
+    "desc": "Odisha topped NITI Aayog’s Fiscal Health Index (FHI) 2025, evaluating fiscal stability and GDP contribution among 18 major states."
+  },
+  {
+    "q": "Which Indian organization collaborated with the Ministry of Parliamentary Affairs for the National e-Vidhan Application?",
+    "pool": ["National Informatics Centre", "ISRO", "DRDO", "CSIR", "IIT Hyderabad"],
+    "answer": "National Informatics Centre",
+    "desc": "The National Informatics Centre (NIC) collaborated with the Ministry of Parliamentary Affairs to develop the National e-Vidhan Application (NeVA)."
+  },
+  {
+    "q": "What was the total number of complaints resolved on the Sugamya Bharat App by June 2025?",
+    "pool": ["1,897", "2,705", "1,500", "2,000", "2,500"],
+    "answer": "1,897",
+    "desc": "Out of 2,705 complaints on the Sugamya Bharat App, 1,897 were resolved by June 2025, promoting accessible infrastructure."
+  },
+  {
+    "q": "Which Indian city’s population was estimated at 1.46 billion in April 2025 by the UNFPA?",
+    "pool": ["India (nationwide)", "Delhi", "Mumbai", "Kolkata", "Bengaluru"],
+    "answer": "India (nationwide)",
+    "desc": "The UNFPA’s State of the World Population 2025 report estimated India’s population at 146.39 crore in April 2025."
+  },
+  {
+    "q": "Which Indian ministry collaborated with CSIR-NPL and ISRO for the Digipin system?",
+    "pool": ["Department of Posts", "Ministry of Communications", "Ministry of Science and Technology", "Ministry of Home Affairs", "Ministry of Defence"],
+    "answer": "Department of Posts",
+    "desc": "The Department of Posts collaborated with CSIR-NPL and ISRO’s NRSC to develop the Digipin digital addressing system."
+  },
+  {
+    "q": "What was the theme of World Hydrography Day observed on June 21, 2025?",
+    "pool": ["Seabed Mapping: Enabling Ocean Action", "Safe Navigation for All", "Maritime Conservation", "Hydrography for Sustainability", "Oceans in Focus"],
+    "answer": "Seabed Mapping: Enabling Ocean Action",
+    "desc": "World Hydrography Day on June 21, 2025, had the theme ‘Seabed Mapping: Enabling Ocean Action’ to promote safe navigation and maritime conservation."
+  },
+  {
+    "q": "Which Indian institute’s director addressed the Rashtriya Boudhik Sampada Mahotsav 2025?",
+    "pool": ["CSIR-IIP", "CSIR-NPL", "IIT Delhi", "IISc Bengaluru", "DRDO"],
+    "answer": "CSIR-IIP",
+    "desc": "Dr. Harender Singh Bisht, Director of CSIR-Indian Institute of Petroleum (CSIR-IIP), addressed the Rashtriya Boudhik Sampada Mahotsav 2025 in Dehradun."
+  },
+  {
+    "q": "Which Indian state’s government launched the ‘Viksit Krishi Sankalp Abhiyan’ to enhance agricultural productivity?",
+    "pool": ["Tripura", "Assam", "Manipur", "Meghalaya", "Nagaland"],
+    "answer": "Tripura",
+    "desc": "The Tripura government launched the Viksit Krishi Sankalp Abhiyan from May 29 to June 12, 2025, to boost agricultural productivity."
+  },
+  {
+    "q": "What was the name of the initiative launched by Indian Railways with Delhi Metro Rail Corporation in June 2025?",
+    "pool": ["Automatic Wheel Profile Measurement Systems", "Smart Rail Initiative", "TrainSync Program", "RailTech Project", "MetroWheel System"],
+    "answer": "Automatic Wheel Profile Measurement Systems",
+    "desc": "Indian Railways signed an agreement with DMRC to install Automatic Wheel Profile Measurement Systems (AWPMS) for quick and safe train wheel checks."
+  },
+  {
+    "q": "Which Indian state’s Aralam Butterfly Sanctuary was declared the first of its kind in India?",
+    "pool": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh", "Goa"],
+    "answer": "Kerala",
+    "desc": "Kerala’s Aralam Butterfly Sanctuary was declared India’s first butterfly sanctuary on June 18, 2025, by the Kerala State Wildlife Board."
+  },
+  {
+    "q": "Which Indian ministry was responsible for the National Time Release Study (NTRS) released in June 2025?",
+    "pool": ["Ministry of Finance", "Ministry of Commerce", "Ministry of External Affairs", "Ministry of Home Affairs", "Ministry of Defence"],
+    "answer": "Ministry of Finance",
+    "desc": "The Ministry of Finance, through the CBIC, released the fifth edition of the National Time Release Study (NTRS) during the CBIC Conclave in June 2025."
+  },
+  {
+    "q": "What was the name of the campaign launched by the Centre to empower tribal communities in June 2025?",
+    "pool": ["Dharti Aaba Janbhagidari Abhiyan", "Adivasi Vikas Yojana", "Tribal Empowerment Mission", "Janjatiya Sankalp", "Adivasi Upliftment Scheme"],
+    "answer": "Dharti Aaba Janbhagidari Abhiyan",
+    "desc": "The Dharti Aaba Janbhagidari Abhiyan (DAJA) was launched by the Ministry of Tribal Affairs to empower over 5.5 crore tribal citizens in June 2025."
+  },
+  {
+    "q": "Which Indian bank reduced its Repo Linked Lending Rate (RLLR) to 7.75% in June 2025?",
+    "pool": ["State Bank of India", "HDFC Bank", "ICICI Bank", "Axis Bank", "Punjab National Bank"],
+    "answer": "State Bank of India",
+    "desc": "SBI reduced its Repo Linked Lending Rate (RLLR) to 7.75% and External Benchmark Based Lending Rate (EBLR) to 8.15% effective June 15, 2025, after RBI’s rate cut."
+  },
+  {
+    "q": "Which Indian state’s government launched a hedging desk for farmers in June 2025?",
+    "pool": ["Maharashtra", "Gujarat", "Telangana", "Karnataka", "Andhra Pradesh"],
+    "answer": "Maharashtra",
+    "desc": "The Maharashtra government launched a hedging desk for cotton, turmeric, and maize farmers to manage agricultural risks in June 2025."
+  },
+  {
+    "q": "What was the name of the global initiative launched by the Morarji Desai National Institute of Yoga in June 2025?",
+    "pool": ["Yoga Bandhan", "Yoga Sangam", "Yoga Mitra", "Yoga Sanskar", "Yoga Vichar"],
+    "answer": "Yoga Bandhan",
+    "desc": "The Morarji Desai National Institute of Yoga launched ‘Yoga Bandhan’ as a global initiative for the International Day of Yoga 2025, uniting experts from 15 countries."
+  },
+  {
+    "q": "Which Indian city’s Holambi Kalan will host the first E-Waste Recycling Park?",
+    "pool": ["Delhi", "Mumbai", "Bengaluru", "Hyderabad", "Chennai"],
+    "answer": "Delhi",
+    "desc": "Delhi’s Holambi Kalan was announced as the site for India’s first E-Waste Recycling Park on June 10, 2025."
+  },
+  {
+    "q": "Which Indian state’s tableau won first prize at the Republic Day Parade 2025?",
+    "pool": ["Telangana", "Karnataka", "Tamil Nadu", "Andhra Pradesh", "Kerala"],
+    "answer": "Telangana",
+    "desc": "Telangana’s tableau won first prize in the states/UTs category at the Republic Day Parade 2025, as per June 2025 current affairs updates."
+  },
+  {
+    "q": "What was the total number of IBUs in GIFT City as of June 2025?",
+    "pool": ["31", "15", "25", "40", "50"],
+    "answer": "31",
+    "desc": "As of June 2025, GIFT City, Gujarat, had 31 IFSC Banking Units (IBUs), a significant increase from 15 in 2022."
+  },
+  {
+    "q": "Which Indian institute hosted Techkriti 2025, Asia’s largest technical and entrepreneurial festival?",
+    "pool": ["IIT Kanpur", "IIT Bombay", "IIT Madras", "IIT Delhi", "IIT Roorkee"],
+    "answer": "IIT Kanpur",
+    "desc": "IIT Kanpur hosted Techkriti 2025, inaugurated by Chief of Defence Staff General Anil Chauhan, focusing on defense technology and innovation."
+  },
+  {
+    "q": "Which Indian ministry launched the AyushSuraksha Portal in May 2025?",
+    "pool": ["Ministry of Ayush", "Ministry of Health", "Ministry of Consumer Affairs", "Ministry of Home Affairs", "Ministry of Defence"],
+    "answer": "Ministry of Ayush",
+    "desc": "The Ministry of Ayush launched the AyushSuraksha Portal on May 30, 2025, to track misleading ads and adverse drug reactions in traditional medicine."
+  },
+  {
+    "q": "Which Indian state’s Aralam Wildlife Sanctuary was renamed as a butterfly sanctuary in June 2025?",
+    "pool": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh", "Goa"],
+    "answer": "Kerala",
+    "desc": "Kerala’s Aralam Wildlife Sanctuary was renamed the Aralam Butterfly Sanctuary on June 18, 2025, becoming India’s first butterfly-focused sanctuary."
+  }
+]

@@ -1,0 +1,656 @@
+[
+  {
+    "q": "Indian Railway system is the ___ largest in the world.",
+    "pool": ["First", "Second", "Third", "Fourth", "Fifth"],
+    "answer": "Third",
+    "desc": "Indian Railways is the third-largest railway system in the world."
+  },
+  {
+    "q": "Which city has the longest railway platform in India and the world?",
+    "pool": ["Gorakhpur", "Howrah", "Hubli", "New Delhi", "Mumbai"],
+    "answer": "Hubli",
+    "desc": "Hubli in Karnataka has the world's longest railway platform, around 1.5 km long."
+  },
+  {
+    "q": "Where is the headquarters of the Central Railway zone?",
+    "pool": ["Mumbai CST", "Mumbai Churchgate", "New Delhi", "Kolkata", "Bhubaneshwar"],
+    "answer": "Mumbai CST",
+    "desc": "The Central Railway zone is headquartered at Mumbai CST."
+  },
+  {
+    "q": "The Eastern Railway zone is headquartered at?",
+    "pool": ["Howrah", "New Delhi", "Kolkata", "Patna", "Chennai"],
+    "answer": "Kolkata",
+    "desc": "The headquarters of Eastern Railway is located in Kolkata."
+  },
+  {
+    "q": "Which railway zone has its headquarters at New Delhi?",
+    "pool": ["Western", "Northern", "North Central", "North Western", "Central"],
+    "answer": "Northern",
+    "desc": "The Northern Railway zone is headquartered at New Delhi."
+  },
+  {
+    "q": "Where is the North-Eastern Railway zone headquartered?",
+    "pool": ["Lucknow", "Guwahati", "Gorakhpur", "Kolkata", "Jaipur"],
+    "answer": "Gorakhpur",
+    "desc": "Gorakhpur is the headquarters of the North-Eastern Railway."
+  },
+  {
+    "q": "Which railway zone is headquartered in Maligaon-Guwahati?",
+    "pool": ["Northern", "North East Frontier", "Eastern", "East Central", "Central"],
+    "answer": "North East Frontier",
+    "desc": "Maligaon-Guwahati is the headquarters of the North East Frontier Railway."
+  },
+  {
+    "q": "Where is the headquarters of the Southern Railway?",
+    "pool": ["Hyderabad", "Chennai", "Bengaluru", "Kochi", "Madurai"],
+    "answer": "Chennai",
+    "desc": "Southern Railway is headquartered at Chennai."
+  },
+  {
+    "q": "Which railway zone has its headquarters at Secunderabad?",
+    "pool": ["South Central", "South Eastern", "South Western", "Southern", "Central"],
+    "answer": "South Central",
+    "desc": "Secunderabad is the headquarters of South Central Railway."
+  },
+  {
+    "q": "Where is the headquarters of South-Eastern Railway?",
+    "pool": ["Ranchi", "Kolkata", "Bhubaneshwar", "Bilaspur", "Jabalpur"],
+    "answer": "Kolkata",
+    "desc": "South-Eastern Railway is headquartered in Kolkata."
+  },
+  {
+    "q": "Which railway zone is headquartered at Mumbai Churchgate?",
+    "pool": ["Western", "Central", "South Western", "North Western", "Northern"],
+    "answer": "Western",
+    "desc": "Western Railway's headquarters is located at Mumbai Churchgate."
+  },
+  {
+    "q": "Where is the East Coast Railway headquartered?",
+    "pool": ["Kolkata", "Bhubaneshwar", "Visakhapatnam", "Chennai", "Bilaspur"],
+    "answer": "Bhubaneshwar",
+    "desc": "East Coast Railway is headquartered at Bhubaneshwar."
+  },
+  {
+    "q": "Which zone has its headquarters in Hajipur?",
+    "pool": ["North Eastern", "North Central", "East Central", "Northern", "Eastern"],
+    "answer": "East Central",
+    "desc": "East Central Railway is headquartered at Hajipur in Bihar."
+  },
+  {
+    "q": "The North Central Railway zone is headquartered at?",
+    "pool": ["Lucknow", "Kanpur", "Prayagraj", "Varanasi", "Agra"],
+    "answer": "Prayagraj",
+    "desc": "Prayagraj (Allahabad) is the headquarters of North Central Railway."
+  },
+  {
+    "q": "Which railway zone has its headquarters in Jaipur?",
+    "pool": ["Western", "Northern", "North Western", "South Eastern", "East Central"],
+    "answer": "North Western",
+    "desc": "North Western Railway is headquartered in Jaipur, Rajasthan."
+  },
+  {
+    "q": "Where is the South-Western Railway headquartered?",
+    "pool": ["Bengaluru", "Mysuru", "Hubli", "Hyderabad", "Mangalore"],
+    "answer": "Hubli",
+    "desc": "South-Western Railway is headquartered at Hubli."
+  },
+  {
+    "q": "Which railway zone is headquartered in Jabalpur?",
+    "pool": ["Central", "North Central", "West Central", "South Eastern", "East Central"],
+    "answer": "West Central",
+    "desc": "Jabalpur is the headquarters of West Central Railway."
+  },
+  {
+    "q": "Which zone is headquartered in Bilaspur?",
+    "pool": ["South East Central", "East Central", "South Eastern", "Central", "North Central"],
+    "answer": "South East Central",
+    "desc": "South East Central Railway has its headquarters in Bilaspur."
+  },
+  {
+    "q": "Where is the Kolkata Metro headquartered?",
+    "pool": ["Howrah", "Kolkata", "Sealdah", "Dumdum", "New Jalpaiguri"],
+    "answer": "Kolkata",
+    "desc": "The Kolkata Metro is headquartered in Kolkata."
+  },
+  {
+    "q": "Which zone is headquartered at Visakhapatnam?",
+    "pool": ["East Coast", "South Central", "South Coast", "South Eastern", "South East Central"],
+    "answer": "South Coast",
+    "desc": "South Coast Railway zone is headquartered at Visakhapatnam."
+  },
+  {
+    "q": "When did the first train run in India?",
+    "pool": ["1843", "1853", "1863", "1873", "1883"],
+    "answer": "1853",
+    "desc": "The first train in India ran on 16th April 1853 between Bombay and Thane."
+  },
+  {
+    "q": "Between which two cities did the first train in India run?",
+    "pool": ["Delhi and Agra", "Bombay and Thane", "Howrah and Hooghly", "Kolkata and Sealdah", "Chennai and Madurai"],
+    "answer": "Bombay and Thane",
+    "desc": "The first train in India ran between Bombay and Thane."
+  },
+  {
+    "q": "The Deccan Queen, India’s first electric train, was introduced in which year?",
+    "pool": ["1919", "1929", "1939", "1949", "1959"],
+    "answer": "1929",
+    "desc": "India's first electric train, the Deccan Queen, began operating in 1929."
+  },
+  {
+    "q": "Which train has the longest route in India?",
+    "pool": ["Rajdhani Express", "Duronto Express", "Vivek Express", "Deccan Queen", "Shatabdi Express"],
+    "answer": "Vivek Express",
+    "desc": "Vivek Express travels from Dibrugarh (Assam) to Kanyakumari (Tamil Nadu), covering 4273 km."
+  },
+  {
+    "q": "When was Delhi Metro inaugurated?",
+    "pool": ["1999", "2000", "2001", "2002", "2003"],
+    "answer": "2002",
+    "desc": "Delhi Metro began operations on 25th December 2002 between Shahdara and Tees Hazari."
+  },
+
+
+  {
+    "q": "Which is the newest metro opened in India as of December 2021?",
+    "pool": ["Kanpur Metro", "Pune Metro", "Patna Metro", "Agra Metro", "Meerut Metro"],
+    "answer": "Kanpur Metro",
+    "desc": "Kanpur Metro was inaugurated in December 2021, making it the newest metro at that time."
+  },
+  {
+    "q": "Vande Bharat Express is also known as:",
+    "pool": ["Train 17", "Train 18", "Train 19", "Bullet Train", "Super Express"],
+    "answer": "Train 18",
+    "desc": "Vande Bharat Express is also called Train 18, India's fastest semi-high-speed train."
+  },
+  {
+    "q": "Where is the Vande Bharat Express manufactured?",
+    "pool": ["Mumbai", "Chennai", "Bengaluru", "Hyderabad", "New Delhi"],
+    "answer": "Chennai",
+    "desc": "It is made by Integral Coach Factory, Chennai under the Make in India programme."
+  },
+  {
+    "q": "What is the length of the Delhi-Meerut RRTS corridor?",
+    "pool": ["62.15 km", "72.15 km", "82.15 km", "92.15 km", "102.15 km"],
+    "answer": "82.15 km",
+    "desc": "The Delhi-Meerut RRTS is 82.15 km long and connects Delhi, Ghaziabad, and Meerut."
+  },
+  {
+    "q": "Which train is the first to be operated by a private operator in India?",
+    "pool": ["Rajdhani Express", "Vande Bharat", "Shatabdi Express", "Tejas Express", "Duronto Express"],
+    "answer": "Tejas Express",
+    "desc": "Lucknow-New Delhi Tejas Express is the first Indian train run by private operators (IRCTC)."
+  },
+  {
+    "q": "As of December 2022, how many operational metro systems exist in India?",
+    "pool": ["10", "12", "14", "16", "18"],
+    "answer": "16",
+    "desc": "There are 16 operational metro systems in India as of December 2022."
+  },
+  {
+    "q": "Which is the largest and busiest metro system in India?",
+    "pool": ["Mumbai Metro", "Kolkata Metro", "Bangalore Metro", "Delhi Metro", "Hyderabad Metro"],
+    "answer": "Delhi Metro",
+    "desc": "Delhi Metro is the largest and busiest metro system in the country."
+  },
+  {
+    "q": "What is the distance between rails in Broad Gauge railway in India?",
+    "pool": ["1.000 m", "0.762 m", "0.610 m", "1.676 m", "2.000 m"],
+    "answer": "1.676 m",
+    "desc": "Broad Gauge in India has a rail distance of 1.676 meters."
+  },
+  {
+    "q": "Which gauge has a rail distance of 1.00 meter in Indian Railways?",
+    "pool": ["Narrow Gauge", "Broad Gauge", "Metre Gauge", "Mini Gauge", "Standard Gauge"],
+    "answer": "Metre Gauge",
+    "desc": "Metre Gauge has a rail width of exactly 1.00 meter."
+  },
+  {
+    "q": "Which gauge type has rail distances of 0.762 or 0.610 meters?",
+    "pool": ["Broad Gauge", "Narrow Gauge", "Standard Gauge", "Mini Gauge", "Metre Gauge"],
+    "answer": "Narrow Gauge",
+    "desc": "Narrow Gauge has distances of 0.762 or 0.610 meters between the rails."
+  },
+  {
+    "q": "India has a road network of approximately how many kilometers?",
+    "pool": ["38 lakh km", "42 lakh km", "45 lakh km", "48 lakh km", "50 lakh km"],
+    "answer": "48 lakh km",
+    "desc": "India has one of the largest road networks in the world, around 48 lakh kilometers."
+  },
+  {
+    "q": "Which is the longest National Highway in India?",
+    "pool": ["NH 7", "NH 44", "NH 27", "NH 1", "NH 9"],
+    "answer": "NH 44",
+    "desc": "NH 44 is the longest National Highway in India, stretching from Srinagar to Kanyakumari."
+  },
+  {
+    "q": "What is the length of NH 44?",
+    "pool": ["2345 km", "3045 km", "3745 km", "4000 km", "4200 km"],
+    "answer": "3745 km",
+    "desc": "NH 44 runs for 3745 kilometers across India."
+  },
+  {
+    "q": "Which National Highway is the shortest in India?",
+    "pool": ["NH 1", "NH 44", "NH 27", "NH 548", "NH 7"],
+    "answer": "NH 548",
+    "desc": "NH 548 is the shortest National Highway in India with a length of 5 km."
+  },
+  {
+    "q": "What is the length of NH 548?",
+    "pool": ["5 km", "15 km", "25 km", "35 km", "45 km"],
+    "answer": "5 km",
+    "desc": "NH 548 is the shortest highway in India, measuring just 5 km."
+  },
+  {
+    "q": "The NS-EW Corridor is part of which project?",
+    "pool": ["Bharatmala", "Smart City", "National Expressway Project", "Golden Quadrilateral", "National Highways Development Project"],
+    "answer": "National Highways Development Project",
+    "desc": "The North-South and East-West Corridor is part of NHDP Phase 2."
+  },
+  {
+    "q": "How long is the North-South and East-West (NS-EW) Corridor?",
+    "pool": ["5300 km", "6300 km", "7300 km", "8300 km", "9300 km"],
+    "answer": "7300 km",
+    "desc": "The NS-EW Corridor is a 7300 km long expressway project."
+  },
+  {
+    "q": "Which city is the northernmost point of the NS-EW Corridor?",
+    "pool": ["Delhi", "Leh", "Srinagar", "Amritsar", "Haridwar"],
+    "answer": "Srinagar",
+    "desc": "Srinagar is the northernmost endpoint of the NS-EW corridor."
+  },
+  {
+    "q": "Which city marks the southernmost point of the NS-EW Corridor?",
+    "pool": ["Chennai", "Trivandrum", "Kanyakumari", "Bangalore", "Coimbatore"],
+    "answer": "Kanyakumari",
+    "desc": "Kanyakumari is the southernmost point of the NS-EW Corridor."
+  },
+  {
+    "q": "Which state has the maximum length of surfaced roads in India?",
+    "pool": ["Uttar Pradesh", "Rajasthan", "Tamil Nadu", "Maharashtra", "Gujarat"],
+    "answer": "Maharashtra",
+    "desc": "Maharashtra has the highest length of surfaced roads in India."
+  },
+  {
+    "q": "Eastern Peripheral Expressway connects which states?",
+    "pool": ["Delhi and Haryana", "Delhi and UP", "Haryana and Uttar Pradesh", "Rajasthan and UP", "Punjab and Haryana"],
+    "answer": "Haryana and Uttar Pradesh",
+    "desc": "Eastern Peripheral Expressway passes through Haryana and Uttar Pradesh."
+  },
+  {
+    "q": "What is another name for the Eastern Peripheral Expressway?",
+    "pool": ["Yamuna Expressway", "Kundli-Ghaziabad-Palwal Expressway", "Agra-Lucknow Expressway", "NH 44", "Golden Quadrilateral"],
+    "answer": "Kundli-Ghaziabad-Palwal Expressway",
+    "desc": "Eastern Peripheral Expressway is also called Kundli-Ghaziabad-Palwal Expressway."
+  },
+  {
+    "q": "Which expressway is considered India’s longest greenfield expressway?",
+    "pool": ["Yamuna Expressway", "Mumbai-Pune Expressway", "Agra-Lucknow Expressway", "Delhi-Meerut Expressway", "KMP Expressway"],
+    "answer": "Agra-Lucknow Expressway",
+    "desc": "The Agra-Lucknow Expressway is the longest greenfield expressway in India."
+  },
+  {
+    "q": "In which state was the Agra-Lucknow Expressway inaugurated?",
+    "pool": ["Rajasthan", "Madhya Pradesh", "Uttar Pradesh", "Haryana", "Bihar"],
+    "answer": "Uttar Pradesh",
+    "desc": "Agra-Lucknow Expressway was inaugurated in the state of Uttar Pradesh."
+  },
+
+
+  {
+    "q": "What is the Bharatmala project primarily focused on?",
+    "pool": [
+      "Developing rail corridors",
+      "Constructing airports",
+      "Economic corridors and expressway development",
+      "Building metro networks",
+      "Electrification of trains"
+    ],
+    "answer": "Economic corridors and expressway development",
+    "desc": "Bharatmala is a highway, economic corridor and expressway development scheme launched by the Government of India in 2015."
+  },
+  {
+    "q": "In which year was the Bharatmala project launched?",
+    "pool": ["2014", "2015", "2016", "2017", "2018"],
+    "answer": "2015",
+    "desc": "The Bharatmala project was launched in 2015."
+  },
+  {
+    "q": "Approximately how long is the road construction planned under Bharatmala Phase I?",
+    "pool": ["65,000 km", "70,000 km", "83,677 km", "90,000 km", "100,000 km"],
+    "answer": "83,677 km",
+    "desc": "Bharatmala Phase I includes approximately 83,677 km of road construction."
+  },
+  {
+    "q": "Which location has been chosen for a greenfield major port under Sagarmala Project?",
+    "pool": ["Kandla", "Mangalore", "Vadhavan", "Paradip", "Tuticorin"],
+    "answer": "Vadhavan",
+    "desc": "A greenfield port is to be developed at Vadhavan in Gujarat under the Sagarmala Project."
+  },
+  {
+    "q": "Which National Highway connects Uri-Baramula-Srinagar-Kargil-Leh?",
+    "pool": ["NH 1", "NH 2", "NH 3", "NH 44", "NH 10"],
+    "answer": "NH 1",
+    "desc": "NH 1 connects Uri to Leh via Baramula, Srinagar, and Kargil."
+  },
+  {
+    "q": "Which National Highway connects Chennai to Tuticorin?",
+    "pool": ["NH 32", "NH 44", "NH 10", "NH 21", "NH 5"],
+    "answer": "NH 32",
+    "desc": "NH 32 connects Chennai to Puducherry and Tuticorin."
+  },
+  {
+    "q": "Which NH connects Srinagar to Kanyakumari?",
+    "pool": ["NH 10", "NH 44", "NH 32", "NH 1", "NH 27"],
+    "answer": "NH 44",
+    "desc": "NH 44 is the longest north-south highway connecting Srinagar to Kanyakumari."
+  },
+  {
+    "q": "NH 5 connects which of the following places?",
+    "pool": [
+      "Kollam to Kotappuram",
+      "Kurnool to Chittoor-Ranipet",
+      "Mayabandar to Chiriyatapu",
+      "Kakinada to Marakkanam",
+      "Silchar to Gangtok"
+    ],
+    "answer": "Kurnool to Chittoor-Ranipet",
+    "desc": "NH 5 connects Kurnool to Chittoor-Ranipet."
+  },
+  {
+    "q": "NH 3 connects which two locations?",
+    "pool": ["Chennai to Puducherry", "Fazilka to Mana", "Jaipur to Bareilly", "Siliguri to Gangtok", "Kurnool to Chittoor"],
+    "answer": "Fazilka to Mana",
+    "desc": "NH 3 connects Fazilka to Mana via Patiala and Rudraprayag."
+  },
+  {
+    "q": "As per the National Waterways Act 2016, how many waterways have been declared as National Waterways?",
+    "pool": ["101", "105", "108", "111", "115"],
+    "answer": "111",
+    "desc": "111 waterways were declared as National Waterways under the National Waterways Act, 2016."
+  },
+  {
+    "q": "Which is the longest National Waterway in India?",
+    "pool": ["NW1", "NW2", "NW3", "NW4", "NW6"],
+    "answer": "NW1",
+    "desc": "NW1 (Allahabad to Haldia) is the longest with a stretch of 1620 km."
+  },
+  {
+    "q": "NW2 runs on which river?",
+    "pool": ["Ganga", "Yamuna", "Brahmaputra", "Godavari", "Mahanadi"],
+    "answer": "Brahmaputra",
+    "desc": "NW2 (Sadiya to Dhubri) is located on the Brahmaputra river."
+  },
+  {
+    "q": "What is the length of NW2 (Sadiya to Dhubri)?",
+    "pool": ["891 km", "1059 km", "623 km", "168 km", "1620 km"],
+    "answer": "891 km",
+    "desc": "NW2 runs 891 km along the Brahmaputra River."
+  },
+  {
+    "q": "NW3 connects Kollam to which location?",
+    "pool": ["Kochi", "Kottayam", "Kotappuram", "Alappuzha", "Trivandrum"],
+    "answer": "Kotappuram",
+    "desc": "NW3 connects Kollam to Kotappuram through the Champakkara and Udyogmandal canals."
+  },
+  {
+    "q": "NW4 passes through which rivers?",
+    "pool": [
+      "Ganga and Yamuna",
+      "Godavari and Krishna",
+      "Mahanadi and Brahmani",
+      "Barak and Brahmaputra",
+      "Tapi and Narmada"
+    ],
+    "answer": "Godavari and Krishna",
+    "desc": "NW4 runs between Kakinada and Marakkanam via Godavari and Krishna rivers."
+  },
+  {
+    "q": "What is the total length of NW4?",
+    "pool": ["623 km", "1059 km", "891 km", "168 km", "1620 km"],
+    "answer": "1095 km",
+    "desc": "NW4 spans 1095 km through Andhra Pradesh and Tamil Nadu."
+  },
+  {
+    "q": "Which NW connects Mangalagiri to Paradeep and Dhamra?",
+    "pool": ["NW5", "NW6", "NW3", "NW2", "NW4"],
+    "answer": "NW5",
+    "desc": "NW5 connects Mangalagiri to Paradeep and Dhamra along the Mahanadi and Brahmani rivers."
+  },
+  {
+    "q": "What is the length of NW5?",
+    "pool": ["891 km", "1059 km", "1620 km", "623 km", "168 km"],
+    "answer": "623 km",
+    "desc": "NW5 covers a length of 623 km."
+  },
+  {
+    "q": "Which National Waterway is on the Barak river?",
+    "pool": ["NW1", "NW2", "NW3", "NW5", "NW6"],
+    "answer": "NW6",
+    "desc": "NW6 connects Lakhipur to Bhanga on the Barak river."
+  },
+  {
+    "q": "Paradip port is located on which coast?",
+    "pool": ["Western", "Eastern", "Southern", "Central", "Northern"],
+    "answer": "Eastern",
+    "desc": "Paradip port is situated on the Eastern Coast of India."
+  },
+  {
+    "q": "Which port is India’s deepest port?",
+    "pool": ["Kandla", "Mumbai", "Chennai", "Visakhapatnam", "Mangalore"],
+    "answer": "Visakhapatnam",
+    "desc": "Visakhapatnam is the deepest port in India."
+  },
+  {
+    "q": "Which port is the oldest and an artificial port in India?",
+    "pool": ["Chennai", "Mumbai", "Kandla", "Paradip", "Kochi"],
+    "answer": "Chennai",
+    "desc": "Chennai port is the oldest artificial port in India."
+  },
+  {
+    "q": "Which western coast port handles petroleum and iron ore?",
+    "pool": ["Chennai", "Visakhapatnam", "Mormugao", "Paradip", "Tuticorin"],
+    "answer": "Mormugao",
+    "desc": "Mormugao port in Goa handles petroleum and iron ore."
+  },
+  {
+    "q": "Which port is India’s largest by volume handled?",
+    "pool": ["Chennai", "Paradip", "Kandla", "Visakhapatnam", "Kochi"],
+    "answer": "Kandla",
+    "desc": "Kandla port in Gujarat is India’s largest port by cargo volume handled."
+  },
+  {
+    "q": "Which port is growing the fastest on the western coast?",
+    "pool": ["Mumbai", "Mormugao", "Kochi", "JNPT", "Chennai"],
+    "answer": "JNPT (Nehru port)",
+    "desc": "Jawaharlal Nehru Port (JNPT) is the fastest growing port on India’s western coast."
+  },
+
+
+  {
+    "q": "Which airline started operations between Mumbai and Thiruvananthapuram in 1935?",
+    "pool": ["Air India", "Indian Airlines", "Tata Air Lines", "Jet Airways", "Vayudoot"],
+    "answer": "Tata Air Lines",
+    "desc": "Tata Air Lines started operations between Mumbai and Thiruvananthapuram in 1935."
+  },
+  {
+    "q": "When did Tata Air Lines start service between Mumbai and Delhi?",
+    "pool": ["1934", "1935", "1936", "1937", "1938"],
+    "answer": "1937",
+    "desc": "Tata Air Lines began service between Mumbai and Delhi in 1937."
+  },
+  {
+    "q": "In which year were all private airline companies in India nationalised?",
+    "pool": ["1951", "1953", "1955", "1960", "1965"],
+    "answer": "1953",
+    "desc": "In 1953, all private airlines were nationalised and Indian Airlines and Air India were formed."
+  },
+  {
+    "q": "Which two airline companies came into existence after nationalisation in 1953?",
+    "pool": ["SpiceJet and Jet Airways", "IndiGo and GoAir", "Indian Airlines and Air India", "Vistara and AirAsia", "Tata Air and Deccan Airways"],
+    "answer": "Indian Airlines and Air India",
+    "desc": "Post-nationalisation in 1953, Indian Airlines and Air India were formed."
+  },
+  {
+    "q": "When was Vayudoot Limited established?",
+    "pool": ["1979", "1981", "1983", "1985", "1987"],
+    "answer": "1981",
+    "desc": "Vayudoot Limited was started in 1981 as a private air carrier."
+  },
+  {
+    "q": "Which organisation was formed in 1995 by merging International and National Airports Authorities?",
+    "pool": ["Directorate General of Civil Aviation", "Airports Authority of India", "Civil Aviation Board", "Bureau of Civil Aviation", "Aero India Authority"],
+    "answer": "Airports Authority of India",
+    "desc": "International Airports Authority and National Airports Authority were merged in 1995 to form the Airports Authority of India."
+  },
+  {
+    "q": "What does the Airports Authority of India manage?",
+    "pool": [
+      "Only domestic airports",
+      "Air India operations",
+      "Training and aviation research",
+      "Airspace surveillance",
+      "Cargo logistics"
+    ],
+    "answer": "Training and aviation research",
+    "desc": "The AAI manages the Civil Aviation Training College and National Institute of Aviation Management and Research."
+  },
+  {
+    "q": "When did the Indian government hand over Air India to the Tata Group?",
+    "pool": ["January 2020", "January 2021", "January 2022", "February 2022", "March 2022"],
+    "answer": "January 2022",
+    "desc": "Air India was handed over to the Tata Group in January 2022."
+  },
+  {
+    "q": "Which international airport is located in Hyderabad?",
+    "pool": [
+      "Chhatrapati Shivaji International Airport",
+      "Rajiv Gandhi International Airport",
+      "Sardar Vallabhbhai Patel Airport",
+      "Netaji Subhash Chandra Bose Airport",
+      "Kempegowda International Airport"
+    ],
+    "answer": "Rajiv Gandhi International Airport",
+    "desc": "Rajiv Gandhi International Airport is in Hyderabad."
+  },
+  {
+    "q": "Where is Calicut International Airport located?",
+    "pool": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh", "Goa"],
+    "answer": "Kerala",
+    "desc": "Calicut International Airport is located in Kerala."
+  },
+  {
+    "q": "Which is the international airport in Mumbai?",
+    "pool": ["Rajiv Gandhi", "Indira Gandhi", "Kempegowda", "Chhatrapati Shivaji", "Netaji Subhash Chandra Bose"],
+    "answer": "Chhatrapati Shivaji",
+    "desc": "Mumbai's international airport is named Chhatrapati Shivaji International Airport."
+  },
+  {
+    "q": "Where is Kempegowda International Airport located?",
+    "pool": ["Mumbai", "Hyderabad", "Bengaluru", "Chennai", "Delhi"],
+    "answer": "Bengaluru",
+    "desc": "Kempegowda International Airport is in Bengaluru, Karnataka."
+  },
+  {
+    "q": "Which airport serves the city of Goa?",
+    "pool": ["Mopa Airport", "Vasco da Gama International Airport", "Goa Airport", "Panaji Airport", "Dabolim Airport"],
+    "answer": "Goa Airport in Vasco da Gama city",
+    "desc": "The international airport in Goa is located in Vasco da Gama city."
+  },
+  {
+    "q": "What is the name of Kolkata's international airport?",
+    "pool": [
+      "Netaji Subhash Chandra Bose International Airport",
+      "Indira Gandhi International Airport",
+      "Rajiv Gandhi International Airport",
+      "Chhatrapati Shivaji International Airport",
+      "Kempegowda International Airport"
+    ],
+    "answer": "Netaji Subhash Chandra Bose International Airport",
+    "desc": "Kolkata is served by Netaji Subhash Chandra Bose International Airport."
+  },
+  {
+    "q": "Which airport is located in Thiruvananthapuram?",
+    "pool": ["Calicut", "Cochin", "Thiruvananthapuram International", "Mangalore", "Kozhikode"],
+    "answer": "Thiruvananthapuram International",
+    "desc": "Thiruvananthapuram International Airport serves Kerala’s capital."
+  },
+  {
+    "q": "Which city is served by Lokpriya Gopinath Bordoloi International Airport?",
+    "pool": ["Shillong", "Guwahati", "Imphal", "Itanagar", "Aizawl"],
+    "answer": "Guwahati",
+    "desc": "Lokpriya Gopinath Bordoloi International Airport is in Guwahati, Assam."
+  },
+  {
+    "q": "Ahmedabad’s international airport is named after which leader?",
+    "pool": [
+      "Mahatma Gandhi",
+      "Sardar Vallabhbhai Patel",
+      "Rajiv Gandhi",
+      "Jawaharlal Nehru",
+      "Bhagat Singh"
+    ],
+    "answer": "Sardar Vallabhbhai Patel",
+    "desc": "Ahmedabad airport is named Sardar Vallabhbhai Patel International Airport."
+  },
+  {
+    "q": "Which international airport is in Delhi?",
+    "pool": [
+      "Chhatrapati Shivaji",
+      "Rajiv Gandhi",
+      "Indira Gandhi",
+      "Sardar Vallabhbhai Patel",
+      "Netaji Subhash Chandra Bose"
+    ],
+    "answer": "Indira Gandhi",
+    "desc": "Delhi is served by Indira Gandhi International Airport."
+  },
+  {
+    "q": "What is the name of the international airport in Chennai?",
+    "pool": ["Rajiv Gandhi", "Chennai International", "Kamaraj", "Anna International", "Thiruvalluvar Airport"],
+    "answer": "Chennai International",
+    "desc": "Chennai International Airport is the correct name."
+  },
+  {
+    "q": "Sri Guru Ram Das Jee International Airport is located in which city?",
+    "pool": ["Ludhiana", "Jalandhar", "Amritsar", "Patiala", "Bhatinda"],
+    "answer": "Amritsar",
+    "desc": "Amritsar is served by Sri Guru Ram Das Jee International Airport."
+  },
+  {
+    "q": "Which is the first greenfield airport in Northeast India?",
+    "pool": [
+      "Guwahati International Airport",
+      "Lengpui Airport",
+      "Pakyong Airport",
+      "Imphal International Airport",
+      "Dimapur Airport"
+    ],
+    "answer": "Pakyong Airport",
+    "desc": "Pakyong Airport in Sikkim is the first greenfield airport in the Northeast."
+  },
+  {
+    "q": "Pakyong Airport is located in which state?",
+    "pool": ["Arunachal Pradesh", "Nagaland", "Sikkim", "Assam", "Manipur"],
+    "answer": "Sikkim",
+    "desc": "Pakyong Airport is in the state of Sikkim."
+  },
+  {
+    "q": "Which international airport is named after India’s first woman Prime Minister?",
+    "pool": [
+      "Indira Gandhi International Airport",
+      "Rajiv Gandhi International Airport",
+      "Chhatrapati Shivaji International Airport",
+      "Netaji Subhash Chandra Bose Airport",
+      "Sardar Vallabhbhai Patel Airport"
+    ],
+    "answer": "Indira Gandhi International Airport",
+    "desc": "Delhi’s airport is named after Indira Gandhi, India’s first woman PM."
+  },
+  {
+    "q": "In which city is the Sardar Vallabhbhai Patel International Airport located?",
+    "pool": ["Ahmedabad", "Surat", "Rajkot", "Vadodara", "Jamnagar"],
+    "answer": "Ahmedabad",
+    "desc": "Sardar Vallabhbhai Patel International Airport is located in Ahmedabad, Gujarat."
+  }
+]

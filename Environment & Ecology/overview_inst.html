@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-922KV2R360"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-922KV2R360');
+</script>
+
+    <meta charset="UTF-8">
+    <title>Environment & Ecology - Overview</title>
+    <link rel="icon" href="../images/favicon_eco.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <style>
+        body {
+    font-family: 'Roboto', sans-serif;
+    background: #f0f7ee; /* Light cream-green for a natural background */
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 900px;
+    min-width: 700px;
+    background: #ffffff; /* Clean white for contrast */
+    margin: 60px auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1); /* Slightly darker shadow for depth */
+    padding: 48px 56px 40px 56px;
+    position: relative;
+}
+/* Hide mobile wrapper on desktop, show desktop icon */
+.home-icon-wrapper {
+    display: none;
+}
+.home-icon-desktop {
+    position: absolute;
+    left: 60px;
+    top: 55px;
+    z-index: 10;
+    text-decoration: none;
+    color: #2e7d32; /* Forest green for eco theme */
+    transition: color 0.18s;
+    display: inline-block;
+}
+.home-icon-desktop:hover {
+    color: #1b5e20; /* Darker green on hover */
+}
+.home-icon-desktop svg {
+    width: 34px;
+    height: 34px;
+    vertical-align: middle;
+}
+/* Hide desktop icon, show mobile wrapper on mobile */
+@media (max-width: 768px) {
+    .container {
+        width: 82vw;
+        max-width: 440px;
+        min-width: unset;
+        background: #ffffff;
+        margin: 24px auto;
+        border-radius: 12px;
+        box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1);
+        padding: 26px 6vw 24px 6vw;
+        position: relative;
+        margin-top: 50px;
+    }
+    .home-icon-wrapper {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 8px;
+    }
+    .home-icon-mobile {
+        position: static;
+        margin: 0 auto;
+        text-decoration: none;
+        color: #2e7d32; /* Forest green for mobile icon */
+        transition: color 0.18s;
+        display: inline-block;
+    }
+    .home-icon-mobile:hover {
+        color: #1b5e20; /* Darker green on hover */
+    }
+    .home-icon-mobile svg {
+        width: 34px;
+        height: 34px;
+        vertical-align: middle;
+    }
+    .home-icon-desktop {
+        display: none;
+    }
+}
+h1 {
+    margin-top: 5px;
+    color: #1b5e20; /* Dark green for headings */
+    text-align: center;
+    font-size: 1.9em;
+    letter-spacing: 1px;
+    text-decoration: underline;
+    font-family: 'Open Sans', sans-serif; /* Modern, clean font */
+}
+h2 {
+    color: #4caf50; /* Lighter green for subheadings */
+    font-size: 1.5em;
+    margin-bottom: 36px;
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+.instructions {
+    background: #e8f5e9; /* Light green background for instructions */
+    border-left: 8px solid #4caf50; /* Green accent border */
+    padding: 28px 32px;
+    border-radius: 8px;
+    margin-bottom: 0px;
+    font-size: 0.9em;
+    line-height: 1.5em;
+}
+.instructions ul {
+    margin: 0;
+    padding-left: 22px;
+    padding-top: 5px;
+}
+.options {
+    margin-top: 10px;
+    margin-bottom: 36px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+    justify-content: left;
+}
+.option-line {
+    display: flex;
+    align-items: center;
+    font-size: 0.85em;
+}
+.option-line input[type="checkbox"] {
+    margin-right: 12px;
+    accent-color: #2e7d32; /* Green for checkboxes */
+    width: 13px;
+    height: 13px;
+}
+.option-line input[type="checkbox"]:disabled + label {
+    color: #a3a3a3; /* Neutral gray for disabled text */
+    cursor: not-allowed;
+}
+.start-btn {
+    display: block;
+    width: 260px;
+    padding: 18px 0;
+    background: #2e7d32; /* Forest green for button */
+    color: #ffffff;
+    font-size: 1.25em;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 0 auto;
+    transition: background 0.2s;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+.start-btn:disabled {
+    background: #a3a3a3; /* Gray for disabled button */
+    cursor: not-allowed;
+}
+.start-btn:hover:not(:disabled) {
+    background: #1b5e20; /* Darker green on hover */
+}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Mobile: centered home icon above heading -->
+        <div class="home-icon-wrapper">
+            <a href="../index.html" class="home-icon-mobile" title="Home">
+                <svg viewBox="0 0 24 24" fill="none">
+                    <path d="M3 10.8L12 4l9 6.8M4 10v8a2 2 0 002 2h3m6 0h3a2 2 0 002-2v-8" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <rect x="9" y="14" width="6" height="6" rx="1.2" stroke="currentColor" stroke-width="2"/>
+                </svg>
+            </a>
+        </div>
+        <!-- Desktop: absolutely positioned home icon -->
+        <a href="../index.html" class="home-icon-desktop" title="Home">
+            <svg viewBox="0 0 24 24" fill="none">
+                <path d="M3 10.8L12 4l9 6.8M4 10v8a2 2 0 002 2h3m6 0h3a2 2 0 002-2v-8" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <rect x="9" y="14" width="6" height="6" rx="1.2" stroke="currentColor" stroke-width="2"/>
+            </svg>
+        </a>
+        <h1>Environment & Ecology</h1>
+        <h2>Overview</h2>
+        <div class="instructions">
+           <b>About this practice:</b>
+            <ul>
+                <li>Practice is of 5 mins.</li>
+                <li>This practice contains introduction questions related to Environment and Ecology.</li>
+                <li>Try to answer as many questions as possible before the time runs out.</li>
+                <li>You cannot skip any question or change the response once clicked.</li>
+                <li>At any time if you want to end practice, click Submit.</li>
+                <li>See summary at the end of practice.</li>
+                <li>This practice will helps in awareness about our surrondings.</li>
+            </ul>
+        </div>
+        <div class="options">
+            <div class="option-line">
+                <input type="checkbox" id="showAnswers">
+                <label for="showAnswers">I have read the above instructions.</label>
+            </div>
+            <div class="option-line">
+                <input type="checkbox" id="timedPractice" disabled>
+                <label for="timedPractice">Practice without time limit.</label>
+            </div>
+        </div>
+        <button class="start-btn" id="startPracticeBtn" disabled>Start Practice</button>
+    </div>
+    <script>
+        function getQueryParam(param) {
+            const params = new URLSearchParams(window.location.search);
+            return params.get(param);
+        }
+        const subject = getQueryParam('subject');
+        const topic = getQueryParam('topic');
+        const showAnswers = document.getElementById('showAnswers');
+        const timedPractice = document.getElementById('timedPractice');
+        const startBtn = document.getElementById('startPracticeBtn');
+        
+        showAnswers.addEventListener('change', function() {
+            startBtn.disabled = !this.checked;
+            timedPractice.disabled = !this.checked;
+            if (!this.checked) {
+                timedPractice.checked = false;
+            }
+        });
+
+        startBtn.addEventListener('click', function() {
+            if (showAnswers.checked) {
+                // Pass 'timed' param as 'false' if timedPractice is checked (practice without time limit)
+                // Otherwise 'timed' is 'true'
+                const timed = timedPractice.checked ? 'false' : 'true';
+                // Get current filename
+                let current = window.location.pathname.split('/').pop();
+                // Remove _inst just before .html
+                let newName = current.replace('_inst.html', '.html');
+                // Pass subject and topic from the URL (no hardcode!)
+                window.location.href = `${newName}?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(topic)}&timed=${timed}`;
+            }
+        });
+    </script>
+</body>
+</html>
