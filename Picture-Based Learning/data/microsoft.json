@@ -1,0 +1,611 @@
+[
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Access", "Excel", "Word", "PowerPoint", "Outlook"],
+        "answer": "Access",
+        "image": "../images/microsoft/Access.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["ActiveX", "Silverlight", "VBScript", "Expression Web", "FrontPage"],
+        "answer": "ActiveX",
+        "image": "../images/microsoft/ActiveX.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["AtWork", "MyAnalytics", "Delve", "Yammer", "Teams"],
+        "answer": "AtWork",
+        "image": "../images/microsoft/AtWork.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Azure Sphere", "PowerApps", "Dynamics 365", "Power BI", "Flow"],
+        "answer": "Azure Sphere",
+        "image": "../images/microsoft/AzureSphere.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Bing", "Cortana", "MSN", "Edge", "Translator"],
+        "answer": "Bing",
+        "image": "../images/microsoft/Bing.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Bing", "Cortana", "MSN", "Edge", "BOB"],
+        "answer": "Bing",
+        "image": "../images/microsoft/BOB.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Bookings", "Planner", "To-Do", "Forms", "Outlook Calendar"],
+        "answer": "Bookings",
+        "image": "../images/microsoft/Bookings.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Channel 9", "TechNet", "Mix", "Mixer", "So.cl"],
+        "answer": "Channel 9",
+        "image": "../images/microsoft/Channel9.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Copilot", "Cortana", "Bing", "Translator", "Lens"],
+        "answer": "Copilot",
+        "image": "../images/microsoft/Copilot.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Cortana", "Bing", "Lens", "Copilot", "MSN"],
+        "answer": "Cortana",
+        "image": "../images/microsoft/Cortana.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Delve", "MyAnalytics", "Yammer", "Teams", "AtWork"],
+        "answer": "Delve",
+        "image": "../images/microsoft/Delve.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Docs", "OneNote", "Word", "Sway", "Publisher"],
+        "answer": "Docs",
+        "image": "../images/microsoft/Docs.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Dynamics 365", "PowerApps", "Power BI", "Azure Sphere", "Flow"],
+        "answer": "Dynamics 365",
+        "image": "../images/microsoft/Dynamics 365.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Edge", "Internet Explorer", "Bing", "Windows Terminal", "Cortana"],
+        "answer": "Edge",
+        "image": "../images/microsoft/Edge.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Encarta", "MSN", "Money", "Zune", "Kin"],
+        "answer": "Encarta",
+        "image": "../images/microsoft/Encarta.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Excel", "Word", "PowerPoint", "Access", "Publisher"],
+        "answer": "Excel",
+        "image": "../images/microsoft/Excel.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Exchange", "SharePoint", "Skype for Business", "Outlook", "Teams"],
+        "answer": "Exchange",
+        "image": "../images/microsoft/Exchange.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Expression Design", "Expression Web", "FrontPage", "Silverlight", "VBScript"],
+        "answer": "Expression Design",
+        "image": "../images/microsoft/Expression Design.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Expression Web", "FrontPage", "Expression Design", "Silverlight", "ActiveX"],
+        "answer": "Expression Web",
+        "image": "../images/microsoft/Expression Web.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Flow", "PowerApps", "Power BI", "Dynamics 365", "Azure Sphere"],
+        "answer": "Flow",
+        "image": "../images/microsoft/Flow.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Fluid", "Sway", "Docs", "OneNote", "Forms"],
+        "answer": "Fluid",
+        "image": "../images/microsoft/Fluid.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Forms", "Planner", "Bookings", "To-Do", "Outlook Calendar"],
+        "answer": "Forms",
+        "image": "../images/microsoft/Forms.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["FrontPage", "Expression Web", "Expression Design", "Silverlight", "ActiveX"],
+        "answer": "FrontPage",
+        "image": "../images/microsoft/FrontPage.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Garage", "Microsoft Studios", "XNA Game Studio", "Mixer", "Zune"],
+        "answer": "Garage",
+        "image": "../images/microsoft/Garage.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["GroupMe", "Skype", "Teams", "Yammer", "Skype for Business"],
+        "answer": "GroupMe",
+        "image": "../images/microsoft/GroupMe.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Hyper-V", "Virtual PC", "Windows Terminal", "WSL", "Azure Sphere"],
+        "answer": "Hyper-V",
+        "image": "../images/microsoft/HyperV.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["InfoPath", "Forms", "Access", "Visio", "Publisher"],
+        "answer": "InfoPath",
+        "image": "../images/microsoft/InfoPath.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Insider", "TechNet", "Channel 9", "Garage", "Mix"],
+        "answer": "Insider",
+        "image": "../images/microsoft/Insider.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Internet Explorer", "Edge", "Bing", "Windows Terminal", "Cortana"],
+        "answer": "Internet Explorer",
+        "image": "../images/microsoft/Internet Explorer.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Kin", "Zune", "Money", "Encarta", "MSN"],
+        "answer": "Kin",
+        "image": "../images/microsoft/Kin.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Lens", "Cortana", "Bing", "Translator", "Copilot"],
+        "answer": "Lens",
+        "image": "../images/microsoft/Lens.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Microsoft 365", "Office 2019", "Office 2010", "Office 2003", "Office 95"],
+        "answer": "Microsoft 365",
+        "image": "../images/microsoft/Microsoft 365.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Microsoft Foundation Class", "Visual Studio", "Visual Studio Code", "PowerShell", "XNA Game Studio"],
+        "answer": "Microsoft Foundation Class",
+        "image": "../images/microsoft/Microsoft Foundation Class.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Microsoft Studios", "XNA Game Studio", "Garage", "Mixer", "Zune"],
+        "answer": "Microsoft Studios",
+        "image": "../images/microsoft/Microsoft Studios.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Mix", "Channel 9", "TechNet", "Insider", "Mixer"],
+        "answer": "Mix",
+        "image": "../images/microsoft/Mix.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Mixer", "Stream", "Channel 9", "Mix", "Garage"],
+        "answer": "Mixer",
+        "image": "../images/microsoft/Mixer.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Money", "Encarta", "Zune", "Kin", "MSN"],
+        "answer": "Money",
+        "image": "../images/microsoft/Money.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["MS DOS", "Windows 1.0", "Windows 3.0", "Windows 95", "Windows 2000"],
+        "answer": "MS DOS",
+        "image": "../images/microsoft/MS DOS.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["msn", "Bing", "Cortana", "Edge", "Translator"],
+        "answer": "msn",
+        "image": "../images/microsoft/msn.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["MyAnalytics", "Delve", "Yammer", "Teams", "AtWork"],
+        "answer": "MyAnalytics",
+        "image": "../images/microsoft/MyAnalytics.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Notepad", "Word", "Docs", "OneNote", "Sway"],
+        "answer": "Notepad",
+        "image": "../images/microsoft/Notepad.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Office 2003", "Office 2010", "Office 2019", "Microsoft 365", "Office 95"],
+        "answer": "Office 95",
+        "image": "../images/microsoft/Office 95.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Office 2003", "Office 2010", "Office 2019", "Microsoft 365", "Office 95"],
+        "answer": "Office 2003",
+        "image": "../images/microsoft/Office 2003.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Office 2010", "Office 2003", "Office 2019", "Microsoft 365", "Office 95"],
+        "answer": "Office 2010",
+        "image": "../images/microsoft/Office 2010.png"
+    },
+     {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Office 95", "Office 2003", "Office 2010", "Office 2019", "Office 2012"],
+        "answer": "Office 2012",
+        "image": "../images/microsoft/Office 2012.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Office 2019", "Office 2010", "Office 2003", "Microsoft 365", "Office 95"],
+        "answer": "Office 2019",
+        "image": "../images/microsoft/Office 2019.png"
+    },
+   
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["OneDrive", "SharePoint", "Teams", "Skype", "Stream"],
+        "answer": "OneDrive",
+        "image": "../images/microsoft/OneDrive.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["OneNote", "Docs", "Word", "Sway", "Notepad"],
+        "answer": "OneNote",
+        "image": "../images/microsoft/OneNote.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Outlook Calendar", "Planner", "Bookings", "To-Do", "Forms"],
+        "answer": "Outlook Calendar",
+        "image": "../images/microsoft/Outlook Calendar.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Outlook", "Exchange", "Skype", "Teams", "Yammer"],
+        "answer": "Outlook",
+        "image": "../images/microsoft/Outlook.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Planner", "Bookings", "To-Do", "Forms", "Outlook Calendar"],
+        "answer": "Planner",
+        "image": "../images/microsoft/Planner.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Power Bi", "PowerApps", "Dynamics 365", "Flow", "Azure Sphere"],
+        "answer": "Power Bi",
+        "image": "../images/microsoft/Power Bi.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Power Fx", "PowerShell", "VBScript", "Microsoft Foundation Class", "XNA Game Studio"],
+        "answer": "Power Fx",
+        "image": "../images/microsoft/Power Fx.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["PowerApps", "Power BI", "Dynamics 365", "Flow", "Azure Sphere"],
+        "answer": "PowerApps",
+        "image": "../images/microsoft/PowerApps.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["PowerPoint", "Excel", "Word", "Access", "Publisher"],
+        "answer": "PowerPoint",
+        "image": "../images/microsoft/PowerPoint.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Powerset", "Bing", "Cortana", "Lens", "Translator"],
+        "answer": "Powerset",
+        "image": "../images/microsoft/Powerset.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["PowerShell", "Power Fx", "VBScript", "Microsoft Foundation Class", "XNA Game Studio"],
+        "answer": "PowerShell",
+        "image": "../images/microsoft/PowerShell.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Project", "Visio", "Publisher", "Access", "Excel"],
+        "answer": "Project",
+        "image": "../images/microsoft/Project.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Publisher", "Word", "Excel", "PowerPoint", "Access"],
+        "answer": "Publisher",
+        "image": "../images/microsoft/Publisher.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Remote", "Hyper-V", "Virtual PC", "Windows Terminal", "WSL"],
+        "answer": "Remote",
+        "image": "../images/microsoft/Remote.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["SharePoint", "OneDrive", "Teams", "Skype", "Exchange"],
+        "answer": "SharePoint",
+        "image": "../images/microsoft/SharePoint.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Silverlight", "ActiveX", "Expression Web", "FrontPage", "VBScript"],
+        "answer": "Silverlight",
+        "image": "../images/microsoft/Silverlight.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Skype for Business", "Skype", "Teams", "GroupMe", "Yammer"],
+        "answer": "Skype for Business",
+        "image": "../images/microsoft/Skype for Business.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Skype", "Teams", "GroupMe", "Yammer", "Skype for Business"],
+        "answer": "Skype",
+        "image": "../images/microsoft/Skype.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["So.cl", "Channel 9", "Mix", "Mixer", "TechNet"],
+        "answer": "So.cl",
+        "image": "../images/microsoft/SoCl.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Store", "OneDrive", "Stream", "SharePoint", "Teams"],
+        "answer": "Store",
+        "image": "../images/microsoft/Store.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Stream", "Mixer", "Channel 9", "OneDrive", "Store"],
+        "answer": "Stream",
+        "image": "../images/microsoft/Stream.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Sway", "Docs", "OneNote", "Word", "Notepad"],
+        "answer": "Sway",
+        "image": "../images/microsoft/Sway.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Teams", "Skype", "GroupMe", "Yammer", "Skype for Business"],
+        "answer": "Teams",
+        "image": "../images/microsoft/Teams.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["TechNet", "Channel 9", "Mix", "Insider", "Mixer"],
+        "answer": "TechNet",
+        "image": "../images/microsoft/TechNet.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["To-Do", "Planner", "Bookings", "Forms", "Outlook Calendar"],
+        "answer": "To-Do",
+        "image": "../images/microsoft/ToDo.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Translator", "Bing", "Cortana", "Lens", "Copilot"],
+        "answer": "Translator",
+        "image": "../images/microsoft/Translator.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["VBScript", "PowerShell", "Power Fx", "Microsoft Foundation Class", "ActiveX"],
+        "answer": "VBScript",
+        "image": "../images/microsoft/VBScript.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Virtual PC", "Hyper-V", "Windows Terminal", "WSL", "Remote"],
+        "answer": "Virtual PC",
+        "image": "../images/microsoft/Virtual PC.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Visio", "Project", "Publisher", "Access", "Excel"],
+        "answer": "Visio",
+        "image": "../images/microsoft/Visio.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Visual Studio Code", "Visual Studio", "Microsoft Foundation Class", "PowerShell", "XNA Game Studio"],
+        "answer": "Visual Studio Code",
+        "image": "../images/microsoft/Visual Studio Code.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Visual Studio", "Visual Studio Code", "Microsoft Foundation Class", "PowerShell", "XNA Game Studio"],
+        "answer": "Visual Studio",
+        "image": "../images/microsoft/Visual Studio.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Windows 1.0", "Windows 3.0", "Windows 95", "MS DOS", "Windows 2000"],
+        "answer": "Windows 1.0",
+        "image": "../images/microsoft/Windows 1.0.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Windows 3.0", "Windows 1.0", "Windows 95", "MS DOS", "Windows 2000"],
+        "answer": "Windows 3.0",
+        "image": "../images/microsoft/Windows 3.0.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Windows 3.x", "Windows 1.0", "Windows 95", "Windows ME", "Windows 2000"],
+        "answer": "Windows 3.x",
+        "image": "../images/microsoft/Windows 3.x.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Windows 7", "Windows 10", "Windows 11", "Windows 8", "Windows Vista"],
+        "answer": "Windows 7",
+        "image": "../images/microsoft/Windows 7.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Windows 10", "Windows 11", "Windows 7", "Windows 8", "Windows Vista"],
+        "answer": "Windows 10",
+        "image": "../images/microsoft/Windows 10.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Windows 11", "Windows 10", "Windows 7", "Windows 8", "Windows Vista"],
+        "answer": "Windows 11",
+        "image": "../images/microsoft/Windows 11.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Windows 2000", "Windows 95", "Windows 3.0", "MS DOS", "Windows 1.0"],
+        "answer": "Windows 2000",
+        "image": "../images/microsoft/Windows 2000.png"
+    },
+    
+    
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Windows 8", "Windows 7", "Windows 10", "Windows 11", "Windows Vista"],
+        "answer": "Windows 8",
+        "image": "../images/microsoft/Windows 8.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Windows 95", "Windows 2000", "Windows 3.0", "MS DOS", "Windows 1.0"],
+        "answer": "Windows 95",
+        "image": "../images/microsoft/Windows 95.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Windows ME", "Windows 2000", "Windows 95", "Windows XP", "Windows Vista"],
+        "answer": "Windows ME",
+        "image": "../images/microsoft/Windows ME.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Windows Media Player", "Xbox", "Stream", "Mixer", "Zune"],
+        "answer": "Windows Media Player",
+        "image": "../images/microsoft/Windows Media Player.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Windows Media Player", "Xbox", "Stream", "Mixer", "Zune"],
+        "answer": "Windows Media Player",
+        "image": "../images/microsoft/Windows Media Player 2.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Windows Terminal", "PowerShell", "Hyper-V", "Virtual PC", "WSL"],
+        "answer": "Windows Terminal",
+        "image": "../images/microsoft/Windows Terminal.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Windows Vista", "Windows 7", "Windows 8", "Windows 10", "Windows 11"],
+        "answer": "Windows Vista",
+        "image": "../images/microsoft/Windows Vista.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Windows XP", "Windows 2000", "Windows ME", "Windows 95", "Windows Vista"],
+        "answer": "Windows XP",
+        "image": "../images/microsoft/Windows XP.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["winget", "PowerShell", "Windows Terminal", "VBScript", "Power Fx"],
+        "answer": "winget",
+        "image": "../images/microsoft/winget.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Word", "Excel", "PowerPoint", "Access", "Publisher"],
+        "answer": "Word",
+        "image": "../images/microsoft/Word.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["WSL", "Hyper-V", "Virtual PC", "Windows Terminal", "Remote"],
+        "answer": "WSL",
+        "image": "../images/microsoft/WSL.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Xamarin", "Visual Studio", "Visual Studio Code", "Microsoft Foundation Class", "XNA Game Studio"],
+        "answer": "Xamarin",
+        "image": "../images/microsoft/Xamarin.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["Xbox", "Microsoft Studios", "XNA Game Studio", "Zune", "Mixer"],
+        "answer": "Xbox",
+        "image": "../images/microsoft/Xbox.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["XNA Game Studio", "Microsoft Studios", "Xbox", "Garage", "Mixer"],
+        "answer": "XNA Game Studio",
+        "image": "../images/microsoft/XNA Game Studio.png"
+    },
+    {
+        "q": "This is the logo of which Microsoft product?",
+        "pool": ["yammer", "Teams", "Skype", "GroupMe", "Skype for Business"],
+        "answer": "yammer",
+        "image": "../images/microsoft/yammer.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Zune", "Kin", "Money", "Encarta", "MSN"],
+        "answer": "Zune",
+        "image": "../images/microsoft/Zune.png"
+    },
+    {
+        "q": "This was the logo of which Microsoft product?",
+        "pool": ["Clippy", "Notepad", "Word", "To-Do", "BOB"],
+        "answer": "Clippy",
+        "image": "../images/microsoft/Clippy.gif"
+    }
+]

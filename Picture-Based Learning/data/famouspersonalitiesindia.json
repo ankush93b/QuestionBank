@@ -84,8 +84,263 @@
   {
     "q": "This is the picture of which Indian personality?",
     "pool": ["Vikram Sarabhai", "APJ Abdul Kalam", "Homi J. Bhabha", "C.V. Raman", "Jagadish Chandra Bose"],
-    "answer": "Homi J. Bhabha",
+    "answer": "C.V. Raman",
     "image": "../images/famouspersonindia/C.V. Raman.png"
-  }
+  },
   
+
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Asima Chatterjee", "Sarojini Naidu", "Rani Lakshmibai", "Savitribai Phule", "Tessy Thomas"],
+    "answer": "Asima Chatterjee",
+    "image": "../images/famouspersonindia/Asima Chatterjee.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Amartya Sen", "Raj Reddy", "Srinivasa Ramanujan", "M S Swaminathan", "G. N. Ramachandran"],
+    "answer": "Amartya Sen",
+    "image": "../images/famouspersonindia/Amartya Sen.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Bal Gangadhar Tilak", "Lala Lajpat Rai", "Sri Aurobindo", "Subhas Chandra Bose", "Bhagat Singh"],
+    "answer": "Bal Gangadhar Tilak",
+    "image": "../images/famouspersonindia/Bal Gangadhar Tilak.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Bhagat Singh", "Shivram Hari Rajguru", "Sukhdev Thapar", "Subhas Chandra Bose", "Chandrasekhar Azad"],
+    "answer": "Bhagat Singh",
+    "image": "../images/famouspersonindia/Bhagat Singh.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Chandrasekhar Azad", "Bhagat Singh", "Shivram Hari Rajguru", "Sukhdev Thapar", "Lala Lajpat Rai"],
+    "answer": "Chandrasekhar Azad",
+    "image": "../images/famouspersonindia/Chandrasekhar Azad.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Chatrapati Shivaji Maharaj", "Raja Ram Mohan Roy", "Sri Aurobindo", "Dayanand Saraswati", "Lala Lajpat Rai"],
+    "answer": "Chatrapati Shivaji Maharaj",
+    "image": "../images/famouspersonindia/Chatrapati Shivaji Maharaj.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Dayanand Saraswati", "Swami Vivekananda", "Raja Ram Mohan Roy", "Sri Aurobindo", "Jyotiba Phule"],
+    "answer": "Dayanand Saraswati",
+    "image": "../images/famouspersonindia/Dayanand Saraswati.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Dilip Mahalanabis", "Venkatraman Ramakrishnan", "M S Swaminathan", "G. N. Ramachandran", "Raj Reddy"],
+    "answer": "Dilip Mahalanabis",
+    "image": "../images/famouspersonindia/Dilip Mahalanabis.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["G. N. Ramachandran", "Sambhu Nath De", "Meghnad Saha", "Har Gobind Khorana", "Narinder Singh Kapany"],
+    "answer": "G. N. Ramachandran",
+    "image": "../images/famouspersonindia/G. N. Ramachandran.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Har Gobind Khorana", "Venkatraman Ramakrishnan", "G. N. Ramachandran", "Raj Reddy", "Dilip Mahalanabis"],
+    "answer": "Har Gobind Khorana",
+    "image": "../images/famouspersonindia/Har Gobind Khorana.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Inder Mohan Verma", "Satish Dhawan", "Sambhu Nath De", "Vinod Dham", "Satyanand Stokes"],
+    "answer": "Inder Mohan Verma",
+    "image": "../images/famouspersonindia/Inder Mohan Verma.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Ishwar Chandra Vidyasagar", "Jyotiba Phule", "Raja Ram Mohan Roy", "Dayanand Saraswati", "Swami Vivekananda"],
+    "answer": "Ishwar Chandra Vidyasagar",
+    "image": "../images/famouspersonindia/Ishwar Chandra Vidyasagar.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Jagadish Chandra Bose", "C.V. Raman", "Satyendra Nath Bose", "Srinivasa Ramanujan", "Meghnad Saha"],
+    "answer": "Jagadish Chandra Bose",
+    "image": "../images/famouspersonindia/Jagadish Chandra Bose.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Jyotiba Phule", "Ishwar Chandra Vidyasagar", "Raja Ram Mohan Roy", "Dayanand Saraswati", "Swami Vivekananda"],
+    "answer": "Jyotiba Phule",
+    "image": "../images/famouspersonindia/Jyotiba Phule.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Kalidasa", "Premchand", "Raja Ram Mohan Roy", "Swami Vivekananda", "Sri Aurobindo"],
+    "answer": "Kalidasa",
+    "image": "../images/famouspersonindia/Kalidasa.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Lala Lajpat Rai", "Bal Gangadhar Tilak", "Sri Aurobindo", "Sukhdev Thapar", "Raj Reddy"],
+    "answer": "Lala Lajpat Rai",
+    "image": "../images/famouspersonindia/Lala Lajpat Rai.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["M S Swaminathan", "Dilip Mahalanabis", "Venkatraman Ramakrishnan", "G. N. Ramachandran", "Raj Reddy"],
+    "answer": "M S Swaminathan",
+    "image": "../images/famouspersonindia/M S Swaminathan.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Meghnad Saha", "Satyendra Nath Bose", "Sambhu Nath De", "Har Gobind Khorana", "G. N. Ramachandran"],
+    "answer": "Meghnad Saha",
+    "image": "../images/famouspersonindia/Meghnad Saha.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Mir Sultan Khan", "Viswanathan Anand", "Vinod Dham", "Raj Reddy", "Narinder Singh Kapany"],
+    "answer": "Mir Sultan Khan",
+    "image": "../images/famouspersonindia/Mir Sultan Khan.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Narinder Singh Kapany", "Vinod Dham", "Satish Dhawan", "Har Gobind Khorana", "Raj Reddy"],
+    "answer": "Narinder Singh Kapany",
+    "image": "../images/famouspersonindia/Narinder Singh Kapany.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Panchanan Maheshwari", "Satish Dhawan", "Vinod Dham", "Meghnad Saha", "Venkatraman Ramakrishnan"],
+    "answer": "Panchanan Maheshwari",
+    "image": "../images/famouspersonindia/Panchanan Maheshwari.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Premchand", "Kalidasa", "Sri Aurobindo", "Swami Vivekananda", "Srinivasa Ramanujan"],
+    "answer": "Premchand",
+    "image": "../images/famouspersonindia/Premchand.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Raj Reddy", "Amartya Sen", "Narinder Singh Kapany", "Vinod Dham", "Venkatraman Ramakrishnan"],
+    "answer": "Raj Reddy",
+    "image": "../images/famouspersonindia/Raj Reddy.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Raja Ram Mohan Roy", "Ishwar Chandra Vidyasagar", "Dayanand Saraswati", "Jyotiba Phule", "Swami Vivekananda"],
+    "answer": "Raja Ram Mohan Roy",
+    "image": "../images/famouspersonindia/Raja Ram Mohan Roy.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Rani Lakshmibai", "Sarojini Naidu", "Tessy Thomas", "Savitribai Phule", "Asima Chatterjee"],
+    "answer": "Rani Lakshmibai",
+    "image": "../images/famouspersonindia/Rani Lakshmibai.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Salim Ali", "Sambhu Nath De", "Satyanand Stokes", "Jagadish Chandra Bose", "Venkatraman Ramakrishnan"],
+    "answer": "Salim Ali",
+    "image": "../images/famouspersonindia/Salim Ali.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Sambhu Nath De", "Meghnad Saha", "G. N. Ramachandran", "Satish Dhawan", "Raj Reddy"],
+    "answer": "Sambhu Nath De",
+    "image": "../images/famouspersonindia/Sambhu Nath De.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Sarojini Naidu", "Rani Lakshmibai", "Asima Chatterjee", "Tessy Thomas", "Savitribai Phule"],
+    "answer": "Sarojini Naidu",
+    "image": "../images/famouspersonindia/Sarojini Naidu.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Satish Dhawan", "Raj Reddy", "Vinod Dham", "Srinivasa Ramanujan", "Narinder Singh Kapany"],
+    "answer": "Satish Dhawan",
+    "image": "../images/famouspersonindia/Satish Dhawan.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Satyanand Stokes", "Sambhu Nath De", "Raj Reddy", "Meghnad Saha", "Dilip Mahalanabis"],
+    "answer": "Satyanand Stokes",
+    "image": "../images/famouspersonindia/Satyanand Stokes.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Satyendra Nath Bose", "Srinivasa Ramanujan", "G. N. Ramachandran", "Meghnad Saha", "Har Gobind Khorana"],
+    "answer": "Satyendra Nath Bose",
+    "image": "../images/famouspersonindia/Satyendra Nath Bose.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Savitribai Phule", "Asima Chatterjee", "Tessy Thomas", "Rani Lakshmibai", "Sarojini Naidu"],
+    "answer": "Savitribai Phule",
+    "image": "../images/famouspersonindia/Savitribai Phule.png"
+  },
+
+
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Shivram Hari Rajguru", "Sukhdev Thapar", "Bhagat Singh", "Chandrasekhar Azad", "Subhas Chandra Bose"],
+    "answer": "Shivram Hari Rajguru",
+    "image": "../images/famouspersonindia/Shivram Hari Rajguru.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Sri Aurobindo", "Raja Ram Mohan Roy", "Bal Gangadhar Tilak", "Swami Vivekananda", "Dayanand Saraswati"],
+    "answer": "Sri Aurobindo",
+    "image": "../images/famouspersonindia/Sri Aurobindo.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Srinivasa Ramanujan", "Satyendra Nath Bose", "Jagadish Chandra Bose", "C.V. Raman", "Raj Reddy"],
+    "answer": "Srinivasa Ramanujan",
+    "image": "../images/famouspersonindia/Srinivasa Ramanujan.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Subhas Chandra Bose", "Bhagat Singh", "Sri Aurobindo", "Lala Lajpat Rai", "Shivram Hari Rajguru"],
+    "answer": "Subhas Chandra Bose",
+    "image": "../images/famouspersonindia/Subhas Chandra Bose.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Sukhdev Thapar", "Shivram Hari Rajguru", "Bhagat Singh", "Chandrasekhar Azad", "Lala Lajpat Rai"],
+    "answer": "Sukhdev Thapar",
+    "image": "../images/famouspersonindia/Sukhdev Thapar.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Swami Vivekananda", "Raja Ram Mohan Roy", "Sri Aurobindo", "Dayanand Saraswati", "Jyotiba Phule"],
+    "answer": "Swami Vivekananda",
+    "image": "../images/famouspersonindia/Swami Vivekananda.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Tessy Thomas", "Sarojini Naidu", "Savitribai Phule", "Asima Chatterjee"],
+    "answer": "Tessy Thomas",
+    "image": "../images/famouspersonindia/Tessy Thomas.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Venkatraman Ramakrishnan", "M S Swaminathan", "Har Gobind Khorana", "G. N. Ramachandran", "Dilip Mahalanabis"],
+    "answer": "Venkatraman Ramakrishnan",
+    "image": "../images/famouspersonindia/Venkatraman Ramakrishnan.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Vinod Dham", "Narinder Singh Kapany", "Raj Reddy", "Satish Dhawan", "Venkatraman Ramakrishnan"],
+    "answer": "Vinod Dham",
+    "image": "../images/famouspersonindia/Vinod Dham.png"
+  },
+  {
+    "q": "This is the picture of which Indian personality?",
+    "pool": ["Viswanathan Anand", "Mir Sultan Khan", "Vinod Dham", "Raj Reddy", "Narinder Singh Kapany"],
+    "answer": "Viswanathan Anand",
+    "image": "../images/famouspersonindia/Viswanathan Anand.png"
+  }
 ]

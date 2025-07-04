@@ -312,13 +312,13 @@
         "image": "../images/google/Fonts.png"
     },
     {
-        "q": "This is the logo of which Google product?",
+        "q": "This was the logo of which Google product?",
         "pool": ["Photos", "Lens", "Picasa", "Arts & Culture", "Domains"],
         "answer": "Picasa",
         "image": "../images/google/Picasa.png"
     },
      {
-        "q": "This is the logo of which Google product?",
+        "q": "This was the logo of which Google product?",
         "pool": ["Jamboard", "Orkut", "Classroom", "News", "Fonts"],
         "answer": "Orkut",
         "image": "../images/google/Orkut.png"
@@ -330,7 +330,7 @@
         "image": "../images/google/Allo.png"
     },
     {
-        "q": "This is the logo of which Google product?",
+        "q": "This was the logo of which Google product?",
         "pool": ["Jamboard", "Orkut", "Classroom", "News", "Fonts","Aardvark"],
         "answer": "Aardvark",
         "image": "../images/google/Aardvark.png"
@@ -420,19 +420,19 @@
         "image": "../images/google/Beam.png"
     },
     {
-        "q": "This is the logo of which Google product?",
+        "q": "This was the logo of which Google product?",
         "pool": ["Play", "Store", "Pay", "Wallet", "One","BebaPay"],
         "answer": "BebaPay",
         "image": "../images/google/BebaPay.png"
     },
     {
-        "q": "This is the logo of which Google product?",
+        "q": "This was the logo of which Google product?",
         "pool": ["Meet", "Chat", "Duo", "Hangouts", "Voice","Buzz"],
         "answer": "Buzz",
         "image": "../images/google/Buzz.png"
     },
     {
-        "q": "This is the logo of which Google product?",
+        "q": "This was the logo of which Google product?",
         "pool": ["Jamboard", "Orkut", "Classroom", "Cardboard", "Fonts","Aardvark"],
         "answer": "Cardboard",
         "image": "../images/google/Cardboard.png"
@@ -720,7 +720,7 @@
         "image": "../images/google/Play Games.png"
     },
     {
-        "q": "This is the logo of which Google product?",
+        "q": "This was the logo of which Google product?",
         "pool": ["Translate", "Reader", "Scholar", "Books", "News"],
         "answer": "Reader",
         "image": "../images/google/Reader.png"
@@ -732,7 +732,7 @@
         "image": "../images/google/Sheets.png"
     },
      {
-        "q": "This is the logo of which Google product?",
+        "q": "This was the logo of which Google product?",
         "pool": ["Stadia", "Pixel Thermometer", "Gboard", "Fit", "Pixel Buds","Gerrit"],
         "answer": "Stadia",
         "image": "../images/google/Stadia.png"
@@ -762,7 +762,7 @@
         "image": "../images/google/Tensor Flow.png"
     },
     {
-        "q": "This is the logo of which Google product?",
+        "q": "This was the logo of which Google product?",
         "pool": ["Stadia", "Pixel Thermometer", "Tensor Flow", "Fit", "Tez","Tables"],
         "answer": "Tez",
         "image": "../images/google/Tez.png"
@@ -792,7 +792,7 @@
         "image": "../images/google/Wallet.png"
     },
     {
-        "q": "This is the logo of which Google product?",
+        "q": "This was the logo of which Google product?",
         "pool": ["Play", "Store", "Wave", "Wallet", "One"],
         "answer": "Wave",
         "image": "../images/google/Wave.png"
@@ -802,6 +802,279 @@
         "pool": ["Play", "Store", "Wave", "Wallet", "One","Web Toolkit"],
         "answer": "Web Toolkit",
         "image": "../images/google/Web Toolkit.png"
+    },
+    {
+        "q": "This was the logo of which Google product?",
+        "pool": ["Toolbar", "Directory", "AdWords", "Local", "Talk","iGoogle"],
+        "answer": "Toolbar",
+        "image": "../images/google/Toolbar.png"
+    },
+
+
+
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Anthos", "Firebase", "Vault", "Cloud Run", "AppSheet", "App Engine"],
+        "answer": "Anthos",
+        "image": "../images/google/Anthos.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Play", "Store", "Wave", "Wallet", "One", "Artificial Intelligence Yourself"],
+        "answer": "Artificial Intelligence Yourself",
+        "image": "../images/google/Artificial Intelligence Yourself.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["AutoDraw", "Canvas", "Jamboard", "Photos", "Docs", "Drawings"],
+        "answer": "AutoDraw",
+        "image": "../images/google/AutoDraw.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["BeyondCorp", "Firebase", "Cloud Armor", "Vault", "Workspace", "Looker"],
+        "answer": "BeyondCorp",
+        "image": "../images/google/BeyondCorp.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Checkout", "Pay", "Wallet", "Google Shopping", "Finance", "Pay Send"],
+        "answer": "Checkout",
+        "image": "../images/google/Checkout.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Chrome Dino", "Snake", "Game Snacks", "Pacman", "Froogle", "Buzz"],
+        "answer": "Chrome Dino",
+        "image": "../images/google/Chrome Dino.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Coral", "TensorFlow", "Firebase", "Cloud TPU", "Nest", "Gemini Nano"],
+        "answer": "Coral",
+        "image": "../images/google/Coral.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Deja.com", "Buzz", "Currents", "Reader", "Blogger", "Google Plus"],
+        "answer": "Deja.com",
+        "image": "../images/google/Deja.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Dialogflow", "Assistant", "Actions on Google", "Gemini", "Chat", "Bard"],
+        "answer": "Dialogflow",
+        "image": "../images/google/Dialogflow.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Digital Garage", "Grow with Google", "Skillshop", "Classroom", "Udemy", "Coursera"],
+        "answer": "Digital Garage",
+        "image": "../images/google/Digital Garage.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["DORA", "Firebase", "PageSpeed", "Search Console", "Play Console", "Google Cloud"],
+        "answer": "DORA",
+        "image": "../images/google/DORA.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Dropcam", "Nest", "Pixel Camera", "Revolv", "Nest Aware", "Arlo"],
+        "answer": "Dropcam",
+        "image": "../images/google/Dropcam.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Fastlane", "Firebase Test Lab", "PageSpeed", "AppSheet", "App Engine", "Jetpack"],
+        "answer": "Fastlane",
+        "image": "../images/google/Fastlane.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Fiber", "Fi", "Nest Wifi", "Google Home", "Google TV", "Stadia"],
+        "answer": "Fiber",
+        "image": "../images/google/Fiber.png"
+    },
+    {
+        "q": "This was the logo of which Google product?",
+        "pool": ["Froogle", "Shopping", "Wallet", "Finance", "Pay", "Offers"],
+        "answer": "Froogle",
+        "image": "../images/google/Froogle.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Fuchsia", "Android", "ChromeOS", "WearOS", "Pixel OS", "Nest OS"],
+        "answer": "Fuchsia",
+        "image": "../images/google/Fuchsia.png"
+    },
+    {
+        "q": "This was the logo of which Google product?",
+        "pool": ["Game Snacks", "Chrome Dino", "Snake", "Pacman", "Playables", "Buzz"],
+        "answer": "Game Snacks",
+        "image": "../images/google/Game Snacks.png"
+    },
+    {
+        "q": "This was the logo of which Google product?",
+        "pool": ["Goggles", "Lens", "Camera", "Glass", "Photos", "Translate"],
+        "answer": "Goggles",
+        "image": "../images/google/Goggles.png"
+    },
+    {
+        "q": "This was the logo of which Google product?",
+        "pool": ["Google Desktop", "Search Appliance", "Cloud Search", "Workspace", "Wave", "Cloud Console"],
+        "answer": "Google Desktop",
+        "image": "../images/google/Google Desktop.png"
+    },
+    {
+        "q": "This was the logo of which Google product?",
+        "pool": ["Search Appliance", "Cloud Search", "Google Desktop", "Drive", "Vault", "Wave"],
+        "answer": "Google Search Appliance",
+        "image": "../images/google/Google Search Appliance.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Gradient Ventures", "GV", "X", "Area 120", "Jigsaw", "DeepMind"],
+        "answer": "Gradient Ventures",
+        "image": "../images/google/Gradient Ventures.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Istio", "Kubernetes", "Anthos", "GKE", "Cloud Run", "App Engine"],
+        "answer": "Istio",
+        "image": "../images/google/Istio.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Jacquard", "Project Soli", "Glass", "Nest", "WearOS", "Pixel"],
+        "answer": "Jacquard",
+        "image": "../images/google/Jacquard.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Jigsaw", "DeepMind", "Gradient Ventures", "X", "Gemini", "Google Brain"],
+        "answer": "Jigsaw",
+        "image": "../images/google/Jigsaw.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Just a line", "Jamboard", "AutoDraw", "Google Arts", "Drawings", "Canvas"],
+        "answer": "Just a line",
+        "image": "../images/google/Just a line.png"
+    },
+    {
+        "q": "This was the logo of which Google product?",
+        "pool": ["Keen", "Discover", "Now", "Assistant", "Collections", "Search"],
+        "answer": "Keen",
+        "image": "../images/google/Keen.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Kids Space", "YouTube Kids", "Family Link", "Play Books", "Classroom", "Google TV"],
+        "answer": "Kids Space",
+        "image": "../images/google/Kids Space.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Mic", "News", "Assistant", "Talk", "Currents", "Hangouts"],
+        "answer": "Mic",
+        "image": "../images/google/Mic.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Pegman", "Street View", "Maps", "Earth", "Navigator", "Waze"],
+        "answer": "Pegman",
+        "image": "../images/google/Pegman.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Podcasts", "Play Music", "YouTube Music", "News", "Google TV", "Radio"],
+        "answer": "Podcasts",
+        "image": "../images/google/Podcasts.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["ReCaptcha", "Safe Browsing", "Captcha", "Security", "Vault", "Authenticator"],
+        "answer": "ReCaptcha",
+        "image": "../images/google/ReCaptcha.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Safe Browsing", "Chrome", "Security", "Vault", "ReCaptcha", "Authenticator"],
+        "answer": "Safe Browsing",
+        "image": "../images/google/Safe Browsing.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Surveys", "Forms", "Analytics", "Docs", "Feedback", "Docs AI"],
+        "answer": "Surveys",
+        "image": "../images/google/Surveys.png"
+    },
+    {
+        "q": "This was the logo of which Google product?",
+        "pool": ["Talk", "Hangouts", "Chat", "Voice", "Meet", "Mic"],
+        "answer": "Talk",
+        "image": "../images/google/Talk.png"
+    },
+    {
+        "q": "This was the logo of which Google product?",
+        "pool": ["Toolbar", "Search", "Bookmark Bar", "Chrome Extensions", "Web Toolkit", "Buzz"],
+        "answer": "Toolbar",
+        "image": "../images/google/Toolbar.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["Waze", "Maps", "Navigator", "Earth", "Street View", "Explore"],
+        "answer": "Waze",
+        "image": "../images/google/Waze.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["YouTube Create", "Studio", "Shorts", "Playables", "Music", "Kids"],
+        "answer": "YouTube Create",
+        "image": "../images/google/YouTube Create.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["YouTube Go", "Play", "Shorts", "Kids", "Music", "Create"],
+        "answer": "YouTube Go",
+        "image": "../images/google/YouTube Go.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["YouTube Kids", "Play", "Family Link", "TV", "Go", "Create"],
+        "answer": "YouTube Kids",
+        "image": "../images/google/YouTube Kids.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["YouTube Music", "Play Music", "Podcasts", "TV", "Radio", "Shorts"],
+        "answer": "YouTube Music",
+        "image": "../images/google/YouTube Music.png"
+    },
+    {
+        "q": "This was the logo of which Google product?",
+        "pool": ["YouTube Playables", "Game Snacks", "Play Games", "Create", "Shorts", "Go"],
+        "answer": "YouTube Playables",
+        "image": "../images/google/YouTube Playables.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["YouTube Shorts", "Stories", "Reels", "Create", "TV", "Go"],
+        "answer": "YouTube Shorts",
+        "image": "../images/google/YouTube Shorts.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["YouTube Studio", "Creator Studio", "Analytics", "Play", "Dashboard", "TV"],
+        "answer": "YouTube Studio",
+        "image": "../images/google/YouTube Studio.png"
+    },
+    {
+        "q": "This is the logo of which Google product?",
+        "pool": ["YouTube TV", "Google TV", "Play Movies", "Go", "Studio", "Shorts"],
+        "answer": "YouTube TV",
+        "image": "../images/google/YouTube Tv.png"
     }
 ]
 
